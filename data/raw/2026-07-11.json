@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "generated_at": "2026-07-11 14:19:54",
+  "generated_at": "2026-07-11 14:42:37",
   "total": 114,
   "source_count": {
     "澎湃": 30,
@@ -339,6 +339,24 @@
     ],
     "IT之家": [
       {
+        "title": "雷神推出 JQ25F320L 电竞显示器：24.5 英寸 2K 320Hz，限时到手 1399 元",
+        "link": "https://www.ithome.com/0/975/450.htm",
+        "pub_time": 1783723087.0,
+        "pub_display": "07-11 06:38"
+      },
+      {
+        "title": "Backblaze 发布 2026Q1 硬盘报告：分析 341263 块，年化故障率为 1.24%",
+        "link": "https://www.ithome.com/0/975/449.htm",
+        "pub_time": 1783722461.0,
+        "pub_display": "07-11 06:27"
+      },
+      {
+        "title": "裁员传闻后，消息称 id Software 仍在打造全新《毁灭战士》游戏",
+        "link": "https://www.ithome.com/0/975/448.htm",
+        "pub_time": 1783722451.0,
+        "pub_display": "07-11 06:27"
+      },
+      {
         "title": "英伟达：SHIELD TV 基础款电视盒因需求旺盛缺货，目前暂无补货消息",
         "link": "https://www.ithome.com/0/975/447.htm",
         "pub_time": 1783721523.0,
@@ -499,24 +517,6 @@
         "link": "https://www.ithome.com/0/975/404.htm",
         "pub_time": 1783708379.0,
         "pub_display": "07-11 02:32"
-      },
-      {
-        "title": "SK 海力士联合研发忆阻器 AI 芯片：理论峰值约 2.54 TOPS，能效 21.3 TOPS/W",
-        "link": "https://www.ithome.com/0/975/403.htm",
-        "pub_time": 1783707630.0,
-        "pub_display": "07-11 02:20"
-      },
-      {
-        "title": "路透社实测发现，Meta 检测工具面对裁剪后的自家 AI 生成图片竟然“失灵”",
-        "link": "https://www.ithome.com/0/975/402.htm",
-        "pub_time": 1783707586.0,
-        "pub_display": "07-11 02:19"
-      },
-      {
-        "title": "吉利星瑞 L PLUS 全球首秀：4.9 米车身 + 可选 2.0T+ 激光雷达",
-        "link": "https://www.ithome.com/0/975/401.htm",
-        "pub_time": 1783706955.0,
-        "pub_display": "07-11 02:09"
       }
     ],
     "36氪": [
@@ -579,6 +579,12 @@
         "link": "https://36kr.com/p/3888289009678854?f=rss",
         "pub_time": 1783565607.0,
         "pub_display": "07-09 10:53"
+      },
+      {
+        "title": "国内多家金店金饰价格多数持稳，最高报1255元/克",
+        "link": "https://36kr.com/newsflashes/3890848764263170?f=rss",
+        "pub_time": 1783722354.0,
+        "pub_display": "07-11 06:25"
       },
       {
         "title": "2026年暑期档票房破25亿",
@@ -692,12 +698,6 @@
         "title": "OpenAI安全系统负责人据悉将离职",
         "link": "https://36kr.com/newsflashes/3890587147238152?f=rss",
         "pub_time": 1783705794.0,
-        "pub_display": "07-11 01:49"
-      },
-      {
-        "title": "六氟磷酸锂需求旺盛，行业盈利能力显著提升",
-        "link": "https://36kr.com/newsflashes/3890586419788289?f=rss",
-        "pub_time": 1783705750.0,
         "pub_display": "07-11 01:49"
       }
     ]
