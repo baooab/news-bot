@@ -84,8 +84,19 @@ SORT_KEYWORDS = {
 # ============================================================
 # 支持 OpenAI 兼容接口：Deepseek / OpenAI / Moonshot / 通义千问等
 # 推荐 Deepseek：价格极低，中文效果好
+# 仅需配置 AI_API_KEY 即可；URL / MODEL 有默认值
 #   AI_API_URL=https://api.deepseek.com/v1/chat/completions
 #   AI_MODEL=deepseek-chat
-AI_API_URL = os.getenv("AI_API_URL", "https://api.deepseek.com/v1/chat/completions")
-AI_MODEL = os.getenv("AI_MODEL", "deepseek-v4-flash")
-AI_API_KEY = os.getenv("AI_API_KEY", "")
+
+
+def _env(key, default=""):
+    """读取环境变量；空字符串视为未配置（GitHub Actions 未设 Secret 时会注入空值）。"""
+    val = os.getenv(key)
+    if val is None or not str(val).strip():
+        return default
+    return val.strip()
+
+
+AI_API_URL = _env("AI_API_URL", "https://api.deepseek.com/v1/chat/completions")
+AI_MODEL = _env("AI_MODEL", "deepseek-v4-flash")
+AI_API_KEY = _env("AI_API_KEY", "")

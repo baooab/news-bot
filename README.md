@@ -66,13 +66,13 @@ https://<你的用户名>.github.io/<仓库名>/
 2. **Settings → Secrets → Actions** 添加 AI 相关 Secret（见下表）
 3. 每日北京时间 07:00 自动运行 `Daily News Brief`，或手动触发
 
-| Secret | 值 | 说明 |
-|--------|---|------|
-| `AI_API_URL` | `https://api.deepseek.com/v1/chat/completions` | API 地址（OpenAI 兼容） |
-| `AI_API_KEY` | `sk-xxxxxxxx` | 你的 API Key |
-| `AI_MODEL` | `deepseek-chat` | 模型名 |
+未配置 AI Secret 时仍可运行，仅跳过 AI 摘要。**只需配置 `AI_API_KEY` 即可**（URL / MODEL 有默认值）。
 
-未配置 AI Secret 时仍可运行，仅跳过 AI 摘要增强。
+| Secret | 必填 | 默认值 | 说明 |
+|--------|------|--------|------|
+| `AI_API_KEY` | ✅ | — | 你的 API Key |
+| `AI_API_URL` | | `https://api.deepseek.com/v1/chat/completions` | OpenAI 兼容接口地址 |
+| `AI_MODEL` | | `deepseek-v4-flash` | 模型名 |
 
 ### 4. 本地开发
 

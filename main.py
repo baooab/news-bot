@@ -85,7 +85,7 @@ def main():
     if is_ai_enabled():
         _, enhanced = ai_enhance(selected)
     else:
-        print("  [跳过] 未配置 AI API（设置 AI_API_URL + AI_API_KEY 启用）")
+        print("  [跳过] 未配置 AI API（在 Secrets 中设置 AI_API_KEY 即可启用）")
         enhanced = selected
 
     # 4b. 过滤 AI 产出中的无效条目，从候选池递补

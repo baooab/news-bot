@@ -27,8 +27,9 @@ jobs:
 
       - name: Generate daily brief
         env:
-          AI_API_URL: ${{ secrets.AI_API_URL }}
+          # 未配置的 Secret 在 Actions 中为 empty，config.py 会回退默认值
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_API_URL: ${{ secrets.AI_API_URL }}
           AI_MODEL: ${{ secrets.AI_MODEL }}
           TZ: Asia/Shanghai
         run: python main.py
