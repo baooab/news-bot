@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日资讯简报</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+<style>
+  html, body { background:#f7f8fa; }
+  .hero.is-dark { background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%); }
+  .brief-card { transition:box-shadow .2s, transform .2s; height:100%; }
+  .brief-card:hover { box-shadow:0 6px 22px rgba(0,0,0,.10); transform:translateY(-3px); }
+  .src-tags .tag { margin:2px 4px 2px 0; }
+  .footer { background:transparent; }
+</style>
+</head>
+<body>
+
+<section class="hero is-dark">
+  <div class="hero-body has-text-centered">
+    <p class="title is-2" style="letter-spacing:3px;">每日资讯简报</p>
+    <p class="subtitle is-6 mt-3 has-text-grey-light">
+      每天 07:00 自动更新 · 4 大权威信源 · AI 智能摘要 · 12 条精选
+    </p>
+    <p class="is-size-7 has-text-grey">
+      澎湃 / 联合早报 / IT之家 / 36氪
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container" style="max-width:900px;">
+    <div id="loading" class="has-text-centered has-text-grey py-6">
+      <span class="icon is-large"><i class="fas fa-spinner"></i></span>
+      <p class="mt-2">正在加载简报列表…</p>
+    </div>
+    <div id="error" class="notification is-warning is-light" style="display:none;"></div>
+    <div id="list" class="columns is-multiline"></div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="content has-text-centered has-text-grey is-size-7">
+    <p>数据以 JSON 存储于 <code>data/</code> 目录 · 由 GitHub Actions 每日自动生成</p>
+  </div>
+</footer>
+
+<script>
+async function load() {
+  const loading = document.getElementById('loading');
+  const errBox = document.getElementById('error');
+  const list = document.getElementById('list');
+  try {
+    const resp = await fetch('data/index.json?t=' + Date.now());
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const data = await resp.json();
+    loading.style.display = 'none';
+
+    const briefs = data.briefs || [];
+    if (!briefs.length) {
+      errBox.textContent = '暂无简报数据。';
+      errBox.style.display = 'block';
+      return;
+    }
+
+    list.innerHTML = briefs.map(b => {
+      const tags = (b.sources || []).map(s =>
+        `<span class="tag is-light is-small">${s}</span>`).join('');
+      return `
+      <div class="column is-half">
+        <a href="brief.html?date=${b.date}" class="box brief-card is-block">
+          <div class="level is-mobile mb-2">
+            <div class="level-left">
+              <span class="title is-5 mb-0">${b.display}</span>
+            </div>
+            <div class="level-right">
+              <span class="tag is-dark is-rounded">${b.count} 条</span>
+            </div>
+          </div>
+          <div class="src-tags mt-3">${tags}</div>
+        </a>
+      </div>`;
+    }).join('');
+  } catch (e) {
+    loading.style.display = 'none';
+    errBox.innerHTML = '加载失败：' + e.message +
+      '<br><span class="is-size-7">如为本地打开，请通过 HTTP 服务器访问（file:// 无法读取 JSON）。</span>';
+    errBox.style.display = 'block';
+  }
+}
+load();
+</script>
+</body>
+</html>

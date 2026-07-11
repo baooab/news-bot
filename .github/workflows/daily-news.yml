@@ -1,0 +1,42 @@
+name: Daily News Brief
+
+on:
+  schedule:
+    # UTC 23:00 = 北京时间 07:00（每日早 7 点）
+    - cron: '0 23 * * *'
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write # 允许提交到仓库
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate daily brief
+        env:
+          AI_API_URL: ${{ secrets.AI_API_URL }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+          TZ: Asia/Shanghai
+        run: python main.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "📰 $(TZ=Asia/Shanghai date '+%Y-%m-%d') 每日资讯简报"
+          git push

@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日资讯简报</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+<style>
+  html, body { background:#f7f8fa; }
+  .hero.is-dark { background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%); }
+
+  /* Tabs */
+  .panel-tabs {
+    display:flex; gap:0; border-bottom:2px solid #dbdbdb; margin-bottom:0;
+  }
+  .panel-tab {
+    flex:1; text-align:center; padding:.75rem 1rem; cursor:pointer;
+    font-weight:600; color:#7a7a7a; background:#eee;
+    border:1px solid #dbdbdb; border-bottom:none; border-radius:6px 6px 0 0;
+    transition:background .15s, color .15s;
+    user-select:none;
+  }
+  .panel-tab + .panel-tab { margin-left:-1px; }
+  .panel-tab:hover { background:#f5f5f5; color:#363636; }
+  .panel-tab.is-active {
+    background:#fff; color:#3273dc; border-bottom:2px solid #fff;
+    margin-bottom:-2px; z-index:1; position:relative;
+  }
+  .panel-tab .tab-badge {
+    display:inline-block; min-width:1.4em; padding:0 .45em;
+    margin-left:.35em; font-size:.75rem; font-weight:700;
+    background:#dbdbdb; color:#4a4a4a; border-radius:999px;
+  }
+  .panel-tab.is-active .tab-badge { background:#3273dc; color:#fff; }
+  .panel-body {
+    background:#fff; border:1px solid #dbdbdb; border-top:none;
+    border-radius:0 0 6px 6px; padding:1.25rem;
+  }
+  .panel-pane { display:none; }
+  .panel-pane.is-active { display:block; }
+
+  /* 资讯条目 */
+  #newsList { position:relative; }
+  #newsList.is-dragging .news-item:not(.is-dragging) {
+    transition:transform .22s cubic-bezier(.2,0,0,1), background .15s, box-shadow .15s;
+  }
+  .news-item {
+    display:flex; align-items:flex-start; gap:.5rem;
+    padding:12px 8px; border-bottom:1px dashed #e6e6e6;
+    background:#fff; border-radius:4px;
+    transition:background .15s, box-shadow .15s, opacity .15s;
+    position:relative;
+  }
+  .news-item:last-child { border-bottom:none; }
+  .news-item.is-dragging {
+    opacity:.5; z-index:2;
+    box-shadow:0 8px 22px rgba(50,115,220,.18);
+    background:#f8fbff;
+  }
+  .news-item.is-drag-over::before {
+    content:''; position:absolute; left:0; right:0; height:3px;
+    background:#3273dc; border-radius:2px; pointer-events:none;
+  }
+  .news-item.is-drag-over.is-insert-before::before { top:-2px; }
+  .news-item.is-drag-over.is-insert-after::before { bottom:-2px; }
+  .news-drag {
+    cursor:grab; color:#ccc; font-size:1.1rem; line-height:1.6;
+    padding:0 2px; flex-shrink:0;
+  }
+  .news-drag:active { cursor:grabbing; }
+  .news-idx {
+    display:inline-block; min-width:26px; font-weight:700; color:#b5b5b5;
+    flex-shrink:0; line-height:1.6;
+  }
+  .news-body { flex:1; min-width:0; line-height:1.6; }
+  .news-text { color:#363636; }
+  .news-text a { color:#363636; }
+  .news-text a:hover { color:#3273dc; }
+  .news-meta { color:#b5b5b5; }
+  .news-actions { flex-shrink:0; }
+
+  .quote-box { background:#fafafa; border-left:4px solid #dbdbdb; }
+  .quote-box.is-clickable { cursor:pointer; transition:background .15s; }
+  .quote-box.is-clickable:hover { background:#f0f0f0; }
+
+  /* 来源媒体 */
+  .raw-tabs-scroll {
+    overflow-x:auto; -webkit-overflow-scrolling:touch;
+    border-bottom:2px solid #dbdbdb;
+  }
+  .raw-tabs-scroll .panel-tabs { flex-wrap:nowrap; width:max-content; min-width:100%; border-bottom:none; }
+  .raw-tabs-scroll .panel-tab { flex:0 0 auto; white-space:nowrap; padding:.6rem 1rem; }
+  .raw-tab-body {
+    border:1px solid #dbdbdb; border-top:none;
+    border-radius:0 0 6px 6px; max-height:65vh; overflow-y:auto;
+  }
+  .raw-list { font-size:.9rem; margin:0; padding:.75rem 1rem; }
+  .raw-list li {
+    display:flex; align-items:flex-start; gap:.5rem;
+    padding:6px 0; border-bottom:1px solid #f0f0f0;
+  }
+  .raw-list li:last-child { border-bottom:none; }
+  .raw-list .raw-item-body { flex:1; min-width:0; }
+  .raw-list .raw-toggle-btn { flex-shrink:0; margin-top:2px; }
+  .raw-list li.is-in-brief .raw-item-body { opacity:.55; }
+
+  #copyArea { position:absolute; left:-9999px; top:-9999px; }
+  .edit-hint { font-size:.8rem; color:#b5b5b5; }
+  .kbd-hint kbd {
+    display:inline-block; padding:.1em .4em; font-size:.75rem;
+    background:#f5f5f5; border:1px solid #dbdbdb; border-radius:3px;
+  }
+</style>
+</head>
+<body>
+
+<section class="hero is-dark">
+  <div class="hero-body">
+    <div class="container has-text-centered" style="max-width:900px;">
+      <p class="title is-2" style="letter-spacing:3px;">每日资讯简报</p>
+      <p id="dateDisplay" class="subtitle is-6 mt-3 has-text-grey-light">加载中…</p>
+    </div>
+  </div>
+</section>
+
+<section class="section pt-5">
+  <div class="container" style="max-width:900px;">
+
+    <div class="level is-mobile mb-4">
+      <div class="level-left">
+        <a href="index.html" class="button is-small is-light">← 返回列表</a>
+      </div>
+      <div class="level-right">
+        <button id="resetBtn" class="button is-small is-light" style="display:none;" title="恢复为原始生成内容">恢复默认</button>
+        <button id="copyBtn" class="button is-small is-dark" disabled>复制公众号版</button>
+      </div>
+    </div>
+
+    <div id="loading" class="has-text-centered has-text-grey py-6">正在加载简报…</div>
+    <div id="error" class="notification is-warning is-light" style="display:none;"></div>
+
+    <div id="mainPanel" style="display:none;">
+
+      <!-- Tabs 栏 -->
+      <div class="panel-tabs" role="tablist">
+        <div id="tabBrief" class="panel-tab is-active" role="tab" aria-selected="true">
+          每日资讯<span id="briefCount" class="tab-badge">0</span>
+        </div>
+        <div id="tabRaw" class="panel-tab" role="tab" aria-selected="false">
+          来源媒体<span id="rawCount" class="tab-badge">0</span>
+        </div>
+      </div>
+
+      <div class="panel-body">
+
+        <!-- 每日资讯 -->
+        <div id="paneBrief" class="panel-pane is-active" role="tabpanel">
+          <p class="edit-hint mb-3">拖动左侧手柄排序 · 点击删除移除 · 在「来源媒体」Tab 添加条目</p>
+
+          <div class="box p-3">
+            <ol id="newsList" style="list-style:none; margin:0; padding:0;"></ol>
+            <p id="emptyBrief" class="has-text-grey has-text-centered py-4" style="display:none;">
+              暂无资讯条目，请从「来源媒体」Tab 添加
+            </p>
+          </div>
+
+          <div id="quoteBox" class="box quote-box mt-4 is-clickable" title="点击切换微语">
+            <p class="has-text-grey">
+              <span class="has-text-weight-bold">【微语】</span><span id="quote"></span>
+              <span class="is-size-7 has-text-grey-light ml-2">（点击切换）</span>
+            </p>
+          </div>
+
+          <p class="has-text-centered has-text-grey is-size-7 mt-4">
+            数据来源：<span id="sources"></span>
+          </p>
+        </div>
+
+        <!-- 来源媒体 -->
+        <div id="paneRaw" class="panel-pane" role="tabpanel">
+          <p class="is-size-7 has-text-grey mb-3 kbd-hint">
+            当日各信源原始条目。点击 <strong>＋</strong> 添加、<strong>✓</strong> 移除。
+            点击信源 Tab 或 <kbd>Tab</kbd> / <kbd>Shift</kbd>+<kbd>Tab</kbd> 切换信源。
+          </p>
+          <div id="rawPanel"></div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="content has-text-centered has-text-grey is-size-7">
+    <p>数据以 JSON 存储于 <code>data/</code> 目录 · 由 GitHub Actions 每日自动生成</p>
+  </div>
+</footer>
+
+<textarea id="copyArea"></textarea>
+
+<script>
+function qs(name) {
+  return new URLSearchParams(location.search).get(name);
+}
+function esc(s) {
+  return (s || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+}
+
+let briefData = null;
+let rawData = null;
+let editedItems = [];
+let dragIndex = null;
+let dragHeight = 0;
+let dragInsertAt = null;
+let listDragBound = false;
+let currentDate = null;
+let activeMainTab = 'brief';
+let activeRawIdx = 0;
+let rawSourceEntries = [];
+let quoteList = [];
+let currentQuote = '';
+
+function storageKey(date) { return 'brief-edits-' + date; }
+function quoteStorageKey(date) { return 'brief-quote-' + date; }
+
+function itemKey(it) {
+  return (it.link || '') + '||' + (it.title || it.text || '');
+}
+
+function isInBrief(rawItem) {
+  const key = itemKey({ title: rawItem.title, link: rawItem.link });
+  return editedItems.some(it => itemKey(it) === key);
+}
+
+function reindexItems(items) {
+  return items.map((it, i) => ({ ...it, index: i + 1 }));
+}
+
+function saveEdits() {
+  if (!currentDate) return;
+  localStorage.setItem(storageKey(currentDate), JSON.stringify(editedItems));
+  updateEditState();
+}
+
+function loadEdits(date, originalItems) {
+  try {
+    const saved = localStorage.getItem(storageKey(date));
+    if (saved) return JSON.parse(saved);
+  } catch (e) {}
+  return originalItems.map(it => ({ ...it }));
+}
+
+function hasEdits() {
+  if (!briefData) return false;
+  if (currentQuote !== (briefData.quote || '')) return true;
+  const orig = briefData.items || [];
+  if (editedItems.length !== orig.length) return true;
+  return editedItems.some((it, i) => itemKey(it) !== itemKey(orig[i]));
+}
+
+function updateEditState() {
+  const changed = hasEdits();
+  document.getElementById('resetBtn').style.display = changed ? '' : 'none';
+}
+
+function getCurrentBriefData() {
+  return { ...briefData, items: editedItems, count: editedItems.length, quote: currentQuote };
+}
+
+/* ---- 微语 ---- */
+function loadSavedQuote(date, defaultQuote) {
+  try {
+    const saved = localStorage.getItem(quoteStorageKey(date));
+    if (saved) return saved;
+  } catch (e) {}
+  return defaultQuote || '';
+}
+
+function saveQuote() {
+  if (!currentDate) return;
+  localStorage.setItem(quoteStorageKey(currentDate), currentQuote);
+  updateEditState();
+}
+
+function renderQuote() {
+  document.getElementById('quote').textContent = currentQuote;
+}
+
+function cycleQuote() {
+  if (!quoteList.length) return;
+  let idx = quoteList.indexOf(currentQuote);
+  if (idx < 0) idx = -1;
+  currentQuote = quoteList[(idx + 1) % quoteList.length];
+  renderQuote();
+  saveQuote();
+}
+
+async function loadQuoteList() {
+  try {
+    const r = await fetch('quotes.json?t=' + Date.now());
+    if (r.ok) quoteList = await r.json();
+  } catch (e) {}
+  if (!quoteList.length && briefData?.quote) quoteList = [briefData.quote];
+}
+
+function initQuote(data) {
+  currentQuote = loadSavedQuote(currentDate, data.quote || '');
+  if (quoteList.length && !quoteList.includes(currentQuote)) {
+    quoteList = [currentQuote, ...quoteList];
+  }
+  renderQuote();
+}
+
+document.getElementById('quoteBox').addEventListener('click', cycleQuote);
+
+/* ---- Tabs ---- */
+function switchTab(name) {
+  activeMainTab = name;
+  const isBrief = name === 'brief';
+  document.getElementById('tabBrief').classList.toggle('is-active', isBrief);
+  document.getElementById('tabRaw').classList.toggle('is-active', !isBrief);
+  document.getElementById('tabBrief').setAttribute('aria-selected', isBrief);
+  document.getElementById('tabRaw').setAttribute('aria-selected', !isBrief);
+  document.getElementById('paneBrief').classList.toggle('is-active', isBrief);
+  document.getElementById('paneRaw').classList.toggle('is-active', !isBrief);
+}
+
+function switchRawSourceByKey(backward) {
+  if (!rawSourceEntries.length) return;
+  const n = rawSourceEntries.length;
+  const next = backward
+    ? (activeRawIdx - 1 + n) % n
+    : (activeRawIdx + 1) % n;
+  switchRawSource(next);
+}
+
+document.getElementById('tabBrief').addEventListener('click', () => switchTab('brief'));
+document.getElementById('tabRaw').addEventListener('click', () => switchTab('raw'));
+
+document.addEventListener('keydown', e => {
+  if (e.key !== 'Tab' || e.ctrlKey || e.altKey || e.metaKey) return;
+  const el = document.activeElement;
+  const tag = el && el.tagName;
+  if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT') return;
+  if (el && el.isContentEditable) return;
+  if (document.getElementById('mainPanel').style.display === 'none') return;
+  if (activeMainTab !== 'raw' || !rawSourceEntries.length) return;
+  e.preventDefault();
+  switchRawSourceByKey(e.shiftKey);
+});
+
+/* ---- 渲染每日资讯 ---- */
+function renderNewsList() {
+  const list = document.getElementById('newsList');
+  const empty = document.getElementById('emptyBrief');
+  document.getElementById('briefCount').textContent = editedItems.length;
+
+  if (!editedItems.length) {
+    list.innerHTML = '';
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+
+  list.innerHTML = editedItems.map((it, i) => {
+    const meta = it.pub_display
+      ? `<span class="news-meta is-size-7 ml-2">${esc(it.pub_display)}</span>` : '';
+    const srcTag = it.source
+      ? `<span class="tag is-light is-rounded is-size-7 ml-1">${esc(it.source)}</span>` : '';
+    const text = it.link
+      ? `<a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.text)}</a>`
+      : esc(it.text);
+    return `<li class="news-item" data-idx="${i}">
+      <span class="news-drag" draggable="true" title="拖动排序">⠿</span>
+      <span class="news-idx">${it.index}.</span>
+      <div class="news-body">
+        <span class="news-text">${text}</span>${meta}${srcTag}
+      </div>
+      <div class="news-actions">
+        <button class="button is-small is-light is-danger is-outlined del-btn" data-idx="${i}" title="删除">✕</button>
+      </div>
+    </li>`;
+  }).join('');
+
+  bindDragEvents();
+  list.querySelectorAll('.del-btn').forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      removeItem(+btn.dataset.idx);
+    });
+  });
+}
+
+function removeItem(idx) {
+  editedItems.splice(idx, 1);
+  editedItems = reindexItems(editedItems);
+  saveEdits();
+  renderNewsList();
+  if (rawData) renderRaw(rawData);
+}
+
+function removeByRawItem(rawItem) {
+  const key = itemKey({ title: rawItem.title, link: rawItem.link });
+  const idx = editedItems.findIndex(it => itemKey(it) === key);
+  if (idx < 0) return;
+  removeItem(idx);
+}
+
+function addFromRaw(src, rawItem) {
+  if (isInBrief(rawItem)) return;
+  editedItems.push({
+    index: editedItems.length + 1,
+    title: rawItem.title,
+    summary: '',
+    text: rawItem.title,
+    source: src,
+    link: rawItem.link || '',
+    topic: 'other',
+    pub_time: rawItem.pub_time,
+    pub_display: rawItem.pub_display || '',
+  });
+  editedItems = reindexItems(editedItems);
+  saveEdits();
+  renderNewsList();
+  renderRaw(rawData);
+}
+
+function toggleFromRaw(src, rawItem) {
+  if (isInBrief(rawItem)) removeByRawItem(rawItem);
+  else addFromRaw(src, rawItem);
+}
+
+/* ---- 拖拽排序 ---- */
+function clearDragVisuals() {
+  const list = document.getElementById('newsList');
+  list.classList.remove('is-dragging');
+  document.querySelectorAll('#newsList .news-item').forEach(el => {
+    el.classList.remove('is-dragging', 'is-drag-over', 'is-insert-before', 'is-insert-after');
+    el.style.transform = '';
+  });
+  dragIndex = null;
+  dragInsertAt = null;
+  dragHeight = 0;
+}
+
+function applyDragShifts(from, insertAt) {
+  if (from === null || insertAt === null || !dragHeight) return;
+  document.querySelectorAll('#newsList .news-item').forEach(el => {
+    const i = +el.dataset.idx;
+    el.style.transform = '';
+    if (i === from) return;
+    if (from < insertAt && i > from && i < insertAt) {
+      el.style.transform = `translateY(-${dragHeight}px)`;
+    } else if (from > insertAt && i >= insertAt && i < from) {
+      el.style.transform = `translateY(${dragHeight}px)`;
+    }
+  });
+}
+
+function updateDragTarget(clientY) {
+  const list = document.getElementById('newsList');
+  const items = [...list.querySelectorAll('.news-item')];
+  if (!items.length || dragIndex === null) return;
+
+  let insertAt = items.length;
+  let overEl = null;
+  let before = true;
+
+  for (const el of items) {
+    const rect = el.getBoundingClientRect();
+    if (clientY >= rect.top && clientY <= rect.bottom) {
+      overEl = el;
+      before = clientY < rect.top + rect.height / 2;
+      insertAt = before ? +el.dataset.idx : +el.dataset.idx + 1;
+      break;
+    }
+    if (clientY < rect.top) {
+      insertAt = +el.dataset.idx;
+      break;
+    }
+  }
+
+  dragInsertAt = insertAt;
+  applyDragShifts(dragIndex, insertAt);
+
+  items.forEach(el => {
+    el.classList.remove('is-drag-over', 'is-insert-before', 'is-insert-after');
+  });
+  if (overEl) {
+    overEl.classList.add('is-drag-over', before ? 'is-insert-before' : 'is-insert-after');
+  }
+}
+
+function performReorder(from, insertAt) {
+  let to = insertAt;
+  if (from < to) to--;
+  if (from === to) return;
+  const moved = editedItems.splice(from, 1)[0];
+  editedItems.splice(to, 0, moved);
+  editedItems = reindexItems(editedItems);
+  saveEdits();
+  renderNewsList();
+}
+
+function bindDragEvents() {
+  const list = document.getElementById('newsList');
+
+  if (!listDragBound) {
+    listDragBound = true;
+    list.addEventListener('dragover', e => {
+      if (dragIndex === null) return;
+      e.preventDefault();
+      e.dataTransfer.dropEffect = 'move';
+      updateDragTarget(e.clientY);
+    });
+    list.addEventListener('drop', e => {
+      if (dragIndex === null) return;
+      e.preventDefault();
+      const insertAt = dragInsertAt !== null ? dragInsertAt : dragIndex;
+      const from = dragIndex;
+      clearDragVisuals();
+      performReorder(from, insertAt);
+    });
+    list.addEventListener('dragleave', e => {
+      if (!list.contains(e.relatedTarget)) {
+        document.querySelectorAll('#newsList .news-item').forEach(el => {
+          el.classList.remove('is-drag-over', 'is-insert-before', 'is-insert-after');
+          el.style.transform = '';
+        });
+      }
+    });
+  }
+
+  list.querySelectorAll('.news-item').forEach(el => {
+    const handle = el.querySelector('.news-drag');
+    handle.addEventListener('dragstart', e => {
+      dragIndex = +el.dataset.idx;
+      dragHeight = el.offsetHeight;
+      dragInsertAt = dragIndex;
+      list.classList.add('is-dragging');
+      el.classList.add('is-dragging');
+      e.dataTransfer.effectAllowed = 'move';
+      e.dataTransfer.setData('text/plain', String(dragIndex));
+    });
+    handle.addEventListener('dragend', () => {
+      clearDragVisuals();
+    });
+  });
+}
+
+/* ---- 渲染来源媒体 ---- */
+function buildRawListHtml(src, items) {
+  return items.map((it, j) => {
+    const inBrief = isInBrief(it);
+    const t = it.link
+      ? `<a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>`
+      : esc(it.title);
+    const meta = it.pub_display
+      ? `<span class="has-text-grey is-size-7 ml-2">${esc(it.pub_display)}</span>` : '';
+    const btn = inBrief
+      ? `<button class="button is-small is-success is-light raw-toggle-btn" data-src="${esc(src)}" data-idx="${j}" title="从简报移除">✓</button>`
+      : `<button class="button is-small is-link is-light raw-toggle-btn" data-src="${esc(src)}" data-idx="${j}" title="添加到简报">＋</button>`;
+    return `<li class="${inBrief ? 'is-in-brief' : ''}">
+      <div class="raw-item-body">${t}${meta}</div>${btn}
+    </li>`;
+  }).join('');
+}
+
+function bindRawToggleBtns(container, raw) {
+  container.querySelectorAll('.raw-toggle-btn').forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      const src = btn.dataset.src;
+      const idx = +btn.dataset.idx;
+      toggleFromRaw(src, raw.sources[src][idx]);
+    });
+  });
+}
+
+function switchRawSource(idx) {
+  activeRawIdx = idx;
+  renderRaw(rawData);
+}
+
+function renderRaw(raw) {
+  if (!raw) return;
+  rawSourceEntries = Object.entries(raw.sources || {});
+  if (!rawSourceEntries.length) return;
+  if (activeRawIdx >= rawSourceEntries.length) activeRawIdx = 0;
+
+  const panel = document.getElementById('rawPanel');
+  const srcCount = rawSourceEntries.length;
+  document.getElementById('rawCount').textContent = (raw.total || 0) + ' / ' + srcCount + '源';
+
+  const tabsHtml = rawSourceEntries.map(([src, items], i) => {
+    const active = i === activeRawIdx;
+    return `<div class="panel-tab raw-source-tab${active ? ' is-active' : ''}" data-idx="${i}" role="tab" aria-selected="${active}">
+      ${esc(src)}<span class="tab-badge">${items.length}</span>
+    </div>`;
+  }).join('');
+
+  const [activeSrc, activeItems] = rawSourceEntries[activeRawIdx];
+  const listHtml = buildRawListHtml(activeSrc, activeItems);
+
+  panel.innerHTML = `
+    <div class="raw-tabs-scroll">
+      <div class="panel-tabs" id="rawSourceTabs" role="tablist">${tabsHtml}</div>
+    </div>
+    <div class="raw-tab-body" role="tabpanel">
+      <ul class="raw-list">${listHtml}</ul>
+    </div>`;
+
+  panel.querySelectorAll('.raw-source-tab').forEach(tab => {
+    tab.addEventListener('click', () => switchRawSource(+tab.dataset.idx));
+  });
+  bindRawToggleBtns(panel, raw);
+
+  const activeTab = panel.querySelector('.raw-source-tab.is-active');
+  if (activeTab) activeTab.scrollIntoView({ inline: 'nearest', block: 'nearest' });
+}
+
+function renderBrief(data) {
+  document.getElementById('dateDisplay').textContent = data.date_display || data.date;
+
+  initQuote(data);
+  document.getElementById('sources').textContent = (data.sources || []).join(' / ');
+  renderNewsList();
+  document.getElementById('mainPanel').style.display = 'block';
+  document.getElementById('copyBtn').disabled = false;
+  updateEditState();
+}
+
+/* ---- 加载 ---- */
+async function resolveDate() {
+  let date = qs('date');
+  if (date) return date;
+  try {
+    const r = await fetch('data/index.json?t=' + Date.now());
+    const idx = await r.json();
+    if (idx.briefs && idx.briefs.length) return idx.briefs[0].date;
+  } catch (e) {}
+  return null;
+}
+
+async function load() {
+  const loading = document.getElementById('loading');
+  const errBox = document.getElementById('error');
+  try {
+    const date = await resolveDate();
+    if (!date) throw new Error('未找到任何简报');
+    currentDate = date;
+
+    const resp = await fetch('data/briefs/' + date + '.json?t=' + Date.now());
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const data = await resp.json();
+    briefData = data;
+    editedItems = reindexItems(loadEdits(date, data.items || []));
+    await loadQuoteList();
+
+    loading.style.display = 'none';
+    document.title = '每日资讯简报 ' + data.date;
+    renderBrief(data);
+
+    try {
+      const rawResp = await fetch('data/raw/' + date + '.json?t=' + Date.now());
+      if (rawResp.ok) {
+        rawData = await rawResp.json();
+        renderRaw(rawData);
+      }
+    } catch (e) {}
+  } catch (e) {
+    loading.style.display = 'none';
+    errBox.innerHTML = '加载失败：' + e.message +
+      '<br><span class="is-size-7">如为本地打开，请通过 HTTP 服务器访问（file:// 无法读取 JSON）。</span>';
+    errBox.style.display = 'block';
+  }
+}
+
+/* ---- 复制 / 恢复 ---- */
+function buildWechatText(d) {
+  const lines = ['每日资讯简报', d.date_display || d.date, ''];
+  (d.items || []).forEach(it => lines.push(it.index + '. ' + it.text));
+  lines.push('', '【微语】' + (d.quote || ''));
+  return lines.join('\n');
+}
+
+document.getElementById('copyBtn').addEventListener('click', async () => {
+  if (!briefData) return;
+  const text = buildWechatText(getCurrentBriefData());
+  const btn = document.getElementById('copyBtn');
+  try {
+    await navigator.clipboard.writeText(text);
+  } catch (e) {
+    const ta = document.getElementById('copyArea');
+    ta.value = text; ta.select(); document.execCommand('copy');
+  }
+  const old = btn.textContent;
+  btn.textContent = '已复制 ✓';
+  btn.classList.add('is-success');
+  setTimeout(() => { btn.textContent = old; btn.classList.remove('is-success'); }, 1800);
+});
+
+document.getElementById('resetBtn').addEventListener('click', () => {
+  if (!briefData || !currentDate) return;
+  if (!confirm('确定恢复为原始生成的资讯列表？当前编辑将丢失。')) return;
+  localStorage.removeItem(storageKey(currentDate));
+  localStorage.removeItem(quoteStorageKey(currentDate));
+  editedItems = reindexItems((briefData.items || []).map(it => ({ ...it })));
+  currentQuote = briefData.quote || '';
+  renderQuote();
+  renderNewsList();
+  if (rawData) renderRaw(rawData);
+  updateEditState();
+});
+
+load();
+</script>
+</body>
+</html>
