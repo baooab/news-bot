@@ -54,10 +54,12 @@ def _write_json(path, data):
 
 def _enhance_and_filter(selected, sorted_news):
     if is_ai_enabled():
-        _, enhanced = ai_enhance(selected)
+        headline, enhanced = ai_enhance(selected)
     else:
         print("  [跳过] 未配置 AI API（在 Secrets 中设置 AI_API_KEY 即可启用）")
+        from tech_brief_style import normalize_headline
         enhanced = selected
+        headline = normalize_headline("", enhanced)
 
     annotate_tech_scores(sorted_news)
 
@@ -76,7 +78,7 @@ def _enhance_and_filter(selected, sorted_news):
     result = tech_part + general_part
     for i, item in enumerate(result):
         item["section"] = "tech" if i < TECH_QUOTA else "general"
-    return result
+    return headline, result
 
 
 def generate_index():
@@ -102,6 +104,7 @@ def generate_index():
             "date": date_str,
             "display": display,
             "series": data.get("series", "科技资讯"),
+            "headline": data.get("headline", ""),
             "count": data.get("count", 0),
             "sources": data.get("sources", []),
         })
@@ -142,16 +145,16 @@ def main():
     print(f"  入选 {tech_cnt} 科技 + {len(selected) - tech_cnt} 民生社会")
 
     print("\n[4/5] AI 摘要 / 过滤递补...")
-    final = _enhance_and_filter(selected, sorted_news)
+    headline, final = _enhance_and_filter(selected, sorted_news)
     print(f"  最终 {len(final)} 条")
 
     print("\n[5/5] 构建 JSON / 保存...")
-    brief = build_brief_dict(final)
+    brief = build_brief_dict(final, headline=headline)
     raw = build_raw_dict(raw_items)
     today = brief["date"]
 
     print(f"\n{'─' * 50}")
-    print(format_plain_text(final))
+    print(format_plain_text(final, headline=headline))
     print(f"{'─' * 50}")
 
     _write_json(os.path.join(BRIEFS_DIR, f"{today}.json"), brief)

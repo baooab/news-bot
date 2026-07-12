@@ -9,6 +9,7 @@ from tech_brief_style import (
     TECH_STYLE_SYSTEM_PROMPT,
     build_tech_ai_user_prompt,
     normalize_tech_summary,
+    normalize_headline,
 )
 
 
@@ -17,20 +18,24 @@ def is_ai_enabled():
 
 
 def ai_enhance(items):
-    """对精选新闻生成 AI 摘要，items 每条新增 summary 字段。"""
+    """对精选新闻生成 AI 摘要与期标题。
+
+    返回 (headline, items)：headline 为本期吸引人标题；items 每条新增 summary。
+    """
     if not is_ai_enabled():
         print("[AI] 未配置 API Key，跳过 AI 增强")
-        return None, items
+        return normalize_headline("", items), items
 
     print(f"[AI] 使用 {AI_MODEL} 生成摘要（科技资讯）...")
 
     try:
         content = _call_api(build_tech_ai_user_prompt(items, tech_count=TECH_QUOTA))
-        summaries = _parse_response(content, len(items))
-        if summaries is None:
+        parsed = _parse_response(content, len(items))
+        if parsed is None:
             print("[AI] 响应解析失败，使用原始标题")
-            return None, items
+            return normalize_headline("", items), items
 
+        summaries = parsed["summaries"]
         applied = 0
         for i, item in enumerate(items):
             raw = summaries[i] if i < len(summaries) else ""
@@ -39,12 +44,13 @@ def ai_enhance(items):
                 applied += 1
             item["summary"] = final
 
-        print(f"[AI] 摘要生成完成：{applied} 条改写")
-        return None, items
+        headline = normalize_headline(parsed.get("headline", ""), items)
+        print(f"[AI] 摘要生成完成：{applied} 条改写 · 期标题：{headline}")
+        return headline, items
 
     except Exception as e:
         print(f"[AI] 调用失败: {e}，使用原始标题")
-        return None, items
+        return normalize_headline("", items), items
 
 
 def _call_api(prompt):
@@ -58,8 +64,8 @@ def _call_api(prompt):
             {"role": "system", "content": TECH_STYLE_SYSTEM_PROMPT},
             {"role": "user", "content": prompt},
         ],
-        "temperature": 0.25,
-        "max_tokens": 2500,
+        "temperature": 0.35,
+        "max_tokens": 2800,
     }
     resp = requests.post(AI_API_URL, headers=headers, json=data, timeout=REQUEST_TIMEOUT * 2)
     resp.raise_for_status()
@@ -95,4 +101,7 @@ def _parse_response(content, expected_count):
     while len(summaries) < expected_count:
         summaries.append("")
 
-    return summaries[:expected_count]
+    return {
+        "headline": data.get("headline", ""),
+        "summaries": summaries[:expected_count],
+    }

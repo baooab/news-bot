@@ -30,7 +30,7 @@
   <div class="hero-body has-text-centered">
     <p class="title is-2" style="letter-spacing:3px;">科技资讯</p>
     <p class="subtitle is-6 mt-3 has-text-grey-light">
-      每天 07:00 自动更新 · 6 条科技 + 6 条民生社会 · 贴图公众号系列
+      每天 07:00 自动更新 · 8 条科技 + 4 条民生社会 · 贴图公众号系列
     </p>
     <p class="is-size-7 has-text-grey">
       Solidot / IT之家 / 36氪 / 澎湃 / 联合早报
@@ -75,19 +75,23 @@ async function load() {
     list.innerHTML = briefs.map(b => {
       const tags = (b.sources || []).map(s =>
         `<span class="tag is-light is-small">${s}</span>`).join('');
+      const headline = b.headline
+        ? `<p class="is-size-6 has-text-weight-semibold mt-2 mb-1">${b.headline}</p>`
+        : '';
       return `
       <div class="column is-half">
-        <a href="brief.html?v=4&date=${b.date}" class="box brief-card is-block">
-          <div class="level is-mobile mb-2">
+        <a href="brief.html?v=5&date=${b.date}" class="box brief-card is-block">
+          <div class="level is-mobile mb-1">
             <div class="level-left">
-              <span class="title is-5 mb-0">${b.display}</span>
+              <span class="title is-6 mb-0 has-text-grey">${b.display}</span>
               <span class="tag is-info is-light is-small ml-2">8+4</span>
             </div>
             <div class="level-right">
               <span class="tag is-dark is-rounded">${b.count} 条</span>
             </div>
           </div>
-          <div class="src-tags mt-3">${tags}</div>
+          ${headline}
+          <div class="src-tags mt-2">${tags}</div>
         </a>
       </div>`;
     }).join('');

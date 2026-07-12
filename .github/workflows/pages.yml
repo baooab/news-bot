@@ -33,7 +33,7 @@ jobs:
       - name: Prepare static site
         run: |
           mkdir -p _site
-          cp index.html brief.html quotes.json 404.html .nojekyll _site/
+          cp index.html brief.html 404.html .nojekyll _site/
           cp -r data _site/
 
       - name: Configure Pages

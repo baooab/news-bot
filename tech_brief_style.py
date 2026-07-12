@@ -30,11 +30,17 @@ TECH_STYLE_GUIDE = """
 - 猜谜式、隐喻式、纯辟谣、口号套话、合并快讯、煽情评论
 """.strip()
 
-TECH_STYLE_SYSTEM_PROMPT = f"""你是科技公众号「科技资讯」系列的资深编辑，负责把标题改写成适合贴图发布的单条文案。
+TECH_STYLE_SYSTEM_PROMPT = f"""你是科技公众号「科技资讯」系列的资深编辑，负责把标题改写成适合贴图发布的单条文案，并为整期起一个吸引人的标题。
 
 {TECH_STYLE_GUIDE}
 
-输出填入 JSON summaries 数组，与输入序号一一对应。不要生成今日要点。"""
+## 期标题（headline）
+- 根据当日期内容提炼，突出 1～2 个最抓眼的科技看点
+- 12～28 字；可带数字、公司名、产品名；口语感、适合公众号推送
+- 不要用「科技资讯」「每日简报」等系列名；不要加日期、序号、引号
+- 示例：「长鑫冲刺上市，OpenAI 扔出智能体」「火箭网系回收成功，特斯拉电池又破纪录」
+
+输出 JSON：headline 为期标题，summaries 与输入序号一一对应。不要生成今日要点。"""
 
 TECH_STYLE_EXAMPLES = [
     {
@@ -79,16 +85,17 @@ def build_tech_ai_user_prompt(items, tech_count=8):
 {format_tech_examples(4)}
 
 ## 输出要求
-1. summaries 长度 = {n}，与输入序号一一对应
-2. 每条只写一件事；多事件快讯只保留最重要一条
-3. 保留数字、公司名、产品名；不要加序号、不要写来源媒体
-4. 第 1～{tech_count} 条可适当点出技术/行业影响（极短）
+1. headline：根据本期内容起一个吸引人的期标题（12～28 字）
+2. summaries 长度 = {n}，与输入序号一一对应
+3. 每条只写一件事；多事件快讯只保留最重要一条
+4. 保留数字、公司名、产品名；不要加序号、不要写来源媒体
+5. 第 1～{tech_count} 条可适当点出技术/行业影响（极短）
 
 ## 待改写
 {news_list}
 
 请严格按 JSON 返回（不要 markdown 代码块）：
-{{"summaries": ["条目1", "条目2", ...]}}"""
+{{"headline": "期标题", "summaries": ["条目1", "条目2", ...]}}"""
 
 
 def normalize_tech_summary(title, summary):
@@ -97,3 +104,19 @@ def normalize_tech_summary(title, summary):
     if validate_summary(title, summary):
         return summary
     return title
+
+
+def normalize_headline(headline, items=None):
+    """清洗期标题；失败时用首条科技看点兜底。"""
+    text = (headline or "").strip()
+    text = text.strip("「」『』“”\"'")
+    text = re.sub(r"^[【\[]|[】\]]$", "", text).strip()
+    text = re.sub(r"^(科技资讯|每日科技资讯)[：:\s|｜·\-—]*", "", text).strip()
+    if 8 <= len(text) <= 36 and not is_low_quality_title(text)[0]:
+        return text
+    if items:
+        first = (items[0].get("summary") or items[0].get("title") or "").strip()
+        first = re.sub(r"[，,。；;].*$", "", first)
+        if 6 <= len(first) <= 28:
+            return first
+    return "今日硬科技看点速览"

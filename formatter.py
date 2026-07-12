@@ -12,7 +12,6 @@ from config import (
     GENERAL_ANTI_KEYWORDS,
 )
 from fetchers import fmt_pub_time
-from quotes import get_daily_quote
 from tech_score import annotate_tech_scores, is_tech_item, is_disaster_title
 
 # ============================================================
@@ -294,16 +293,15 @@ def _item_text(item):
     return item["title"]
 
 
-def format_plain_text(items):
+def format_plain_text(items, headline=""):
     """科技资讯纯文本预览。"""
     header = get_date_header()
-    lines = ["科技资讯", header, ""]
+    title = headline or "科技资讯"
+    lines = [title, header, ""]
 
     for i, item in enumerate(items, 1):
-        lines.append(f"{i}. {_item_text(item)}")
+        lines.append(f"{i}、{_item_text(item)}")
 
-    lines.append("")
-    lines.append(f"【微语】{get_daily_quote()}")
     return "\n".join(lines)
 
 
@@ -315,17 +313,17 @@ format_tech_plain_text = format_plain_text
 # 简报 JSON 构建（最终产物）
 # ============================================================
 
-def build_brief_dict(items):
+def build_brief_dict(items, headline=""):
     """构建科技资讯 JSON。"""
     now = datetime.now()
     return {
         "series": "科技资讯",
+        "headline": headline or "",
         "date": now.strftime("%Y-%m-%d"),
         "date_display": get_date_header(),
         "weekday": WEEKDAYS[now.weekday()],
         "lunar": _get_lunar_str(),
         "overview": "",
-        "quote": get_daily_quote(),
         "generated_at": now.strftime("%Y-%m-%d %H:%M:%S"),
         "count": len(items),
         "tech_quota": TECH_QUOTA,
