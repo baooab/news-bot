@@ -1,13 +1,8 @@
-"""新闻抓取模块 v4.0 —— 7 大直连数据源 + 24h 过滤 + 模糊去重 + 话题排序。
-
-数据源：
-  综合：中国新闻网 RSS、澎湃新闻 API、联合早报 RSS
-  科技：IT之家 RSS、36氪 RSS、虎嗅网 RSS、钛媒体 RSS
-"""
+"""新闻抓取模块 —— 直连数据源 + 日历过滤 + 模糊去重 + 话题排序。"""
 
 import re
 import time as time_module
-from datetime import datetime
+from datetime import datetime, timedelta
 from difflib import SequenceMatcher
 
 import feedparser
@@ -15,7 +10,7 @@ import requests
 
 from config import (
     SOURCES,
-    HOURS_FILTER,
+    RECENT_CALENDAR_DAYS,
     REQUEST_TIMEOUT,
     SORT_TOPICS,
     SORT_KEYWORDS,
@@ -183,12 +178,24 @@ def parse_entry_time(entry):
 # 4. 时间过滤
 # ============================================================
 
-def filter_by_time(items, hours=HOURS_FILTER):
-    """只保留最近 N 小时内发布的新闻。无时间戳的直接丢弃。"""
-    if hours <= 0:
+def _recency_cutoff_ts(days=RECENT_CALENDAR_DAYS):
+    """返回保留窗口的起始时间戳（本地日历日 00:00）。
+
+    days=2 → 保留今天 + 昨天；例：7/12 运行时 cutoff 为 7/11 00:00:00。
+    """
+    if days <= 0:
+        return None, None
+    today_start = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    keep_from = today_start - timedelta(days=days - 1)
+    return keep_from.timestamp(), keep_from.strftime("%Y-%m-%d")
+
+
+def filter_by_recency(items, days=RECENT_CALENDAR_DAYS):
+    """只保留最近 N 个自然日内发布的新闻（默认今天+昨天）。无时间戳的丢弃。"""
+    cutoff, cutoff_label = _recency_cutoff_ts(days)
+    if cutoff is None:
         return items
 
-    cutoff = datetime.now().timestamp() - hours * 3600
     kept = []
     dropped = 0
     for item in items:
@@ -201,8 +208,12 @@ def filter_by_time(items, hours=HOURS_FILTER):
             dropped += 1
 
     if dropped:
-        print(f"  时间过滤：丢弃 {dropped} 条（>{hours}h 或无时间戳）")
+        print(f"  时间过滤：丢弃 {dropped} 条（早于 {cutoff_label} 或无时间戳）")
     return kept
+
+
+# 向后兼容别名
+filter_by_time = filter_by_recency
 
 
 # ============================================================
@@ -276,14 +287,16 @@ def collect_raw():
     return all_items
 
 
-def process_news(raw_items):
+def process_news(raw_items, skip_recency_filter=False):
     """对原始条目做：时间过滤 -> 去重 -> 分类 -> 排序，返回精选候选列表。
 
     不修改传入的 raw_items（内部复制），以便原始数据保持完整。
+    skip_recency_filter=True 时跳过时间过滤（调用方已过滤）。
     """
     all_items = [dict(it) for it in raw_items]
 
-    all_items = filter_by_time(all_items)
+    if not skip_recency_filter:
+        all_items = filter_by_recency(all_items)
     print(f"  时间过滤后：{len(all_items)} 条")
 
     all_items = deduplicate(all_items)

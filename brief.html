@@ -3,11 +3,20 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>每日资讯简报</title>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>科技资讯</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
 <style>
   html, body { background:#f7f8fa; }
-  .hero.is-dark { background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%); }
+  .hero.is-tech {
+    background:linear-gradient(135deg,#0f2027 0%,#203a43 50%,#2c5364 100%);
+    color:#fff;
+  }
+  .hero.is-tech .title,
+  .hero.is-tech .subtitle { color:#fff !important; }
+  .hero.is-tech .has-text-grey-light { color:rgba(255,255,255,.78) !important; }
 
   /* Tabs */
   .panel-tabs {
@@ -114,10 +123,10 @@
 </head>
 <body>
 
-<section class="hero is-dark">
+<section class="hero is-tech">
   <div class="hero-body">
     <div class="container has-text-centered" style="max-width:900px;">
-      <p class="title is-2" style="letter-spacing:3px;">每日资讯简报</p>
+      <p id="pageTitle" class="title is-2" style="letter-spacing:3px;">科技资讯</p>
       <p id="dateDisplay" class="subtitle is-6 mt-3 has-text-grey-light">加载中…</p>
     </div>
   </div>
@@ -128,7 +137,7 @@
 
     <div class="level is-mobile mb-4">
       <div class="level-left">
-        <a href="index.html" class="button is-small is-light">← 返回列表</a>
+        <a id="backLink" href="index.html" class="button is-small is-light">← 返回列表</a>
       </div>
       <div class="level-right">
         <button id="resetBtn" class="button is-small is-light" style="display:none;" title="恢复为原始生成内容">恢复默认</button>
@@ -144,7 +153,7 @@
       <!-- Tabs 栏 -->
       <div class="panel-tabs" role="tablist">
         <div id="tabBrief" class="panel-tab is-active" role="tab" aria-selected="true">
-          每日资讯<span id="briefCount" class="tab-badge">0</span>
+          <span id="tabBriefLabel">科技资讯</span><span id="briefCount" class="tab-badge">0</span>
         </div>
         <div id="tabRaw" class="panel-tab" role="tab" aria-selected="false">
           来源媒体<span id="rawCount" class="tab-badge">0</span>
@@ -153,7 +162,7 @@
 
       <div class="panel-body">
 
-        <!-- 每日资讯 -->
+        <!-- 科技资讯 -->
         <div id="paneBrief" class="panel-pane is-active" role="tabpanel">
           <p class="edit-hint mb-3">拖动左侧手柄排序 · 点击删除移除 · 在「来源媒体」Tab 添加条目</p>
 
@@ -215,14 +224,15 @@ let dragHeight = 0;
 let dragInsertAt = null;
 let listDragBound = false;
 let currentDate = null;
+
+function storageKey(date) { return 'tech-brief-edits-' + date; }
+function quoteStorageKey(date) { return 'tech-brief-quote-' + date; }
+
 let activeMainTab = 'brief';
 let activeRawIdx = 0;
 let rawSourceEntries = [];
 let quoteList = [];
 let currentQuote = '';
-
-function storageKey(date) { return 'brief-edits-' + date; }
-function quoteStorageKey(date) { return 'brief-quote-' + date; }
 
 function itemKey(it) {
   return (it.link || '') + '||' + (it.title || it.text || '');
@@ -350,7 +360,7 @@ document.addEventListener('keydown', e => {
   switchRawSourceByKey(e.shiftKey);
 });
 
-/* ---- 渲染每日资讯 ---- */
+/* ---- 渲染资讯列表 ---- */
 function renderNewsList() {
   const list = document.getElementById('newsList');
   const empty = document.getElementById('emptyBrief');
@@ -363,7 +373,9 @@ function renderNewsList() {
   }
   empty.style.display = 'none';
 
-  list.innerHTML = editedItems.map((it, i) => {
+  let html = '';
+
+  editedItems.forEach((it, i) => {
     const meta = it.pub_display
       ? `<span class="news-meta is-size-7 ml-2">${esc(it.pub_display)}</span>` : '';
     const srcTag = it.source
@@ -371,7 +383,7 @@ function renderNewsList() {
     const text = it.link
       ? `<a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.text)}</a>`
       : esc(it.text);
-    return `<li class="news-item" data-idx="${i}">
+    html += `<li class="news-item" data-idx="${i}">
       <span class="news-drag" draggable="true" title="拖动排序">⠿</span>
       <span class="news-idx">${it.index}.</span>
       <div class="news-body">
@@ -381,7 +393,9 @@ function renderNewsList() {
         <button class="button is-small is-light is-danger is-outlined del-btn" data-idx="${i}" title="删除">✕</button>
       </div>
     </li>`;
-  }).join('');
+  });
+
+  list.innerHTML = html;
 
   bindDragEvents();
   list.querySelectorAll('.del-btn').forEach(btn => {
@@ -621,6 +635,9 @@ function renderRaw(raw) {
 }
 
 function renderBrief(data) {
+  const seriesTitle = data.series || '科技资讯';
+  document.getElementById('pageTitle').textContent = seriesTitle;
+  document.getElementById('tabBriefLabel').textContent = seriesTitle;
   document.getElementById('dateDisplay').textContent = data.date_display || data.date;
 
   initQuote(data);
@@ -659,7 +676,7 @@ async function load() {
     await loadQuoteList();
 
     loading.style.display = 'none';
-    document.title = '每日资讯简报 ' + data.date;
+    document.title = (data.series || '科技资讯') + ' ' + data.date;
     renderBrief(data);
 
     try {
@@ -679,8 +696,11 @@ async function load() {
 
 /* ---- 复制 / 恢复 ---- */
 function buildWechatText(d) {
-  const lines = ['每日资讯简报', d.date_display || d.date, ''];
-  (d.items || []).forEach(it => lines.push(it.index + '. ' + it.text));
+  const title = d.series || '科技资讯';
+  const lines = [title, d.date_display || d.date, ''];
+  (d.items || []).forEach(it => {
+    lines.push(it.index + '. ' + it.text);
+  });
   lines.push('', '【微语】' + (d.quote || ''));
   return lines.join('\n');
 }

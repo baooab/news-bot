@@ -3,11 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>每日资讯简报</title>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>科技资讯</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
 <style>
   html, body { background:#f7f8fa; }
-  .hero.is-dark { background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%); }
+  .hero.is-tech {
+    background:linear-gradient(135deg,#0f2027 0%,#203a43 50%,#2c5364 100%);
+    color:#fff;
+  }
+  .hero.is-tech .title,
+  .hero.is-tech .subtitle { color:#fff !important; }
+  .hero.is-tech .has-text-grey-light { color:rgba(255,255,255,.78) !important; }
+  .hero.is-tech .has-text-grey { color:rgba(255,255,255,.62) !important; }
   .brief-card { transition:box-shadow .2s, transform .2s; height:100%; }
   .brief-card:hover { box-shadow:0 6px 22px rgba(0,0,0,.10); transform:translateY(-3px); }
   .src-tags .tag { margin:2px 4px 2px 0; }
@@ -16,14 +26,14 @@
 </head>
 <body>
 
-<section class="hero is-dark">
+<section class="hero is-tech">
   <div class="hero-body has-text-centered">
-    <p class="title is-2" style="letter-spacing:3px;">每日资讯简报</p>
+    <p class="title is-2" style="letter-spacing:3px;">科技资讯</p>
     <p class="subtitle is-6 mt-3 has-text-grey-light">
-      每天 07:00 自动更新 · 4 大权威信源 · AI 智能摘要 · 12 条精选
+      每天 07:00 自动更新 · 6 条科技 + 6 条民生社会 · 贴图公众号系列
     </p>
     <p class="is-size-7 has-text-grey">
-      澎湃 / 联合早报 / IT之家 / 36氪
+      Solidot / IT之家 / 36氪 / 澎湃 / 联合早报
     </p>
   </div>
 </section>
@@ -31,7 +41,6 @@
 <section class="section">
   <div class="container" style="max-width:900px;">
     <div id="loading" class="has-text-centered has-text-grey py-6">
-      <span class="icon is-large"><i class="fas fa-spinner"></i></span>
       <p class="mt-2">正在加载简报列表…</p>
     </div>
     <div id="error" class="notification is-warning is-light" style="display:none;"></div>
@@ -41,7 +50,7 @@
 
 <footer class="footer">
   <div class="content has-text-centered has-text-grey is-size-7">
-    <p>数据以 JSON 存储于 <code>data/</code> 目录 · 由 GitHub Actions 每日自动生成</p>
+    <p>数据以 JSON 存储于 <code>data/briefs/</code> · 由 GitHub Actions 每日自动生成</p>
   </div>
 </footer>
 
@@ -58,7 +67,7 @@ async function load() {
 
     const briefs = data.briefs || [];
     if (!briefs.length) {
-      errBox.textContent = '暂无简报数据。';
+      errBox.textContent = '暂无简报数据，请先运行 main.py 生成。';
       errBox.style.display = 'block';
       return;
     }
@@ -68,10 +77,11 @@ async function load() {
         `<span class="tag is-light is-small">${s}</span>`).join('');
       return `
       <div class="column is-half">
-        <a href="brief.html?date=${b.date}" class="box brief-card is-block">
+        <a href="brief.html?v=4&date=${b.date}" class="box brief-card is-block">
           <div class="level is-mobile mb-2">
             <div class="level-left">
               <span class="title is-5 mb-0">${b.display}</span>
+              <span class="tag is-info is-light is-small ml-2">8+4</span>
             </div>
             <div class="level-right">
               <span class="tag is-dark is-rounded">${b.count} 条</span>

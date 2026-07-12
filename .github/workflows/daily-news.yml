@@ -45,7 +45,7 @@ jobs:
             echo "无 data 变更，跳过提交"
             exit 0
           fi
-          git commit -m "📰 $(TZ=Asia/Shanghai date '+%Y-%m-%d') 每日资讯简报"
+          git commit -m "📰 $(TZ=Asia/Shanghai date '+%Y-%m-%d') 科技资讯"
           # 远程可能有新提交（手动 push / 其他 workflow），先 rebase 再推送
           git pull --rebase origin main
           git push origin main
