@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-14 06:50:24",
-  "total": 3,
+  "updated_at": "2026-07-15 06:51:49",
+  "total": 4,
   "briefs": [
+    {
+      "date": "2026-07-15",
+      "display": "2026年07月15日 星期三",
+      "series": "科技资讯",
+      "headline": "DeepSeek筹备IPO，OpenAI首款硬件曝光",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "澎湃",
+        "联合早报"
+      ]
+    },
     {
       "date": "2026-07-14",
       "display": "2026年07月14日 星期二",
