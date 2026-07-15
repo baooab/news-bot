@@ -1,0 +1,768 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16 06:53:10",
+  "total": 124,
+  "source_count": {
+    "澎湃": 30,
+    "联合早报": 24,
+    "IT之家": 30,
+    "36氪": 30,
+    "Solidot": 10
+  },
+  "sources": {
+    "澎湃": [
+      {
+        "title": "习近平在上海考察",
+        "link": "",
+        "pub_time": 1784112886.682,
+        "pub_display": "07-15 18:54"
+      },
+      {
+        "title": "5张图看懂中国人工智能进化之路",
+        "link": "",
+        "pub_time": 1784112268.609,
+        "pub_display": "07-15 18:44"
+      },
+      {
+        "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
+        "link": "",
+        "pub_time": 1784111004.441,
+        "pub_display": "07-15 18:23"
+      },
+      {
+        "title": "头条世界杯｜西班牙对法国三连杀，最强传控让姆巴佩没了脾气",
+        "link": "",
+        "pub_time": 1784070223.781,
+        "pub_display": "07-15 07:03"
+      },
+      {
+        "title": "还原蒋方舟论文风波：促成逆转的“新线索”到底是什么？",
+        "link": "",
+        "pub_time": 1784093785.985,
+        "pub_display": "07-15 13:36"
+      },
+      {
+        "title": "围观“天才”坠落之余，蒋方舟事件还有“三问”",
+        "link": "",
+        "pub_time": 1784073569.053,
+        "pub_display": "07-15 07:59"
+      },
+      {
+        "title": "法国：原来我还不如佛得角",
+        "link": "",
+        "pub_time": 1784090987.057,
+        "pub_display": "07-15 12:49"
+      },
+      {
+        "title": "从中职生到研究生，一名“留守女孩”的十年慢跑",
+        "link": "",
+        "pub_time": 1784111416.795,
+        "pub_display": "07-15 18:30"
+      },
+      {
+        "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+        "link": "",
+        "pub_time": 1784071635.032,
+        "pub_display": "07-15 07:27"
+      },
+      {
+        "title": "地铁站广告被吐槽 “太密集”“辣眼睛”，深圳地铁回应：马上改",
+        "link": "",
+        "pub_time": 1784084677.185,
+        "pub_display": "07-15 11:04"
+      },
+      {
+        "title": "新闻蒸馏器｜从“抹掉以色列”到“被以色列扶植”？内贾德否认“好莱坞式”报道",
+        "link": "",
+        "pub_time": 1784081673.567,
+        "pub_display": "07-15 10:14"
+      },
+      {
+        "title": "多人因猎杀国家一级保护野生动物获刑，最高法发布一批典型案例",
+        "link": "",
+        "pub_time": 1784100733.034,
+        "pub_display": "07-15 15:32"
+      },
+      {
+        "title": "马上评｜为什么说逼捐是在“帮倒忙”",
+        "link": "",
+        "pub_time": 1784092824.844,
+        "pub_display": "07-15 13:20"
+      },
+      {
+        "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+        "link": "",
+        "pub_time": 1784103230.919,
+        "pub_display": "07-15 16:13"
+      },
+      {
+        "title": "美对俄新制裁将俄油气的中印买家列为目标，外交部：只会搬起石头砸自己脚",
+        "link": "",
+        "pub_time": 1784100162.012,
+        "pub_display": "07-15 15:22"
+      },
+      {
+        "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+        "link": "",
+        "pub_time": 1784120658.642,
+        "pub_display": "07-15 21:04"
+      },
+      {
+        "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+        "link": "",
+        "pub_time": 1784079435.315,
+        "pub_display": "07-15 09:37"
+      },
+      {
+        "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+        "link": "",
+        "pub_time": 1784116451.718,
+        "pub_display": "07-15 19:54"
+      },
+      {
+        "title": "半年报出炉，人民日报：中国经济坚韧向前",
+        "link": "",
+        "pub_time": 1784083591.327,
+        "pub_display": "07-15 10:46"
+      },
+      {
+        "title": "安徽大学拟录学术不端博士？人民锐评：诚信防线，不能总由网友来守",
+        "link": "",
+        "pub_time": 1784080695.004,
+        "pub_display": "07-15 09:58"
+      },
+      {
+        "title": "美军对一艘驶往伊朗的油轮发射“地狱火”导弹",
+        "link": "",
+        "pub_time": 1784150687.74,
+        "pub_display": "07-16 05:24"
+      },
+      {
+        "title": "世界杯决赛对阵球队产生！阿根廷2比1淘汰英格兰",
+        "link": "",
+        "pub_time": 1784149553.383,
+        "pub_display": "07-16 05:05"
+      },
+      {
+        "title": "图集丨习近平在上海考察",
+        "link": "",
+        "pub_time": 1784125207.996,
+        "pub_display": "07-15 22:20"
+      },
+      {
+        "title": "毕节纳雍县通报“一辆救护车凌晨在批发市场卸载水果”",
+        "link": "",
+        "pub_time": 1784121829.274,
+        "pub_display": "07-15 21:23"
+      },
+      {
+        "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+        "link": "",
+        "pub_time": 1784120658.642,
+        "pub_display": "07-15 21:04"
+      },
+      {
+        "title": "总书记在沪考察的市民新村居民区，是如何实现原地改造“焕新”的",
+        "link": "",
+        "pub_time": 1784118277.382,
+        "pub_display": "07-15 20:24"
+      },
+      {
+        "title": "视频丨习近平在上海考察",
+        "link": "",
+        "pub_time": 1784116776.274,
+        "pub_display": "07-15 19:59"
+      },
+      {
+        "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+        "link": "",
+        "pub_time": 1784116451.718,
+        "pub_display": "07-15 19:54"
+      },
+      {
+        "title": "分析｜上半年经济运行在合理区间、新动能快速成长，下阶段要加大逆周期和跨周期调节力度",
+        "link": "",
+        "pub_time": 1784116206.122,
+        "pub_display": "07-15 19:50"
+      },
+      {
+        "title": "60年世界杯5次交锋，英格兰再战阿根廷，谁能晋级？",
+        "link": "",
+        "pub_time": 1784115799.082,
+        "pub_display": "07-15 19:43"
+      }
+    ],
+    "联合早报": [
+      {
+        "title": "戴庆成：高考状元一窝蜂报读医科的背后",
+        "link": "https://www.zaobao.com/news/china/story20260716-9370262",
+        "pub_time": 1784120400.0,
+        "pub_display": "07-15 21:00"
+      },
+      {
+        "title": "德总理：不反对中国车企接手汽车工厂 但非长久之计",
+        "link": "https://www.zaobao.com/news/china/story20260715-9370751",
+        "pub_time": 1784100054.0,
+        "pub_display": "07-15 15:20"
+      },
+      {
+        "title": "中国季度经济增速降至三年最低 内外需差距再扩大",
+        "link": "https://www.zaobao.com/news/china/story20260715-9370475",
+        "pub_time": 1784098027.0,
+        "pub_display": "07-15 14:47"
+      },
+      {
+        "title": "美大学研究团队用宇树科技人形机器人 完成活体外科手术",
+        "link": "https://www.zaobao.com/news/china/story20260715-9370179",
+        "pub_time": 1784092943.0,
+        "pub_display": "07-15 13:22"
+      },
+      {
+        "title": "中国6月新房价格持续下跌 跌幅收窄",
+        "link": "https://www.zaobao.com/news/china/story20260715-9369211",
+        "pub_time": 1784092266.0,
+        "pub_display": "07-15 13:11"
+      },
+      {
+        "title": "下午察：贾浅浅沉默不语，争议就此结束？",
+        "link": "https://www.zaobao.com/news/china/story20260715-9369710",
+        "pub_time": 1784091510.0,
+        "pub_display": "07-15 12:58"
+      },
+      {
+        "title": "台湾评估开放西安包机 大陆促取消两岸航运限制",
+        "link": "https://www.zaobao.com/news/china/story20260715-9369417",
+        "pub_time": 1784089711.0,
+        "pub_display": "07-15 12:28"
+      },
+      {
+        "title": "中国6月新增贷款低于预期 信贷需求疲弱",
+        "link": "https://www.zaobao.com/news/china/story20260715-9370031",
+        "pub_time": 1784089127.0,
+        "pub_display": "07-15 12:18"
+      },
+      {
+        "title": "习近平考察上海 听取“历史性解决老城区居民拎马桶问题”介绍",
+        "link": "https://www.zaobao.com/news/china/story20260715-9369686",
+        "pub_time": 1784085309.0,
+        "pub_display": "07-15 11:15"
+      },
+      {
+        "title": "美官员证实 少量英伟达H200人工智能晶片已交付中国客户",
+        "link": "https://www.zaobao.com/news/china/story20260715-9369304",
+        "pub_time": 1784085005.0,
+        "pub_display": "07-15 11:10"
+      },
+      {
+        "title": "DeepSeek新一轮融资规模或达500亿人民币",
+        "link": "https://www.zaobao.com/news/china/story20260715-9369569",
+        "pub_time": 1784083997.0,
+        "pub_display": "07-15 10:53"
+      },
+      {
+        "title": "港澳办支持的港澳研究中心在北京揭牌 开展港澳重大问题研究",
+        "link": "https://www.zaobao.com/news/china/story20260715-9369535",
+        "pub_time": 1784083593.0,
+        "pub_display": "07-15 10:46"
+      },
+      {
+        "title": "日外长：冷静妥善地与中国进行沟通十分重要",
+        "link": "https://www.zaobao.com/news/china/story20260715-9369463",
+        "pub_time": 1784082881.0,
+        "pub_display": "07-15 10:34"
+      },
+      {
+        "title": "李稻葵：中国经济整体偏冷已三年 但对经济光明充满信心",
+        "link": "https://www.zaobao.com/news/china/story20260715-9369106",
+        "pub_time": 1784080171.0,
+        "pub_display": "07-15 09:49"
+      },
+      {
+        "title": "台湾称与立陶宛关系持续深化 双方合作不受第三方影响",
+        "link": "https://www.zaobao.com/news/china/story20260715-9368999",
+        "pub_time": 1784079266.0,
+        "pub_display": "07-15 09:34"
+      },
+      {
+        "title": "苹果AI服务在中国完成备案",
+        "link": "https://www.zaobao.com/news/china/story20260715-9368764",
+        "pub_time": 1784077614.0,
+        "pub_display": "07-15 09:06"
+      },
+      {
+        "title": "菲律宾遣返一名涉赌涉诈中国人 涉案金额数亿人民币",
+        "link": "https://www.zaobao.com/news/china/story20260715-9368000",
+        "pub_time": 1784077380.0,
+        "pub_display": "07-15 09:03"
+      },
+      {
+        "title": "蒋方舟“繁转简”式抄袭 大陆现台湾论文“代抄”服务",
+        "link": "https://www.zaobao.com/news/china/story20260715-9368674",
+        "pub_time": 1784077239.0,
+        "pub_display": "07-15 09:00"
+      },
+      {
+        "title": "美国拟制裁俄能源买家 北京：只会搬起石头砸自己脚",
+        "link": "https://www.zaobao.com/news/china/story20260715-9368620",
+        "pub_time": 1784076741.0,
+        "pub_display": "07-15 08:52"
+      },
+      {
+        "title": "中国足协被授予亚足联精英青训计划三星会员资格",
+        "link": "https://www.zaobao.com/news/china/story20260715-9368482",
+        "pub_time": 1784075789.0,
+        "pub_display": "07-15 08:36"
+      },
+      {
+        "title": "美欧摆脱中国依赖成本高 中方：安全感来自合作而非孤立",
+        "link": "https://www.zaobao.com/news/china/story20260715-9368268",
+        "pub_time": 1784075340.0,
+        "pub_display": "07-15 08:29"
+      },
+      {
+        "title": "中国PPI环比连涨八个月后转降",
+        "link": "https://www.zaobao.com/news/china/story20260715-9368318",
+        "pub_time": 1784075251.0,
+        "pub_display": "07-15 08:27"
+      },
+      {
+        "title": "中东局势升温 中国靠电动德士减轻油价冲击",
+        "link": "https://www.zaobao.com/news/china/story20260715-9368134",
+        "pub_time": 1784074080.0,
+        "pub_display": "07-15 08:08"
+      },
+      {
+        "title": "洪秀柱将赴中国大陆出席海峡两岸青年发展论坛",
+        "link": "https://www.zaobao.com/news/china/story20260715-9368229",
+        "pub_time": 1784074066.0,
+        "pub_display": "07-15 08:07"
+      }
+    ],
+    "IT之家": [
+      {
+        "title": "庆祝宝可梦 30 周年，雷蛇发布皮卡丘 & 伊布主题联名耳机、键盘、鼠标、鼠标垫",
+        "link": "https://www.ithome.com/0/977/266.htm",
+        "pub_time": 1784127003.0,
+        "pub_display": "07-15 22:50"
+      },
+      {
+        "title": "上传用户代码事件后，马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+        "link": "https://www.ithome.com/0/977/265.htm",
+        "pub_time": 1784126431.0,
+        "pub_display": "07-15 22:40"
+      },
+      {
+        "title": "第四条 737 生产线启用，波音美国两座工厂将同时生产 737",
+        "link": "https://www.ithome.com/0/977/247.htm",
+        "pub_time": 1784100670.0,
+        "pub_display": "07-15 15:31"
+      },
+      {
+        "title": "民航局：上半年，实名登记无人机总数突破 478.8 万架",
+        "link": "https://www.ithome.com/0/977/246.htm",
+        "pub_time": 1784100207.0,
+        "pub_display": "07-15 15:23"
+      },
+      {
+        "title": "网传追光动画电影“三国”系列首作《三国第一部：争洛阳》撤档，官方辟谣",
+        "link": "https://www.ithome.com/0/977/245.htm",
+        "pub_time": 1784099680.0,
+        "pub_display": "07-15 15:14"
+      },
+      {
+        "title": "消息称苹果正寻求收购人工智能芯片企业",
+        "link": "https://www.ithome.com/0/977/243.htm",
+        "pub_time": 1784099487.0,
+        "pub_display": "07-15 15:11"
+      },
+      {
+        "title": "努比亚全球首款 AI 智能体手机局部外观公布，或采用横向镜组设计方案",
+        "link": "https://www.ithome.com/0/977/242.htm",
+        "pub_time": 1784098978.0,
+        "pub_display": "07-15 15:02"
+      },
+      {
+        "title": "DC 独立超英电影《新蝙蝠侠 2》首曝先导预告片，影片延至 2028 年 2 月 18 日上映",
+        "link": "https://www.ithome.com/0/977/241.htm",
+        "pub_time": 1784097971.0,
+        "pub_display": "07-15 14:46"
+      },
+      {
+        "title": "远景动力宜昌超级工厂正式投产运营，790 安时全球最大方壳卷绕电芯量产下线",
+        "link": "https://www.ithome.com/0/977/240.htm",
+        "pub_time": 1784097784.0,
+        "pub_display": "07-15 14:43"
+      },
+      {
+        "title": "奕境 X9 官宣搭载 HUAWEI XSCENE 车载激光投影，支持业界唯⼀⼀机五投",
+        "link": "https://www.ithome.com/0/977/239.htm",
+        "pub_time": 1784097382.0,
+        "pub_display": "07-15 14:36"
+      },
+      {
+        "title": "苹果提高 Mac、iPad 等产品 Apple Care+ 价格",
+        "link": "https://www.ithome.com/0/977/238.htm",
+        "pub_time": 1784096513.0,
+        "pub_display": "07-15 14:21"
+      },
+      {
+        "title": "三星钱包数字车钥匙适配上汽大众 ID. ERA 9X 车型，支持无感解闭锁",
+        "link": "https://www.ithome.com/0/977/237.htm",
+        "pub_time": 1784096296.0,
+        "pub_display": "07-15 14:18"
+      },
+      {
+        "title": "国内首款“秒级转速同轴共面诊断 CT 引导医用电子直线加速器”成功进入创新医疗器械特别审查程序",
+        "link": "https://www.ithome.com/0/977/235.htm",
+        "pub_time": 1784095652.0,
+        "pub_display": "07-15 14:07"
+      },
+      {
+        "title": "人形机器人公司逐际动力完成近 2 亿美元 Pre-IPO 轮融资，重点用于大小脑融合技术的突破和产品化",
+        "link": "https://www.ithome.com/0/977/234.htm",
+        "pub_time": 1784094968.0,
+        "pub_display": "07-15 13:56"
+      },
+      {
+        "title": "马斯克宣布 X 平台将零保留开源全部代码，并引入第三方核验机制确保真实性",
+        "link": "https://www.ithome.com/0/977/233.htm",
+        "pub_time": 1784094809.0,
+        "pub_display": "07-15 13:53"
+      },
+      {
+        "title": "超 300 款 AI 产品将在 2026 世界 AI 大会首发，上海世博展览馆已进入最后布展调试阶段",
+        "link": "https://www.ithome.com/0/977/232.htm",
+        "pub_time": 1784094102.0,
+        "pub_display": "07-15 13:41"
+      },
+      {
+        "title": "长安启源 Q06 实车亮相，定位纯电中大型轿跑 SUV",
+        "link": "https://www.ithome.com/0/977/231.htm",
+        "pub_time": 1784094034.0,
+        "pub_display": "07-15 13:40"
+      },
+      {
+        "title": "本田美国多款车型将集成谷歌 Gemini，可使用自然语言进行交流",
+        "link": "https://www.ithome.com/0/977/230.htm",
+        "pub_time": 1784094028.0,
+        "pub_display": "07-15 13:40"
+      },
+      {
+        "title": "消息称豆包 AI 手机今年将发布多款机型，由字节跳动联合中兴努比亚打造",
+        "link": "https://www.ithome.com/0/977/228.htm",
+        "pub_time": 1784093007.0,
+        "pub_display": "07-15 13:23"
+      },
+      {
+        "title": "英伟达黄仁勋东京面谢世嘉前社长 30 年前雪中送炭，双方官宣 RTX Spark 游戏合作",
+        "link": "https://www.ithome.com/0/977/227.htm",
+        "pub_time": 1784092813.0,
+        "pub_display": "07-15 13:20"
+      },
+      {
+        "title": "消息称字节叫停第一代豆包 AI 眼镜，第二代规划全功能版和轻量版双版本、下半年上市",
+        "link": "https://www.ithome.com/0/977/226.htm",
+        "pub_time": 1784091854.0,
+        "pub_display": "07-15 13:04"
+      },
+      {
+        "title": "全球化仍势不可挡，硅谷预言家凯文 · 凯利断言中国 5 年内做出最先进 AI 芯片",
+        "link": "https://www.ithome.com/0/977/225.htm",
+        "pub_time": 1784091639.0,
+        "pub_display": "07-15 13:00"
+      },
+      {
+        "title": "订单太多忙不过来，消息称三星电子拟将谷歌 TPU I/O 芯片后端设计工作外包",
+        "link": "https://www.ithome.com/0/977/224.htm",
+        "pub_time": 1784091490.0,
+        "pub_display": "07-15 12:58"
+      },
+      {
+        "title": "长鑫科技：第五代工艺技术平台处于研发阶段，采用进一步优化的多重曝光技术",
+        "link": "https://www.ithome.com/0/977/223.htm",
+        "pub_time": 1784090613.0,
+        "pub_display": "07-15 12:43"
+      },
+      {
+        "title": "东风汽车：行业首发 2400MPa 超高强钢结构件，相关技术已在奕境汽车上搭载应用",
+        "link": "https://www.ithome.com/0/977/222.htm",
+        "pub_time": 1784089917.0,
+        "pub_display": "07-15 12:31"
+      },
+      {
+        "title": "李柯：不靠美国市场，比亚迪五年内也能超越丰田登顶全球销量第一",
+        "link": "https://www.ithome.com/0/977/221.htm",
+        "pub_time": 1784089713.0,
+        "pub_display": "07-15 12:28"
+      },
+      {
+        "title": "唯卓仕发布 AF 26mm F2.8 EVO 全画幅饼干镜头：索尼 FE / 尼康 Z 卡口，1399 元",
+        "link": "https://www.ithome.com/0/977/219.htm",
+        "pub_time": 1784088856.0,
+        "pub_display": "07-15 12:14"
+      },
+      {
+        "title": "OPPO 回应获端侧 AI 服务备案：后续目标实现更个性化的主动智能体验",
+        "link": "https://www.ithome.com/0/977/218.htm",
+        "pub_time": 1784088549.0,
+        "pub_display": "07-15 12:09"
+      },
+      {
+        "title": "消息称面壁智能 MiniCPM 系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型",
+        "link": "https://www.ithome.com/0/977/217.htm",
+        "pub_time": 1784088261.0,
+        "pub_display": "07-15 12:04"
+      },
+      {
+        "title": "Withings Body Scan 2 体重秤上市：可测高血压风险 / 细胞健康等 60 项人体指标，599.95 美元",
+        "link": "https://www.ithome.com/0/977/216.htm",
+        "pub_time": 1784087857.0,
+        "pub_display": "07-15 11:57"
+      }
+    ],
+    "36氪": [
+      {
+        "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+        "link": "https://36kr.com/p/3896830362601351?f=rss",
+        "pub_time": 1784087234.0,
+        "pub_display": "07-15 11:47"
+      },
+      {
+        "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+        "link": "https://36kr.com/p/3896563671222147?f=rss",
+        "pub_time": 1784086651.0,
+        "pub_display": "07-15 11:37"
+      },
+      {
+        "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+        "link": "https://36kr.com/p/3896755010963333?f=rss",
+        "pub_time": 1784083016.0,
+        "pub_display": "07-15 10:36"
+      },
+      {
+        "title": "支付宝不想做AI时代的配角",
+        "link": "https://36kr.com/p/3896720584738435?f=rss",
+        "pub_time": 1784080230.0,
+        "pub_display": "07-15 09:50"
+      },
+      {
+        "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
+        "link": "https://36kr.com/p/3896639400183687?f=rss",
+        "pub_time": 1784075435.0,
+        "pub_display": "07-15 08:30"
+      },
+      {
+        "title": "四大一线城市房价继续修复上涨",
+        "link": "https://36kr.com/p/3896544104793993?f=rss",
+        "pub_time": 1784069386.0,
+        "pub_display": "07-15 06:49"
+      },
+      {
+        "title": "优衣库再失一枚棋子",
+        "link": "https://36kr.com/p/3885699885445122?f=rss",
+        "pub_time": 1784064341.0,
+        "pub_display": "07-15 05:25"
+      },
+      {
+        "title": "耐克中国，壮士断腕",
+        "link": "https://36kr.com/p/3876646017216516?f=rss",
+        "pub_time": 1784064328.0,
+        "pub_display": "07-15 05:25"
+      },
+      {
+        "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
+        "link": "https://36kr.com/p/3889213745543687?f=rss",
+        "pub_time": 1784064318.0,
+        "pub_display": "07-15 05:25"
+      },
+      {
+        "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
+        "link": "https://36kr.com/p/3896298534520705?f=rss",
+        "pub_time": 1784054440.0,
+        "pub_display": "07-15 02:40"
+      },
+      {
+        "title": "斯凯奇终身代言人哈里·凯恩率英格兰半决赛迎战阿根廷",
+        "link": "https://36kr.com/newsflashes/3896906902882178?f=rss",
+        "pub_time": 1784091521.0,
+        "pub_display": "07-15 12:58"
+      },
+      {
+        "title": "热门中概股美股盘前普涨，阿里巴巴涨超4%",
+        "link": "https://36kr.com/newsflashes/3896904821704328?f=rss",
+        "pub_time": 1784091394.0,
+        "pub_display": "07-15 12:56"
+      },
+      {
+        "title": "美股大型科技股盘前多数上涨，英特尔涨超2%",
+        "link": "https://36kr.com/newsflashes/3896903325419142?f=rss",
+        "pub_time": 1784091303.0,
+        "pub_display": "07-15 12:55"
+      },
+      {
+        "title": "巴菲特说将捐出1400亿美元股票",
+        "link": "https://36kr.com/newsflashes/3896894911678086?f=rss",
+        "pub_time": 1784090789.0,
+        "pub_display": "07-15 12:46"
+      },
+      {
+        "title": "三星电子拟将谷歌TPU I/O芯片后端设计工作外包",
+        "link": "https://36kr.com/newsflashes/3896886853060480?f=rss",
+        "pub_time": 1784090297.0,
+        "pub_display": "07-15 12:38"
+      },
+      {
+        "title": "美国6月PPI同比升5.5%",
+        "link": "https://36kr.com/newsflashes/3896881333601928?f=rss",
+        "pub_time": 1784089961.0,
+        "pub_display": "07-15 12:32"
+      },
+      {
+        "title": "银行理财“信披明牌”不止指数基准，有机构尝试展现理财产品最大回撤",
+        "link": "https://36kr.com/newsflashes/3896880615884417?f=rss",
+        "pub_time": 1784089917.0,
+        "pub_display": "07-15 12:31"
+      },
+      {
+        "title": "NetApp与甲骨文合作推出全托管云存储服务",
+        "link": "https://36kr.com/newsflashes/3896875735205513?f=rss",
+        "pub_time": 1784089619.0,
+        "pub_display": "07-15 12:26"
+      },
+      {
+        "title": "华润双鹤：参与竞买利尔化学1.88亿股股份的事项",
+        "link": "https://36kr.com/newsflashes/3896870730024836?f=rss",
+        "pub_time": 1784089313.0,
+        "pub_display": "07-15 12:21"
+      },
+      {
+        "title": "海创药业：氘恩扎鲁胺软胶囊临床试验获批准",
+        "link": "https://36kr.com/newsflashes/3896863492294275?f=rss",
+        "pub_time": 1784088872.0,
+        "pub_display": "07-15 12:14"
+      },
+      {
+        "title": "力盛体育：拟2000万元—4000万元回购股份",
+        "link": "https://36kr.com/newsflashes/3896856012195718?f=rss",
+        "pub_time": 1784088415.0,
+        "pub_display": "07-15 12:06"
+      },
+      {
+        "title": "獐子岛：和岛一号基金拟减持公司不超过1.06%股份",
+        "link": "https://36kr.com/newsflashes/3896849498130057?f=rss",
+        "pub_time": 1784088018.0,
+        "pub_display": "07-15 12:00"
+      },
+      {
+        "title": "A股首份半年报出炉：优彩资源上半年净利润同比增103.87%",
+        "link": "https://36kr.com/newsflashes/3896847110178440?f=rss",
+        "pub_time": 1784087872.0,
+        "pub_display": "07-15 11:57"
+      },
+      {
+        "title": "OPPO回应完成端侧AI备案：是适配监管要求的一项常规合规动作",
+        "link": "https://36kr.com/newsflashes/3896845441549954?f=rss",
+        "pub_time": 1784087770.0,
+        "pub_display": "07-15 11:56"
+      },
+      {
+        "title": "精测电子：拟收购上海精测41.17%股权，公司股票16日起复牌",
+        "link": "https://36kr.com/newsflashes/3896844572788357?f=rss",
+        "pub_time": 1784087717.0,
+        "pub_display": "07-15 11:55"
+      },
+      {
+        "title": "面壁智能端侧大模型将搭载三星手机上市",
+        "link": "https://36kr.com/newsflashes/3896839832143750?f=rss",
+        "pub_time": 1784087428.0,
+        "pub_display": "07-15 11:50"
+      },
+      {
+        "title": "海泰新光：拟5000万元—1亿元回购股份",
+        "link": "https://36kr.com/newsflashes/3896832536954760?f=rss",
+        "pub_time": 1784086982.0,
+        "pub_display": "07-15 11:43"
+      },
+      {
+        "title": "永和股份：拟1.5亿元—3亿元回购公司股份",
+        "link": "https://36kr.com/newsflashes/3896827030324868?f=rss",
+        "pub_time": 1784086646.0,
+        "pub_display": "07-15 11:37"
+      },
+      {
+        "title": "诺基亚与英伟达推出行业首个商用AI-RAN平台",
+        "link": "https://36kr.com/newsflashes/3896822215722631?f=rss",
+        "pub_time": 1784086352.0,
+        "pub_display": "07-15 11:32"
+      },
+      {
+        "title": "摩根士丹利第二季度净营收213.5亿美元",
+        "link": "https://36kr.com/newsflashes/3896821635696517?f=rss",
+        "pub_time": 1784086317.0,
+        "pub_display": "07-15 11:31"
+      }
+    ],
+    "Solidot": [
+      {
+        "title": "IBM 称客户倾向于采购 AI 硬件而不是大型机",
+        "link": "https://www.solidot.org/story?sid=84842",
+        "pub_time": 1784098991.0,
+        "pub_display": "07-15 15:03"
+      },
+      {
+        "title": "美国众议院通过了永久性夏令时法案",
+        "link": "https://www.solidot.org/story?sid=84841",
+        "pub_time": 1784098084.0,
+        "pub_display": "07-15 14:48"
+      },
+      {
+        "title": "特朗普政府禁止刚果的美国公民回国",
+        "link": "https://www.solidot.org/story?sid=84839",
+        "pub_time": 1784092789.0,
+        "pub_display": "07-15 13:19"
+      },
+      {
+        "title": "第二次怀孕会以新方式改变大脑",
+        "link": "https://www.solidot.org/story?sid=84838",
+        "pub_time": 1784085027.0,
+        "pub_display": "07-15 11:10"
+      },
+      {
+        "title": "纽约州禁止建造大型数据中心一年",
+        "link": "https://www.solidot.org/story?sid=84837",
+        "pub_time": 1784080637.0,
+        "pub_display": "07-15 09:57"
+      },
+      {
+        "title": "Linux 内核不反对使用 AI 工具",
+        "link": "https://www.solidot.org/story?sid=84836",
+        "pub_time": 1784078197.0,
+        "pub_display": "07-15 09:16"
+      },
+      {
+        "title": "微软周二例行安全更新修复了 570 个漏洞",
+        "link": "https://www.solidot.org/story?sid=84835",
+        "pub_time": 1784072052.0,
+        "pub_display": "07-15 07:34"
+      },
+      {
+        "title": "宇航员首次在太空照 X 光",
+        "link": "https://www.solidot.org/story?sid=84834",
+        "pub_time": 1784071048.0,
+        "pub_display": "07-15 07:17"
+      },
+      {
+        "title": "诉讼指控 Meta 用 AI 而不是人类做出裁员决定",
+        "link": "https://www.solidot.org/story?sid=84833",
+        "pub_time": 1784068458.0,
+        "pub_display": "07-15 06:34"
+      },
+      {
+        "title": "一加准备退出美国和欧洲市场",
+        "link": "https://www.solidot.org/story?sid=84832",
+        "pub_time": 1784066272.0,
+        "pub_display": "07-15 05:57"
+      }
+    ]
+  }
+}
