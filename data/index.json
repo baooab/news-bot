@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-16 06:53:10",
-  "total": 5,
+  "updated_at": "2026-07-17 06:52:31",
+  "total": 6,
   "briefs": [
+    {
+      "date": "2026-07-17",
+      "display": "2026年07月17日 星期五",
+      "series": "科技资讯",
+      "headline": "DeepSeek冲刺IPO，苹果今秋推OLED版iPad mini",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "澎湃",
+        "联合早报"
+      ]
+    },
     {
       "date": "2026-07-16",
       "display": "2026年07月16日 星期四",
