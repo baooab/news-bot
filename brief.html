@@ -351,7 +351,7 @@ function removeItem(idx) {
   editedItems = reindexItems(editedItems);
   saveEdits();
   renderNewsList();
-  if (rawData) renderRaw(rawData);
+  syncRawListState();
 }
 
 function removeByRawItem(rawItem) {
@@ -377,7 +377,7 @@ function addFromRaw(src, rawItem) {
   editedItems = reindexItems(editedItems);
   saveEdits();
   renderNewsList();
-  renderRaw(rawData);
+  syncRawListState();
 }
 
 function toggleFromRaw(src, rawItem) {
@@ -532,12 +532,31 @@ function bindRawToggleBtns(container, raw) {
   });
 }
 
-function switchRawSource(idx) {
-  activeRawIdx = idx;
-  renderRaw(rawData);
+function syncRawListState() {
+  const panel = document.getElementById('rawPanel');
+  if (!panel || !rawData) return;
+  panel.querySelectorAll('.raw-toggle-btn').forEach(btn => {
+    const src = btn.dataset.src;
+    const idx = +btn.dataset.idx;
+    const rawItem = rawData.sources[src]?.[idx];
+    if (!rawItem) return;
+    const inBrief = isInBrief(rawItem);
+    const li = btn.closest('li');
+    if (li) li.classList.toggle('is-in-brief', inBrief);
+    btn.className = inBrief
+      ? 'button is-small is-success is-light raw-toggle-btn'
+      : 'button is-small is-link is-light raw-toggle-btn';
+    btn.title = inBrief ? '从简报移除' : '添加到简报';
+    btn.textContent = inBrief ? '✓' : '＋';
+  });
 }
 
-function renderRaw(raw) {
+function switchRawSource(idx) {
+  activeRawIdx = idx;
+  renderRaw(rawData, { scrollTabIntoView: true });
+}
+
+function renderRaw(raw, { scrollTabIntoView = false } = {}) {
   if (!raw) return;
   rawSourceEntries = Object.entries(raw.sources || {});
   if (!rawSourceEntries.length) return;
@@ -546,6 +565,11 @@ function renderRaw(raw) {
   const panel = document.getElementById('rawPanel');
   const srcCount = rawSourceEntries.length;
   document.getElementById('rawCount').textContent = (raw.total || 0) + ' / ' + srcCount + '源';
+
+  const prevBody = panel.querySelector('.raw-tab-body');
+  const prevTabs = panel.querySelector('.raw-tabs-scroll');
+  const savedScrollTop = prevBody ? prevBody.scrollTop : 0;
+  const savedScrollLeft = prevTabs ? prevTabs.scrollLeft : 0;
 
   const tabsHtml = rawSourceEntries.map(([src, items], i) => {
     const active = i === activeRawIdx;
@@ -570,8 +594,15 @@ function renderRaw(raw) {
   });
   bindRawToggleBtns(panel, raw);
 
-  const activeTab = panel.querySelector('.raw-source-tab.is-active');
-  if (activeTab) activeTab.scrollIntoView({ inline: 'nearest', block: 'nearest' });
+  const body = panel.querySelector('.raw-tab-body');
+  const tabs = panel.querySelector('.raw-tabs-scroll');
+  if (body) body.scrollTop = savedScrollTop;
+  if (tabs) tabs.scrollLeft = savedScrollLeft;
+
+  if (scrollTabIntoView) {
+    const activeTab = panel.querySelector('.raw-source-tab.is-active');
+    if (activeTab) activeTab.scrollIntoView({ inline: 'nearest', block: 'nearest' });
+  }
 }
 
 function renderBrief(data) {
@@ -666,7 +697,7 @@ document.getElementById('resetBtn').addEventListener('click', () => {
   localStorage.removeItem(storageKey(currentDate));
   editedItems = reindexItems((briefData.items || []).map(it => ({ ...it })));
   renderNewsList();
-  if (rawData) renderRaw(rawData);
+  syncRawListState();
   updateEditState();
 });
 
