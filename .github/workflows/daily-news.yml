@@ -2,8 +2,8 @@ name: Daily News Brief
 
 on:
   schedule:
-    # UTC 22:00 = 北京时间 06:00（每日早 6 点）
-    - cron: '0 22 * * *'
+    # UTC 14:00 = 北京时间 22:00（每天晚上 10 点）
+    - cron: '0 14 * * *'
   workflow_dispatch: # 支持手动触发
 
 permissions:
