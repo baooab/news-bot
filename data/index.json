@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-23 07:08:42",
-  "total": 12,
+  "updated_at": "2026-07-24 06:59:48",
+  "total": 13,
   "briefs": [
+    {
+      "date": "2026-07-24",
+      "display": "2026年07月24日 星期五",
+      "series": "科技资讯",
+      "headline": "Google遭欧盟8.9亿罚单，AMD 2nm 256核CPU发布",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "澎湃",
+        "联合早报"
+      ]
+    },
     {
       "date": "2026-07-23",
       "display": "2026年07月23日 星期四",
