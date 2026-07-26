@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>历史归档 · 科技资讯</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+<style>
+  html, body { background:#f7f8fa; }
+  .hero.is-tech {
+    background:linear-gradient(135deg,#0f2027 0%,#203a43 50%,#2c5364 100%);
+    color:#fff;
+  }
+  .hero.is-tech .title,
+  .hero.is-tech .subtitle { color:#fff !important; }
+  .hero.is-tech .has-text-grey-light { color:rgba(255,255,255,.78) !important; }
+  .hero.is-tech .has-text-grey { color:rgba(255,255,255,.62) !important; }
+  .hero.is-tech a { color:rgba(255,255,255,.85); text-decoration:underline; text-underline-offset:3px; }
+  .hero.is-tech a:hover { color:#fff; }
+  .brief-card { transition:box-shadow .2s, transform .2s; height:100%; }
+  .brief-card:hover { box-shadow:0 6px 22px rgba(0,0,0,.10); transform:translateY(-3px); }
+  .src-tags .tag { margin:2px 4px 2px 0; }
+  .toolbar {
+    display:flex; flex-wrap:wrap; gap:.75rem; align-items:center;
+    margin-bottom:1.5rem;
+  }
+  .toolbar .field { margin-bottom:0; }
+  .month-block { margin-bottom:2.25rem; }
+  .month-block .month-title {
+    display:flex; align-items:baseline; justify-content:space-between;
+    gap:.75rem; margin-bottom:1rem; padding-bottom:.5rem;
+    border-bottom:1px solid #e8e8e8;
+  }
+  .footer { background:transparent; }
+</style>
+</head>
+<body>
+
+<section class="hero is-tech">
+  <div class="hero-body has-text-centered">
+    <p class="title is-2" style="letter-spacing:3px;">历史归档</p>
+    <p class="subtitle is-6 mt-3 has-text-grey-light">
+      按月份浏览往期科技资讯
+    </p>
+    <p class="is-size-7 mt-3">
+      <a href="index.html">← 返回首页</a>
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container" style="max-width:900px;">
+    <div class="toolbar">
+      <div class="field">
+        <div class="control">
+          <div class="select is-small">
+            <select id="monthSelect" aria-label="选择月份">
+              <option value="">全部月份</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="field is-flex-grow-1" style="min-width:180px;">
+        <div class="control">
+          <input id="keywordInput" class="input is-small" type="search"
+                 placeholder="搜索标题关键词…" autocomplete="off">
+        </div>
+      </div>
+      <p id="resultMeta" class="is-size-7 has-text-grey mb-0"></p>
+    </div>
+
+    <div id="loading" class="has-text-centered has-text-grey py-6">
+      <p class="mt-2">正在加载归档…</p>
+    </div>
+    <div id="error" class="notification is-warning is-light" style="display:none;"></div>
+    <div id="empty" class="notification is-light" style="display:none;"></div>
+    <div id="archive"></div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="content has-text-centered has-text-grey is-size-7">
+    <p><a href="index.html">返回首页</a> · 数据以 JSON 存储于 <code>data/briefs/</code></p>
+  </div>
+</footer>
+
+<script>
+let allBriefs = [];
+
+function monthKeyOf(date) {
+  return (date || '').slice(0, 7);
+}
+
+function monthLabel(key) {
+  if (!key || key.length < 7) return key;
+  const [y, m] = key.split('-');
+  return `${y}年${Number(m)}月`;
+}
+
+function qs(name) {
+  return new URLSearchParams(location.search).get(name) || '';
+}
+
+function renderBriefCard(b) {
+  const tags = (b.sources || []).map(s =>
+    `<span class="tag is-light is-small">${s}</span>`).join('');
+  const headline = b.headline
+    ? `<p class="is-size-6 has-text-weight-semibold mt-2 mb-1">${b.headline}</p>`
+    : '';
+  return `
+  <div class="column is-half">
+    <a href="brief.html?v=5&date=${b.date}" class="box brief-card is-block">
+      <div class="level is-mobile mb-1">
+        <div class="level-left">
+          <span class="title is-6 mb-0 has-text-grey">${b.display}</span>
+          <span class="tag is-info is-light is-small ml-2">8+4</span>
+        </div>
+        <div class="level-right">
+          <span class="tag is-dark is-rounded">${b.count} 条</span>
+        </div>
+      </div>
+      ${headline}
+      <div class="src-tags mt-2">${tags}</div>
+    </a>
+  </div>`;
+}
+
+function groupByMonth(briefs) {
+  const map = new Map();
+  for (const b of briefs) {
+    const key = monthKeyOf(b.date);
+    if (!key) continue;
+    if (!map.has(key)) map.set(key, []);
+    map.get(key).push(b);
+  }
+  return [...map.entries()].sort((a, b) => b[0].localeCompare(a[0]));
+}
+
+function applyFilters() {
+  const month = document.getElementById('monthSelect').value;
+  const keyword = document.getElementById('keywordInput').value.trim().toLowerCase();
+  const archive = document.getElementById('archive');
+  const emptyBox = document.getElementById('empty');
+  const meta = document.getElementById('resultMeta');
+
+  let filtered = allBriefs;
+  if (month) filtered = filtered.filter(b => monthKeyOf(b.date) === month);
+  if (keyword) {
+    filtered = filtered.filter(b => {
+      const hay = [b.headline, b.display, b.date, ...(b.sources || [])].join(' ').toLowerCase();
+      return hay.includes(keyword);
+    });
+  }
+
+  meta.textContent = `共 ${filtered.length} 期`;
+
+  if (!filtered.length) {
+    archive.innerHTML = '';
+    emptyBox.textContent = '没有匹配的简报，请调整月份或关键词。';
+    emptyBox.style.display = 'block';
+    return;
+  }
+
+  emptyBox.style.display = 'none';
+  const groups = groupByMonth(filtered);
+  archive.innerHTML = groups.map(([key, items]) => `
+    <div class="month-block" id="month-${key}">
+      <div class="month-title">
+        <h2 class="title is-5 mb-0">${monthLabel(key)}</h2>
+        <span class="is-size-7 has-text-grey">${items.length} 期</span>
+      </div>
+      <div class="columns is-multiline">
+        ${items.map(renderBriefCard).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+function fillMonthSelect(briefs) {
+  const select = document.getElementById('monthSelect');
+  const keys = [...new Set(briefs.map(b => monthKeyOf(b.date)).filter(Boolean))]
+    .sort((a, b) => b.localeCompare(a));
+  select.innerHTML = '<option value="">全部月份</option>' +
+    keys.map(k => `<option value="${k}">${monthLabel(k)}</option>`).join('');
+
+  const fromQuery = qs('month');
+  if (fromQuery && keys.includes(fromQuery)) select.value = fromQuery;
+}
+
+async function load() {
+  const loading = document.getElementById('loading');
+  const errBox = document.getElementById('error');
+  try {
+    const resp = await fetch('data/index.json?t=' + Date.now());
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const data = await resp.json();
+    loading.style.display = 'none';
+
+    allBriefs = data.briefs || [];
+    if (!allBriefs.length) {
+      document.getElementById('empty').textContent = '暂无简报数据，请先运行 main.py 生成。';
+      document.getElementById('empty').style.display = 'block';
+      return;
+    }
+
+    fillMonthSelect(allBriefs);
+    applyFilters();
+
+    document.getElementById('monthSelect').addEventListener('change', () => {
+      const month = document.getElementById('monthSelect').value;
+      const url = new URL(location.href);
+      if (month) url.searchParams.set('month', month);
+      else url.searchParams.delete('month');
+      history.replaceState(null, '', url);
+      applyFilters();
+    });
+    document.getElementById('keywordInput').addEventListener('input', applyFilters);
+  } catch (e) {
+    loading.style.display = 'none';
+    errBox.innerHTML = '加载失败：' + e.message +
+      '<br><span class="is-size-7">如为本地打开，请通过 HTTP 服务器访问（file:// 无法读取 JSON）。</span>';
+    errBox.style.display = 'block';
+  }
+}
+load();
+</script>
+</body>
+</html>

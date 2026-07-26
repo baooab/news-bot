@@ -1,6 +1,6 @@
 # 每日资讯简报
 
-每天早 7 点自动采集权威新闻源，AI 生成摘要，产物以 **JSON 数据**输出，并由 **Bulma** 网页承载渲染，通过 **GitHub Pages** 发布。
+每天早 6 点自动采集权威新闻源，AI 生成摘要，产物以 **JSON 数据**输出，并由 **Bulma** 网页承载渲染，通过 **GitHub Pages** 发布。
 
 ## 在线访问
 
@@ -11,6 +11,12 @@ https://<你的用户名>.github.io/<仓库名>/
 ```
 
 例如仓库名为 `news-bot`：`https://yourname.github.io/news-bot/`
+
+| 页面 | 说明 |
+|------|------|
+| `/`（`index.html`） | 首页，仅展示**当月**科技资讯 |
+| `/archive.html` | 历史归档，按月份筛选、关键词检索往期简报 |
+| `/brief.html?date=YYYY-MM-DD` | 简报详情（可编辑、复制公众号版） |
 
 ## 数据源
 
@@ -38,11 +44,12 @@ https://<你的用户名>.github.io/<仓库名>/
 
 - `data/briefs/YYYY-MM-DD.json` — 精选简报（12 条 + 微语 + 农历日期）
 - `data/raw/YYYY-MM-DD.json` — 全部原始数据，按来源分组
-- `data/index.json` — 简报索引（供首页读取）
+- `data/index.json` — 简报索引（供首页 / 归档页读取）
 
 **静态网页（GitHub Pages 发布）**
 
-- `index.html` — 首页，列出所有简报
+- `index.html` — 首页，只列出当月简报
+- `archive.html` — 归档页，浏览与查询历史简报
 - `brief.html?date=YYYY-MM-DD` — 简报详情（可编辑、复制公众号版）
 - `quotes.json` — 微语库（详情页点击切换）
 
@@ -64,7 +71,7 @@ https://<你的用户名>.github.io/<仓库名>/
 
 1. **Settings → Actions → General** → 允许 Actions 运行
 2. **Settings → Secrets → Actions** 添加 AI 相关 Secret（见下表）
-3. 每日北京时间 07:00 自动运行 `Daily News Brief`，或手动触发
+3. 每日北京时间 **06:00** 自动运行 `Daily News Brief`，或手动触发
 
 未配置 AI Secret 时仍可运行，仅跳过 AI 摘要。**只需配置 `AI_API_KEY` 即可**（URL / MODEL 有默认值）。
 
@@ -81,6 +88,7 @@ pip install -r requirements.txt
 python main.py
 python -m http.server 8000
 # 浏览器打开 http://localhost:8000/
+# 归档页：http://localhost:8000/archive.html
 ```
 
 > 本地预览须通过 HTTP 服务器访问（`file://` 无法 fetch JSON）。
@@ -136,7 +144,8 @@ python -m http.server 8000
 ├── formatter.py
 ├── quotes.py / quotes.json
 ├── main.py
-├── index.html
+├── index.html                # 首页（当月）
+├── archive.html              # 历史归档
 ├── brief.html
 ├── 404.html
 ├── .nojekyll

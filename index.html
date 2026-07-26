@@ -18,9 +18,15 @@
   .hero.is-tech .subtitle { color:#fff !important; }
   .hero.is-tech .has-text-grey-light { color:rgba(255,255,255,.78) !important; }
   .hero.is-tech .has-text-grey { color:rgba(255,255,255,.62) !important; }
+  .hero.is-tech a { color:rgba(255,255,255,.85); text-decoration:underline; text-underline-offset:3px; }
+  .hero.is-tech a:hover { color:#fff; }
   .brief-card { transition:box-shadow .2s, transform .2s; height:100%; }
   .brief-card:hover { box-shadow:0 6px 22px rgba(0,0,0,.10); transform:translateY(-3px); }
   .src-tags .tag { margin:2px 4px 2px 0; }
+  .section-head {
+    display:flex; align-items:baseline; justify-content:space-between;
+    gap:1rem; flex-wrap:wrap; margin-bottom:1.25rem;
+  }
   .footer { background:transparent; }
 </style>
 </head>
@@ -30,20 +36,28 @@
   <div class="hero-body has-text-centered">
     <p class="title is-2" style="letter-spacing:3px;">科技资讯</p>
     <p class="subtitle is-6 mt-3 has-text-grey-light">
-      每天 07:00 自动更新 · 8 条科技 + 4 条民生社会 · 贴图公众号系列
+      每天 06:00 自动更新 · 8 条科技 + 4 条民生社会 · 贴图公众号系列
     </p>
     <p class="is-size-7 has-text-grey">
       Solidot / IT之家 / 36氪 / 澎湃 / 联合早报
+    </p>
+    <p class="is-size-7 mt-3">
+      <a href="archive.html">查看历史归档 →</a>
     </p>
   </div>
 </section>
 
 <section class="section">
   <div class="container" style="max-width:900px;">
+    <div class="section-head">
+      <h2 id="monthTitle" class="title is-5 mb-0">本月简报</h2>
+      <a href="archive.html" class="is-size-7">历史归档</a>
+    </div>
     <div id="loading" class="has-text-centered has-text-grey py-6">
       <p class="mt-2">正在加载简报列表…</p>
     </div>
     <div id="error" class="notification is-warning is-light" style="display:none;"></div>
+    <div id="empty" class="notification is-light" style="display:none;"></div>
     <div id="list" class="columns is-multiline"></div>
   </div>
 </section>
@@ -55,46 +69,63 @@
 </footer>
 
 <script>
+function currentMonthKey(d = new Date()) {
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, '0');
+  return `${y}-${m}`;
+}
+
+function monthLabel(key) {
+  const [y, m] = key.split('-');
+  return `${y}年${Number(m)}月`;
+}
+
+function renderBriefCard(b) {
+  const tags = (b.sources || []).map(s =>
+    `<span class="tag is-light is-small">${s}</span>`).join('');
+  const headline = b.headline
+    ? `<p class="is-size-6 has-text-weight-semibold mt-2 mb-1">${b.headline}</p>`
+    : '';
+  return `
+  <div class="column is-half">
+    <a href="brief.html?v=5&date=${b.date}" class="box brief-card is-block">
+      <div class="level is-mobile mb-1">
+        <div class="level-left">
+          <span class="title is-6 mb-0 has-text-grey">${b.display}</span>
+          <span class="tag is-info is-light is-small ml-2">8+4</span>
+        </div>
+        <div class="level-right">
+          <span class="tag is-dark is-rounded">${b.count} 条</span>
+        </div>
+      </div>
+      ${headline}
+      <div class="src-tags mt-2">${tags}</div>
+    </a>
+  </div>`;
+}
+
 async function load() {
   const loading = document.getElementById('loading');
   const errBox = document.getElementById('error');
+  const emptyBox = document.getElementById('empty');
   const list = document.getElementById('list');
+  const monthKey = currentMonthKey();
+  document.getElementById('monthTitle').textContent = monthLabel(monthKey) + '科技资讯';
+
   try {
     const resp = await fetch('data/index.json?t=' + Date.now());
     if (!resp.ok) throw new Error('HTTP ' + resp.status);
     const data = await resp.json();
     loading.style.display = 'none';
 
-    const briefs = data.briefs || [];
+    const briefs = (data.briefs || []).filter(b => (b.date || '').startsWith(monthKey));
     if (!briefs.length) {
-      errBox.textContent = '暂无简报数据，请先运行 main.py 生成。';
-      errBox.style.display = 'block';
+      emptyBox.innerHTML = `本月暂无简报。可前往 <a href="archive.html">历史归档</a> 查看往期内容。`;
+      emptyBox.style.display = 'block';
       return;
     }
 
-    list.innerHTML = briefs.map(b => {
-      const tags = (b.sources || []).map(s =>
-        `<span class="tag is-light is-small">${s}</span>`).join('');
-      const headline = b.headline
-        ? `<p class="is-size-6 has-text-weight-semibold mt-2 mb-1">${b.headline}</p>`
-        : '';
-      return `
-      <div class="column is-half">
-        <a href="brief.html?v=5&date=${b.date}" class="box brief-card is-block">
-          <div class="level is-mobile mb-1">
-            <div class="level-left">
-              <span class="title is-6 mb-0 has-text-grey">${b.display}</span>
-              <span class="tag is-info is-light is-small ml-2">8+4</span>
-            </div>
-            <div class="level-right">
-              <span class="tag is-dark is-rounded">${b.count} 条</span>
-            </div>
-          </div>
-          ${headline}
-          <div class="src-tags mt-2">${tags}</div>
-        </a>
-      </div>`;
-    }).join('');
+    list.innerHTML = briefs.map(renderBriefCard).join('');
   } catch (e) {
     loading.style.display = 'none';
     errBox.innerHTML = '加载失败：' + e.message +
