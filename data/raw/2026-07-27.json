@@ -1,0 +1,678 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27 07:02:08",
+  "total": 109,
+  "source_count": {
+    "澎湃": 29,
+    "联合早报": 24,
+    "IT之家": 30,
+    "36氪": 21,
+    "Solidot": 5
+  },
+  "sources": {
+    "澎湃": [
+      {
+        "title": "媒体：把价格压到1毛多？爱心西瓜不容流量收割",
+        "link": "",
+        "pub_time": 1785048275.617,
+        "pub_display": "07-26 14:44"
+      },
+      {
+        "title": "Kimi K3再引关注，瑞银：中国模型的结构性成本优势有望长期保持",
+        "link": "",
+        "pub_time": 1785022420.458,
+        "pub_display": "07-26 07:33"
+      },
+      {
+        "title": "大爆《三国》撤档，两部高分动画的 “冰与火”",
+        "link": "",
+        "pub_time": 1785027548.107,
+        "pub_display": "07-26 08:59"
+      },
+      {
+        "title": "甘肃渭源山洪发生前市、县曾发气象预警，目前救援处置工作仍在进行",
+        "link": "",
+        "pub_time": 1785073129.485,
+        "pub_display": "07-26 21:38"
+      },
+      {
+        "title": "找准定位：多省份明确政府投资基金重点投资方向",
+        "link": "",
+        "pub_time": 1785039021.187,
+        "pub_display": "07-26 12:10"
+      },
+      {
+        "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
+        "link": "",
+        "pub_time": 1785030444.867,
+        "pub_display": "07-26 09:47"
+      },
+      {
+        "title": "究竟丨付费学员投资亏损，任泽平“不荐股”声明能否免责？",
+        "link": "",
+        "pub_time": 1785035088.61,
+        "pub_display": "07-26 11:04"
+      },
+      {
+        "title": "深观察｜从哪吒到八仙，为什么现代人仍然需要神话",
+        "link": "",
+        "pub_time": 1785044770.151,
+        "pub_display": "07-26 13:46"
+      },
+      {
+        "title": "极氪再回应“境外锁车”：正在开发“跨境守护功能开关”，默认关闭状态",
+        "link": "",
+        "pub_time": 1785049042.303,
+        "pub_display": "07-26 14:57"
+      },
+      {
+        "title": "菲律宾拉拢域外国家组织所谓“联合巡航”，南部战区发声",
+        "link": "",
+        "pub_time": 1785056723.437,
+        "pub_display": "07-26 17:05"
+      },
+      {
+        "title": "甘肃白银警方侦破一起16年前的命案，4名嫌犯落网",
+        "link": "",
+        "pub_time": 1785034233.213,
+        "pub_display": "07-26 10:50"
+      },
+      {
+        "title": "视频丨甘肃渭源一景区发生山洪灾害，已致10人遇难23人受伤",
+        "link": "",
+        "pub_time": 1785060764.98,
+        "pub_display": "07-26 18:12"
+      },
+      {
+        "title": "极氪回应境外锁车事件并公布调整方案，此前有车主反映自驾出国遭远程锁车超30小时",
+        "link": "",
+        "pub_time": 1785039894.683,
+        "pub_display": "07-26 12:24"
+      },
+      {
+        "title": "经纬度：推动房地产高质量发展，构建房地产发展新模式",
+        "link": "",
+        "pub_time": 1785059590.864,
+        "pub_display": "07-26 17:53"
+      },
+      {
+        "title": "甘肃省渭源县一景区发生山洪灾害，已造成3人遇难",
+        "link": "",
+        "pub_time": 1785058910.822,
+        "pub_display": "07-26 17:41"
+      },
+      {
+        "title": "输掉德比大战，斯卢茨基被申花球迷喊下课",
+        "link": "",
+        "pub_time": 1785027424.002,
+        "pub_display": "07-26 08:57"
+      },
+      {
+        "title": "两万斤河南滞销西瓜进入复旦，免费送给学生",
+        "link": "",
+        "pub_time": 1785064019.172,
+        "pub_display": "07-26 19:06"
+      },
+      {
+        "title": "台风“红霞”登陆惠州，志愿者偶遇风中骑摩托车的市民，主动表示：“我送你回家”",
+        "link": "",
+        "pub_time": 1785055130.043,
+        "pub_display": "07-26 16:38"
+      },
+      {
+        "title": "甘肃渭源一景区发生山洪，已致10死23伤",
+        "link": "",
+        "pub_time": 1785062358.61,
+        "pub_display": "07-26 18:39"
+      },
+      {
+        "title": "有毒“养生神药”曝光后，安徽亳州已成立调查组",
+        "link": "",
+        "pub_time": 1785096274.952,
+        "pub_display": "07-27 04:04"
+      },
+      {
+        "title": "德国柏林车辆冲撞人群事件嫌疑人被警方击毙",
+        "link": "",
+        "pub_time": 1785093622.198,
+        "pub_display": "07-27 03:20"
+      },
+      {
+        "title": "南海搜救持续进行，中国海警夜间再救起2名越南遇险船员",
+        "link": "",
+        "pub_time": 1785087087.468,
+        "pub_display": "07-27 01:31"
+      },
+      {
+        "title": "以总理：此次访美旨在了解美总统对伊朗问题的想法",
+        "link": "",
+        "pub_time": 1785081813.9,
+        "pub_display": "07-27 00:03"
+      },
+      {
+        "title": "国际观察丨乌克兰袭击伊朗商船，双方缘何对抗升级？",
+        "link": "",
+        "pub_time": 1785080953.822,
+        "pub_display": "07-26 23:49"
+      },
+      {
+        "title": "越南籍船舶南沙海域沉没，中方已向越转交41名获救人员",
+        "link": "",
+        "pub_time": 1785077726.639,
+        "pub_display": "07-26 22:55"
+      },
+      {
+        "title": "南部战区海军组织力量紧急救援越南籍遇险船舶",
+        "link": "",
+        "pub_time": 1785073487.432,
+        "pub_display": "07-26 21:44"
+      },
+      {
+        "title": "甘肃渭源山洪发生前市、县曾发气象预警，目前救援处置工作仍在进行",
+        "link": "",
+        "pub_time": 1785073129.485,
+        "pub_display": "07-26 21:38"
+      },
+      {
+        "title": "“全国杰出青年法学家”宋亚辉加盟北京大学法学院",
+        "link": "",
+        "pub_time": 1785072429.134,
+        "pub_display": "07-26 21:27"
+      },
+      {
+        "title": "雪邦赛道重返F1，新赛事名为“F1巴林大奖赛马来西亚站”",
+        "link": "",
+        "pub_time": 1785072316.706,
+        "pub_display": "07-26 21:25"
+      }
+    ],
+    "联合早报": [
+      {
+        "title": "戴庆成：特朗普11月会访问香港么？",
+        "link": "https://www.zaobao.com/news/china/story20260727-9422678",
+        "pub_time": 1785070800.0,
+        "pub_display": "07-26 21:00"
+      },
+      {
+        "title": "中国官媒不点名反驳日本外长说法 两国外长有无接触成罗生门",
+        "link": "https://www.zaobao.com/news/china/story20260726-9423696",
+        "pub_time": 1785052461.0,
+        "pub_display": "07-26 15:54"
+      },
+      {
+        "title": "美国扩大对华科研合作黑名单 复旦和上海交通大学上榜",
+        "link": "https://www.zaobao.com/news/china/story20260726-9423583",
+        "pub_time": 1785050850.0,
+        "pub_display": "07-26 15:27"
+      },
+      {
+        "title": "供需错配需求萎缩 中国光伏三巨头合计预计亏逾百亿人民币",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422377",
+        "pub_time": 1785044533.0,
+        "pub_display": "07-26 13:42"
+      },
+      {
+        "title": "台湾发生5.6级地震 台北新北震感明显",
+        "link": "https://www.zaobao.com/news/china/story20260726-9423471",
+        "pub_time": 1785041756.0,
+        "pub_display": "07-26 12:55"
+      },
+      {
+        "title": "特稿：从严防死守到探索边界 中国大学AI攻防战转向？",
+        "link": "https://www.zaobao.com/news/china/story20260726-9340468",
+        "pub_time": 1785038419.0,
+        "pub_display": "07-26 12:00"
+      },
+      {
+        "title": "三韩国人向中企泄露OLED技术 分别获刑一年至五年",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422409",
+        "pub_time": 1785034860.0,
+        "pub_display": "07-26 11:01"
+      },
+      {
+        "title": "习近平：中国和马尔代夫友好交往源远流长",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422215",
+        "pub_time": 1785033000.0,
+        "pub_display": "07-26 10:30"
+      },
+      {
+        "title": "甘肃一景区山洪致10人遇难23人受伤",
+        "link": "https://www.zaobao.com/news/china/story20260726-9423017",
+        "pub_time": 1785032908.0,
+        "pub_display": "07-26 10:28"
+      },
+      {
+        "title": "指菲拉拢域外国家破坏地区稳定 解放军南中国海巡航",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422799",
+        "pub_time": 1785029410.0,
+        "pub_display": "07-26 09:30"
+      },
+      {
+        "title": "中国车企奇瑞表态不再参加行业内卷",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422774",
+        "pub_time": 1785029101.0,
+        "pub_display": "07-26 09:25"
+      },
+      {
+        "title": "厦门法院辟谣LV因小区外墙雕花起诉楼盘",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422679",
+        "pub_time": 1785027620.0,
+        "pub_display": "07-26 09:00"
+      },
+      {
+        "title": "台湾民众党前立委蔡壁如赴佛光山短期出家",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422537",
+        "pub_time": 1785025850.0,
+        "pub_display": "07-26 08:30"
+      },
+      {
+        "title": "中国红树林面积较世纪初增加44%",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422512",
+        "pub_time": 1785025488.0,
+        "pub_display": "07-26 08:24"
+      },
+      {
+        "title": "港媒：夏宝龙与议员会面五小时 提醒议员维护议会形象",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422434",
+        "pub_time": 1785024484.0,
+        "pub_display": "07-26 08:08"
+      },
+      {
+        "title": "中国将播钓鱼岛纪录片 强调“自古以来是中国领土”",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422353",
+        "pub_time": 1785023104.0,
+        "pub_display": "07-26 07:45"
+      },
+      {
+        "title": "香港准宠物狗入店两周 31家餐厅退出试行",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422137",
+        "pub_time": 1785021660.0,
+        "pub_display": "07-26 07:21"
+      },
+      {
+        "title": "车主自驾出境被“锁车”30多小时 极氪：将优化跨境用车规则",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422118",
+        "pub_time": 1785019489.0,
+        "pub_display": "07-26 06:44"
+      },
+      {
+        "title": "中国指日右翼势力AI篡改侵华历史 可能污染大模型数据",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422066",
+        "pub_time": 1785018493.0,
+        "pub_display": "07-26 06:28"
+      },
+      {
+        "title": "2028蓝白合只推副手？ 柯文哲：说不定民众党人选更强",
+        "link": "https://www.zaobao.com/news/china/story20260726-9422015",
+        "pub_time": 1785017402.0,
+        "pub_display": "07-26 06:10"
+      },
+      {
+        "title": "上交大医学院成立工作组调查基因编辑疗法致死事件",
+        "link": "https://www.zaobao.com/news/china/story20260726-9421938",
+        "pub_time": 1785015312.0,
+        "pub_display": "07-26 05:35"
+      },
+      {
+        "title": "郑丽文谈参选总统：不自我设限 保留所有可能",
+        "link": "https://www.zaobao.com/news/china/story20260726-9421695",
+        "pub_time": 1785015240.0,
+        "pub_display": "07-26 05:34"
+      },
+      {
+        "title": "LV将厦门一楼盘告上法庭 指四叶草装饰攀附品牌",
+        "link": "https://www.zaobao.com/news/china/story20260726-9421648",
+        "pub_time": 1785013500.0,
+        "pub_display": "07-26 05:05"
+      },
+      {
+        "title": "港议员赴京研修采访受限 立法会主席：遵循一贯做法",
+        "link": "https://www.zaobao.com/news/china/story20260726-9421519",
+        "pub_time": 1785011640.0,
+        "pub_display": "07-26 04:34"
+      }
+    ],
+    "IT之家": [
+      {
+        "title": "古尔曼：苹果 Apple Upgrade 设备租赁计划预计明天在美国上线，覆盖 iPhone / Mac 等多款产品",
+        "link": "https://www.ithome.com/0/981/815.htm",
+        "pub_time": 1785077039.0,
+        "pub_display": "07-26 22:43"
+      },
+      {
+        "title": "国产科幻电影《群星闪耀时》上映 2 天宣布撤档，豆瓣评分 7.5",
+        "link": "https://www.ithome.com/0/981/814.htm",
+        "pub_time": 1785051331.0,
+        "pub_display": "07-26 15:35"
+      },
+      {
+        "title": "中国工程院外籍院士赫尔佐格：AI 下一个突破口是小型智能体协作",
+        "link": "https://www.ithome.com/0/981/813.htm",
+        "pub_time": 1785050730.0,
+        "pub_display": "07-26 15:25"
+      },
+      {
+        "title": "商务部：享受汽车以旧换新补贴的新能源车占比逐步提升，6 月达 65.4%",
+        "link": "https://www.ithome.com/0/981/812.htm",
+        "pub_time": 1785048504.0,
+        "pub_display": "07-26 14:48"
+      },
+      {
+        "title": "古尔曼：苹果智能眼镜计划最早在明年 WWDC27 上亮相、同年秋季发布，隐私保护是重中之重",
+        "link": "https://www.ithome.com/0/981/811.htm",
+        "pub_time": 1785048101.0,
+        "pub_display": "07-26 14:41"
+      },
+      {
+        "title": "BIGME 大我 B7 Pro 彩色墨水屏电纸书新增“8+128GB”版本，2299 元",
+        "link": "https://www.ithome.com/0/981/810.htm",
+        "pub_time": 1785047111.0,
+        "pub_display": "07-26 14:25"
+      },
+      {
+        "title": "雷神“JQ27F280L”27 英寸 2K 280Hz 显示器开售，1110 元",
+        "link": "https://www.ithome.com/0/981/808.htm",
+        "pub_time": 1785046521.0,
+        "pub_display": "07-26 14:15"
+      },
+      {
+        "title": "微软将为“XBOX 向下兼容功能”引入的初代 XBOX 游戏添加成就系统",
+        "link": "https://www.ithome.com/0/981/807.htm",
+        "pub_time": 1785046294.0,
+        "pub_display": "07-26 14:11"
+      },
+      {
+        "title": "国产科幻电影《群星闪耀时》导演章笛沙：2019 年看完《流浪地球》后深受鼓舞",
+        "link": "https://www.ithome.com/0/981/806.htm",
+        "pub_time": 1785046214.0,
+        "pub_display": "07-26 14:10"
+      },
+      {
+        "title": "蔡司半导体制造技术在德国总部扩建 2.5 万平方米，办公楼本月启用",
+        "link": "https://www.ithome.com/0/981/805.htm",
+        "pub_time": 1785045256.0,
+        "pub_display": "07-26 13:54"
+      },
+      {
+        "title": "宁德时代：587Ah 储能大电芯已实现规模化交付，今明年储能市场仍将保持较快速增长",
+        "link": "https://www.ithome.com/0/981/804.htm",
+        "pub_time": 1785044816.0,
+        "pub_display": "07-26 13:46"
+      },
+      {
+        "title": "俄罗斯“联盟 MS-28”飞船搭载美俄宇航员返回地球，完成 8 个月国际空间站驻留",
+        "link": "https://www.ithome.com/0/981/803.htm",
+        "pub_time": 1785044054.0,
+        "pub_display": "07-26 13:34"
+      },
+      {
+        "title": "HKC 推出“猎鹰 24Q260”23.8 英寸显示器：2K 260Hz，999 元",
+        "link": "https://www.ithome.com/0/981/802.htm",
+        "pub_time": 1785043943.0,
+        "pub_display": "07-26 13:32"
+      },
+      {
+        "title": "上纬新材子公司启元新创落户上海，计划每年推出不少于 2 款全新消费级机器人",
+        "link": "https://www.ithome.com/0/981/801.htm",
+        "pub_time": 1785043418.0,
+        "pub_display": "07-26 13:23"
+      },
+      {
+        "title": "vivo X300 E 手机完整规格曝光：6.59 英寸 1.5K OLED 面板、骁龙 8 Gen 5 处理器",
+        "link": "https://www.ithome.com/0/981/800.htm",
+        "pub_time": 1785043300.0,
+        "pub_display": "07-26 13:21"
+      },
+      {
+        "title": "19.99 万元起，宝马摩托推出全新 BMW R 12 S、R 1300 GS 探险版自动挡、R 1300 RT Option 719 版",
+        "link": "https://www.ithome.com/0/981/799.htm",
+        "pub_time": 1785043037.0,
+        "pub_display": "07-26 13:17"
+      },
+      {
+        "title": "消息称 OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋马斯克公开反对",
+        "link": "https://www.ithome.com/0/981/797.htm",
+        "pub_time": 1785041668.0,
+        "pub_display": "07-26 12:54"
+      },
+      {
+        "title": "惠普 Z1 G1i 图形工作站新增“Ultra 5 235 + 16G + 512G”版本，7729 元",
+        "link": "https://www.ithome.com/0/981/796.htm",
+        "pub_time": 1785041412.0,
+        "pub_display": "07-26 12:50"
+      },
+      {
+        "title": "赛睿 Rival Pro (Mini) 鼠标“证件照”亮相，确认搭载 UWB 技术",
+        "link": "https://www.ithome.com/0/981/795.htm",
+        "pub_time": 1785040687.0,
+        "pub_display": "07-26 12:38"
+      },
+      {
+        "title": "Steam 动作新游《愚灵》正式发售，首发价 35.91 元",
+        "link": "https://www.ithome.com/0/980/341.htm",
+        "pub_time": 1785040650.0,
+        "pub_display": "07-26 12:37"
+      },
+      {
+        "title": "小米详解 YU7 GT 武士黑哑光车漆：纯黑色浆为基底，通过耐久、机械性能测试",
+        "link": "https://www.ithome.com/0/981/794.htm",
+        "pub_time": 1785040028.0,
+        "pub_display": "07-26 12:27"
+      },
+      {
+        "title": "中国科学院首次合成新型二维材料镧系 MXene，兼具半导体特性和铁磁性",
+        "link": "https://www.ithome.com/0/981/793.htm",
+        "pub_time": 1785040016.0,
+        "pub_display": "07-26 12:26"
+      },
+      {
+        "title": "HKC“25Q300A”24.5 英寸显示器发售：2K 300Hz，1367 元",
+        "link": "https://www.ithome.com/0/981/791.htm",
+        "pub_time": 1785039321.0,
+        "pub_display": "07-26 12:15"
+      },
+      {
+        "title": "国内首款：TP200 大型多功能长航时无人机首飞成功，满载续航时间超 24 小时",
+        "link": "https://www.ithome.com/0/981/790.htm",
+        "pub_time": 1785038668.0,
+        "pub_display": "07-26 12:04"
+      },
+      {
+        "title": "微信输入法 1.0.0 for HarmonyOS 鸿蒙版上线官网，支持文字整理、跨设备复制粘贴图片等",
+        "link": "https://www.ithome.com/0/981/789.htm",
+        "pub_time": 1785038467.0,
+        "pub_display": "07-26 12:01"
+      },
+      {
+        "title": "零零科技预热新款 HOVERAir 系列无人机，引入模块化设计",
+        "link": "https://www.ithome.com/0/981/788.htm",
+        "pub_time": 1785038116.0,
+        "pub_display": "07-26 11:55"
+      },
+      {
+        "title": "SK 集团与英伟达达成 5000 亿美元合作，2027 年上线首个 AI 工厂",
+        "link": "https://www.ithome.com/0/981/787.htm",
+        "pub_time": 1785037777.0,
+        "pub_display": "07-26 11:49"
+      },
+      {
+        "title": "开发者推出防 AI 训练图片干扰工具，意外催生“抖动视觉风格”梗图创作潮流",
+        "link": "https://www.ithome.com/0/981/786.htm",
+        "pub_time": 1785037541.0,
+        "pub_display": "07-26 11:45"
+      },
+      {
+        "title": "SHEIN 希音通过港交所上市聆讯，有望成为 2026 年港股规模最大的跨境电商 IPO",
+        "link": "https://www.ithome.com/0/981/785.htm",
+        "pub_time": 1785036987.0,
+        "pub_display": "07-26 11:36"
+      },
+      {
+        "title": "网友脑洞大开设计创意程序，用苹果 AirPods“挥鞭抽打”AI 加速运行",
+        "link": "https://www.ithome.com/0/981/783.htm",
+        "pub_time": 1785035006.0,
+        "pub_display": "07-26 11:03"
+      }
+    ],
+    "36氪": [
+      {
+        "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+        "link": "https://36kr.com/p/3911162147640456?f=rss",
+        "pub_time": 1784998800.0,
+        "pub_display": "07-26 01:00"
+      },
+      {
+        "title": "港交所新规生效，科技企业上市门槛再降低",
+        "link": "https://36kr.com/newsflashes/3913064367904137?f=rss",
+        "pub_time": 1785078001.0,
+        "pub_display": "07-26 23:00"
+      },
+      {
+        "title": "希音披露聆讯后资料集：2025年营收418亿美元",
+        "link": "https://36kr.com/newsflashes/3912399333676422?f=rss",
+        "pub_time": 1785037104.0,
+        "pub_display": "07-26 11:38"
+      },
+      {
+        "title": "湖北能源：江陵电厂二期项目全面建成投产",
+        "link": "https://36kr.com/newsflashes/3912223423731074?f=rss",
+        "pub_time": 1785026367.0,
+        "pub_display": "07-26 08:39"
+      },
+      {
+        "title": "马斯克警告SpaceX空头风险",
+        "link": "https://36kr.com/newsflashes/3912221918107015?f=rss",
+        "pub_time": 1785026276.0,
+        "pub_display": "07-26 08:37"
+      },
+      {
+        "title": "百利天恒：注射用T-Bren治疗胆道癌III期临床试验完成首例受试者入组",
+        "link": "https://36kr.com/newsflashes/3912220595017093?f=rss",
+        "pub_time": 1785026195.0,
+        "pub_display": "07-26 08:36"
+      },
+      {
+        "title": "新点软件：预计上半年净亏损6302.10万元",
+        "link": "https://36kr.com/newsflashes/3912184409396353?f=rss",
+        "pub_time": 1785023986.0,
+        "pub_display": "07-26 07:59"
+      },
+      {
+        "title": "*ST元道：公司股票可能因市值低于3亿元被终止上市",
+        "link": "https://36kr.com/newsflashes/3912183328347269?f=rss",
+        "pub_time": 1785023920.0,
+        "pub_display": "07-26 07:58"
+      },
+      {
+        "title": "LV因楼盘外立面装饰侵权起诉开发商？法院回应来了",
+        "link": "https://36kr.com/newsflashes/3912182569178500?f=rss",
+        "pub_time": 1785023874.0,
+        "pub_display": "07-26 07:57"
+      },
+      {
+        "title": "亿田智能：子公司拟不超20亿元采购服务器及配套设备，为客户提供算力服务",
+        "link": "https://36kr.com/newsflashes/3912181723518084?f=rss",
+        "pub_time": 1785023822.0,
+        "pub_display": "07-26 07:57"
+      },
+      {
+        "title": "福特公司召回超56万辆汽车",
+        "link": "https://36kr.com/newsflashes/3912150835680647?f=rss",
+        "pub_time": 1785021937.0,
+        "pub_display": "07-26 07:25"
+      },
+      {
+        "title": "2026年暑期档电影票房已破55亿元，超去年同期10亿元",
+        "link": "https://36kr.com/newsflashes/3912149968409736?f=rss",
+        "pub_time": 1785021884.0,
+        "pub_display": "07-26 07:24"
+      },
+      {
+        "title": "三部门调拨2.5万件物资支持粤赣湘等地救灾救助工作",
+        "link": "https://36kr.com/newsflashes/3912149644727683?f=rss",
+        "pub_time": 1785021864.0,
+        "pub_display": "07-26 07:24"
+      },
+      {
+        "title": "沪市一周新增增持回购计划最高158亿元，年内金额上限776亿元",
+        "link": "https://36kr.com/newsflashes/3912147209983368?f=rss",
+        "pub_time": 1785021716.0,
+        "pub_display": "07-26 07:21"
+      },
+      {
+        "title": "本周9股南向资金持股量环比增长超15%",
+        "link": "https://36kr.com/newsflashes/3912144908555649?f=rss",
+        "pub_time": 1785021575.0,
+        "pub_display": "07-26 07:19"
+      },
+      {
+        "title": "福特公司召回超56万辆汽车",
+        "link": "https://36kr.com/newsflashes/3912077033886854?f=rss",
+        "pub_time": 1785017433.0,
+        "pub_display": "07-26 06:10"
+      },
+      {
+        "title": "三星李在镕与OpenAI据悉磋商人工智能与半导体领域合作方案",
+        "link": "https://36kr.com/newsflashes/3912076178789766?f=rss",
+        "pub_time": 1785017380.0,
+        "pub_display": "07-26 06:09"
+      },
+      {
+        "title": "上海交大医学院：针对仇某某发表医学论文及新华医院开展临床研究事件，进行全面调查",
+        "link": "https://36kr.com/newsflashes/3912074565309576?f=rss",
+        "pub_time": 1785017282.0,
+        "pub_display": "07-26 06:08"
+      },
+      {
+        "title": "电影《八仙！》实时票房破7亿",
+        "link": "https://36kr.com/newsflashes/3912073660830851?f=rss",
+        "pub_time": 1785017227.0,
+        "pub_display": "07-26 06:07"
+      },
+      {
+        "title": "月之暗面Kimi K3庆功照流出，张予彤疑现身，喊出“冲上月球”口号",
+        "link": "https://36kr.com/newsflashes/3911981562270848?f=rss",
+        "pub_time": 1785011605.0,
+        "pub_display": "07-26 04:33"
+      },
+      {
+        "title": "我国蜂群无人机首次实现台风过境全程立体观测",
+        "link": "https://36kr.com/newsflashes/3911980822091137?f=rss",
+        "pub_time": 1785011560.0,
+        "pub_display": "07-26 04:32"
+      }
+    ],
+    "Solidot": [
+      {
+        "title": "社区爱好者给 Scratch 引入了 AI 编程助手",
+        "link": "https://www.solidot.org/story?sid=84927",
+        "pub_time": 1785044831.0,
+        "pub_display": "07-26 13:47"
+      },
+      {
+        "title": "GrapheneOS 警告在胁迫下删除手机数据可能会有法律后果",
+        "link": "https://www.solidot.org/story?sid=84926",
+        "pub_time": 1785043022.0,
+        "pub_display": "07-26 13:17"
+      },
+      {
+        "title": "多家知名网站考虑彻底屏蔽 Google",
+        "link": "https://www.solidot.org/story?sid=84925",
+        "pub_time": 1785034663.0,
+        "pub_display": "07-26 10:57"
+      },
+      {
+        "title": "Cloudflare 将从 9 月 15 日起对新域名默认屏蔽 Google 爬虫",
+        "link": "https://www.solidot.org/story?sid=84924",
+        "pub_time": 1785033323.0,
+        "pub_display": "07-26 10:35"
+      },
+      {
+        "title": "苹果改编的《神经漫游者》将于明年 1 月上映",
+        "link": "https://www.solidot.org/story?sid=84923",
+        "pub_time": 1785029191.0,
+        "pub_display": "07-26 09:26"
+      }
+    ]
+  }
+}
