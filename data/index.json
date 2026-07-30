@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-30 07:01:10",
-  "total": 19,
+  "updated_at": "2026-07-31 07:11:34",
+  "total": 20,
   "briefs": [
+    {
+      "date": "2026-07-31",
+      "display": "2026年07月31日 星期五",
+      "series": "科技资讯",
+      "headline": "OpenAI 降价 80%，小米新车搭载骁龙 8 与英伟达 Thor",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-07-30",
       "display": "2026年07月30日 星期四",
