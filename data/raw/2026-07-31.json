@@ -1,0 +1,597 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31 07:11:34",
+  "total": 96,
+  "source_count": {
+    "澎湃": 30,
+    "IT之家": 30,
+    "36氪": 26,
+    "Solidot": 10
+  },
+  "sources": {
+    "澎湃": [
+      {
+        "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
+        "link": "",
+        "pub_time": 1785393459.121,
+        "pub_display": "07-30 14:37"
+      },
+      {
+        "title": "“逐浪·共生”2026外滩新媒体年会即将举行，议程抢先看",
+        "link": "",
+        "pub_time": 1785367582.136,
+        "pub_display": "07-30 07:26"
+      },
+      {
+        "title": "陕西文旅厅：不存在“伪史论者”电话骚扰要求拆唐朝古迹情况，将调查追责",
+        "link": "",
+        "pub_time": 1785398761.769,
+        "pub_display": "07-30 16:06"
+      },
+      {
+        "title": "近844克黄金被扣押36年：男子申请返还被驳回，烟台中院组织质证",
+        "link": "",
+        "pub_time": 1785381624.877,
+        "pub_display": "07-30 11:20"
+      },
+      {
+        "title": "马上评｜“唐朝不存在”？伪史论的歪风一定要刹住",
+        "link": "",
+        "pub_time": 1785389909.654,
+        "pub_display": "07-30 13:38"
+      },
+      {
+        "title": "宇树科技：8月10日打新",
+        "link": "",
+        "pub_time": 1785417743.073,
+        "pub_display": "07-30 21:22"
+      },
+      {
+        "title": "102岁八路军老战士武汉安逝世，解放上海时荣获“战斗英雄”",
+        "link": "",
+        "pub_time": 1785384312.651,
+        "pub_display": "07-30 12:05"
+      },
+      {
+        "title": "专访｜足球青训“野路子”董路：只看实战，我从不按教材训练",
+        "link": "",
+        "pub_time": 1785367806.06,
+        "pub_display": "07-30 07:30"
+      },
+      {
+        "title": "智驾“小蓝灯”迎来管控！灯光滥用易引发安全风险，新标准正在修订",
+        "link": "",
+        "pub_time": 1785382511.505,
+        "pub_display": "07-30 11:35"
+      },
+      {
+        "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
+        "link": "",
+        "pub_time": 1785414390.622,
+        "pub_display": "07-30 20:26"
+      },
+      {
+        "title": "大一学生夹带6张“小抄”考科目一当场被抓：罚款2000元，禁考一年",
+        "link": "",
+        "pub_time": 1785380925.573,
+        "pub_display": "07-30 11:08"
+      },
+      {
+        "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+        "link": "",
+        "pub_time": 1785396006.412,
+        "pub_display": "07-30 15:20"
+      },
+      {
+        "title": "台称解放军直升机过所谓“台海中线”长时间活动，国防部答澎湃：天经地义",
+        "link": "",
+        "pub_time": 1785397326.649,
+        "pub_display": "07-30 15:42"
+      },
+      {
+        "title": "一图世界｜七人角逐下任联合国秘书长，这次有何不同？",
+        "link": "",
+        "pub_time": 1785394894.877,
+        "pub_display": "07-30 15:01"
+      },
+      {
+        "title": "“祖辈所种百年古树被扣押后遭转赠”，官方已成立专项工作组核查",
+        "link": "",
+        "pub_time": 1785405267.523,
+        "pub_display": "07-30 17:54"
+      },
+      {
+        "title": "美联储按兵不动，遭遇3张反对票、主张加息25个基点（附声明全文）",
+        "link": "",
+        "pub_time": 1785367402.078,
+        "pub_display": "07-30 07:23"
+      },
+      {
+        "title": "刘国洪任自然资源部党组书记",
+        "link": "",
+        "pub_time": 1785412162.035,
+        "pub_display": "07-30 19:49"
+      },
+      {
+        "title": "经纬度：合肥究竟“合”对了什么",
+        "link": "",
+        "pub_time": 1785368580.407,
+        "pub_display": "07-30 07:43"
+      },
+      {
+        "title": "从大歌剧院到“大巨蛋”，上海如何迈向“亚洲演艺之都”",
+        "link": "",
+        "pub_time": 1785368069.834,
+        "pub_display": "07-30 07:34"
+      },
+      {
+        "title": "马上评｜看见菲尔兹奖背后的纯粹与热爱",
+        "link": "",
+        "pub_time": 1785370823.165,
+        "pub_display": "07-30 08:20"
+      },
+      {
+        "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+        "link": "",
+        "pub_time": 1785451550.229,
+        "pub_display": "07-31 06:45"
+      },
+      {
+        "title": "安理会举行联合国秘书长遴选首轮意向性投票",
+        "link": "",
+        "pub_time": 1785447575.088,
+        "pub_display": "07-31 05:39"
+      },
+      {
+        "title": "欧足联宣布抵制所有国际足联赛事",
+        "link": "",
+        "pub_time": 1785446778.379,
+        "pub_display": "07-31 05:26"
+      },
+      {
+        "title": "重庆彭水山体崩塌灾害找到并确认51人遇难，仍有10名失联人员",
+        "link": "",
+        "pub_time": 1785424241.411,
+        "pub_display": "07-30 23:10"
+      },
+      {
+        "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+        "link": "",
+        "pub_time": 1785423314.407,
+        "pub_display": "07-30 22:55"
+      },
+      {
+        "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+        "link": "",
+        "pub_time": 1785422185.977,
+        "pub_display": "07-30 22:36"
+      },
+      {
+        "title": "在科技事业最前沿，他们何以“最美”？",
+        "link": "",
+        "pub_time": 1785418525.191,
+        "pub_display": "07-30 21:35"
+      },
+      {
+        "title": "国际油价震荡走高，国内成品油价格即将迎来年内第十涨",
+        "link": "",
+        "pub_time": 1785418016.654,
+        "pub_display": "07-30 21:26"
+      },
+      {
+        "title": "宇树科技：8月10日打新",
+        "link": "",
+        "pub_time": 1785417743.073,
+        "pub_display": "07-30 21:22"
+      },
+      {
+        "title": "政治局会议深读｜九大信号：宏观政策要发力提效，务实管用的增量政策可期",
+        "link": "",
+        "pub_time": 1785416487.285,
+        "pub_display": "07-30 21:01"
+      }
+    ],
+    "IT之家": [
+      {
+        "title": "最后一次以 CEO 身份参会后，苹果库克确认特努斯将接任财报电话会议主持人",
+        "link": "https://www.ithome.com/0/983/914.htm",
+        "pub_time": 1785423905.0,
+        "pub_display": "07-30 23:05"
+      },
+      {
+        "title": "亚马逊 2026 财年第二财季归母净利润 626.47 亿美元，同比增长 244.90%",
+        "link": "https://www.ithome.com/0/983/909.htm",
+        "pub_time": 1785423581.0,
+        "pub_display": "07-30 22:59"
+      },
+      {
+        "title": "降价 80%！OpenAI 下调 GPT-5.6 Luna 模型费用，性价比超 DeepSeek V4 Pro",
+        "link": "https://www.ithome.com/0/983/912.htm",
+        "pub_time": 1785423526.0,
+        "pub_display": "07-30 22:58"
+      },
+      {
+        "title": "消息称 iPhone 18 Pro 将混用苹果 C2 / 高通基带，国行机型有望用上实体 SIM+eSIM",
+        "link": "https://www.ithome.com/0/983/911.htm",
+        "pub_time": 1785422816.0,
+        "pub_display": "07-30 22:46"
+      },
+      {
+        "title": "苹果 2026 财年第三财季归母净利润 297.89 亿美元同比增长 27.12%，大中华区收入 153.69 亿美元增长 22%",
+        "link": "https://www.ithome.com/0/983/910.htm",
+        "pub_time": 1785414903.0,
+        "pub_display": "07-30 20:35"
+      },
+      {
+        "title": "Reddit 2026 财年第二财季归母净利润 2.53 亿美元，同比增长 183%",
+        "link": "https://www.ithome.com/0/983/908.htm",
+        "pub_time": 1785413668.0,
+        "pub_display": "07-30 20:14"
+      },
+      {
+        "title": "Rivian 2026 财年第二财季归母亏损 8.33 亿美元，同比亏损收窄 25.43%",
+        "link": "https://www.ithome.com/0/983/907.htm",
+        "pub_time": 1785413178.0,
+        "pub_display": "07-30 20:06"
+      },
+      {
+        "title": "Epic 喜加二：《OTXO》《寻日之旅》游戏免费领取",
+        "link": "https://www.ithome.com/0/983/904.htm",
+        "pub_time": 1785395124.0,
+        "pub_display": "07-30 15:05"
+      },
+      {
+        "title": "自用还是出售赚钱？科技巨头面临 AI 算力分配难题",
+        "link": "https://www.ithome.com/0/983/906.htm",
+        "pub_time": 1785395531.0,
+        "pub_display": "07-30 15:12"
+      },
+      {
+        "title": "无需外接机顶盒，国家广电总局联合工信部召开一体化电视全国推广工作部署会",
+        "link": "https://www.ithome.com/0/983/905.htm",
+        "pub_time": 1785395390.0,
+        "pub_display": "07-30 15:09"
+      },
+      {
+        "title": "小米澎程系列技术发布会一文汇总：雷军详解昆仑架构，N90/N70 预售价亮眼",
+        "link": "https://www.ithome.com/0/983/903.htm",
+        "pub_time": 1785394142.0,
+        "pub_display": "07-30 14:49"
+      },
+      {
+        "title": "九号全新 M3 闪骑电摩开售：90km/h 极速，首发价 6699 元起",
+        "link": "https://www.ithome.com/0/983/902.htm",
+        "pub_time": 1785393198.0,
+        "pub_display": "07-30 14:33"
+      },
+      {
+        "title": "华为官宣小艺高分超出第 56 届国际物理奥林匹克竞赛理论金牌线",
+        "link": "https://www.ithome.com/0/983/901.htm",
+        "pub_time": 1785392855.0,
+        "pub_display": "07-30 14:27"
+      },
+      {
+        "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 首台量产车正式下线：标配华为乾崑智驾，8 月 10 日开启预售",
+        "link": "https://www.ithome.com/0/983/900.htm",
+        "pub_time": 1785392514.0,
+        "pub_display": "07-30 14:21"
+      },
+      {
+        "title": "法拉利 CEO：首款纯电车型 Luce 订单表现符合预期，公司十分满意",
+        "link": "https://www.ithome.com/0/983/899.htm",
+        "pub_time": 1785391917.0,
+        "pub_display": "07-30 14:11"
+      },
+      {
+        "title": "宇树科技上市新进展：初步询价日为 8 月 5 日，网下申购日为 8 月 10 日",
+        "link": "https://www.ithome.com/0/983/890.htm",
+        "pub_time": 1785390462.0,
+        "pub_display": "07-30 13:47"
+      },
+      {
+        "title": "鸿蒙智行智界 RX 路测车曝光，消息称该车也经历了数百万公里路测",
+        "link": "https://www.ithome.com/0/983/889.htm",
+        "pub_time": 1785390332.0,
+        "pub_display": "07-30 13:45"
+      },
+      {
+        "title": "2026 暑期档电影票房破 65 亿，漫威索尼《蜘蛛侠：崭新之日》跻身档期前五",
+        "link": "https://www.ithome.com/0/983/888.htm",
+        "pub_time": 1785389160.0,
+        "pub_display": "07-30 13:26"
+      },
+      {
+        "title": "百变空间首发体验，小米澎程N90 Max，把客厅搬到车里",
+        "link": "https://www.ithome.com/0/983/887.htm",
+        "pub_time": 1785388637.0,
+        "pub_display": "07-30 13:17"
+      },
+      {
+        "title": "SpaceX 猎鹰 9 号火箭下月撞击月球，科学家预计可观测到喷射羽流",
+        "link": "https://www.ithome.com/0/983/886.htm",
+        "pub_time": 1785388077.0,
+        "pub_display": "07-30 13:07"
+      },
+      {
+        "title": "经典 FPS IP 新作《突击风暴：零点》上架 Steam，免费抢先体验",
+        "link": "https://www.ithome.com/0/983/477.htm",
+        "pub_time": 1785387817.0,
+        "pub_display": "07-30 13:03"
+      },
+      {
+        "title": "小米澎程 N90/N70 车型 9 月发布，今晚 21:00 开启预订",
+        "link": "https://www.ithome.com/0/983/884.htm",
+        "pub_time": 1785387407.0,
+        "pub_display": "07-30 12:56"
+      },
+      {
+        "title": "25.99 万元！小米澎程 N70 Max 大五座四驱增程 SUV 预售价格公布",
+        "link": "https://www.ithome.com/0/983/883.htm",
+        "pub_time": 1785387065.0,
+        "pub_display": "07-30 12:51"
+      },
+      {
+        "title": "29.99 万元！小米澎程 N90 Max 增程 SUV 预售价格公布",
+        "link": "https://www.ithome.com/0/983/882.htm",
+        "pub_time": 1785386942.0,
+        "pub_display": "07-30 12:49"
+      },
+      {
+        "title": "华硕推出 2026 款破晓 7S 锐龙版笔记本：提供 14/16 英寸版本，R7 8840HS + 16G + 1T 售 6099 元起",
+        "link": "https://www.ithome.com/0/983/881.htm",
+        "pub_time": 1785386807.0,
+        "pub_display": "07-30 12:46"
+      },
+      {
+        "title": "小米澎程 N90 Max 具备最高 750mm 的涉水能力，紧急情况还能应急浮水脱困",
+        "link": "https://www.ithome.com/0/983/880.htm",
+        "pub_time": 1785386719.0,
+        "pub_display": "07-30 12:45"
+      },
+      {
+        "title": "研究：亚马逊、沃尔玛 AI 可识别“美国制造”虚假标签，却不予以标记",
+        "link": "https://www.ithome.com/0/983/879.htm",
+        "pub_time": 1785386560.0,
+        "pub_display": "07-30 12:42"
+      },
+      {
+        "title": "瑞萨电子推出第三代 DDR5 MRDIMM 芯片组解决方案，支持 16000MT/s",
+        "link": "https://www.ithome.com/0/983/877.htm",
+        "pub_time": 1785386434.0,
+        "pub_display": "07-30 12:40"
+      },
+      {
+        "title": "小米澎程新车官宣搭载第三代骁龙 8 移动平台 + 英伟达 Thor 辅助驾驶计算芯片",
+        "link": "https://www.ithome.com/0/983/876.htm",
+        "pub_time": 1785386225.0,
+        "pub_display": "07-30 12:37"
+      },
+      {
+        "title": "三星官方确认：Galaxy Tab S12 系列平板今年下半年发布",
+        "link": "https://www.ithome.com/0/983/875.htm",
+        "pub_time": 1785386087.0,
+        "pub_display": "07-30 12:34"
+      }
+    ],
+    "36氪": [
+      {
+        "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
+        "link": "https://36kr.com/p/3917972674735747?f=rss",
+        "pub_time": 1785390963.0,
+        "pub_display": "07-30 13:56"
+      },
+      {
+        "title": "和我们同龄，却提前告别的人",
+        "link": "https://36kr.com/p/3918001898073737?f=rss",
+        "pub_time": 1785379083.0,
+        "pub_display": "07-30 10:38"
+      },
+      {
+        "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
+        "link": "https://36kr.com/p/3917984470576769?f=rss",
+        "pub_time": 1785378374.0,
+        "pub_display": "07-30 10:26"
+      },
+      {
+        "title": "MORROR ART莫纳发布全透明歌词音响A2，“电子家居”布局更进一步丨最前线",
+        "link": "https://36kr.com/p/3917989583236738?f=rss",
+        "pub_time": 1785378323.0,
+        "pub_display": "07-30 10:25"
+      },
+      {
+        "title": "希音：一家时尚品牌包裹下的科技公司",
+        "link": "https://36kr.com/p/3917513813650824?f=rss",
+        "pub_time": 1785349361.0,
+        "pub_display": "07-30 02:22"
+      },
+      {
+        "title": "36氪首发｜本末科技前合伙人创业做电助力渔轮，获高瓴、启明创投联合投资",
+        "link": "https://36kr.com/p/3916820073623171?f=rss",
+        "pub_time": 1785344442.0,
+        "pub_display": "07-30 01:00"
+      },
+      {
+        "title": "Meta报告称未来支出承诺接近7000亿美元，涉及AI数据中心和云计算",
+        "link": "https://36kr.com/newsflashes/3918742688329097?f=rss",
+        "pub_time": 1785424272.0,
+        "pub_display": "07-30 23:11"
+      },
+      {
+        "title": "亚马逊第二季度净销售额2006.06亿美元，同比增长20%",
+        "link": "https://36kr.com/newsflashes/3918741926735234?f=rss",
+        "pub_time": 1785424225.0,
+        "pub_display": "07-30 23:10"
+      },
+      {
+        "title": "OpenAI下调GPT-5.6部分模型价格",
+        "link": "https://36kr.com/newsflashes/3918741589568905?f=rss",
+        "pub_time": 1785424205.0,
+        "pub_display": "07-30 23:10"
+      },
+      {
+        "title": "苹果：第三季度营收1094.17亿美元，同比增长16.4%",
+        "link": "https://36kr.com/newsflashes/3918739519549058?f=rss",
+        "pub_time": 1785424078.0,
+        "pub_display": "07-30 23:07"
+      },
+      {
+        "title": "美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
+        "link": "https://36kr.com/newsflashes/3918731884736133?f=rss",
+        "pub_time": 1785423612.0,
+        "pub_display": "07-30 23:00"
+      },
+      {
+        "title": "宇树科技：初步询价日为8月5日，网上网下申购日为8月10日",
+        "link": "https://36kr.com/newsflashes/3918161688505730?f=rss",
+        "pub_time": 1785388810.0,
+        "pub_display": "07-30 13:20"
+      },
+      {
+        "title": "小米汽车发布小米澎程N90 Max",
+        "link": "https://36kr.com/newsflashes/3918141653347718?f=rss",
+        "pub_time": 1785387588.0,
+        "pub_display": "07-30 12:59"
+      },
+      {
+        "title": "甲骨文、谷歌扩大合作伙伴关系",
+        "link": "https://36kr.com/newsflashes/3918140120100231?f=rss",
+        "pub_time": 1785387494.0,
+        "pub_display": "07-30 12:58"
+      },
+      {
+        "title": "亚马逊旗下Zoox获美监管机构临时豁免，可商业部署至多5000辆自动驾驶出租车",
+        "link": "https://36kr.com/newsflashes/3918139475668360?f=rss",
+        "pub_time": 1785387455.0,
+        "pub_display": "07-30 12:57"
+      },
+      {
+        "title": "热门中概股美股盘前涨跌不一，好未来涨超14%",
+        "link": "https://36kr.com/newsflashes/3918139163995529?f=rss",
+        "pub_time": 1785387436.0,
+        "pub_display": "07-30 12:57"
+      },
+      {
+        "title": "美股大型科技股盘前多数上涨，Arm涨超11%",
+        "link": "https://36kr.com/newsflashes/3918137515289993?f=rss",
+        "pub_time": 1785387335.0,
+        "pub_display": "07-30 12:55"
+      },
+      {
+        "title": "中际旭创：控股股东及其一致行动人持股比例下降1.46%",
+        "link": "https://36kr.com/newsflashes/3918134700387714?f=rss",
+        "pub_time": 1785387163.0,
+        "pub_display": "07-30 12:52"
+      },
+      {
+        "title": "美国第二季度实际GDP年化季率初值升1.5%",
+        "link": "https://36kr.com/newsflashes/3918130166082947?f=rss",
+        "pub_time": 1785386886.0,
+        "pub_display": "07-30 12:48"
+      },
+      {
+        "title": "雷军：小米澎程全系标配小米HAD，满配辅助驾驶",
+        "link": "https://36kr.com/newsflashes/3918128519540105?f=rss",
+        "pub_time": 1785386786.0,
+        "pub_display": "07-30 12:46"
+      },
+      {
+        "title": "小米辟谣“小蓝灯”“小米澎程F码”相关网传信息",
+        "link": "https://36kr.com/newsflashes/3918126651862662?f=rss",
+        "pub_time": 1785386672.0,
+        "pub_display": "07-30 12:44"
+      },
+      {
+        "title": "英国央行行长：没有证据表明出现二轮效应，但不应对此放松警惕",
+        "link": "https://36kr.com/newsflashes/3918122185010824?f=rss",
+        "pub_time": 1785386399.0,
+        "pub_display": "07-30 12:39"
+      },
+      {
+        "title": "美国6月核心PCE物价指数环比上涨0.1%",
+        "link": "https://36kr.com/newsflashes/3918119047523973?f=rss",
+        "pub_time": 1785386208.0,
+        "pub_display": "07-30 12:36"
+      },
+      {
+        "title": "美国上周初请失业金人数19.7万人",
+        "link": "https://36kr.com/newsflashes/3918116519423625?f=rss",
+        "pub_time": 1785386053.0,
+        "pub_display": "07-30 12:34"
+      },
+      {
+        "title": "沃尔核材：拟不超1.5亿港元回购H股股份",
+        "link": "https://36kr.com/newsflashes/3918111188102531?f=rss",
+        "pub_time": 1785385728.0,
+        "pub_display": "07-30 12:28"
+      },
+      {
+        "title": "小米正式推出龙甲电池体系",
+        "link": "https://36kr.com/newsflashes/3918105378762115?f=rss",
+        "pub_time": 1785385373.0,
+        "pub_display": "07-30 12:22"
+      }
+    ],
+    "Solidot": [
+      {
+        "title": "罗技在欧洲销售的新鼠标将可以更换电池",
+        "link": "https://www.solidot.org/story?sid=84969",
+        "pub_time": 1785400439.0,
+        "pub_display": "07-30 16:33"
+      },
+      {
+        "title": "中国煤炭发电量首次低于五成",
+        "link": "https://www.solidot.org/story?sid=84967",
+        "pub_time": 1785394587.0,
+        "pub_display": "07-30 14:56"
+      },
+      {
+        "title": "亚马孙文明在鼎盛时期可能有数百万人口",
+        "link": "https://www.solidot.org/story?sid=84966",
+        "pub_time": 1785391244.0,
+        "pub_display": "07-30 14:00"
+      },
+      {
+        "title": "微波油炸能让薯条更健康",
+        "link": "https://www.solidot.org/story?sid=84965",
+        "pub_time": 1785389010.0,
+        "pub_display": "07-30 13:23"
+      },
+      {
+        "title": "辣椒有助于减轻极端疼痛",
+        "link": "https://www.solidot.org/story?sid=84964",
+        "pub_time": 1785386527.0,
+        "pub_display": "07-30 12:42"
+      },
+      {
+        "title": "熊本地震导致当地半导体工厂停工",
+        "link": "https://www.solidot.org/story?sid=84963",
+        "pub_time": 1785373378.0,
+        "pub_display": "07-30 09:02"
+      },
+      {
+        "title": "日本人口 42 年来首次跌破 1.2 亿",
+        "link": "https://www.solidot.org/story?sid=84962",
+        "pub_time": 1785369028.0,
+        "pub_display": "07-30 07:50"
+      },
+      {
+        "title": "网信办发布反网暴法征求意见稿",
+        "link": "https://www.solidot.org/story?sid=84961",
+        "pub_time": 1785368620.0,
+        "pub_display": "07-30 07:43"
+      },
+      {
+        "title": "俄罗斯指控 Telegram 创始人协助恐怖主义活动",
+        "link": "https://www.solidot.org/story?sid=84960",
+        "pub_time": 1785363383.0,
+        "pub_display": "07-30 06:16"
+      },
+      {
+        "title": "顶尖 AI 初创公司很少发表论文",
+        "link": "https://www.solidot.org/story?sid=84959",
+        "pub_time": 1785361663.0,
+        "pub_display": "07-30 05:47"
+      }
+    ]
+  }
+}

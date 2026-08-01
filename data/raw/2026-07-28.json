@@ -1,0 +1,756 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28 07:06:14",
+  "total": 122,
+  "source_count": {
+    "澎湃": 30,
+    "联合早报": 24,
+    "IT之家": 30,
+    "36氪": 28,
+    "Solidot": 10
+  },
+  "sources": {
+    "澎湃": [
+      {
+        "title": "日本作家东野圭吾去世，终年68岁",
+        "link": "",
+        "pub_time": 1785136573.774,
+        "pub_display": "07-27 15:16"
+      },
+      {
+        "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
+        "link": "",
+        "pub_time": 1785118873.009,
+        "pub_display": "07-27 10:21"
+      },
+      {
+        "title": "马上评｜“小牌大耍”的底气到底是哪里来的",
+        "link": "",
+        "pub_time": 1785107835.827,
+        "pub_display": "07-27 07:17"
+      },
+      {
+        "title": "成都教育局回应“中考立定跳远等标准过高”：符合部委相关要求",
+        "link": "",
+        "pub_time": 1785108572.599,
+        "pub_display": "07-27 07:29"
+      },
+      {
+        "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
+        "link": "",
+        "pub_time": 1785116123.778,
+        "pub_display": "07-27 09:35"
+      },
+      {
+        "title": "经济日报：中国学者开出菲尔兹奖“双响”，欣喜之余亦需清醒看到不足",
+        "link": "",
+        "pub_time": 1785106854.786,
+        "pub_display": "07-27 07:00"
+      },
+      {
+        "title": "艺人李权哲就乘高铁占座致歉：没有仔细核实座位信息",
+        "link": "",
+        "pub_time": 1785118611.226,
+        "pub_display": "07-27 10:16"
+      },
+      {
+        "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+        "link": "",
+        "pub_time": 1785113837.866,
+        "pub_display": "07-27 08:57"
+      },
+      {
+        "title": "“肥牛片被检出鸭源性成分”：真假牛肉与2万元“罚款”疑云",
+        "link": "",
+        "pub_time": 1785144165.928,
+        "pub_display": "07-27 17:22"
+      },
+      {
+        "title": "马上评｜医学的价值不能被录取分数定义",
+        "link": "",
+        "pub_time": 1785161469.594,
+        "pub_display": "07-27 22:11"
+      },
+      {
+        "title": "澎湃漫评｜西瓜滞销，岂能把求助当舆情",
+        "link": "",
+        "pub_time": 1785150996.003,
+        "pub_display": "07-27 19:16"
+      },
+      {
+        "title": "衡水一中学创办人举报多名公职人员侵吞学校资产、2元买走价值8亿股权，纪委等介入",
+        "link": "",
+        "pub_time": 1785145058.97,
+        "pub_display": "07-27 17:37"
+      },
+      {
+        "title": "央媒调查：验收“过关”的6000亩灌溉项目沦为摆设，何以“纸面惠民”",
+        "link": "",
+        "pub_time": 1785144919.06,
+        "pub_display": "07-27 17:35"
+      },
+      {
+        "title": "湖北省人大常委会原党组书记、副主任苏晓云逝世，享年75岁",
+        "link": "",
+        "pub_time": 1785113361.691,
+        "pub_display": "07-27 08:49"
+      },
+      {
+        "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
+        "link": "",
+        "pub_time": 1785115780.909,
+        "pub_display": "07-27 09:29"
+      },
+      {
+        "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
+        "link": "",
+        "pub_time": 1785151340.92,
+        "pub_display": "07-27 19:22"
+      },
+      {
+        "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
+        "link": "",
+        "pub_time": 1785113189.199,
+        "pub_display": "07-27 08:46"
+      },
+      {
+        "title": "开麦丨告别东野圭吾：他到底是叛逃了推理，还是拯救了推理？",
+        "link": "",
+        "pub_time": 1785151043.272,
+        "pub_display": "07-27 19:17"
+      },
+      {
+        "title": "重庆彭水山体崩塌灾害救援现场发现失联客运中巴车残骸",
+        "link": "",
+        "pub_time": 1785107509.047,
+        "pub_display": "07-27 07:11"
+      },
+      {
+        "title": "刚去世的东野圭吾何以被视为日本作家中的“顶流”？",
+        "link": "",
+        "pub_time": 1785142670.273,
+        "pub_display": "07-27 16:57"
+      },
+      {
+        "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
+        "link": "",
+        "pub_time": 1785192875.863,
+        "pub_display": "07-28 06:54"
+      },
+      {
+        "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+        "link": "",
+        "pub_time": 1785184219.405,
+        "pub_display": "07-28 04:30"
+      },
+      {
+        "title": "衡水通报多名公职人员被举报侵吞学校资产：成立联合调查组，全面深入调查核查",
+        "link": "",
+        "pub_time": 1785180473.367,
+        "pub_display": "07-28 03:27"
+      },
+      {
+        "title": "高市内阁支持率大跌12个百分点",
+        "link": "",
+        "pub_time": 1785171872.522,
+        "pub_display": "07-28 01:04"
+      },
+      {
+        "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
+        "link": "",
+        "pub_time": 1785169252.826,
+        "pub_display": "07-28 00:20"
+      },
+      {
+        "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
+        "link": "",
+        "pub_time": 1785167295.897,
+        "pub_display": "07-27 23:48"
+      },
+      {
+        "title": "东野圭吾因结直肠癌去世，这种发病率第二的癌症如何预防？",
+        "link": "",
+        "pub_time": 1785162951.255,
+        "pub_display": "07-27 22:35"
+      },
+      {
+        "title": "河南通报“三支一扶”高分争议：成立工作组，开展调查核实",
+        "link": "",
+        "pub_time": 1785162896.917,
+        "pub_display": "07-27 22:34"
+      },
+      {
+        "title": "长鑫科技“上市盛宴”：合肥国资持股市值过万亿，阿里浮盈千亿",
+        "link": "",
+        "pub_time": 1785161958.314,
+        "pub_display": "07-27 22:19"
+      },
+      {
+        "title": "马上评｜医学的价值不能被录取分数定义",
+        "link": "",
+        "pub_time": 1785161469.594,
+        "pub_display": "07-27 22:11"
+      }
+    ],
+    "联合早报": [
+      {
+        "title": "缪宗翰：凯道呐喊与厨房炊烟",
+        "link": "https://www.zaobao.com/news/china/story20260728-9427795",
+        "pub_time": 1785157200.0,
+        "pub_display": "07-27 21:00"
+      },
+      {
+        "title": "中美AI“蒸馏”争议：美指涉嫌盗窃知识产权 中反批“AI霸权”",
+        "link": "https://www.zaobao.com/news/china/story20260727-9428878",
+        "pub_time": 1785137311.0,
+        "pub_display": "07-27 15:28"
+      },
+      {
+        "title": "中国各省财政自给率低于100％ 分析：中央税增速超过地方税",
+        "link": "https://www.zaobao.com/news/china/story20260727-9428817",
+        "pub_time": 1785134797.0,
+        "pub_display": "07-27 14:46"
+      },
+      {
+        "title": "亲绿智库最新民调 台湾民众对蒋万安好感度高于赖清德",
+        "link": "https://www.zaobao.com/news/china/story20260727-9428752",
+        "pub_time": 1785134285.0,
+        "pub_display": "07-27 14:38"
+      },
+      {
+        "title": "美媒：中国开始生产DUV光刻机 年内交付",
+        "link": "https://www.zaobao.com/news/china/story20260727-9428899",
+        "pub_time": 1785134150.0,
+        "pub_display": "07-27 14:35"
+      },
+      {
+        "title": "下午察：外泄梁文锋“金句”给美国递刀子？",
+        "link": "https://www.zaobao.com/news/china/story20260727-9427115",
+        "pub_time": 1785129885.0,
+        "pub_display": "07-27 13:24"
+      },
+      {
+        "title": "中国商务部：美方承诺对中国商品替代加征关税不会超过20%",
+        "link": "https://www.zaobao.com/news/china/story20260727-9428423",
+        "pub_time": 1785127099.0,
+        "pub_display": "07-27 12:38"
+      },
+      {
+        "title": "中际旭创香港上市定价据报低于上限",
+        "link": "https://www.zaobao.com/news/china/story20260727-9428257",
+        "pub_time": 1785124394.0,
+        "pub_display": "07-27 11:53"
+      },
+      {
+        "title": "中国官方打两“虎” 张世平、杨宏勇被开除党籍",
+        "link": "https://www.zaobao.com/news/china/story20260727-9428195",
+        "pub_time": 1785123830.0,
+        "pub_display": "07-27 11:43"
+      },
+      {
+        "title": "美拟调查制裁中国AI企业 中国回应称是人工智能霸权主义行径",
+        "link": "https://www.zaobao.com/news/china/story20260727-9428070",
+        "pub_time": 1785122119.0,
+        "pub_display": "07-27 11:15"
+      },
+      {
+        "title": "西部陆海新通道今年上半年进出口总额超5000亿人民币",
+        "link": "https://www.zaobao.com/news/china/story20260727-9428063",
+        "pub_time": 1785122097.0,
+        "pub_display": "07-27 11:14"
+      },
+      {
+        "title": "澳门妇女产假明天起调升至90日",
+        "link": "https://www.zaobao.com/news/china/story20260727-9426412",
+        "pub_time": 1785117780.0,
+        "pub_display": "07-27 10:03"
+      },
+      {
+        "title": "中国7月原油进口预计由逾10年最低水平回升",
+        "link": "https://www.zaobao.com/news/china/story20260727-9427502",
+        "pub_time": 1785116323.0,
+        "pub_display": "07-27 09:38"
+      },
+      {
+        "title": "苏姿丰父亲任沈伯洋海外后援会主席团荣誉总召",
+        "link": "https://www.zaobao.com/news/china/story20260727-9427463",
+        "pub_time": 1785116120.0,
+        "pub_display": "07-27 09:35"
+      },
+      {
+        "title": "王毅将出席全球发展倡议五周年高级别会议",
+        "link": "https://www.zaobao.com/news/china/story20260727-9427146",
+        "pub_time": 1785113565.0,
+        "pub_display": "07-27 08:52"
+      },
+      {
+        "title": "闯入中国驻日使馆自卫官被起诉",
+        "link": "https://www.zaobao.com/news/china/story20260727-9426899",
+        "pub_time": 1785111413.0,
+        "pub_display": "07-27 08:16"
+      },
+      {
+        "title": "女粉追星被锁喉压制 中国驻泰使馆促妥善处理此事",
+        "link": "https://www.zaobao.com/news/china/story20260727-9426396",
+        "pub_time": 1785111060.0,
+        "pub_display": "07-27 08:11"
+      },
+      {
+        "title": "中国今年暑期至少六片撤档 科幻片《群星闪耀时》上映一天喊停",
+        "link": "https://www.zaobao.com/news/china/story20260727-9426820",
+        "pub_time": 1785110752.0,
+        "pub_display": "07-27 08:05"
+      },
+      {
+        "title": "中国外交部重申中日外长在马尼拉没会见、没交流",
+        "link": "https://www.zaobao.com/news/china/story20260727-9426695",
+        "pub_time": 1785109840.0,
+        "pub_display": "07-27 07:50"
+      },
+      {
+        "title": "斯洛伐克总统抵达北京开始访华三天",
+        "link": "https://www.zaobao.com/news/china/story20260727-9426658",
+        "pub_time": 1785109527.0,
+        "pub_display": "07-27 07:45"
+      },
+      {
+        "title": "长鑫科技上市 八家银行持股市值约1480亿人民币",
+        "link": "https://www.zaobao.com/news/china/story20260727-9426563",
+        "pub_time": 1785108893.0,
+        "pub_display": "07-27 07:34"
+      },
+      {
+        "title": "中国生物科技股取代AI 成新兴市场增长交易焦点",
+        "link": "https://www.zaobao.com/news/china/story20260727-9426181",
+        "pub_time": 1785105908.0,
+        "pub_display": "07-27 06:45"
+      },
+      {
+        "title": "中国海警舰艇编队赴北太平洋执法巡航45天",
+        "link": "https://www.zaobao.com/news/china/story20260727-9426146",
+        "pub_time": 1785105694.0,
+        "pub_display": "07-27 06:41"
+      },
+      {
+        "title": "玉渊谭天：支持开放AI模型 不意味着所有能力都无条件扩散",
+        "link": "https://www.zaobao.com/news/china/story20260727-9426027",
+        "pub_time": 1785104946.0,
+        "pub_display": "07-27 06:29"
+      }
+    ],
+    "IT之家": [
+      {
+        "title": "停产 9 年的歌诗图有望复活，消息称本田正研发基于雅阁的掀背 SUV",
+        "link": "https://www.ithome.com/0/982/278.htm",
+        "pub_time": 1785164749.0,
+        "pub_display": "07-27 23:05"
+      },
+      {
+        "title": "影响全球约 50 万 macOS 用户，Claude Cowork 智能体 AI 爆漏洞可读写任意 Mac 文件",
+        "link": "https://www.ithome.com/0/982/277.htm",
+        "pub_time": 1785164237.0,
+        "pub_display": "07-27 22:57"
+      },
+      {
+        "title": "马斯克“超级应用”关键一步：X Money 正式在美国上线，支持苹果钱包绑卡返现 3%、年化收益最高 6%",
+        "link": "https://www.ithome.com/0/982/276.htm",
+        "pub_time": 1785164137.0,
+        "pub_display": "07-27 22:55"
+      },
+      {
+        "title": "OpenAI 奥尔特曼自曝沉迷 TikTok：周末一刷就是 3 小时，最终不得不删除 App",
+        "link": "https://www.ithome.com/0/982/275.htm",
+        "pub_time": 1785163354.0,
+        "pub_display": "07-27 22:42"
+      },
+      {
+        "title": "再超英伟达：苹果市值达 4.95 万亿美元重回全球榜首，距 5 万亿大关仅一步之遥",
+        "link": "https://www.ithome.com/0/982/274.htm",
+        "pub_time": 1785163044.0,
+        "pub_display": "07-27 22:37"
+      },
+      {
+        "title": "微软发布 Win11 Experimental 频道 Build 29634.1000 预览版：新增语音访问人声隔离等多项改进",
+        "link": "https://www.ithome.com/0/982/272.htm",
+        "pub_time": 1785157353.0,
+        "pub_display": "07-27 21:02"
+      },
+      {
+        "title": "Amkor 2026 财年第二财季归母净利润 1.74 亿美元，同比增长 219.30%",
+        "link": "https://www.ithome.com/0/982/270.htm",
+        "pub_time": 1785154370.0,
+        "pub_display": "07-27 20:12"
+      },
+      {
+        "title": "苹果 watchOS 26.6 正式版发布，修复多项安全漏洞为 watchOS 27 铺路",
+        "link": "https://www.ithome.com/0/982/269.htm",
+        "pub_time": 1785148447.0,
+        "pub_display": "07-27 18:34"
+      },
+      {
+        "title": "苹果 visionOS 26.6 正式版发布：修复多项安全漏洞，建议用户更新",
+        "link": "https://www.ithome.com/0/982/268.htm",
+        "pub_time": 1785148446.0,
+        "pub_display": "07-27 18:34"
+      },
+      {
+        "title": "苹果 macOS 26.6 正式版发布：修复 155 个漏洞刷新 26.x 纪录，优化 Spotlight 索引",
+        "link": "https://www.ithome.com/0/982/267.htm",
+        "pub_time": 1785148446.0,
+        "pub_display": "07-27 18:34"
+      },
+      {
+        "title": "苹果 iOS / iPadOS 26.6 正式版发布：优化“聚焦”索引，修复 87 个漏洞",
+        "link": "https://www.ithome.com/0/982/266.htm",
+        "pub_time": 1785148445.0,
+        "pub_display": "07-27 18:34"
+      },
+      {
+        "title": "英伟达 CUDA 的 20 年护城河一个周末崩了，Claude 独自跑通 AMD 新 GPU",
+        "link": "https://www.ithome.com/0/982/264.htm",
+        "pub_time": 1785139094.0,
+        "pub_display": "07-27 15:58"
+      },
+      {
+        "title": "1928 → 758 元再降价：追觅 T1 滚筒洗衣机 3 年质保，配备 AI 直驱变频电机",
+        "link": "https://www.ithome.com/0/982/263.htm",
+        "pub_time": 1785138199.0,
+        "pub_display": "07-27 15:43"
+      },
+      {
+        "title": "钱江推出赛 421S 摩托车：四缸 77.5Ps 动力，28999 元起",
+        "link": "https://www.ithome.com/0/982/262.htm",
+        "pub_time": 1785136899.0,
+        "pub_display": "07-27 15:21"
+      },
+      {
+        "title": "大众汽车否认呼吁欧盟对中国混动汽车加征关税",
+        "link": "https://www.ithome.com/0/982/261.htm",
+        "pub_time": 1785136760.0,
+        "pub_display": "07-27 15:19"
+      },
+      {
+        "title": "科技行业力挺开源 AI，Anthropic 因保持沉默遭同行批评",
+        "link": "https://www.ithome.com/0/982/260.htm",
+        "pub_time": 1785136685.0,
+        "pub_display": "07-27 15:18"
+      },
+      {
+        "title": "月之暗面开源 Kimi K3 模型，2.8 万亿参数",
+        "link": "https://www.ithome.com/0/982/259.htm",
+        "pub_time": 1785136488.0,
+        "pub_display": "07-27 15:14"
+      },
+      {
+        "title": "“中国天眼”FAST 望远镜已找到 1284 颗脉冲星，远超同时期国际其他望远镜总和",
+        "link": "https://www.ithome.com/0/982/258.htm",
+        "pub_time": 1785134390.0,
+        "pub_display": "07-27 14:39"
+      },
+      {
+        "title": "限 1 小时：绿联 45W 伸缩线 3 口充电器头 109 → 55 元，45W 屏显充电宝 6 折",
+        "link": "https://www.ithome.com/0/982/257.htm",
+        "pub_time": 1785134217.0,
+        "pub_display": "07-27 14:36"
+      },
+      {
+        "title": "长城推出海王星 H5W 无立柱海景房机箱：兼容 360mm 水冷、10 风扇位，369 元",
+        "link": "https://www.ithome.com/0/982/254.htm",
+        "pub_time": 1785133963.0,
+        "pub_display": "07-27 14:32"
+      },
+      {
+        "title": "微软证实 Xbox 出现服务故障，正积极开展修复工作",
+        "link": "https://www.ithome.com/0/982/252.htm",
+        "pub_time": 1785133653.0,
+        "pub_display": "07-27 14:27"
+      },
+      {
+        "title": "英伟达投资 OpenAI 联合创始人苏茨克维 AI 实验室 SSI，进一步拓展自身算力版图",
+        "link": "https://www.ithome.com/0/982/251.htm",
+        "pub_time": 1785133330.0,
+        "pub_display": "07-27 14:22"
+      },
+      {
+        "title": "股价持续承压，微软面临算力分配关键抉择",
+        "link": "https://www.ithome.com/0/982/250.htm",
+        "pub_time": 1785133043.0,
+        "pub_display": "07-27 14:17"
+      },
+      {
+        "title": "7738 辆新能源，上海港刷新国内港口单航次商品车装船量新纪录",
+        "link": "https://www.ithome.com/0/982/249.htm",
+        "pub_time": 1785132971.0,
+        "pub_display": "07-27 14:16"
+      },
+      {
+        "title": "能够完成快慢思考融合，华为小艺智慧大脑版本随机逐步放量中",
+        "link": "https://www.ithome.com/0/982/246.htm",
+        "pub_time": 1785131024.0,
+        "pub_display": "07-27 13:43"
+      },
+      {
+        "title": "国家能源局：1—6 月全国电力市场交易电量 36848 亿千瓦时，同比增长 24.2%",
+        "link": "https://www.ithome.com/0/982/245.htm",
+        "pub_time": 1785130504.0,
+        "pub_display": "07-27 13:35"
+      },
+      {
+        "title": "加州最大 AI 数据中心开发商索要河水遭拒，将供水机构告上法庭",
+        "link": "https://www.ithome.com/0/982/244.htm",
+        "pub_time": 1785130431.0,
+        "pub_display": "07-27 13:33"
+      },
+      {
+        "title": "保时捷计划在 2035 年前，再裁员 5000 人",
+        "link": "https://www.ithome.com/0/982/243.htm",
+        "pub_time": 1785129580.0,
+        "pub_display": "07-27 13:19"
+      },
+      {
+        "title": "春风动力 150 AURA 复古踏板摩托车“钢琴黑”配色上市，11980 元起",
+        "link": "https://www.ithome.com/0/982/242.htm",
+        "pub_time": 1785129264.0,
+        "pub_display": "07-27 13:14"
+      },
+      {
+        "title": "韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制",
+        "link": "https://www.ithome.com/0/982/241.htm",
+        "pub_time": 1785129103.0,
+        "pub_display": "07-27 13:11"
+      }
+    ],
+    "36氪": [
+      {
+        "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+        "link": "https://36kr.com/p/3913320648971395?f=rss",
+        "pub_time": 1785123426.0,
+        "pub_display": "07-27 11:37"
+      },
+      {
+        "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
+        "link": "https://36kr.com/p/3913736066028932?f=rss",
+        "pub_time": 1785118769.0,
+        "pub_display": "07-27 10:19"
+      },
+      {
+        "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
+        "link": "https://36kr.com/p/3913706151400583?f=rss",
+        "pub_time": 1785116887.0,
+        "pub_display": "07-27 09:48"
+      },
+      {
+        "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
+        "link": "https://36kr.com/p/3912369056240772?f=rss",
+        "pub_time": 1785111819.0,
+        "pub_display": "07-27 08:23"
+      },
+      {
+        "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
+        "link": "https://36kr.com/p/3913490184754313?f=rss",
+        "pub_time": 1785103734.0,
+        "pub_display": "07-27 06:08"
+      },
+      {
+        "title": "优衣库一边关店，一边赚钱",
+        "link": "https://36kr.com/p/3913266058826880?f=rss",
+        "pub_time": 1785091410.0,
+        "pub_display": "07-27 02:43"
+      },
+      {
+        "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
+        "link": "https://36kr.com/p/3910655616521348?f=rss",
+        "pub_time": 1785086417.0,
+        "pub_display": "07-27 01:20"
+      },
+      {
+        "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
+        "link": "https://36kr.com/p/3912546487637378?f=rss",
+        "pub_time": 1785085200.0,
+        "pub_display": "07-27 01:00"
+      },
+      {
+        "title": "OpenAI前首席科学家创办的AI公司SSI获英伟达投资，宣布建立长期合作",
+        "link": "https://36kr.com/newsflashes/3913969081718146?f=rss",
+        "pub_time": 1785164645.0,
+        "pub_display": "07-27 23:04"
+      },
+      {
+        "title": "美股三大指数收盘涨跌不一，苹果重返全球市值第一",
+        "link": "https://36kr.com/newsflashes/3914484932875398?f=rss",
+        "pub_time": 1785164399.0,
+        "pub_display": "07-27 22:59"
+      },
+      {
+        "title": "粉笔：预计2026年上半年收入不少于12.2亿元",
+        "link": "https://36kr.com/newsflashes/3913894006101384?f=rss",
+        "pub_time": 1785128332.0,
+        "pub_display": "07-27 12:58"
+      },
+      {
+        "title": "斯坦德机器人向港交所提交上市申请书",
+        "link": "https://36kr.com/newsflashes/3913893079651457?f=rss",
+        "pub_time": 1785128275.0,
+        "pub_display": "07-27 12:57"
+      },
+      {
+        "title": "热门中概股美股盘前普涨，网易涨超2%",
+        "link": "https://36kr.com/newsflashes/3913890705020290?f=rss",
+        "pub_time": 1785128130.0,
+        "pub_display": "07-27 12:55"
+      },
+      {
+        "title": "美股大型科技股盘前普涨，特斯拉涨超1%",
+        "link": "https://36kr.com/newsflashes/3913888329782406?f=rss",
+        "pub_time": 1785127985.0,
+        "pub_display": "07-27 12:53"
+      },
+      {
+        "title": "高争民爆：筹划股权无偿划转，公司控股股东或发生变更",
+        "link": "https://36kr.com/newsflashes/3913875994301827?f=rss",
+        "pub_time": 1785127591.0,
+        "pub_display": "07-27 12:46"
+      },
+      {
+        "title": "保时捷计划到2035年在德国两家工厂累计投资21亿欧元",
+        "link": "https://36kr.com/newsflashes/3913874546857090?f=rss",
+        "pub_time": 1785127144.0,
+        "pub_display": "07-27 12:39"
+      },
+      {
+        "title": "上交所终止荣信汇科科创板IPO审核",
+        "link": "https://36kr.com/newsflashes/3913870684722304?f=rss",
+        "pub_time": 1785126908.0,
+        "pub_display": "07-27 12:35"
+      },
+      {
+        "title": "东方证券：拟作价251.2亿元购买上海证券100%股权",
+        "link": "https://36kr.com/newsflashes/3913869684381060?f=rss",
+        "pub_time": 1785126847.0,
+        "pub_display": "07-27 12:34"
+      },
+      {
+        "title": "小鹏将于未来6个月在澳大利亚推出5款新车型",
+        "link": "https://36kr.com/newsflashes/3913866615624835?f=rss",
+        "pub_time": 1785126660.0,
+        "pub_display": "07-27 12:31"
+      },
+      {
+        "title": "ST恒信：公司及实控人因信披违规被证监会立案",
+        "link": "https://36kr.com/newsflashes/3913863639799168?f=rss",
+        "pub_time": 1785126478.0,
+        "pub_display": "07-27 12:27"
+      },
+      {
+        "title": "长芯博创：控股子公司签署约45亿元光纤光缆销售长期合作协议",
+        "link": "https://36kr.com/newsflashes/3913855181018503?f=rss",
+        "pub_time": 1785125962.0,
+        "pub_display": "07-27 12:19"
+      },
+      {
+        "title": "路德科技：拟定增募资不超1.52亿元，投资洋河酒糟资源化利用等项目",
+        "link": "https://36kr.com/newsflashes/3913845059802242?f=rss",
+        "pub_time": 1785125344.0,
+        "pub_display": "07-27 12:09"
+      },
+      {
+        "title": "比亚迪以1200万港元中标香港一幅用地，用作电动车充电站",
+        "link": "https://36kr.com/newsflashes/3913841703031938?f=rss",
+        "pub_time": 1785125139.0,
+        "pub_display": "07-27 12:05"
+      },
+      {
+        "title": "锋龙股份：拟3000万元—6000万元回购股份",
+        "link": "https://36kr.com/newsflashes/3913836216636553?f=rss",
+        "pub_time": 1785124805.0,
+        "pub_display": "07-27 12:00"
+      },
+      {
+        "title": "特锐德：实控人提议公司3亿元至6亿元回购股份",
+        "link": "https://36kr.com/newsflashes/3913824997086595?f=rss",
+        "pub_time": 1785124120.0,
+        "pub_display": "07-27 11:48"
+      },
+      {
+        "title": "三花智控：拟2亿元—4亿元回购股份",
+        "link": "https://36kr.com/newsflashes/3913813373883528?f=rss",
+        "pub_time": 1785123410.0,
+        "pub_display": "07-27 11:36"
+      },
+      {
+        "title": "工信部：加快编制出台智能网联新能源汽车产业发展“十五五”规划",
+        "link": "https://36kr.com/newsflashes/3913802652161409?f=rss",
+        "pub_time": 1785122756.0,
+        "pub_display": "07-27 11:25"
+      },
+      {
+        "title": "耀才证券回应被香港证监会罚款280万港元：诚恳接受处罚决定",
+        "link": "https://36kr.com/newsflashes/3913799493817733?f=rss",
+        "pub_time": 1785122563.0,
+        "pub_display": "07-27 11:22"
+      }
+    ],
+    "Solidot": [
+      {
+        "title": "可再生能源有望成为全球最大的发电来源",
+        "link": "https://www.solidot.org/story?sid=84937",
+        "pub_time": 1785135399.0,
+        "pub_display": "07-27 14:56"
+      },
+      {
+        "title": "干涸湖床释放出大量的碳",
+        "link": "https://www.solidot.org/story?sid=84936",
+        "pub_time": 1785133971.0,
+        "pub_display": "07-27 14:32"
+      },
+      {
+        "title": "没有快乐的颓废时代",
+        "link": "https://www.solidot.org/story?sid=84935",
+        "pub_time": 1785130853.0,
+        "pub_display": "07-27 13:40"
+      },
+      {
+        "title": "日本作家东野圭吾因癌症去世，享年 68 岁",
+        "link": "https://www.solidot.org/story?sid=84934",
+        "pub_time": 1785126713.0,
+        "pub_display": "07-27 12:31"
+      },
+      {
+        "title": "中国计划克隆 100 头优质牦牛",
+        "link": "https://www.solidot.org/story?sid=84933",
+        "pub_time": 1785119824.0,
+        "pub_display": "07-27 10:37"
+      },
+      {
+        "title": "抹香鲸靠吐泡泡维持睡眠时的平衡",
+        "link": "https://www.solidot.org/story?sid=84932",
+        "pub_time": 1785114189.0,
+        "pub_display": "07-27 09:03"
+      },
+      {
+        "title": "欧洲北美野火肆虐",
+        "link": "https://www.solidot.org/story?sid=84931",
+        "pub_time": 1785110905.0,
+        "pub_display": "07-27 08:08"
+      },
+      {
+        "title": "亚马逊要求第三方卖家标记 AI 生成图像",
+        "link": "https://www.solidot.org/story?sid=84930",
+        "pub_time": 1785106457.0,
+        "pub_display": "07-27 06:54"
+      },
+      {
+        "title": "35 名学生有 32 名在历史考试中使用 AI 生成答案",
+        "link": "https://www.solidot.org/story?sid=84929",
+        "pub_time": 1785104701.0,
+        "pub_display": "07-27 06:25"
+      },
+      {
+        "title": "华为据报道在建造内存芯片工厂",
+        "link": "https://www.solidot.org/story?sid=84928",
+        "pub_time": 1785103135.0,
+        "pub_display": "07-27 05:58"
+      }
+    ]
+  }
+}
