@@ -1,0 +1,720 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02 06:58:17",
+  "total": 116,
+  "source_count": {
+    "澎湃": 29,
+    "中新网": 30,
+    "IT之家": 30,
+    "36氪": 22,
+    "Solidot": 5
+  },
+  "sources": {
+    "澎湃": [
+      {
+        "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
+        "link": "",
+        "pub_time": 1785547791.932,
+        "pub_display": "08-01 09:29"
+      },
+      {
+        "title": "新规落地，医药代表站在转型十字路口",
+        "link": "",
+        "pub_time": 1785541725.568,
+        "pub_display": "08-01 07:48"
+      },
+      {
+        "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+        "link": "",
+        "pub_time": 1785558771.749,
+        "pub_display": "08-01 12:32"
+      },
+      {
+        "title": "南部战区位黄岩岛领海领空和周边海空域组织海空联合演训",
+        "link": "",
+        "pub_time": 1785545184.797,
+        "pub_display": "08-01 08:46"
+      },
+      {
+        "title": "大米、蔗糖与三文鱼：厄尔尼诺现象如何加剧全球农业危机",
+        "link": "",
+        "pub_time": 1785541089.208,
+        "pub_display": "08-01 07:38"
+      },
+      {
+        "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+        "link": "",
+        "pub_time": 1785555106.252,
+        "pub_display": "08-01 11:31"
+      },
+      {
+        "title": "赞达亚戴3000年历史耳环为《奥德赛》站台，引考古界批评",
+        "link": "",
+        "pub_time": 1785573589.213,
+        "pub_display": "08-01 16:39"
+      },
+      {
+        "title": "新作被指“擦边”，创作团队回应",
+        "link": "",
+        "pub_time": 1785572020.078,
+        "pub_display": "08-01 16:13"
+      },
+      {
+        "title": "首批全国生育友好城市创建已启动，哪些城市有意？",
+        "link": "",
+        "pub_time": 1785592950.222,
+        "pub_display": "08-01 22:02"
+      },
+      {
+        "title": "性别和情绪，房主任的两种舞台语法为什么在现实中失灵了？",
+        "link": "",
+        "pub_time": 1785593426.883,
+        "pub_display": "08-01 22:10"
+      },
+      {
+        "title": "江苏高速回应“通勤族往返南通无锡一年高速费近3万”：ETC可享九五折",
+        "link": "",
+        "pub_time": 1785573144.575,
+        "pub_display": "08-01 16:32"
+      },
+      {
+        "title": "老人戒指掉入高铁厕所、12306回复称不符合寻找条件？铁路部门回应",
+        "link": "",
+        "pub_time": 1785578067.753,
+        "pub_display": "08-01 17:54"
+      },
+      {
+        "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
+        "link": "",
+        "pub_time": 1785551797.407,
+        "pub_display": "08-01 10:36"
+      },
+      {
+        "title": "猴子爬头上蹦跳游客手足无措，公园：会驱赶，但野猴性情不定管控难度大",
+        "link": "",
+        "pub_time": 1785541197.711,
+        "pub_display": "08-01 07:39"
+      },
+      {
+        "title": "出任国际剑联全球大使，王嘉尔：击剑一直流淌在我的血液里",
+        "link": "",
+        "pub_time": 1785561976.865,
+        "pub_display": "08-01 13:26"
+      },
+      {
+        "title": "国家电网公司党组：坚决拥护党中央对辛保安审查调查的决定",
+        "link": "",
+        "pub_time": 1785563067.731,
+        "pub_display": "08-01 13:44"
+      },
+      {
+        "title": "谭权任重庆市副市长、市公安局局长",
+        "link": "",
+        "pub_time": 1785547314.429,
+        "pub_display": "08-01 09:21"
+      },
+      {
+        "title": "2026暑期档电影票房破70亿，《八仙！》破10亿",
+        "link": "",
+        "pub_time": 1785579121.933,
+        "pub_display": "08-01 18:12"
+      },
+      {
+        "title": "阿里巴巴集团主席蔡崇信离婚：无出售阿里股份计划，职务不受影响",
+        "link": "",
+        "pub_time": 1785572127.725,
+        "pub_display": "08-01 16:15"
+      },
+      {
+        "title": "莫斯科餐厅爆炸已致3死21伤，俄称系自制炸弹袭击",
+        "link": "",
+        "pub_time": 1785617235.011,
+        "pub_display": "08-02 04:47"
+      },
+      {
+        "title": "欧盟宣布将召开紧急会议讨论休达移民危机",
+        "link": "",
+        "pub_time": 1785613261.17,
+        "pub_display": "08-02 03:41"
+      },
+      {
+        "title": "美军称已部署一架重型运输直升机至中东地区",
+        "link": "",
+        "pub_time": 1785603627.351,
+        "pub_display": "08-02 01:00"
+      },
+      {
+        "title": "美国驻中东多国使馆发布警报，称地区局势可能升级",
+        "link": "",
+        "pub_time": 1785596357.214,
+        "pub_display": "08-01 22:59"
+      },
+      {
+        "title": "性别和情绪，房主任的两种舞台语法为什么在现实中失灵了？",
+        "link": "",
+        "pub_time": 1785593426.883,
+        "pub_display": "08-01 22:10"
+      },
+      {
+        "title": "中国烹饪协会：“中国烹饪大师”“之乡、之都”等称号全部作废",
+        "link": "",
+        "pub_time": 1785593005.031,
+        "pub_display": "08-01 22:03"
+      },
+      {
+        "title": "首批全国生育友好城市创建已启动，哪些城市有意？",
+        "link": "",
+        "pub_time": 1785592950.222,
+        "pub_display": "08-01 22:02"
+      },
+      {
+        "title": "硬核装备展示、单兵突击战术演示……这场军营开放日活动很“夯”",
+        "link": "",
+        "pub_time": 1785592661.907,
+        "pub_display": "08-01 21:57"
+      },
+      {
+        "title": "汛期雷暴天气多发，全国多个涉水景区、峡谷等启动临时管控",
+        "link": "",
+        "pub_time": 1785591192.713,
+        "pub_display": "08-01 21:33"
+      },
+      {
+        "title": "约5万人被遣返，67人丧命：西班牙称休达“偷渡潮”平息",
+        "link": "",
+        "pub_time": 1785590726.941,
+        "pub_display": "08-01 21:25"
+      }
+    ],
+    "中新网": [
+      {
+        "title": "乘火车、飞机这些东西不能带 暑期出行攻略→",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670672.shtml",
+        "pub_time": 1785569482.0,
+        "pub_display": "08-01 15:31"
+      },
+      {
+        "title": "建军99周年，军号里的9个“第一次”",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670670.shtml",
+        "pub_time": 1785568809.0,
+        "pub_display": "08-01 15:20"
+      },
+      {
+        "title": "国家防总、应急管理部针对重庆启动防汛四级应急响应",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670671.shtml",
+        "pub_time": 1785568191.0,
+        "pub_display": "08-01 15:09"
+      },
+      {
+        "title": "科技体验、夜间研学 暑期文旅花样上新",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670648.shtml",
+        "pub_time": 1785565448.0,
+        "pub_display": "08-01 14:24"
+      },
+      {
+        "title": "黄金市场成洗钱暗道？有人被骗近600万元！套路曝光→",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670633.shtml",
+        "pub_time": 1785563415.0,
+        "pub_display": "08-01 13:50"
+      },
+      {
+        "title": "首届全国青少年人工智能大赛决赛在沪开幕",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670619.shtml",
+        "pub_time": 1785562382.0,
+        "pub_display": "08-01 13:33"
+      },
+      {
+        "title": "中国农业大学首届“未来农业”国际暑期学校在京开幕",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670607.shtml",
+        "pub_time": 1785560196.0,
+        "pub_display": "08-01 12:56"
+      },
+      {
+        "title": "浙江立法规范生成式人工智能领域妇女权益保护",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670599.shtml",
+        "pub_time": 1785560026.0,
+        "pub_display": "08-01 12:53"
+      },
+      {
+        "title": "浙江今年首现超40℃气温",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670597.shtml",
+        "pub_time": 1785559894.0,
+        "pub_display": "08-01 12:51"
+      },
+      {
+        "title": "（文化中国行）粉彩瓷绘：方寸瓷器物 匠心续古香",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670609.shtml",
+        "pub_time": 1785559850.0,
+        "pub_display": "08-01 12:50"
+      },
+      {
+        "title": "特写：秦长城脚下，一碗鸡汤泡面走红山野",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670591.shtml",
+        "pub_time": 1785559725.0,
+        "pub_display": "08-01 12:48"
+      },
+      {
+        "title": "南海碧波上的升旗礼：三亚西岛“海霞”这样过“八一”",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670589.shtml",
+        "pub_time": 1785559665.0,
+        "pub_display": "08-01 12:47"
+      },
+      {
+        "title": "从“要你来听”到“我们一起聊” 浙江温州宣讲圈粉“Z世代”",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670585.shtml",
+        "pub_time": 1785559625.0,
+        "pub_display": "08-01 12:47"
+      },
+      {
+        "title": "从“家门口”就业到“AI+人社” 广西绘就人社惠民利企新图景",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670584.shtml",
+        "pub_time": 1785559609.0,
+        "pub_display": "08-01 12:46"
+      },
+      {
+        "title": "2026年现代科技馆体系联合行动举办“数智赋能场馆”行业交流研讨",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670578.shtml",
+        "pub_time": 1785559453.0,
+        "pub_display": "08-01 12:44"
+      },
+      {
+        "title": "全国近百名青少年齐聚广州开展红色研学之旅",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670575.shtml",
+        "pub_time": 1785559403.0,
+        "pub_display": "08-01 12:43"
+      },
+      {
+        "title": "厦金“小三通”客运航线暑运临时增班",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670574.shtml",
+        "pub_time": 1785559391.0,
+        "pub_display": "08-01 12:43"
+      },
+      {
+        "title": "中国—印尼友好故事会共话数字时代互利共赢发展图景",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670569.shtml",
+        "pub_time": 1785558755.0,
+        "pub_display": "08-01 12:32"
+      },
+      {
+        "title": "中国传统色的当代实践国际巡展亮相巴黎中国文化中心",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670568.shtml",
+        "pub_time": 1785558730.0,
+        "pub_display": "08-01 12:32"
+      },
+      {
+        "title": "中缅边境勐啊口岸迎来第100万名出入境旅客",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670564.shtml",
+        "pub_time": 1785558552.0,
+        "pub_display": "08-01 12:29"
+      },
+      {
+        "title": "中国银发族乐享“斜杠生活”",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670563.shtml",
+        "pub_time": 1785556650.0,
+        "pub_display": "08-01 11:57"
+      },
+      {
+        "title": "全国近200所高校7000余名学生携人形机器人在京竞技",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670542.shtml",
+        "pub_time": 1785556210.0,
+        "pub_display": "08-01 11:50"
+      },
+      {
+        "title": "第五届“昆山妈祖杯”青年快投垒球赛开赛",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670538.shtml",
+        "pub_time": 1785556184.0,
+        "pub_display": "08-01 11:49"
+      },
+      {
+        "title": "南北方多地桑拿天盘踞 台风“白海豚”再度完成眼壁置换蓄力增强",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670559.shtml",
+        "pub_time": 1785555885.0,
+        "pub_display": "08-01 11:44"
+      },
+      {
+        "title": "从“怀疑”到“学习” 海外民众见证中国减贫奇迹",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670526.shtml",
+        "pub_time": 1785555739.0,
+        "pub_display": "08-01 11:42"
+      },
+      {
+        "title": "被“AI”“开盒”别再手足无措 律师：依法收证维权 网络不是法外之地",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670524.shtml",
+        "pub_time": 1785555705.0,
+        "pub_display": "08-01 11:41"
+      },
+      {
+        "title": "广东遭遇季风槽影响 广州等地降暴雨、大暴雨",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670522.shtml",
+        "pub_time": 1785555673.0,
+        "pub_display": "08-01 11:41"
+      },
+      {
+        "title": "2026年暑运过半 深圳铁路客流高位运行",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670512.shtml",
+        "pub_time": 1785555527.0,
+        "pub_display": "08-01 11:38"
+      },
+      {
+        "title": "江西于都：在长征集结出发地重温峥嵘岁月",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670491.shtml",
+        "pub_time": 1785555473.0,
+        "pub_display": "08-01 11:37"
+      },
+      {
+        "title": "2026曲江碳水节启幕 丰富西安暑期夜间文旅业态",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670488.shtml",
+        "pub_time": 1785555361.0,
+        "pub_display": "08-01 11:36"
+      }
+    ],
+    "IT之家": [
+      {
+        "title": "全球首个全光子时间晶体（PTC）制备技术诞生，有望催生超高速计算机、自适应通信以及全新激光器",
+        "link": "https://www.ithome.com/0/984/640.htm",
+        "pub_time": 1785596250.0,
+        "pub_display": "08-01 22:57"
+      },
+      {
+        "title": "Statcounter：Linux 在北美桌面市场份额首次突破 10%",
+        "link": "https://www.ithome.com/0/984/639.htm",
+        "pub_time": 1785595911.0,
+        "pub_display": "08-01 22:51"
+      },
+      {
+        "title": "半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世：享年 76 岁，公司曾负债 1200 亿逆风翻盘",
+        "link": "https://www.ithome.com/0/984/637.htm",
+        "pub_time": 1785570750.0,
+        "pub_display": "08-01 15:52"
+      },
+      {
+        "title": "小米手机正式涨价 300 元起，影响小米 17 系列、REDMI K90、Turbo 5",
+        "link": "https://www.ithome.com/0/984/636.htm",
+        "pub_time": 1785569117.0,
+        "pub_display": "08-01 15:25"
+      },
+      {
+        "title": "中国地震局：地震预警信息接入小区广播系统目前正处于技术对接阶段，后续将选择试点开展业务验证工作",
+        "link": "https://www.ithome.com/0/984/635.htm",
+        "pub_time": 1785569019.0,
+        "pub_display": "08-01 15:23"
+      },
+      {
+        "title": "影石 CEO 刘靖康：接下来一个月，我们会再一次重新定义全景无人机",
+        "link": "https://www.ithome.com/0/984/634.htm",
+        "pub_time": 1785568921.0,
+        "pub_display": "08-01 15:22"
+      },
+      {
+        "title": "中国最高薪本科专业易主：计算机类整体下滑，“微电子科学与工程”首夺第一",
+        "link": "https://www.ithome.com/0/984/633.htm",
+        "pub_time": 1785568175.0,
+        "pub_display": "08-01 15:09"
+      },
+      {
+        "title": "宏碁主管：预计第三季度整体 PC 价格仍有约 5% 的上涨空间，第四季度有望趋于平稳",
+        "link": "https://www.ithome.com/0/984/632.htm",
+        "pub_time": 1785567509.0,
+        "pub_display": "08-01 14:58"
+      },
+      {
+        "title": "比亚迪方程豹全新轿车系列“方程 S”开启全国巡展，三季度上市",
+        "link": "https://www.ithome.com/0/984/631.htm",
+        "pub_time": 1785566117.0,
+        "pub_display": "08-01 14:35"
+      },
+      {
+        "title": "工信部：到 2030 年，新能源汽车废动力电池年综合利用量达到百万吨以上",
+        "link": "https://www.ithome.com/0/984/630.htm",
+        "pub_time": 1785564902.0,
+        "pub_display": "08-01 14:15"
+      },
+      {
+        "title": "2026 年 7 月汽车销量 / 交付榜出炉：比亚迪 41.9 万辆居首，零跑首超 10 万辆新势力里程碑",
+        "link": "https://www.ithome.com/0/984/629.htm",
+        "pub_time": 1785564275.0,
+        "pub_display": "08-01 14:04"
+      },
+      {
+        "title": "IDC 报告：2025 年中国工业具身智能机器人市场达 57.4 亿元，商业化进程全面提速",
+        "link": "https://www.ithome.com/0/984/627.htm",
+        "pub_time": 1785564107.0,
+        "pub_display": "08-01 14:01"
+      },
+      {
+        "title": "重庆推出摩托车及电动自行车购新补贴政策，最高补贴 1500 元 / 台",
+        "link": "https://www.ithome.com/0/984/625.htm",
+        "pub_time": 1785563721.0,
+        "pub_display": "08-01 13:55"
+      },
+      {
+        "title": "蒙电入沪过江工程在上海开工，将创下五个世界之最",
+        "link": "https://www.ithome.com/0/984/624.htm",
+        "pub_time": 1785562297.0,
+        "pub_display": "08-01 13:31"
+      },
+      {
+        "title": "文石 Leaf5+ 墨水屏电纸书新增“野风蓝”配色，零售价 1899 元",
+        "link": "https://www.ithome.com/0/984/622.htm",
+        "pub_time": 1785561724.0,
+        "pub_display": "08-01 13:22"
+      },
+      {
+        "title": "环球、索尼、华纳等多家唱片公司提议将低质 AI 音乐从排行榜中剔除",
+        "link": "https://www.ithome.com/0/984/621.htm",
+        "pub_time": 1785560899.0,
+        "pub_display": "08-01 13:08"
+      },
+      {
+        "title": "马斯克刚刚关注了 DeepSeek 的 X 账号",
+        "link": "https://www.ithome.com/0/984/620.htm",
+        "pub_time": 1785560657.0,
+        "pub_display": "08-01 13:04"
+      },
+      {
+        "title": "中微公司董事长尹志尧：到 2035 年在规模、产品竞争力上成为全球第一梯队的半导体设备公司",
+        "link": "https://www.ithome.com/0/984/618.htm",
+        "pub_time": 1785560004.0,
+        "pub_display": "08-01 12:53"
+      },
+      {
+        "title": "北汽新能源（极狐、享界）7 月终端交付 25074 辆，同比增长 121.27%",
+        "link": "https://www.ithome.com/0/984/617.htm",
+        "pub_time": 1785559448.0,
+        "pub_display": "08-01 12:44"
+      },
+      {
+        "title": "2026 年 7 月汽车销量 / 交付汇总：北汽新能源 25074 辆，阿维塔 7626 辆（持续更新）",
+        "link": "https://www.ithome.com/0/984/452.htm",
+        "pub_time": 1785523175.0,
+        "pub_display": "08-01 02:39"
+      },
+      {
+        "title": "新中国首条连接江海大型运河，宁德时代计划在平陆运河沿线建设风光电站",
+        "link": "https://www.ithome.com/0/984/616.htm",
+        "pub_time": 1785558961.0,
+        "pub_display": "08-01 12:36"
+      },
+      {
+        "title": "我国在联合国举行 2026 世界人工智能大会吹风会：将秉持开源开放谋划全球治理",
+        "link": "https://www.ithome.com/0/984/612.htm",
+        "pub_time": 1785556711.0,
+        "pub_display": "08-01 11:58"
+      },
+      {
+        "title": "成今年第 3 部票房破 20 亿影片，密钥延期至 8 月 31 日",
+        "link": "https://www.ithome.com/0/984/611.htm",
+        "pub_time": 1785555606.0,
+        "pub_display": "08-01 11:40"
+      },
+      {
+        "title": "奇瑞捷豹路虎 FREELANDER 神行者：中期目标 3 至 5 年内实现年销 30 万辆以上的稳定规模",
+        "link": "https://www.ithome.com/0/984/609.htm",
+        "pub_time": 1785554250.0,
+        "pub_display": "08-01 11:17"
+      },
+      {
+        "title": "全程无遥操机器人比赛全国决赛在北京开赛，200 多支队伍冲击冠军",
+        "link": "https://www.ithome.com/0/984/608.htm",
+        "pub_time": 1785553095.0,
+        "pub_display": "08-01 10:58"
+      },
+      {
+        "title": "海南首个“华龙一号”核电项目并网发电，建成后年发电量达 180 亿千瓦时",
+        "link": "https://www.ithome.com/0/984/607.htm",
+        "pub_time": 1785553036.0,
+        "pub_display": "08-01 10:57"
+      },
+      {
+        "title": "贝尔金推出蜘蛛侠限定联名磁吸移动电源、充电器、扩展坞、手机壳等产品",
+        "link": "https://www.ithome.com/0/984/596.htm",
+        "pub_time": 1785551982.0,
+        "pub_display": "08-01 10:39"
+      },
+      {
+        "title": "“GYBrand 全球品牌研究院”被打假：“研究力量”为家属、朋友、学生兼职，发布虚假排行榜并收费，被吊销营业执照并罚款 130 万元",
+        "link": "https://www.ithome.com/0/984/586.htm",
+        "pub_time": 1785551309.0,
+        "pub_display": "08-01 10:28"
+      },
+      {
+        "title": "达尔优 FLEX87 三模机械键盘预售：全新“空悬 Gasket”结构，259 元起",
+        "link": "https://www.ithome.com/0/984/579.htm",
+        "pub_time": 1785550579.0,
+        "pub_display": "08-01 10:16"
+      },
+      {
+        "title": "微信鸿蒙版 App 获 8.0.20.36 邀测升级",
+        "link": "https://www.ithome.com/0/984/577.htm",
+        "pub_time": 1785549102.0,
+        "pub_display": "08-01 09:51"
+      }
+    ],
+    "36氪": [
+      {
+        "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+        "link": "https://36kr.com/p/3920595518533250?f=rss",
+        "pub_time": 1785537452.0,
+        "pub_display": "08-01 06:37"
+      },
+      {
+        "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+        "link": "https://36kr.com/p/3920241240419720?f=rss",
+        "pub_time": 1785515939.0,
+        "pub_display": "08-01 00:38"
+      },
+      {
+        "title": "金山办公WPS存储管理新版本上线",
+        "link": "https://36kr.com/newsflashes/3920632482491776?f=rss",
+        "pub_time": 1785544226.0,
+        "pub_display": "08-01 08:30"
+      },
+      {
+        "title": "长三角多地发放结婚消费券",
+        "link": "https://36kr.com/newsflashes/3920617407196549?f=rss",
+        "pub_time": 1785543309.0,
+        "pub_display": "08-01 08:15"
+      },
+      {
+        "title": "印度央行：印度引资举措吸引超400亿美元外资",
+        "link": "https://36kr.com/newsflashes/3920583946186368?f=rss",
+        "pub_time": 1785542406.0,
+        "pub_display": "08-01 08:00"
+      },
+      {
+        "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
+        "link": "https://36kr.com/newsflashes/3920583526526343?f=rss",
+        "pub_time": 1785541540.0,
+        "pub_display": "08-01 07:45"
+      },
+      {
+        "title": "部分美国企业换上中国大模型以降低成本",
+        "link": "https://36kr.com/newsflashes/3920583026929281?f=rss",
+        "pub_time": 1785540611.0,
+        "pub_display": "08-01 07:30"
+      },
+      {
+        "title": "充电桩CCC认证自8月1日起开始强制实施",
+        "link": "https://36kr.com/newsflashes/3920582349974916?f=rss",
+        "pub_time": 1785539729.0,
+        "pub_display": "08-01 07:15"
+      },
+      {
+        "title": "国际足联放弃“出售世界杯部分股权”计划，亚足联主席发声",
+        "link": "https://36kr.com/newsflashes/3920581725924742?f=rss",
+        "pub_time": 1785538851.0,
+        "pub_display": "08-01 07:00"
+      },
+      {
+        "title": "岚图汽车：7月交付13189辆新车",
+        "link": "https://36kr.com/newsflashes/3920478712442503?f=rss",
+        "pub_time": 1785537725.0,
+        "pub_display": "08-01 06:42"
+      },
+      {
+        "title": "吉尔吉斯斯坦与阿塞拜疆签署同盟关系条约",
+        "link": "https://36kr.com/newsflashes/3920436488678789?f=rss",
+        "pub_time": 1785537005.0,
+        "pub_display": "08-01 06:30"
+      },
+      {
+        "title": "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导",
+        "link": "https://36kr.com/newsflashes/3920435807923841?f=rss",
+        "pub_time": 1785536122.0,
+        "pub_display": "08-01 06:15"
+      },
+      {
+        "title": "鸿蒙智行月交付45046台",
+        "link": "https://36kr.com/newsflashes/3920418360569216?f=rss",
+        "pub_time": 1785535240.0,
+        "pub_display": "08-01 06:00"
+      },
+      {
+        "title": "中国国家博物馆严正声明：从未在馆外开展扫码入群、信息采集活动",
+        "link": "https://36kr.com/newsflashes/3920419149573509?f=rss",
+        "pub_time": 1785534329.0,
+        "pub_display": "08-01 05:45"
+      },
+      {
+        "title": "2025年地方养老基金投资收益率为5.76%",
+        "link": "https://36kr.com/newsflashes/3920417829416325?f=rss",
+        "pub_time": 1785533407.0,
+        "pub_display": "08-01 05:30"
+      },
+      {
+        "title": "2026年上半年，浙江机场累计运输生鲜近4万吨",
+        "link": "https://36kr.com/newsflashes/3920417355558276?f=rss",
+        "pub_time": 1785532538.0,
+        "pub_display": "08-01 05:15"
+      },
+      {
+        "title": "中国—乌兹别克斯坦AEO互认安排正式实施",
+        "link": "https://36kr.com/newsflashes/3920416879062662?f=rss",
+        "pub_time": 1785531609.0,
+        "pub_display": "08-01 05:00"
+      },
+      {
+        "title": "报道称OpenAI面临投资者担忧与竞争压力 IPO或推迟至明年",
+        "link": "https://36kr.com/newsflashes/3920415886061193?f=rss",
+        "pub_time": 1785530709.0,
+        "pub_display": "08-01 04:45"
+      },
+      {
+        "title": "快递外卖电动车须悬挂专用号牌 北京新规今起施行",
+        "link": "https://36kr.com/newsflashes/3920415204978310?f=rss",
+        "pub_time": 1785529825.0,
+        "pub_display": "08-01 04:30"
+      },
+      {
+        "title": "蔚来公司7月交付35934台，同比增长71%",
+        "link": "https://36kr.com/newsflashes/3920471544934019?f=rss",
+        "pub_time": 1785529793.0,
+        "pub_display": "08-01 04:29"
+      },
+      {
+        "title": "暑运过半 全国铁路累计发送旅客4.32亿人次",
+        "link": "https://36kr.com/newsflashes/3920387953897088?f=rss",
+        "pub_time": 1785528942.0,
+        "pub_display": "08-01 04:15"
+      },
+      {
+        "title": "韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%",
+        "link": "https://36kr.com/newsflashes/3920386651319944?f=rss",
+        "pub_time": 1785528025.0,
+        "pub_display": "08-01 04:00"
+      }
+    ],
+    "Solidot": [
+      {
+        "title": "腾讯投资最高的 3A 游戏《最后的哨兵》陷入困境",
+        "link": "https://www.solidot.org/story?sid=84984",
+        "pub_time": 1785568899.0,
+        "pub_display": "08-01 15:21"
+      },
+      {
+        "title": "近五成美国人赞同学校期间完全禁止使用手机",
+        "link": "https://www.solidot.org/story?sid=84983",
+        "pub_time": 1785567138.0,
+        "pub_display": "08-01 14:52"
+      },
+      {
+        "title": "硅谷的企业帝国之梦",
+        "link": "https://www.solidot.org/story?sid=84982",
+        "pub_time": 1785565306.0,
+        "pub_display": "08-01 14:21"
+      },
+      {
+        "title": "Google Earth 发布然后撤回了 AI 工具",
+        "link": "https://www.solidot.org/story?sid=84981",
+        "pub_time": 1785553288.0,
+        "pub_display": "08-01 11:01"
+      },
+      {
+        "title": "宝马向汽车显示屏推送蜘蛛侠全屏广告",
+        "link": "https://www.solidot.org/story?sid=84980",
+        "pub_time": 1785550000.0,
+        "pub_display": "08-01 10:06"
+      }
+    ]
+  }
+}

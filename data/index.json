@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-01 11:16:56",
-  "total": 21,
+  "updated_at": "2026-08-02 06:58:17",
+  "total": 22,
   "briefs": [
+    {
+      "date": "2026-08-02",
+      "display": "2026年08月02日 星期日",
+      "series": "科技资讯",
+      "headline": "Google Earth 发布然后撤回了 AI 工具",
+      "count": 12,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-08-01",
       "display": "2026年08月01日 星期六",
