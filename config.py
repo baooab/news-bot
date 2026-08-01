@@ -1,4 +1,4 @@
-"""配置文件 —— 5 大数据源 + AI 摘要 + 话题排序。"""
+"""配置文件 —— 6 大数据源 + AI 摘要 + 话题排序。"""
 
 import os
 from pathlib import Path
@@ -11,16 +11,17 @@ except ImportError:
     pass
 
 # ============================================================
-# 数据源（5 个，全部直连，不依赖 RSSHub）
+# 数据源（6 个，全部直连，不依赖 RSSHub）
 # ============================================================
-# 综合新闻：澎湃新闻 API、联合早报 RSS
+# 综合 / 民生：澎湃新闻 API、中新网社会 RSS、联合早报 RSS
 # 科技商业：IT之家 RSS、36氪 RSS、Solidot RSS
 # 全部经过实测，返回当日实时新闻（3-20h 内）。
-# 注：已移除中新网、虎嗅、钛媒体。
 
 SOURCES = [
     # 澎湃新闻 API（热闻 + 精选 + 财经）
     {"type": "thepaper", "name": "澎湃", "url": "https://cache.thepaper.cn/contentapi/wwwIndex/rightSidebar"},
+    # 中新网社会 RSS（民生 / 社会向补充）
+    {"type": "rss", "name": "中新网", "url": "https://www.chinanews.com.cn/rss/society.xml"},
     # 联合早报 RSS（国际视角）
     {"type": "rss", "name": "联合早报", "url": "https://plink.anyfeeder.com/zaobao/realtime/china"},
     # --- 科技 / 商业 ---
