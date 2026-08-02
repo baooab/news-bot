@@ -1,0 +1,696 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03 06:59:08",
+  "total": 112,
+  "source_count": {
+    "澎湃": 29,
+    "中新网": 30,
+    "IT之家": 30,
+    "36氪": 20,
+    "Solidot": 3
+  },
+  "sources": {
+    "澎湃": [
+      {
+        "title": "湖南衡阳通报公职人员损坏停车位地锁事件：依规依纪严肃处理",
+        "link": "",
+        "pub_time": 1785639649.901,
+        "pub_display": "08-02 11:00"
+      },
+      {
+        "title": "全国开展深化扫黑除恶专项斗争，举报途径公布",
+        "link": "",
+        "pub_time": 1785654193.076,
+        "pub_display": "08-02 15:03"
+      },
+      {
+        "title": "解放军报钧声：中方加强黄岩岛管控合法合理",
+        "link": "",
+        "pub_time": 1785624681.17,
+        "pub_display": "08-02 06:51"
+      },
+      {
+        "title": "禁带外置扩音设备入园，上海鲁迅公园“噪声扰民”整治效果如何？",
+        "link": "",
+        "pub_time": 1785627130.27,
+        "pub_display": "08-02 07:32"
+      },
+      {
+        "title": "观察｜算力狂奔，电力共振：比特与瓦特如何“双向赋能”？",
+        "link": "",
+        "pub_time": 1785650983.226,
+        "pub_display": "08-02 14:09"
+      },
+      {
+        "title": "特朗普：同意取消对伊朗的打击",
+        "link": "",
+        "pub_time": 1785636783.175,
+        "pub_display": "08-02 10:13"
+      },
+      {
+        "title": "明查｜韩国股市大跌，民众上街抗议？实为7月首尔罢工集会",
+        "link": "",
+        "pub_time": 1785626370.809,
+        "pub_display": "08-02 07:19"
+      },
+      {
+        "title": "“游泳就能去欧洲”：一场误读引爆的非法移民危机",
+        "link": "",
+        "pub_time": 1785656365.009,
+        "pub_display": "08-02 15:39"
+      },
+      {
+        "title": "网友呼吁将邮件礼仪纳入大学课程，北大等此前已发布实操指南",
+        "link": "",
+        "pub_time": 1785658705.545,
+        "pub_display": "08-02 16:18"
+      },
+      {
+        "title": "媒体：公职人员停车受阻踹坏他人地锁，哪来的底气？",
+        "link": "",
+        "pub_time": 1785652629.571,
+        "pub_display": "08-02 14:37"
+      },
+      {
+        "title": "湖南衡阳通报“公职人员损坏车位地锁”：将严肃处理",
+        "link": "",
+        "pub_time": 1785641313.666,
+        "pub_display": "08-02 11:28"
+      },
+      {
+        "title": "浙江省委原副书记吴敏达逝世，参与研制摄影机记录了首枚氢弹试爆",
+        "link": "",
+        "pub_time": 1785632863.486,
+        "pub_display": "08-02 09:07"
+      },
+      {
+        "title": "长沙一高层住宅火灾致4死2伤",
+        "link": "",
+        "pub_time": 1785660316.947,
+        "pub_display": "08-02 16:45"
+      },
+      {
+        "title": "中微公司未来五年内至少覆盖60%的半导体高端设备，整体产能规划不低于700亿元",
+        "link": "",
+        "pub_time": 1785628085.267,
+        "pub_display": "08-02 07:48"
+      },
+      {
+        "title": "甘肃渭源重大山洪灾害致25死23伤，国家防减救灾委挂牌督办",
+        "link": "",
+        "pub_time": 1785639985.041,
+        "pub_display": "08-02 11:06"
+      },
+      {
+        "title": "新势力7月淡季销量分化加剧，零跑迈过月销10万辆门槛",
+        "link": "",
+        "pub_time": 1785628275.2,
+        "pub_display": "08-02 07:51"
+      },
+      {
+        "title": "活力中国调研行｜嘉兴桐乡走出的锂电材料巨头，要用五年再造一个自己",
+        "link": "",
+        "pub_time": 1785630061.643,
+        "pub_display": "08-02 08:21"
+      },
+      {
+        "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+        "link": "",
+        "pub_time": 1785640880.119,
+        "pub_display": "08-02 11:21"
+      },
+      {
+        "title": "人民日报再谈王虹邓煜获菲尔兹奖：中国青年要闯“无人区”，做深耕者",
+        "link": "",
+        "pub_time": 1785628119.605,
+        "pub_display": "08-02 07:48"
+      },
+      {
+        "title": "解放军报钧声：中方维护黄岩岛主权和海洋权益的决心坚定不移",
+        "link": "",
+        "pub_time": 1785711092.476,
+        "pub_display": "08-03 06:51"
+      },
+      {
+        "title": "特朗普称美伊3日将举行谈判",
+        "link": "",
+        "pub_time": 1785707977.342,
+        "pub_display": "08-03 05:59"
+      },
+      {
+        "title": "震感明显！四川宜宾高县发生4.8级地震，中国地震局启动四级应急响应",
+        "link": "",
+        "pub_time": 1785704786.711,
+        "pub_display": "08-03 05:06"
+      },
+      {
+        "title": "持续发酵，欧足联或将投票罢免因凡蒂诺",
+        "link": "",
+        "pub_time": 1785686449.993,
+        "pub_display": "08-03 00:00"
+      },
+      {
+        "title": "河南2026年“三支一扶”计划发现有考试作弊行为",
+        "link": "",
+        "pub_time": 1785684219.943,
+        "pub_display": "08-02 23:23"
+      },
+      {
+        "title": "大模型机械臂齐登场，黄浦江畔上演属于青少年的人工智能盛会",
+        "link": "",
+        "pub_time": 1785677752.991,
+        "pub_display": "08-02 21:35"
+      },
+      {
+        "title": "澎湃AI晚新闻丨2026年8月2日",
+        "link": "",
+        "pub_time": 1785677708.215,
+        "pub_display": "08-02 21:35"
+      },
+      {
+        "title": "六旬父亲捐肾救子，术前一个月减重超30斤",
+        "link": "",
+        "pub_time": 1785677411.463,
+        "pub_display": "08-02 21:30"
+      },
+      {
+        "title": "韩国庆尚南道梁山市气温飙至42.5℃，创百年气象观测纪录",
+        "link": "",
+        "pub_time": 1785677395.464,
+        "pub_display": "08-02 21:29"
+      },
+      {
+        "title": "河南西平县发生重大刑案嫌疑人在逃，官方通报",
+        "link": "",
+        "pub_time": 1785675570.629,
+        "pub_display": "08-02 20:59"
+      }
+    ],
+    "中新网": [
+      {
+        "title": "网络暴力危害有多大？普通人如何有效维权？专家解读",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-03/10670973.shtml",
+        "pub_time": 1785677653.0,
+        "pub_display": "08-02 21:34"
+      },
+      {
+        "title": "中国地震局启动四级应急响应 现场工作队赶赴震区",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-03/10670972.shtml",
+        "pub_time": 1785677533.0,
+        "pub_display": "08-02 21:32"
+      },
+      {
+        "title": "2026年中俄国际象棋青少年友谊赛在哈尔滨举行",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-03/10670963.shtml",
+        "pub_time": 1785676210.0,
+        "pub_display": "08-02 21:10"
+      },
+      {
+        "title": "四川宜宾市高县发生4.8级地震 震源深度6千米",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-03/10670962.shtml",
+        "pub_time": 1785675779.0,
+        "pub_display": "08-02 21:02"
+      },
+      {
+        "title": "青海海南州兴海县发生3.6级地震 震源深度10千米",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670959.shtml",
+        "pub_time": 1785653528.0,
+        "pub_display": "08-02 14:52"
+      },
+      {
+        "title": "青海海南州兴海县发生4.8级地震 震源深度10千米",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670958.shtml",
+        "pub_time": 1785652853.0,
+        "pub_display": "08-02 14:40"
+      },
+      {
+        "title": "藏羚羊带娃回家啦！青藏公路开启“静音模式”",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670956.shtml",
+        "pub_time": 1785651872.0,
+        "pub_display": "08-02 14:24"
+      },
+      {
+        "title": "行进中国｜跟着牦牛尾巴走的派出所",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670955.shtml",
+        "pub_time": 1785651580.0,
+        "pub_display": "08-02 14:19"
+      },
+      {
+        "title": "铸牢中华民族共同体意识丨戈壁清泉畔的岁岁相守",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670954.shtml",
+        "pub_time": 1785651384.0,
+        "pub_display": "08-02 14:16"
+      },
+      {
+        "title": "中国北疆列车助力少数民族文化传承",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670947.shtml",
+        "pub_time": 1785649255.0,
+        "pub_display": "08-02 13:40"
+      },
+      {
+        "title": "中外青年组队共创短视频 在上海寻找打动海外的中国故事",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670937.shtml",
+        "pub_time": 1785647862.0,
+        "pub_display": "08-02 13:17"
+      },
+      {
+        "title": "盘活高山生态资源  山西五寨培育避暑康养经济",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670926.shtml",
+        "pub_time": 1785646414.0,
+        "pub_display": "08-02 12:53"
+      },
+      {
+        "title": "文商旅体展协同发力 上海夏日越“夜”越精彩",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670923.shtml",
+        "pub_time": 1785645373.0,
+        "pub_display": "08-02 12:36"
+      },
+      {
+        "title": "中国特有濒危物种斑尾榛鸡种群规模稳定回升",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670922.shtml",
+        "pub_time": 1785645351.0,
+        "pub_display": "08-02 12:35"
+      },
+      {
+        "title": "上海多家老年教育机构开设暑期班 让银发群体“四季有学”“时时乐学”",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670921.shtml",
+        "pub_time": 1785645333.0,
+        "pub_display": "08-02 12:35"
+      },
+      {
+        "title": "重庆对12个区县启动市级防汛三级应急响应",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670918.shtml",
+        "pub_time": 1785645047.0,
+        "pub_display": "08-02 12:30"
+      },
+      {
+        "title": "湖南张家界避暑山水“圈粉”境外游客",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670908.shtml",
+        "pub_time": 1785643115.0,
+        "pub_display": "08-02 11:58"
+      },
+      {
+        "title": "南拳弟子“归山”立碑 莆田南少林寺再续祖庭文脉",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670907.shtml",
+        "pub_time": 1785643099.0,
+        "pub_display": "08-02 11:58"
+      },
+      {
+        "title": "广西灵山县一公司在建楼发生火灾 致2死2伤",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670910.shtml",
+        "pub_time": 1785642997.0,
+        "pub_display": "08-02 11:56"
+      },
+      {
+        "title": "“中国猛犸象故乡”青冈：农文旅融合“组团出圈” 激活夏日消费新活力",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670905.shtml",
+        "pub_time": 1785642640.0,
+        "pub_display": "08-02 11:50"
+      },
+      {
+        "title": "湖南隆回村民跨界培育辣椒新品种 小产业带动大民生",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670902.shtml",
+        "pub_time": 1785642578.0,
+        "pub_display": "08-02 11:49"
+      },
+      {
+        "title": "山东青岛一仓库起火 正全力扑救",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670900.shtml",
+        "pub_time": 1785640194.0,
+        "pub_display": "08-02 11:09"
+      },
+      {
+        "title": "好评中国丨向“绿”而行 “碳”路致远",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670899.shtml",
+        "pub_time": 1785640146.0,
+        "pub_display": "08-02 11:09"
+      },
+      {
+        "title": "两部门联合发布红色山洪灾害气象预警",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670894.shtml",
+        "pub_time": 1785638204.0,
+        "pub_display": "08-02 10:36"
+      },
+      {
+        "title": "国家防总、应急管理部针对贵州启动防汛四级应急响应",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670891.shtml",
+        "pub_time": 1785637903.0,
+        "pub_display": "08-02 10:31"
+      },
+      {
+        "title": "四川重庆陕西广东等地有强降水 国家防总办公室、应急管理部持续会商调度",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670887.shtml",
+        "pub_time": 1785637781.0,
+        "pub_display": "08-02 10:29"
+      },
+      {
+        "title": "美丽中国新疆行丨昆仑荒原 守护无声",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670888.shtml",
+        "pub_time": 1785637537.0,
+        "pub_display": "08-02 10:25"
+      },
+      {
+        "title": "第六届运河城市模拟联合国大会扬州闭幕 中外青少年共话全球治理",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670875.shtml",
+        "pub_time": 1785636256.0,
+        "pub_display": "08-02 10:04"
+      },
+      {
+        "title": "（乡村行·看振兴）广东青年赴多地实践  以数字技术助力乡村振兴",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670873.shtml",
+        "pub_time": 1785636176.0,
+        "pub_display": "08-02 10:02"
+      },
+      {
+        "title": "宁夏：乡村中年人“逐梦记 ”",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670872.shtml",
+        "pub_time": 1785636128.0,
+        "pub_display": "08-02 10:02"
+      }
+    ],
+    "IT之家": [
+      {
+        "title": "网友反馈其苹果 M5 Max MacBook Pro 高负载运行过热导致按键变形卡入机身内部",
+        "link": "https://www.ithome.com/0/984/826.htm",
+        "pub_time": 1785682501.0,
+        "pub_display": "08-02 22:55"
+      },
+      {
+        "title": "消息称苹果正研发两款带摄像头的 AirPods，其中一款有望今年推出",
+        "link": "https://www.ithome.com/0/984/825.htm",
+        "pub_time": 1785682028.0,
+        "pub_display": "08-02 22:47"
+      },
+      {
+        "title": "滨口直树透露《最终幻想 7》重制版游戏前两部销量远超预期，PC 平台成关键驱动力",
+        "link": "https://www.ithome.com/0/984/824.htm",
+        "pub_time": 1785681913.0,
+        "pub_display": "08-02 22:45"
+      },
+      {
+        "title": "因电池存在起火风险，明基宣布召回部分 GV31 便携式投影仪",
+        "link": "https://www.ithome.com/0/984/823.htm",
+        "pub_time": 1785681542.0,
+        "pub_display": "08-02 22:39"
+      },
+      {
+        "title": "AI 产业扩张引发内存芯片短缺，消息称苹果 MacBook Air 笔记本出现供应紧张局面",
+        "link": "https://www.ithome.com/0/984/822.htm",
+        "pub_time": 1785681265.0,
+        "pub_display": "08-02 22:34"
+      },
+      {
+        "title": "小米汽车：澎程的长滑轨在损耗特性、养护逻辑上和常规滑轨没有区别，不会带来额外的使用负担",
+        "link": "https://www.ithome.com/0/984/821.htm",
+        "pub_time": 1785656942.0,
+        "pub_display": "08-02 15:49"
+      },
+      {
+        "title": "消息称 Top 5 手机厂商明年全部跟进 1:1 前置摄像头，实现更好的数码变焦效果",
+        "link": "https://www.ithome.com/0/984/820.htm",
+        "pub_time": 1785656120.0,
+        "pub_display": "08-02 15:35"
+      },
+      {
+        "title": "中国广电部署下半年重点工作：加快推进电视业务升级等",
+        "link": "https://www.ithome.com/0/984/819.htm",
+        "pub_time": 1785654746.0,
+        "pub_display": "08-02 15:12"
+      },
+      {
+        "title": "联想 ThinkBook X 2026 笔记本新增酷睿 Ultra 7 256V 版本，16GB+1TB 售价 8999 元",
+        "link": "https://www.ithome.com/0/984/817.htm",
+        "pub_time": 1785653231.0,
+        "pub_display": "08-02 14:47"
+      },
+      {
+        "title": "古尔曼：苹果计划将智能眼镜打造为健康健身平台",
+        "link": "https://www.ithome.com/0/984/816.htm",
+        "pub_time": 1785653054.0,
+        "pub_display": "08-02 14:44"
+      },
+      {
+        "title": "首款中式志怪搜打撤游戏，网易《诡影藏锋》已开启全网预约",
+        "link": "https://www.ithome.com/0/984/814.htm",
+        "pub_time": 1785651726.0,
+        "pub_display": "08-02 14:22"
+      },
+      {
+        "title": "华硕破晓 VM61 迷你主机新增“酷睿 i5-13500H 16GB+512GB”配置，3999 元",
+        "link": "https://www.ithome.com/0/984/813.htm",
+        "pub_time": 1785651355.0,
+        "pub_display": "08-02 14:15"
+      },
+      {
+        "title": "规划总投资 35 亿的哪吒汽车工厂，6030.79 万元甩卖生产机械设备因无人出价最终流拍",
+        "link": "https://www.ithome.com/0/984/811.htm",
+        "pub_time": 1785649982.0,
+        "pub_display": "08-02 13:53"
+      },
+      {
+        "title": "大陆集团子公司欧摩威与宝马就制动故障纠纷达成和解：支付 3.5 亿欧元，获 10 亿欧元新订单",
+        "link": "https://www.ithome.com/0/984/810.htm",
+        "pub_time": 1785649605.0,
+        "pub_display": "08-02 13:46"
+      },
+      {
+        "title": "比亚迪方程豹新车预告：钛 9 不会等太久",
+        "link": "https://www.ithome.com/0/984/808.htm",
+        "pub_time": 1785648800.0,
+        "pub_display": "08-02 13:33"
+      },
+      {
+        "title": "奥迪 A2 E-Tron 纽博格林路试谍照曝光，预计今年秋季发布",
+        "link": "https://www.ithome.com/0/984/807.htm",
+        "pub_time": 1785648497.0,
+        "pub_display": "08-02 13:28"
+      },
+      {
+        "title": "中微公司董事长尹志尧：已开发出 54 种高端半导体设备，刻蚀和薄膜设备的加工的精度已经达到了原子级水平",
+        "link": "https://www.ithome.com/0/984/806.htm",
+        "pub_time": 1785647672.0,
+        "pub_display": "08-02 13:14"
+      },
+      {
+        "title": "超过《熊出没 · 年年有熊》，登顶 2026 年动画片票房榜",
+        "link": "https://www.ithome.com/0/984/805.htm",
+        "pub_time": 1785647127.0,
+        "pub_display": "08-02 13:05"
+      },
+      {
+        "title": "因造成环境污染，马斯克 SpaceXAI 宣布数据中心将逐步拆除 69 台移动涡轮发电机",
+        "link": "https://www.ithome.com/0/984/803.htm",
+        "pub_time": 1785645912.0,
+        "pub_display": "08-02 12:45"
+      },
+      {
+        "title": "OPPO A7 Pro Max 搭载全场景 NFC、红外遥控等，8 月 4 日发布",
+        "link": "https://www.ithome.com/0/984/802.htm",
+        "pub_time": 1785644319.0,
+        "pub_display": "08-02 12:18"
+      },
+      {
+        "title": "奇瑞公布 7 月各品牌销量：智界单月卖出超万辆同比增长 227.7%",
+        "link": "https://www.ithome.com/0/984/801.htm",
+        "pub_time": 1785642889.0,
+        "pub_display": "08-02 11:54"
+      },
+      {
+        "title": "泰国证券交易所旗下存管公司遭黑客入侵，20 万投资者信息泄漏",
+        "link": "https://www.ithome.com/0/984/800.htm",
+        "pub_time": 1785642767.0,
+        "pub_display": "08-02 11:52"
+      },
+      {
+        "title": "银昕推出 HA3000R 白金全模组电源：3000W 额定功率、5 年质保，5699 元",
+        "link": "https://www.ithome.com/0/984/798.htm",
+        "pub_time": 1785641472.0,
+        "pub_display": "08-02 11:31"
+      },
+      {
+        "title": "猛士汽车官宣娜扎成为全新猛士 M817 代言人",
+        "link": "https://www.ithome.com/0/984/797.htm",
+        "pub_time": 1785641180.0,
+        "pub_display": "08-02 11:26"
+      },
+      {
+        "title": "米哈游回应创作者被拖欠酬劳：已终止与云南昊曦的合作并拉黑，支持依法维权",
+        "link": "https://www.ithome.com/0/984/796.htm",
+        "pub_time": 1785640860.0,
+        "pub_display": "08-02 11:21"
+      },
+      {
+        "title": "爱好者利用微软 Xbox 360 模拟器 XeniOS，成功在苹果 iPhone 17 Pro Max 上运行《GTA 5》",
+        "link": "https://www.ithome.com/0/984/795.htm",
+        "pub_time": 1785639822.0,
+        "pub_display": "08-02 11:03"
+      },
+      {
+        "title": "TCL 华星联合微星展出 27 英寸 4K 120Hz 印刷 OLED 显示器",
+        "link": "https://www.ithome.com/0/984/794.htm",
+        "pub_time": 1785638890.0,
+        "pub_display": "08-02 10:48"
+      },
+      {
+        "title": "Snap 将于 9 月 16 日举行专场活动，全面展示旗下首款面向普通消费者的 AR 眼镜 Specs",
+        "link": "https://www.ithome.com/0/984/792.htm",
+        "pub_time": 1785637465.0,
+        "pub_display": "08-02 10:24"
+      },
+      {
+        "title": "URXR One 头戴式显示器发布：Pancake 光学方案、支持 6DOF 模式，800 美元",
+        "link": "https://www.ithome.com/0/984/789.htm",
+        "pub_time": 1785637129.0,
+        "pub_display": "08-02 10:18"
+      },
+      {
+        "title": "深圳宝安将电动自行车违法纳入征信：一年内“被罚款五次以上”或“三次以上交通违法未处理”将被录入系统",
+        "link": "https://www.ithome.com/0/984/779.htm",
+        "pub_time": 1785635705.0,
+        "pub_display": "08-02 09:55"
+      }
+    ],
+    "36氪": [
+      {
+        "title": "中信证券：调整基本结束，8月修复可期",
+        "link": "https://36kr.com/newsflashes/3922183036694147?f=rss",
+        "pub_time": 1785635927.0,
+        "pub_display": "08-02 09:58"
+      },
+      {
+        "title": "兆易创新：拟10亿-20亿元回购A股股份用于注销",
+        "link": "https://36kr.com/newsflashes/3922182182841985?f=rss",
+        "pub_time": 1785635157.0,
+        "pub_display": "08-02 09:45"
+      },
+      {
+        "title": "近120万辆特斯拉汽车遭调查",
+        "link": "https://36kr.com/newsflashes/3922152130653828?f=rss",
+        "pub_time": 1785634222.0,
+        "pub_display": "08-02 09:30"
+      },
+      {
+        "title": "比亚迪：今年前7月新能源汽车销量222.77万辆",
+        "link": "https://36kr.com/newsflashes/3922137591786886?f=rss",
+        "pub_time": 1785633335.0,
+        "pub_display": "08-02 09:15"
+      },
+      {
+        "title": "2026年度电影总票房突破230亿",
+        "link": "https://36kr.com/newsflashes/3922136236518789?f=rss",
+        "pub_time": 1785632533.0,
+        "pub_display": "08-02 09:02"
+      },
+      {
+        "title": "汇宇制药：公司3个产品拟中标第十二批全国药品集中采购",
+        "link": "https://36kr.com/newsflashes/3922094224043656?f=rss",
+        "pub_time": 1785632009.0,
+        "pub_display": "08-02 08:53"
+      },
+      {
+        "title": "雷军：小米正式推出小米龙甲电池体系",
+        "link": "https://36kr.com/newsflashes/3922092589805191?f=rss",
+        "pub_time": 1785631549.0,
+        "pub_display": "08-02 08:45"
+      },
+      {
+        "title": "上汽集团：2026年7月整车产量同比增5.17% 新能源车表现亮眼",
+        "link": "https://36kr.com/newsflashes/3922089781538183?f=rss",
+        "pub_time": 1785630652.0,
+        "pub_display": "08-02 08:30"
+      },
+      {
+        "title": "Truth Social推出“Truth API”服务，每月10万美元出售特朗普帖文快速访问权",
+        "link": "https://36kr.com/newsflashes/3922088228957576?f=rss",
+        "pub_time": 1785629721.0,
+        "pub_display": "08-02 08:15"
+      },
+      {
+        "title": "欣天科技：控股股东将变更为深圳元启 明起复牌",
+        "link": "https://36kr.com/newsflashes/3922095174987394?f=rss",
+        "pub_time": 1785629423.0,
+        "pub_display": "08-02 08:10"
+      },
+      {
+        "title": "北汽蓝谷：子公司2026年7月销量同比增长122%",
+        "link": "https://36kr.com/newsflashes/3922082527178118?f=rss",
+        "pub_time": 1785629075.0,
+        "pub_display": "08-02 08:04"
+      },
+      {
+        "title": "一博科技：上半年净利润同比增长1562% PCB工厂订单增长势头良好",
+        "link": "https://36kr.com/newsflashes/3922079463615872?f=rss",
+        "pub_time": 1785628827.0,
+        "pub_display": "08-02 08:00"
+      },
+      {
+        "title": "长安汽车：7月交付20.71万辆",
+        "link": "https://36kr.com/newsflashes/3922078266420608?f=rss",
+        "pub_time": 1785628393.0,
+        "pub_display": "08-02 07:53"
+      },
+      {
+        "title": "谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息",
+        "link": "https://36kr.com/newsflashes/3922077104664199?f=rss",
+        "pub_time": 1785628314.0,
+        "pub_display": "08-02 07:51"
+      },
+      {
+        "title": "下周央行公开市场将有18420亿元逆回购到期",
+        "link": "https://36kr.com/newsflashes/3922069720592004?f=rss",
+        "pub_time": 1785628053.0,
+        "pub_display": "08-02 07:47"
+      },
+      {
+        "title": "央行：继续做好金融支持地方政府融资平台债务风险化解工作 推进融资平台市场化转型",
+        "link": "https://36kr.com/newsflashes/3922068248260229?f=rss",
+        "pub_time": 1785627784.0,
+        "pub_display": "08-02 07:43"
+      },
+      {
+        "title": "央行：继续实施好适度宽松的货币政策",
+        "link": "https://36kr.com/newsflashes/3922067356315266?f=rss",
+        "pub_time": 1785627608.0,
+        "pub_display": "08-02 07:40"
+      },
+      {
+        "title": "央行：提高金融服务实体经济质效 高质量建设债券市场“科技板”",
+        "link": "https://36kr.com/newsflashes/3922066899054208?f=rss",
+        "pub_time": 1785627520.0,
+        "pub_display": "08-02 07:38"
+      },
+      {
+        "title": "央行：完善金融市场宏观审慎管理指标体系，探索丰富金融市场宏观审慎管理工具箱",
+        "link": "https://36kr.com/newsflashes/3922066245922184?f=rss",
+        "pub_time": 1785627126.0,
+        "pub_display": "08-02 07:32"
+      },
+      {
+        "title": "中国产品包揽全球大模型调用量前五",
+        "link": "https://36kr.com/newsflashes/3921989528432259?f=rss",
+        "pub_time": 1785622443.0,
+        "pub_display": "08-02 06:14"
+      }
+    ],
+    "Solidot": [
+      {
+        "title": "系外行星大气中发现半重水",
+        "link": "https://www.solidot.org/story?sid=84987",
+        "pub_time": 1785651832.0,
+        "pub_display": "08-02 14:23"
+      },
+      {
+        "title": "维基基金会雇佣了反工会律所",
+        "link": "https://www.solidot.org/story?sid=84986",
+        "pub_time": 1785650671.0,
+        "pub_display": "08-02 14:04"
+      },
+      {
+        "title": "Steam 用户中使用 Linux 比例超过 4%",
+        "link": "https://www.solidot.org/story?sid=84985",
+        "pub_time": 1785645019.0,
+        "pub_display": "08-02 12:30"
+      }
+    ]
+  }
+}

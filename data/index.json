@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-02 06:58:17",
-  "total": 22,
+  "updated_at": "2026-08-03 06:59:08",
+  "total": 23,
   "briefs": [
+    {
+      "date": "2026-08-03",
+      "display": "2026年08月03日 星期一",
+      "series": "科技资讯",
+      "headline": "谷歌地球叫停AI生图，MacBook Air供应告急",
+      "count": 12,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-08-02",
       "display": "2026年08月02日 星期日",
