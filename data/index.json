@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-05 07:06:35",
-  "total": 25,
+  "updated_at": "2026-08-06 07:03:50",
+  "total": 26,
   "briefs": [
+    {
+      "date": "2026-08-06",
+      "display": "2026年08月06日 星期四",
+      "series": "科技资讯",
+      "headline": "折叠屏预增20%，Anthropic自研AI芯片",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-08-05",
       "display": "2026年08月05日 星期三",
