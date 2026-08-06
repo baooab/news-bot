@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-06 22:27:23",
-  "total": 26,
+  "updated_at": "2026-08-07 07:46:15",
+  "total": 27,
   "briefs": [
+    {
+      "date": "2026-08-07",
+      "display": "2026年08月07日 星期五",
+      "series": "科技资讯",
+      "headline": "OpenAI，Rust语言宣布LLM政策",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-08-06",
       "display": "2026年08月06日 星期四",
