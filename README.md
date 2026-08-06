@@ -1,6 +1,6 @@
 # 科技资讯
 
-每天北京时间 **00:05**、**06:30** 各采集一次权威新闻源，AI 生成摘要，产物以 **JSON 数据**输出，并由 **Bulma** 网页承载渲染，通过 **GitHub Pages** 发布。
+每天早上 **6 点半**（北京时间）自动采集权威新闻源，AI 生成摘要，产物以 **JSON 数据**输出，并由 **Bulma** 网页承载渲染，通过 **GitHub Pages** 发布。
 
 每日精选 **8 条科技 + 4 条民生社会**（共 12 条）。
 
@@ -78,7 +78,7 @@ https://<你的用户名>.github.io/<仓库名>/
 
 1. **Settings → Actions → General** → 允许 Actions 运行
 2. **Settings → Secrets → Actions** 添加 AI 相关 Secret（见下表）
-3. 每日北京时间 **00:05**、**06:30** 各自动运行一次 `Daily News Brief`，或手动触发
+3. 每日北京时间 **06:30** 自动运行 `Daily News Brief`，或手动触发
 
 未配置 AI Secret 时仍可运行，仅跳过 AI 摘要。**只需配置 `AI_API_KEY` 即可**（URL / MODEL 有默认值）。
 
@@ -148,7 +148,7 @@ python -m http.server 8000
 
 ```
 ├── .github/workflows/
-│   ├── daily-news.yml        # 每日采集 + 提交 JSON（00:05 / 06:30 北京时间）
+│   ├── daily-news.yml        # 每日采集 + 提交 JSON（06:30 北京时间）
 │   └── pages.yml             # GitHub Pages 部署
 ├── data/
 │   ├── index.json

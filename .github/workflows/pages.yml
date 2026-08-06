@@ -10,19 +10,23 @@ on:
     types: [completed]
     branches: [main]
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: false
+
+# 强制 JS Actions 使用 Node 24（避免 Node 20 弃用告警）
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   deploy:
     if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
+    # deploy-pages 需要 OIDC：权限写在 job 级更稳妥
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -41,13 +45,13 @@ jobs:
 
       # 同一 run 重跑时旧 attempt 的 artifact 仍会保留；按 attempt 区分名称避免 deploy-pages 报「找到 2 个」
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _site
           name: github-pages-${{ github.run_attempt }}
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
         with:
           artifact_name: github-pages-${{ github.run_attempt }}
