@@ -1,561 +1,597 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06 07:03:50",
-  "total": 102,
+  "generated_at": "2026-08-06 22:27:23",
+  "total": 108,
   "source_count": {
     "澎湃": 30,
     "中新网": 30,
     "IT之家": 30,
-    "Solidot": 12
+    "Solidot": 18
   },
   "sources": {
     "澎湃": [
       {
-        "title": "澎湃回声｜多平台回应“假睫毛胶水检出多种致癌、致敏物”：正排查处置",
+        "title": "暮年常沙娜：记忆消逝处，不褪色的敦煌人生",
         "link": "",
-        "pub_time": 1785923382.06,
-        "pub_display": "08-05 17:49"
+        "pub_time": 1785972630.081,
+        "pub_display": "08-06 07:30"
       },
       {
-        "title": "广东雷州通报“特教老师招聘存在违规”：启动问责程序，副校长被停职",
+        "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
         "link": "",
-        "pub_time": 1785927310.447,
-        "pub_display": "08-05 18:55"
+        "pub_time": 1785972013.142,
+        "pub_display": "08-06 07:20"
       },
       {
-        "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
+        "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
         "link": "",
-        "pub_time": 1785935832.005,
-        "pub_display": "08-05 21:17"
+        "pub_time": 1785984793.405,
+        "pub_display": "08-06 10:53"
       },
       {
-        "title": "联合国教科文组织确认北京为2029年“世界建筑之都”",
+        "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
         "link": "",
-        "pub_time": 1785938238.905,
-        "pub_display": "08-05 21:57"
+        "pub_time": 1785982479.912,
+        "pub_display": "08-06 10:14"
       },
       {
-        "title": "马上测｜“毒”美睫胶暗访调查：成分含致癌物，监管存盲区",
+        "title": "“抗生素牛蛙”后续：多地开展牛蛙食品安全检查或专项行动",
         "link": "",
-        "pub_time": 1785897884.897,
-        "pub_display": "08-05 10:44"
+        "pub_time": 1785973587.592,
+        "pub_display": "08-06 07:46"
       },
       {
-        "title": "河南出台带薪休假新政：领导干部要带头休假，推动全员应休尽休",
+        "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
         "link": "",
-        "pub_time": 1785909696.173,
-        "pub_display": "08-05 14:01"
+        "pub_time": 1785988299.797,
+        "pub_display": "08-06 11:51"
       },
       {
-        "title": "河南汝州一公职人员被举报在职校开餐厅超市，本人回应称“是给别人帮忙”",
+        "title": "我国编制完成新版全月地质图",
         "link": "",
-        "pub_time": 1785916872.161,
-        "pub_display": "08-05 16:01"
+        "pub_time": 1785992187.564,
+        "pub_display": "08-06 12:56"
       },
       {
-        "title": "杂志社长举报网红张萌所著书籍292处文字雷同，张萌回应系“合理使用”",
+        "title": "宇树科技发行价150.8元",
         "link": "",
-        "pub_time": 1785903945.569,
-        "pub_display": "08-05 12:25"
+        "pub_time": 1786014616.466,
+        "pub_display": "08-06 19:10"
       },
       {
-        "title": "马上评｜郭局长被停职，一些疑问仍待解",
+        "title": "“兰州拉面”多地改名“青海拉面”？青海省拉面产业行业协会：青海人开的店自愿报名，不用交钱",
         "link": "",
-        "pub_time": 1785893587.748,
-        "pub_display": "08-05 09:33"
+        "pub_time": 1785997551.181,
+        "pub_display": "08-06 14:25"
       },
       {
-        "title": "邯郸女当事人回应“举报法院执行局长索贿骚扰”：相信事件会得到公平公正处理",
+        "title": "澎湃回声｜汕头农业农村局：初步核实，涉事企业牛蛙货源来自长沙和湛江",
         "link": "",
-        "pub_time": 1785903206.972,
-        "pub_display": "08-05 12:13"
+        "pub_time": 1785983968.022,
+        "pub_display": "08-06 10:39"
       },
       {
-        "title": "犬伤门诊迎接诊高峰：多数患者被家养宠物咬伤，还有人因接触蝙蝠就诊",
+        "title": "解放军报刊文：日本频繁军演凸显危险扩张图谋",
         "link": "",
-        "pub_time": 1785920086.223,
-        "pub_display": "08-05 16:54"
+        "pub_time": 1785971197.708,
+        "pub_display": "08-06 07:06"
       },
       {
-        "title": "体坛联播｜因凡蒂诺召开危机会议，萨拉赫加盟特拉布宗体育",
+        "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
         "link": "",
-        "pub_time": 1785886892.031,
-        "pub_display": "08-05 07:41"
+        "pub_time": 1785999413.07,
+        "pub_display": "08-06 14:56"
       },
       {
-        "title": "马上评｜笔试第一却被劝出局，这些疑点要全面核查",
+        "title": "金融学者、山东财大教授刘海明逝世，终年38岁",
         "link": "",
-        "pub_time": 1785922622.179,
-        "pub_display": "08-05 17:37"
+        "pub_time": 1785976257.115,
+        "pub_display": "08-06 08:30"
       },
       {
-        "title": "美媒：霍尔木兹海峡开放临时协议“接近达成”",
+        "title": "难以落地的动迁款：深圳罗湖区两村民追讨两千万元动迁款八年未果",
         "link": "",
-        "pub_time": 1785905705.801,
-        "pub_display": "08-05 12:55"
+        "pub_time": 1785992160.242,
+        "pub_display": "08-06 12:56"
       },
       {
-        "title": "抱冬瓜睡觉出现第一批“受害者”：半夜遭遇“炸瓜”，床单沾满腐臭汁水",
+        "title": "寻亲之后｜③申军良回忆死刑犯张维平供出“梅姨”过程，以及“梅姨”两张模拟画像来历",
         "link": "",
-        "pub_time": 1785919252.417,
-        "pub_display": "08-05 16:40"
+        "pub_time": 1785973439.599,
+        "pub_display": "08-06 07:43"
       },
       {
-        "title": "商家自曝嫁接睫毛胶水真相：牢固的胶刺激都大，“无甲醛”只是噱头",
+        "title": "冒充保安混入演唱会场内，2名扰序违法人员被行政处罚",
         "link": "",
-        "pub_time": 1785898420.501,
-        "pub_display": "08-05 10:53"
+        "pub_time": 1785946613.213,
+        "pub_display": "08-06 00:16"
       },
       {
-        "title": "在上海张江，孵化器如何将科创“种子”培育成“参天大树”",
+        "title": "重庆一粮食系统职工举报被单位提前退休，涉事公司否认：系自愿申请",
         "link": "",
-        "pub_time": 1785886041.665,
-        "pub_display": "08-05 07:27"
+        "pub_time": 1785988807.634,
+        "pub_display": "08-06 12:00"
       },
       {
-        "title": "马上评丨法院认为“老登”属年龄贬损，这个词错在哪里？",
+        "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
         "link": "",
-        "pub_time": 1785930180.739,
-        "pub_display": "08-05 19:43"
+        "pub_time": 1785988530.572,
+        "pub_display": "08-06 11:55"
       },
       {
-        "title": "“制茶大师”“烹饪大师”称号接连作废，要解决的是什么问题",
+        "title": "开麦丨 一枚胚胎，撕开了婚姻保护的哪道口子？",
         "link": "",
-        "pub_time": 1785927992.677,
-        "pub_display": "08-05 19:06"
+        "pub_time": 1786010590.313,
+        "pub_display": "08-06 18:03"
       },
       {
-        "title": "媒体：人贩子“梅姨”真实姓名首曝光",
+        "title": "南通一烧烤店主长期用猪肉冒充牛羊肉售卖，被判刑并处罚金12万",
         "link": "",
-        "pub_time": 1785934628.866,
-        "pub_display": "08-05 20:57"
+        "pub_time": 1786006630.711,
+        "pub_display": "08-06 16:57"
       },
       {
-        "title": "伊朗副外长：霍尔木兹海峡新安排将关闭临时航道",
+        "title": "时代少年团来沪开唱，周边小区为何“限时限行”？怕粉丝太激动“攻占”楼顶",
         "link": "",
-        "pub_time": 1785954829.971,
-        "pub_display": "08-06 02:33"
+        "pub_time": 1786023294.131,
+        "pub_display": "08-06 21:34"
       },
       {
-        "title": "陕西柞水遭遇大暴雨，五千余户群众已紧急转移安置",
+        "title": "游客睡自己车里被酒店收150元“住宿费”，监管部门介入后酒店退款并赔偿1000元",
         "link": "",
-        "pub_time": 1785948545.52,
-        "pub_display": "08-06 00:49"
+        "pub_time": 1786023116.58,
+        "pub_display": "08-06 21:31"
       },
       {
-        "title": "联合国教科文组织确认北京为2029年“世界建筑之都”",
+        "title": "夜读｜薜荔果冻好清凉",
         "link": "",
-        "pub_time": 1785938238.905,
-        "pub_display": "08-05 21:57"
+        "pub_time": 1786022095.967,
+        "pub_display": "08-06 21:14"
       },
       {
-        "title": "浙江绍兴新昌县通报“如是书院封闭式课程体系等相关问题”",
+        "title": "从菜贩、沙滩到电商仓库，俄乌无人机战如何急剧升级外溢？",
         "link": "",
-        "pub_time": 1785936136.57,
-        "pub_display": "08-05 21:22"
+        "pub_time": 1786020994.326,
+        "pub_display": "08-06 20:56"
       },
       {
-        "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
+        "title": "休达移民危机余波未平：数千人露宿街头，欧盟却在争吵该谁负责",
         "link": "",
-        "pub_time": 1785935832.005,
-        "pub_display": "08-05 21:17"
+        "pub_time": 1786018165.388,
+        "pub_display": "08-06 20:09"
       },
       {
-        "title": "大外交｜美国同时关闭5处使领馆，背后是财政资源洗牌与霸权模式变迁？",
+        "title": "澎湃漫评｜别再让基层干部当“表哥表姐”",
         "link": "",
-        "pub_time": 1785934807.27,
-        "pub_display": "08-05 21:00"
+        "pub_time": 1786017033.669,
+        "pub_display": "08-06 19:50"
       },
       {
-        "title": "媒体：人贩子“梅姨”真实姓名首曝光",
+        "title": "外交部谈广岛核爆81周年：日方应对历史心怀敬畏，不要再次走向被告席",
         "link": "",
-        "pub_time": 1785934628.866,
-        "pub_display": "08-05 20:57"
+        "pub_time": 1786015614.156,
+        "pub_display": "08-06 19:26"
       },
       {
-        "title": "释新闻｜特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
+        "title": "宇树科技发行价150.8元",
         "link": "",
-        "pub_time": 1785934356.797,
-        "pub_display": "08-05 20:52"
+        "pub_time": 1786014616.466,
+        "pub_display": "08-06 19:10"
       },
       {
-        "title": "马上评丨法院认为“老登”属年龄贬损，这个词错在哪里？",
+        "title": "FBI局长与国家情报总监：美国安全机构的最新人事与动作｜907编辑部",
         "link": "",
-        "pub_time": 1785930180.739,
-        "pub_display": "08-05 19:43"
+        "pub_time": 1786013803.484,
+        "pub_display": "08-06 18:56"
       },
       {
-        "title": "“制茶大师”“烹饪大师”称号接连作废，要解决的是什么问题",
+        "title": "观察｜撤档并非流量密码，健康的电影市场需要多元共生",
         "link": "",
-        "pub_time": 1785927992.677,
-        "pub_display": "08-05 19:06"
+        "pub_time": 1786012852.323,
+        "pub_display": "08-06 18:40"
       }
     ],
     "中新网": [
       {
-        "title": "人贩子“梅姨”真实姓名曝光",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672661.shtml",
-        "pub_time": 1785914400.0,
-        "pub_display": "08-05 15:20"
+        "title": "重庆巴南成功预警处置一危岩崩塌险情  多方联动避险转移11人",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673252.shtml",
+        "pub_time": 1785997041.0,
+        "pub_display": "08-06 14:17"
       },
       {
-        "title": "宣称对标星巴克、瑞幸，香港网红咖啡门店被曝光，竟是亿级传销骗局",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672656.shtml",
-        "pub_time": 1785912067.0,
-        "pub_display": "08-05 14:41"
+        "title": "院士专家齐聚“中国辣椒之乡”重庆石柱 共话辣椒产业高质量发展",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673249.shtml",
+        "pub_time": 1785996869.0,
+        "pub_display": "08-06 14:14"
       },
       {
-        "title": "香港一女子虐待患病幼子致死 获刑22年",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672655.shtml",
-        "pub_time": 1785911983.0,
-        "pub_display": "08-05 14:39"
+        "title": "我的青春我“职”道|守护千里安澜，聚力珠江流域水库群联合调度的水利人",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673245.shtml",
+        "pub_time": 1785996368.0,
+        "pub_display": "08-06 14:06"
       },
       {
-        "title": "广西崇左白头叶猴保护区启用三维立体模式开展野生猕猴种群调查",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672647.shtml",
-        "pub_time": 1785911469.0,
-        "pub_display": "08-05 14:31"
+        "title": "“荒岛改造”自由惬意？已触碰法律红线！案例解读→",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673242.shtml",
+        "pub_time": 1785995967.0,
+        "pub_display": "08-06 13:59"
       },
       {
-        "title": "如何让基层首诊从“有”到“优”",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672654.shtml",
-        "pub_time": 1785911463.0,
-        "pub_display": "08-05 14:31"
+        "title": "（乡村行·看振兴）四川会东：“火把节”烧旺乡村经济",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673217.shtml",
+        "pub_time": 1785995573.0,
+        "pub_display": "08-06 13:52"
       },
       {
-        "title": "福建连城非遗展演燃旺夜经济  两岸少年共续客家魂",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672645.shtml",
-        "pub_time": 1785910640.0,
-        "pub_display": "08-05 14:17"
+        "title": "听证会开在田坎上  湖南靖州“修复性司法”唤醒沉睡良田",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673232.shtml",
+        "pub_time": 1785995445.0,
+        "pub_display": "08-06 13:50"
       },
       {
-        "title": "西藏墨脱发生4.6级地震  暂无人员伤亡报告",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672621.shtml",
-        "pub_time": 1785909964.0,
-        "pub_display": "08-05 14:06"
+        "title": "广西首次系统开展陆生野生动物年度监测 珍稀种群稳中有升",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673213.shtml",
+        "pub_time": 1785995349.0,
+        "pub_display": "08-06 13:49"
       },
       {
-        "title": "两岸青年在福州探寻“文化共栖”的深层脉络",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672626.shtml",
-        "pub_time": 1785909897.0,
-        "pub_display": "08-05 14:04"
+        "title": "扎根一线40年 山西“寻药人”倪艳的“本草新生”计划",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673209.shtml",
+        "pub_time": 1785995255.0,
+        "pub_display": "08-06 13:47"
       },
       {
-        "title": "上海野生动物园为大熊猫“嘉嘉”庆祝14岁生日",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672615.shtml",
-        "pub_time": 1785909469.0,
-        "pub_display": "08-05 13:57"
+        "title": "北京京张铁路遗址公园二期开放 打造9公里带状文化绿廊",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673204.shtml",
+        "pub_time": 1785994726.0,
+        "pub_display": "08-06 13:38"
       },
       {
-        "title": "（侨乡新貌）江门“侨咖”香飘百年 “无中生有”铺就产业长卷",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672616.shtml",
-        "pub_time": 1785909451.0,
-        "pub_display": "08-05 13:57"
+        "title": "报告称中国暑期“工厂游”走红",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673220.shtml",
+        "pub_time": 1785994378.0,
+        "pub_display": "08-06 13:32"
       },
       {
-        "title": "（走进中国乡村）千年古堰“国际范” 浙江丽水“巴比松”的艺术乡建路",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672617.shtml",
-        "pub_time": 1785909419.0,
-        "pub_display": "08-05 13:56"
+        "title": "首届“福建船政”航海模型系列赛在福州开赛",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673197.shtml",
+        "pub_time": 1785992784.0,
+        "pub_display": "08-06 13:06"
       },
       {
-        "title": "长沙“防溺水大篷车”开进乡村 借助VR科普学自救",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672603.shtml",
-        "pub_time": 1785908758.0,
-        "pub_display": "08-05 13:45"
+        "title": "网传“深圳地面沉降致车辆损坏”不实（2026·08·06）",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673194.shtml",
+        "pub_time": 1785991731.0,
+        "pub_display": "08-06 12:48"
       },
       {
-        "title": "（乡村行·看振兴）吕梁山下的“甜蜜产业”与“土豆经济”",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672600.shtml",
-        "pub_time": 1785908676.0,
-        "pub_display": "08-05 13:44"
+        "title": "（乡村行·看振兴）方言“喊”出新机遇 浙江村支书把流量留在乡土间",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673160.shtml",
+        "pub_time": 1785988796.0,
+        "pub_display": "08-06 11:59"
       },
       {
-        "title": "琼州海峡暑期车客过海量环比大幅增长",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672586.shtml",
-        "pub_time": 1785907661.0,
-        "pub_display": "08-05 13:27"
+        "title": "当“入境游”遇上“慢生活” 清凉气候、免签便利、文化浸润……外国游客纷至沓来",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10672944.shtml",
+        "pub_time": 1785987935.0,
+        "pub_display": "08-06 11:45"
       },
       {
-        "title": "海南强降雨持续 多预警生效中",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672577.shtml",
-        "pub_time": 1785907617.0,
-        "pub_display": "08-05 13:26"
+        "title": "西渝高铁广安东站主体结构完工",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673155.shtml",
+        "pub_time": 1785987589.0,
+        "pub_display": "08-06 11:39"
       },
       {
-        "title": "“九寨沟湖水靠染色”？官方严正辟谣 染色说法纯属谣言",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672590.shtml",
-        "pub_time": 1785907429.0,
-        "pub_display": "08-05 13:23"
+        "title": "（走进中国乡村）中国马铃薯大会热展  河北围场小土豆撬动超35亿大产业",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673147.shtml",
+        "pub_time": 1785987401.0,
+        "pub_display": "08-06 11:36"
       },
       {
-        "title": "浙江海事局启动Ⅲ级防台应急响应",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672576.shtml",
-        "pub_time": 1785907323.0,
-        "pub_display": "08-05 13:22"
+        "title": "北京多家公园迎来机器人“新员工”",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673148.shtml",
+        "pub_time": 1785987194.0,
+        "pub_display": "08-06 11:33"
       },
       {
-        "title": "宜万铁路因强降雨导致多趟列车停运折返",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672560.shtml",
-        "pub_time": 1785906626.0,
-        "pub_display": "08-05 13:10"
+        "title": "“白海豚”强势逼近华东！或成罕见远洋强台风登陆我国！“三台共舞”如何相互影响？",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673143.shtml",
+        "pub_time": 1785986197.0,
+        "pub_display": "08-06 11:16"
       },
       {
-        "title": "成都“追蚊人”：见招拆招，为蚊子“体检”把脉",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672562.shtml",
-        "pub_time": 1785905366.0,
-        "pub_display": "08-05 12:49"
+        "title": "北京电网最大负荷创历史新高",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673135.shtml",
+        "pub_time": 1785985565.0,
+        "pub_display": "08-06 11:06"
       },
       {
-        "title": "“多地热到破纪录”，8月还会出现极端高温吗？",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672561.shtml",
-        "pub_time": 1785905062.0,
-        "pub_display": "08-05 12:44"
+        "title": "第三届“龙游黄河口”两岸青少年舞龙技艺交流活动在东营举办",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673127.shtml",
+        "pub_time": 1785985323.0,
+        "pub_display": "08-06 11:02"
       },
       {
-        "title": "“小而美”特色书房成暑期打卡新宠",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672546.shtml",
-        "pub_time": 1785904696.0,
-        "pub_display": "08-05 12:38"
+        "title": "“感觉全东北都在等7号”，登上热搜",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673129.shtml",
+        "pub_time": 1785984619.0,
+        "pub_display": "08-06 10:50"
       },
       {
-        "title": "台风“白海豚”逼近 浙江启动海上防台风应急响应",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672522.shtml",
-        "pub_time": 1785902676.0,
-        "pub_display": "08-05 12:04"
+        "title": "陕西强降雨致泥石流等灾害 新增转移避险2.5万余人",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673117.shtml",
+        "pub_time": 1785984007.0,
+        "pub_display": "08-06 10:40"
       },
       {
-        "title": "浙江乌镇：重拾“凉街”旧俗 千年水乡解锁夏日清凉",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672516.shtml",
-        "pub_time": 1785902592.0,
-        "pub_display": "08-05 12:03"
+        "title": "浙江省气象台：“白海豚”风雨影响持续时间长",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673115.shtml",
+        "pub_time": 1785983895.0,
+        "pub_display": "08-06 10:38"
       },
       {
-        "title": "杭州淳安警方跨省出击 捣毁特大直播古玩诈骗团伙",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672514.shtml",
-        "pub_time": 1785902389.0,
-        "pub_display": "08-05 11:59"
+        "title": "连续四次冲高 吉林顶住高温守住用电安稳",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673114.shtml",
+        "pub_time": 1785983821.0,
+        "pub_display": "08-06 10:37"
       },
       {
-        "title": "台风“白海豚”逼近 浙江温州南麂岛、北麂岛1764人转移",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672510.shtml",
-        "pub_time": 1785902245.0,
-        "pub_display": "08-05 11:57"
+        "title": "大熊猫“硗远”因病抢救无效死亡 终年33岁",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673112.shtml",
+        "pub_time": 1785983775.0,
+        "pub_display": "08-06 10:36"
       },
       {
-        "title": "（乡村行·看振兴）“新村民”入乡兴业 浙江乡村把“C位”留给年轻人",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672500.shtml",
-        "pub_time": 1785899497.0,
-        "pub_display": "08-05 11:11"
+        "title": "“银行试点午休1.5小时”引热议 多方发声",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673121.shtml",
+        "pub_time": 1785983629.0,
+        "pub_display": "08-06 10:33"
       },
       {
-        "title": "浙江经济观察：县域如何深耕人工智能产业新赛道？",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672496.shtml",
-        "pub_time": 1785899316.0,
-        "pub_display": "08-05 11:08"
+        "title": "台风“白海豚”靠近华东沿海 江苏海事部门严阵以待",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673111.shtml",
+        "pub_time": 1785983048.0,
+        "pub_display": "08-06 10:24"
       },
       {
-        "title": "港澳大学生逐浪海南自贸港：“很适合年轻人追梦”",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672492.shtml",
-        "pub_time": 1785899248.0,
-        "pub_display": "08-05 11:07"
+        "title": "“白海豚”逼近 浙江多地热门海岛旅游航线将全部关停",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673110.shtml",
+        "pub_time": 1785982948.0,
+        "pub_display": "08-06 10:22"
       },
       {
-        "title": "广东雷州通报“特殊教育学校教师招聘存在违规行为”：已启动问责程序 副校长被停职",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672491.shtml",
-        "pub_time": 1785898623.0,
-        "pub_display": "08-05 10:57"
+        "title": "台风“白海豚”可能于9日下午至10日早晨在浙江到福建北部沿海地区登陆",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673109.shtml",
+        "pub_time": 1785982740.0,
+        "pub_display": "08-06 10:19"
       },
       {
-        "title": "北京迎今夏第7个高温日 开启“焖蒸”模式",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672478.shtml",
-        "pub_time": 1785897478.0,
-        "pub_display": "08-05 10:37"
+        "title": "武汉黄陂推出五大主题活动 邀游客周末来纳凉",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673106.shtml",
+        "pub_time": 1785982630.0,
+        "pub_display": "08-06 10:17"
       }
     ],
     "IT之家": [
       {
-        "title": "消息称 2026 年全球折叠屏手机出货量预计同比增长 20%，苹果首款折叠 iPhone 成重要驱动力",
-        "link": "https://www.ithome.com/0/986/266.htm",
-        "pub_time": 1785941871.0,
-        "pub_display": "08-05 22:57"
+        "title": "网友喊话小米推“重庆特供版”空调，单联瑜称强劲风系列就是“火炉城市特供”",
+        "link": "https://www.ithome.com/0/986/749.htm",
+        "pub_time": 1785997334.0,
+        "pub_display": "08-06 14:22"
       },
       {
-        "title": "谷歌 DeepMind 重组：哈萨比斯转任首席科学家，聚焦通用人工智能应用",
-        "link": "https://www.ithome.com/0/986/265.htm",
-        "pub_time": 1785941826.0,
-        "pub_display": "08-05 22:57"
+        "title": "华为官宣享界 G9 豪华硬派 SUV 首批展车陆续到店，新车预售价 43.98 万元起",
+        "link": "https://www.ithome.com/0/986/747.htm",
+        "pub_time": 1785997190.0,
+        "pub_display": "08-06 14:19"
       },
       {
-        "title": "研究显示：苹果 Vision Pro 可使泪道手术速度提升 19%",
-        "link": "https://www.ithome.com/0/986/264.htm",
-        "pub_time": 1785941474.0,
-        "pub_display": "08-05 22:51"
+        "title": "PS5 版 8 月 26 日发售，商店页面已上线",
+        "link": "https://www.ithome.com/0/986/746.htm",
+        "pub_time": 1785997188.0,
+        "pub_display": "08-06 14:19"
       },
       {
-        "title": "闪迪 2026 财年年报归母净利润 114.33 亿美元，同比增长 797%",
-        "link": "https://www.ithome.com/0/986/262.htm",
-        "pub_time": 1785932041.0,
-        "pub_display": "08-05 20:14"
+        "title": "存储涨价后：苹果上调多款 iPhone、iPad、Mac 及安卓手机以旧换新折抵价，最高达 25%",
+        "link": "https://www.ithome.com/0/986/745.htm",
+        "pub_time": 1785996813.0,
+        "pub_display": "08-06 14:13"
       },
       {
-        "title": "西部数据 2026 财年年报归母净利润 92.98 亿美元，同比增长 481%",
-        "link": "https://www.ithome.com/0/986/263.htm",
-        "pub_time": 1785932090.0,
-        "pub_display": "08-05 20:14"
+        "title": "芒米 AIR Y 系列掌机早鸟价格公布：标准版 599 元、Pro 版 999 元-1199 元",
+        "link": "https://www.ithome.com/0/986/744.htm",
+        "pub_time": 1785996737.0,
+        "pub_display": "08-06 14:12"
       },
       {
-        "title": "RTX 5090 显卡涨价后华硕拒按原价发货：英伟达官方商城直接砍单，重购需多花 553 美元",
-        "link": "https://www.ithome.com/0/986/259.htm",
-        "pub_time": 1785916799.0,
-        "pub_display": "08-05 15:59"
+        "title": "首付 4.99 万起：小米 YU7 汽车 8 月购车权益公布，限时上线“轻松还”金融方案",
+        "link": "https://www.ithome.com/0/986/743.htm",
+        "pub_time": 1785996381.0,
+        "pub_display": "08-06 14:06"
       },
       {
-        "title": "上行 500Mbps、下行 3Gbps：上海电信 5G-A 场景包试点落地",
-        "link": "https://www.ithome.com/0/986/258.htm",
-        "pub_time": 1785915889.0,
-        "pub_display": "08-05 15:44"
+        "title": "英伟达低调组建 AI 安全与网络工程团队，自称秉持“坚定信念”",
+        "link": "https://www.ithome.com/0/986/742.htm",
+        "pub_time": 1785996129.0,
+        "pub_display": "08-06 14:02"
       },
       {
-        "title": "微软《战争机器：事变日》Beta 测试前临时追加 PvP 模式，推荐配置 i5-11600K + RTX 4060",
-        "link": "https://www.ithome.com/0/986/257.htm",
-        "pub_time": 1785915496.0,
-        "pub_display": "08-05 15:38"
+        "title": "中国广电完成行业首例 5G 700MHz“全网通”便携式基站接入验证，正式接入国家应急保障体系",
+        "link": "https://www.ithome.com/0/986/741.htm",
+        "pub_time": 1785995929.0,
+        "pub_display": "08-06 13:58"
       },
       {
-        "title": "阿里巴巴 2026 云栖大会定档 9 月 22 日至 24 日在杭州举行",
-        "link": "https://www.ithome.com/0/986/256.htm",
-        "pub_time": 1785914788.0,
-        "pub_display": "08-05 15:26"
+        "title": "人类首次从另一颗行星表面拍到地球掩星：NASA 毅力号拍到地球从火卫一背后“消失”的罕见影像",
+        "link": "https://www.ithome.com/0/986/740.htm",
+        "pub_time": 1785995322.0,
+        "pub_display": "08-06 13:48"
       },
       {
-        "title": "消息称沃尔沃将推出纯电紧凑 SUV 新车 EX50：比 EX40 更大、更有科技感、更便宜",
-        "link": "https://www.ithome.com/0/986/255.htm",
-        "pub_time": 1785914641.0,
-        "pub_display": "08-05 15:24"
+        "title": "国内已知最大规模！消息称字节跳动正讨论训练超 5 万亿参数模型",
+        "link": "https://www.ithome.com/0/986/739.htm",
+        "pub_time": 1785994967.0,
+        "pub_display": "08-06 13:42"
       },
       {
-        "title": "KTC 推出 27 英寸 2K 220Hz 棱镜 Q27 显示器，887 元",
-        "link": "https://www.ithome.com/0/986/254.htm",
-        "pub_time": 1785914204.0,
-        "pub_display": "08-05 15:16"
+        "title": "华为自带线全能充智能移动电源确认支持精准查找，提供播放铃声、遗落提醒等功能",
+        "link": "https://www.ithome.com/0/986/738.htm",
+        "pub_time": 1785994657.0,
+        "pub_display": "08-06 13:37"
       },
       {
-        "title": "NearLink E2.0：华为 nova 16 SE 手机确认支持星闪音频功能",
-        "link": "https://www.ithome.com/0/986/253.htm",
-        "pub_time": 1785914080.0,
-        "pub_display": "08-05 15:14"
+        "title": "三年磨一剑：Bose 推出新一代 QuietComfort 头戴式耳机，加入有线无损播放、空间音频",
+        "link": "https://www.ithome.com/0/986/737.htm",
+        "pub_time": 1785994242.0,
+        "pub_display": "08-06 13:30"
       },
       {
-        "title": "Cloudflare 宣布推出开源“Cloudflare OS”：面向 AI 智能体和企业工作的开放平台",
-        "link": "https://www.ithome.com/0/986/252.htm",
-        "pub_time": 1785913899.0,
-        "pub_display": "08-05 15:11"
+        "title": "华为官宣乾崑智驾 ADS Pro V5.0 即将推送，新版本亮点公布",
+        "link": "https://www.ithome.com/0/986/736.htm",
+        "pub_time": 1785993918.0,
+        "pub_display": "08-06 13:25"
       },
       {
-        "title": "风避人吹、风随人动、人近风柔：鸿蒙智选 1.5 匹风神之眼空调 2999 → 1499 元",
-        "link": "https://www.ithome.com/0/986/216.htm",
-        "pub_time": 1785902761.0,
-        "pub_display": "08-05 12:06"
+        "title": "vivo Y6t 手机新增“m 版”：换用天玑 6300 处理器，1019 元起",
+        "link": "https://www.ithome.com/0/986/735.htm",
+        "pub_time": 1785993170.0,
+        "pub_display": "08-06 13:12"
       },
       {
-        "title": "Switch 2 版加载时间过长，SE 回应正着手优化",
-        "link": "https://www.ithome.com/0/986/249.htm",
-        "pub_time": 1785913259.0,
-        "pub_display": "08-05 15:00"
+        "title": "支付宝鸿蒙版 App 获 12.12.16.4400 尝鲜升级，开放蚂蚁阿宝 AI 功能",
+        "link": "https://www.ithome.com/0/986/734.htm",
+        "pub_time": 1785993082.0,
+        "pub_display": "08-06 13:11"
       },
       {
-        "title": "消息称三星正开发全新智能手表 Galaxy Aero，定位介于 Fit 4 手环和 Watch FE 之间",
-        "link": "https://www.ithome.com/0/986/248.htm",
-        "pub_time": 1785912709.0,
-        "pub_display": "08-05 14:51"
+        "title": "全球装机数最多三代核电堆型，我国“华龙一号”将迭代升级",
+        "link": "https://www.ithome.com/0/986/731.htm",
+        "pub_time": 1785992821.0,
+        "pub_display": "08-06 13:07"
       },
       {
-        "title": "AYANEO 推出复古掌机 KONKR Pocket Advance：联发科 Helio G90T 芯片，首发 499 元起",
-        "link": "https://www.ithome.com/0/986/247.htm",
-        "pub_time": 1785912510.0,
-        "pub_display": "08-05 14:48"
+        "title": "谷歌地图智能体功能迎来新升级：聊着天就把酒店、外卖订好了",
+        "link": "https://www.ithome.com/0/986/729.htm",
+        "pub_time": 1785991753.0,
+        "pub_display": "08-06 12:49"
       },
       {
-        "title": "美国造车新势力 Lucid 重整运营：减产、加紧推进 Robotaxi、性价比车型继续跳票",
-        "link": "https://www.ithome.com/0/986/245.htm",
-        "pub_time": 1785911750.0,
-        "pub_display": "08-05 14:35"
+        "title": "大疆 Osmo 360 II 全景相机将于 8 月 7 日开启预约：有望延续现款外形设计、新增 NFC 功能",
+        "link": "https://www.ithome.com/0/986/728.htm",
+        "pub_time": 1785991664.0,
+        "pub_display": "08-06 12:47"
       },
       {
-        "title": "比亚迪仰望全系车型高定版上市，U8L「暮雪千山」高定主题套装 30 万元",
-        "link": "https://www.ithome.com/0/986/244.htm",
-        "pub_time": 1785911597.0,
-        "pub_display": "08-05 14:33"
+        "title": "可直接调用微距、长焦：微信 iOS 版灰度测试相机多焦段切换功能",
+        "link": "https://www.ithome.com/0/986/727.htm",
+        "pub_time": 1785991560.0,
+        "pub_display": "08-06 12:46"
       },
       {
-        "title": "理想 i6 第 17 万辆量产车下线",
-        "link": "https://www.ithome.com/0/986/243.htm",
-        "pub_time": 1785911513.0,
-        "pub_display": "08-05 14:31"
+        "title": "安全公司警告 Open VSX 平台出现 77 款山寨插件，可在暗地窃取受害者设备信息",
+        "link": "https://www.ithome.com/0/986/726.htm",
+        "pub_time": 1785991403.0,
+        "pub_display": "08-06 12:43"
       },
       {
-        "title": "SpaceX 价值 1010 亿美元限售股解禁在即，股价或面临新一轮冲击",
-        "link": "https://www.ithome.com/0/986/241.htm",
-        "pub_time": 1785909291.0,
-        "pub_display": "08-05 13:54"
+        "title": "7980 元起，新大洲本田 CBF150T 与 2026 款 NS125GU 正式上市",
+        "link": "https://www.ithome.com/0/986/725.htm",
+        "pub_time": 1785991019.0,
+        "pub_display": "08-06 12:36"
       },
       {
-        "title": "中国联通：智算规模达 45EFLOPS，今年算力相关投资将超 175 亿元",
-        "link": "https://www.ithome.com/0/986/235.htm",
-        "pub_time": 1785908465.0,
-        "pub_display": "08-05 13:41"
+        "title": "华为官宣昇腾 0 Day 支持蚂蚁百灵 Ling-3.0-flash 模型，全新算子编程框架 CANN PyPTO 首秀",
+        "link": "https://www.ithome.com/0/986/724.htm",
+        "pub_time": 1785990943.0,
+        "pub_display": "08-06 12:35"
       },
       {
-        "title": "试试 65°C 热风吹过的被窝：友望除螨仪 649 → 136 元新低，约 15500Pa 大吸力",
-        "link": "https://www.ithome.com/0/986/251.htm",
-        "pub_time": 1785913692.0,
-        "pub_display": "08-05 15:08"
+        "title": "阿里全新一代视频生成模型 Wan3.0 公测：单次生成能 30 秒，号称万物皆可生视频",
+        "link": "https://www.ithome.com/0/986/723.htm",
+        "pub_time": 1785990787.0,
+        "pub_display": "08-06 12:33"
       },
       {
-        "title": "CrowdStrike 推出国际 AI 安全挑战赛：“策反”智能体，总奖金 10 万美元",
-        "link": "https://www.ithome.com/0/986/234.htm",
-        "pub_time": 1785908263.0,
-        "pub_display": "08-05 13:37"
+        "title": "全新深蓝 S05 车型正式上市，限时优惠价 11.59 万元起",
+        "link": "https://www.ithome.com/0/986/722.htm",
+        "pub_time": 1785990340.0,
+        "pub_display": "08-06 12:25"
       },
       {
-        "title": "消息称阶跃星辰内部确立大模型与智能体终端两条战略线，手机业务独立运营、将进入海外市场",
-        "link": "https://www.ithome.com/0/986/233.htm",
-        "pub_time": 1785907762.0,
-        "pub_display": "08-05 13:29"
+        "title": "特朗普科技顾问：部分企业以 AI 为借口实施裁员，这样听起来更好听",
+        "link": "https://www.ithome.com/0/986/720.htm",
+        "pub_time": 1785990028.0,
+        "pub_display": "08-06 12:20"
       },
       {
-        "title": "任天堂 Switch 2 版被曝支持动态分辨率：底座模式 1440p，掌机模式 864p",
-        "link": "https://www.ithome.com/0/986/232.htm",
-        "pub_time": 1785907689.0,
-        "pub_display": "08-05 13:28"
+        "title": "我国第二代 490 牛发动机圆满完成百发卫星飞行任务",
+        "link": "https://www.ithome.com/0/986/718.htm",
+        "pub_time": 1785989750.0,
+        "pub_display": "08-06 12:15"
       },
       {
-        "title": "长城 H10 方盒子 SUV 上市，限时换新价 20.18 万-22.38 万元",
-        "link": "https://www.ithome.com/0/986/230.htm",
-        "pub_time": 1785906674.0,
-        "pub_display": "08-05 13:11"
+        "title": "大的要来了：R 星《GTA 6》前瞻预告定档北京时间 8 月 28 日首播",
+        "link": "https://www.ithome.com/0/986/717.htm",
+        "pub_time": 1785989554.0,
+        "pub_display": "08-06 12:12"
       },
       {
-        "title": "向员工发放奖金后，三星、SK 海力士承诺提高股东回报",
-        "link": "https://www.ithome.com/0/986/229.htm",
-        "pub_time": 1785906547.0,
-        "pub_display": "08-05 13:09"
+        "title": "10.6 万元，索尼 FE 600mm F4 GM OSS 定焦 G 大师镜头国行上架",
+        "link": "https://www.ithome.com/0/986/716.htm",
+        "pub_time": 1785989269.0,
+        "pub_display": "08-06 12:07"
       },
       {
-        "title": "Anthropic 首次确认自研 AI 芯片：专为 Claude 定制，公司正在组建团队",
-        "link": "https://www.ithome.com/0/986/228.htm",
-        "pub_time": 1785906044.0,
-        "pub_display": "08-05 13:00"
+        "title": "索尼 PS5 Pro 推动 PSSR 2.0 普及：Beta 系统更新后自动启用画质增强选项",
+        "link": "https://www.ithome.com/0/986/715.htm",
+        "pub_time": 1785989044.0,
+        "pub_display": "08-06 12:04"
       },
       {
-        "title": "华为鸿蒙 6“超透”控制 / 通知中心背板彩蛋在 HarmonyOS 7 花粉 Beta 版得以保留",
-        "link": "https://www.ithome.com/0/986/227.htm",
-        "pub_time": 1785905714.0,
-        "pub_display": "08-05 12:55"
+        "title": "全新一代 smart 精灵#1 上市：定位新奢 AI 灵动 SUV，限时 14.99 万 / 16.99 万元",
+        "link": "https://www.ithome.com/0/986/714.htm",
+        "pub_time": 1785989039.0,
+        "pub_display": "08-06 12:03"
       }
     ],
     "Solidot": [
+      {
+        "title": "科学家确认灯架虎耳草是食肉植物",
+        "link": "https://www.solidot.org/story?sid=85025",
+        "pub_time": 1785985270.0,
+        "pub_display": "08-06 11:01"
+      },
+      {
+        "title": "观鸟活动或有助于延缓大脑衰老",
+        "link": "https://www.solidot.org/story?sid=85024",
+        "pub_time": 1785984508.0,
+        "pub_display": "08-06 10:48"
+      },
+      {
+        "title": "北极气温多次超过 32 摄氏度",
+        "link": "https://www.solidot.org/story?sid=85023",
+        "pub_time": 1785979204.0,
+        "pub_display": "08-06 09:20"
+      },
+      {
+        "title": "Rust 语言宣布 LLM 政策",
+        "link": "https://www.solidot.org/story?sid=85022",
+        "pub_time": 1785974269.0,
+        "pub_display": "08-06 07:57"
+      },
+      {
+        "title": "科学家拍到迄今最清晰的太阳表面图像",
+        "link": "https://www.solidot.org/story?sid=85021",
+        "pub_time": 1785972929.0,
+        "pub_display": "08-06 07:35"
+      },
+      {
+        "title": "2027 年全年内存产能已全部预定和售罄",
+        "link": "https://www.solidot.org/story?sid=85020",
+        "pub_time": 1785971654.0,
+        "pub_display": "08-06 07:14"
+      },
       {
         "title": "Google DeepMind CEO Demis Hassabis 卸任",
         "link": "https://www.solidot.org/story?sid=85019",

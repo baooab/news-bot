@@ -34,11 +34,14 @@ TECH_STYLE_SYSTEM_PROMPT = f"""你是科技公众号「科技资讯」系列的�
 
 {TECH_STYLE_GUIDE}
 
-## 期标题（headline）
-- 根据当日期内容提炼，突出 1～2 个最抓眼的科技看点
-- 12～28 字；可带数字、公司名、产品名；口语感、适合公众号推送
+## 期标题（headline）——强制两段式
+- **必须**写成「看点A，看点B」：用中文逗号「，」连接**恰好两段**科技要点，禁止只有一段
+- 两段各自提炼不同新闻：主体 + 关键动作/数据；每段约 6～16 字，合计约 14～32 字
+- 优先挑前 8 条科技里最抓眼的两条（数字、公司名、产品名优先）
 - 不要用「科技资讯」「每日简报」等系列名；不要加日期、序号、引号
-- 示例：「长鑫冲刺上市，OpenAI 扔出智能体」「火箭网系回收成功，特斯拉电池又破纪录」
+- **禁止**：单句标题、空泛套话（如「今日硬科技看点速览」「科技热点速递」「今日看点」）
+- 正例：「折叠屏预增20%，Anthropic自研AI芯片」「长鑫冲刺上市，OpenAI推出智能体」
+- 反例：「Google Earth 发布然后撤回了 AI 工具」（只有一段）、「今日硬科技看点速览」（空话）
 
 输出 JSON：headline 为期标题，summaries 与输入序号一一对应。不要生成今日要点。"""
 
@@ -85,7 +88,7 @@ def build_tech_ai_user_prompt(items, tech_count=8):
 {format_tech_examples(4)}
 
 ## 输出要求
-1. headline：根据本期内容起一个吸引人的期标题（12～28 字）
+1. headline：**必须**为两段式「看点A，看点B」（中文逗号分隔，恰好两段），禁止单句或空泛套话
 2. summaries 长度 = {n}，与输入序号一一对应
 3. 每条只写一件事；多事件快讯只保留最重要一条
 4. 保留数字、公司名、产品名；不要加序号、不要写来源媒体
@@ -95,7 +98,14 @@ def build_tech_ai_user_prompt(items, tech_count=8):
 {news_list}
 
 请严格按 JSON 返回（不要 markdown 代码块）：
-{{"headline": "期标题", "summaries": ["条目1", "条目2", ...]}}"""
+{{"headline": "看点A，看点B", "summaries": ["条目1", "条目2", ...]}}"""
+
+
+# 空泛期标题（禁止出现）
+_GENERIC_HEADLINE = re.compile(
+    r"(今日|每日|本期).{0,6}(看点|速览|速递|盘点|汇总|热点)"
+    r"|硬科技看点|科技看点|资讯速览|科技速递|热点速览|一图看懂|一文读懂"
+)
 
 
 def normalize_tech_summary(title, summary):
@@ -106,17 +116,107 @@ def normalize_tech_summary(title, summary):
     return title
 
 
+def _compress_clause(text, max_len=16):
+    """把单条新闻压成适合期标题的短句。"""
+    text = (text or "").strip()
+    text = re.sub(r"^\d+[\.、\)]\s*", "", text)
+    text = text.strip("「」『』“”\"'【】[]")
+    # 只取第一分句
+    text = re.split(r"[，,。；;：:\n|｜/、]", text, maxsplit=1)[0].strip()
+    text = re.sub(r"\s+", "", text)
+    if len(text) > max_len:
+        text = text[:max_len].rstrip("的了吗呢吧与及和")
+    return text
+
+
+def _split_two_parts(text):
+    """尝试拆成恰好两段（仅认中文/英文逗号）；成功返回 (a, b)，否则 None。"""
+    text = (text or "").strip()
+    if not text:
+        return None
+
+    for sep in ("，", ","):
+        if sep not in text:
+            continue
+        parts = [p.strip() for p in text.split(sep) if p.strip()]
+        # 恰好两段；多于两段说明不是规范期标题
+        if len(parts) == 2:
+            # 段内空白压掉，贴近「折叠屏预增20%，Anthropic自研AI芯片」风格
+            a = re.sub(r"\s+", "", parts[0])
+            b = re.sub(r"\s+", "", parts[1])
+            if a and b:
+                return a, b
+        return None
+    return None
+
+
+def is_valid_headline(text):
+    """两段式期标题是否合格。"""
+    text = (text or "").strip()
+    if not text or _GENERIC_HEADLINE.search(text):
+        return False
+    parts = _split_two_parts(text)
+    if not parts:
+        return False
+    a, b = parts
+    if a == b:
+        return False
+    if not (4 <= len(a) <= 18 and 4 <= len(b) <= 18):
+        return False
+    joined = f"{a}，{b}"
+    if not (12 <= len(joined) <= 36):
+        return False
+    if is_low_quality_title(joined)[0]:
+        return False
+    return True
+
+
+def build_fallback_headline(items, tech_count=8):
+    """从精选条目拼两段式期标题（绝不回落到空话）。"""
+    pool = list(items or [])[: max(tech_count, 2)]
+    clauses = []
+    seen = set()
+    for item in pool:
+        raw = (item.get("summary") or item.get("title") or "").strip()
+        clause = _compress_clause(raw)
+        if not clause or len(clause) < 4:
+            continue
+        key = clause.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        clauses.append(clause)
+        if len(clauses) >= 2:
+            break
+
+    if len(clauses) >= 2:
+        return f"{clauses[0]}，{clauses[1]}"
+    if len(clauses) == 1 and len(pool) >= 2:
+        second = _compress_clause(
+            pool[1].get("summary") or pool[1].get("title") or ""
+        )
+        if second and second != clauses[0]:
+            return f"{clauses[0]}，{second}"
+    if len(clauses) == 1:
+        # 仍只有一段时，用第二条原标题硬拆一点信息，避免单句/空话
+        extra = _compress_clause((pool[1].get("title") if len(pool) > 1 else "") or "行业动态更新")
+        if extra == clauses[0]:
+            extra = "科技圈新进展"
+        return f"{clauses[0]}，{extra}"
+    return "科技要闻速递，行业动态更新"
+
+
 def normalize_headline(headline, items=None):
-    """清洗期标题；失败时用首条科技看点兜底。"""
+    """清洗期标题；不合格则用前两条科技看点拼两段式兜底。"""
     text = (headline or "").strip()
     text = text.strip("「」『』“”\"'")
     text = re.sub(r"^[【\[]|[】\]]$", "", text).strip()
     text = re.sub(r"^(科技资讯|每日科技资讯)[：:\s|｜·\-—]*", "", text).strip()
-    if 8 <= len(text) <= 36 and not is_low_quality_title(text)[0]:
-        return text
-    if items:
-        first = (items[0].get("summary") or items[0].get("title") or "").strip()
-        first = re.sub(r"[，,。；;].*$", "", first)
-        if 6 <= len(first) <= 28:
-            return first
-    return "今日硬科技看点速览"
+
+    parts = _split_two_parts(text)
+    if parts:
+        candidate = f"{parts[0]}，{parts[1]}"
+        if is_valid_headline(candidate):
+            return candidate
+
+    return build_fallback_headline(items or [])

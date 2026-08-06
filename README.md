@@ -1,6 +1,8 @@
-# 每日资讯简报
+# 科技资讯
 
-每天早 6 点自动采集权威新闻源，AI 生成摘要，产物以 **JSON 数据**输出，并由 **Bulma** 网页承载渲染，通过 **GitHub Pages** 发布。
+每天凌晨 **0 点 1 分**（北京时间）自动采集权威新闻源，AI 生成摘要，产物以 **JSON 数据**输出，并由 **Bulma** 网页承载渲染，通过 **GitHub Pages** 发布。
+
+每日精选 **8 条科技 + 4 条民生社会**（共 12 条）。
 
 ## 在线访问
 
@@ -34,17 +36,18 @@ https://<你的用户名>.github.io/<仓库名>/
 ## 工作流程
 
 ```
-4 大数据源采集（原始数据存档）
-→ 24h 过滤 → 去重 → 质量过滤 → 话题排序 → 精选 12 条
+6 大数据源采集（原始数据存档）
+→ 日历过滤（今天 + 昨天）→ 去重 → 质量过滤 → 话题排序 / 科技打分
+→ 精选 8 科技 + 4 民生社会
 → AI 摘要增强 → 无效条目过滤/递补 → 构建简报 JSON → 提交到仓库
-→ GitHub Pages 自动部署
+→ GitHub Pages 自动部署（含首页、归档页、详情页）
 ```
 
 ## 输出产物
 
 **JSON 数据（提交到仓库）**
 
-- `data/briefs/YYYY-MM-DD.json` — 精选简报（12 条 + 微语 + 农历日期）
+- `data/briefs/YYYY-MM-DD.json` — 精选简报（8+4 条 + 标题 headline + 农历日期）
 - `data/raw/YYYY-MM-DD.json` — 全部原始数据，按来源分组
 - `data/index.json` — 简报索引（供首页 / 归档页读取）
 
@@ -53,7 +56,7 @@ https://<你的用户名>.github.io/<仓库名>/
 - `index.html` — 首页，只列出当月简报
 - `archive.html` — 归档页，浏览与查询历史简报
 - `brief.html?date=YYYY-MM-DD` — 简报详情（可编辑、复制公众号版）
-- `quotes.json` — 微语库（详情页点击切换）
+- `404.html` — 未找到页面时回首页
 
 ## 部署到 GitHub Pages
 
@@ -69,11 +72,13 @@ https://<你的用户名>.github.io/<仓库名>/
 
 首次部署可在 **Actions** 页选择 `Deploy GitHub Pages` → **Run workflow**。
 
+`pages.yml` 会将 `index.html`、`archive.html`、`brief.html`、`404.html` 与 `data/` 一并发布。
+
 ### 3. 启用每日自动生成（可选）
 
 1. **Settings → Actions → General** → 允许 Actions 运行
 2. **Settings → Secrets → Actions** 添加 AI 相关 Secret（见下表）
-3. 每日北京时间 **06:00** 自动运行 `Daily News Brief`，或手动触发
+3. 每日北京时间 **00:01** 自动运行 `Daily News Brief`，或手动触发
 
 未配置 AI Secret 时仍可运行，仅跳过 AI 摘要。**只需配置 `AI_API_KEY` 即可**（URL / MODEL 有默认值）。
 
@@ -82,6 +87,8 @@ https://<你的用户名>.github.io/<仓库名>/
 | `AI_API_KEY` | ✅ | — | 你的 API Key |
 | `AI_API_URL` | | `https://api.deepseek.com/v1/chat/completions` | OpenAI 兼容接口地址 |
 | `AI_MODEL` | | `deepseek-v4-flash` | 模型名 |
+
+本地也可复制 `.env.example` 为 `.env` 填写上述变量（`.env` 已在 `.gitignore`，不会提交）。
 
 ### 4. 本地开发
 
@@ -99,23 +106,31 @@ python -m http.server 8000
 
 ```jsonc
 {
-  "date": "2026-07-11",
-  "date_display": "2026年07月11日 星期六 农历五月廿七",
+  "series": "科技资讯",
+  "headline": "当日标题（AI / 规则生成）",
+  "date": "2026-08-06",
+  "date_display": "2026年08月06日 星期四 农历六月廿四",
+  "weekday": "星期四",
+  "lunar": "农历六月廿四",
   "overview": "",
-  "quote": "每日微语",
+  "generated_at": "2026-08-06 07:03:50",
   "count": 12,
-  "sources": ["澎湃", "联合早报", "IT之家", "36氪"],
+  "tech_quota": 8,
+  "general_quota": 4,
+  "sources": ["IT之家", "Solidot", "中新网", "澎湃"],
   "items": [
     {
       "index": 1,
       "title": "原始标题",
       "summary": "AI 一句话摘要",
       "text": "展示文本（有摘要用摘要，否则用标题）",
-      "source": "澎湃",
+      "source": "Solidot",
       "link": "https://...",
-      "topic": "national",
-      "pub_time": 1783738193.3,
-      "pub_display": "07-11 10:49"
+      "topic": "other",
+      "section": "tech",       // tech | general
+      "tech_score": 56,
+      "pub_time": 1785917558.0,
+      "pub_display": "08-05 16:12"
     }
   ]
 }
@@ -123,41 +138,44 @@ python -m http.server 8000
 
 ## 简报格式
 
-- **标题**：每日资讯简报
+- **系列名**：科技资讯
+- **标题**：当日 headline（概括当日要点）
 - **日期**：公历 + 星期 + 农历
-- **正文**：12 条新闻，扁平编号，无分类、无来源标签
-- **结尾**：【微语】每日金句
+- **正文**：前 8 条科技 + 后 4 条民生社会，扁平编号
+- **详情页**：可编辑条目、切换原始池、复制公众号版
 
 ## 项目结构
 
 ```
 ├── .github/workflows/
-│   ├── daily-news.yml        # 每日采集 + 提交 JSON
+│   ├── daily-news.yml        # 每日采集 + 提交 JSON（00:01 北京时间）
 │   └── pages.yml             # GitHub Pages 部署
 ├── data/
 │   ├── index.json
 │   ├── briefs/
 │   └── raw/
-├── config.py
+├── config.py                 # 数据源、配额、过滤与 AI 配置
 ├── fetchers.py
 ├── quality_filter.py
+├── tech_score.py             # 科技相关度打分
 ├── brief_style.py
+├── tech_brief_style.py
 ├── ai_summary.py
 ├── formatter.py
-├── quotes.py / quotes.json
 ├── main.py
 ├── index.html                # 首页（当月）
 ├── archive.html              # 历史归档
-├── brief.html
+├── brief.html                # 简报详情
 ├── 404.html
+├── .env.example
 ├── .nojekyll
 └── requirements.txt
 ```
 
 ## 自定义
 
-- **新闻条数**：`config.py` → `TARGET_COUNT`（默认 12）
-- **时间范围**：`HOURS_FILTER`（默认 24 小时）
+- **科技 / 民生条数**：`config.py` → `TECH_QUOTA` / `GENERAL_QUOTA`（默认 8 + 4）
+- **日历过滤**：`RECENT_CALENDAR_DAYS`（默认 `2`，即今天 + 昨天；`0` 关闭）
 - **来源限制**：`MAX_PER_SOURCE`
-- **排序优先级**：`SORT_KEYWORDS`
-- **微语库**：编辑 `quotes.json`
+- **排序优先级**：`SORT_KEYWORDS` / `SORT_TOPICS`
+- **科技打分**：`TECH_KEYWORDS` / `TECH_SOURCE_SCORES`
