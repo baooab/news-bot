@@ -1,12 +1,12 @@
 {
   "series": "科技资讯",
-  "headline": "OpenAI，Rust语言宣布LLM政策",
+  "headline": "GPT-4.5以来训练的最大模型，苹果发布macOS26.6.1T",
   "date": "2026-08-07",
   "date_display": "2026年08月07日 星期五 农历六月廿五",
   "weekday": "星期五",
   "lunar": "农历六月廿五",
   "overview": "",
-  "generated_at": "2026-08-07 07:46:15",
+  "generated_at": "2026-08-07 09:36:10",
   "count": 12,
   "tech_quota": 8,
   "general_quota": 4,
@@ -19,19 +19,45 @@
   "items": [
     {
       "index": 1,
-      "title": "OpenAI：ChatGPT 免费用户默认模型升级为 GPT-5.6 Luna，Plus 和 Pro 用户更新聊天界面 GPT-5.6 Sol",
+      "title": "GPT-4.5 以来训练的最大模型，曝 OpenAI 最快下周推出 Astra AI 模型",
       "summary": "",
-      "text": "OpenAI：ChatGPT 免费用户默认模型升级为 GPT-5.6 Luna，Plus 和 Pro 用户更新聊天界面 GPT-5.6 Sol",
+      "text": "GPT-4.5 以来训练的最大模型，曝 OpenAI 最快下周推出 Astra AI 模型",
       "source": "IT之家",
-      "link": "https://www.ithome.com/0/986/776.htm",
+      "link": "https://www.ithome.com/0/986/789.htm",
       "topic": "other",
       "section": "tech",
       "tech_score": 62,
-      "pub_time": 1786027940.0,
-      "pub_display": "08-06 22:52"
+      "pub_time": 1786032205.0,
+      "pub_display": "08-07 00:03"
     },
     {
       "index": 2,
+      "title": "苹果发布 macOS 26.6.1 Tahoe 更新：修复屏幕共享认证漏洞",
+      "summary": "",
+      "text": "苹果发布 macOS 26.6.1 Tahoe 更新：修复屏幕共享认证漏洞",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/0/986/786.htm",
+      "topic": "other",
+      "section": "tech",
+      "tech_score": 54,
+      "pub_time": 1786031395.0,
+      "pub_display": "08-06 23:49"
+    },
+    {
+      "index": 3,
+      "title": "AMD 宣布计划收购 Taalas 公司，补强 AI 推理芯片路线图",
+      "summary": "",
+      "text": "AMD 宣布计划收购 Taalas 公司，补强 AI 推理芯片路线图",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/0/986/791.htm",
+      "topic": "other",
+      "section": "tech",
+      "tech_score": 49,
+      "pub_time": 1786033019.0,
+      "pub_display": "08-07 00:16"
+    },
+    {
+      "index": 4,
       "title": "Rust 语言宣布 LLM 政策",
       "summary": "",
       "text": "Rust 语言宣布 LLM 政策",
@@ -44,43 +70,17 @@
       "pub_display": "08-06 07:57"
     },
     {
-      "index": 3,
-      "title": "特斯拉 FSD v14 取消自定义限速后风波不断：超速被警方拦停后司机辩称是“自动驾驶”",
+      "index": 5,
+      "title": "DeepSeek 参与宇树科技上市配售，金额约 1.41 亿元",
       "summary": "",
-      "text": "特斯拉 FSD v14 取消自定义限速后风波不断：超速被警方拦停后司机辩称是“自动驾驶”",
+      "text": "DeepSeek 参与宇树科技上市配售，金额约 1.41 亿元",
       "source": "IT之家",
-      "link": "https://www.ithome.com/0/986/763.htm",
-      "topic": "social",
+      "link": "https://www.ithome.com/0/986/801.htm",
+      "topic": "other",
       "section": "tech",
       "tech_score": 46,
-      "pub_time": 1785999464.0,
-      "pub_display": "08-06 14:57"
-    },
-    {
-      "index": 4,
-      "title": "为缓解 HBM 供应短缺，消息称英伟达考虑降低 Rubin Ultra GPU 配置",
-      "summary": "",
-      "text": "为缓解 HBM 供应短缺，消息称英伟达考虑降低 Rubin Ultra GPU 配置",
-      "source": "IT之家",
-      "link": "https://www.ithome.com/0/986/784.htm",
-      "topic": "other",
-      "section": "tech",
-      "tech_score": 41,
-      "pub_time": 1786030852.0,
-      "pub_display": "08-06 23:40"
-    },
-    {
-      "index": 5,
-      "title": "效力 27 年后谷歌首席科学家迪恩离职创立新公司，要加速 AI 前沿发现",
-      "summary": "",
-      "text": "效力 27 年后谷歌首席科学家迪恩离职创立新公司，要加速 AI 前沿发现",
-      "source": "IT之家",
-      "link": "https://www.ithome.com/0/986/779.htm",
-      "topic": "other",
-      "section": "tech",
-      "tech_score": 41,
-      "pub_time": 1786029553.0,
-      "pub_display": "08-06 23:19"
+      "pub_time": 1786035504.0,
+      "pub_display": "08-07 00:58"
     },
     {
       "index": 6,
@@ -136,16 +136,16 @@
     },
     {
       "index": 10,
-      "title": "陕西强降雨致泥石流等灾害 新增转移避险2.5万余人",
+      "title": "推动科艺融合，上海国际艺术节“扶青计划”启动AI短剧征集展演",
       "summary": "",
-      "text": "陕西强降雨致泥石流等灾害 新增转移避险2.5万余人",
-      "source": "中新网",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-06/10673117.shtml",
-      "topic": "social",
+      "text": "推动科艺融合，上海国际艺术节“扶青计划”启动AI短剧征集展演",
+      "source": "澎湃",
+      "link": "",
+      "topic": "local",
       "section": "general",
-      "tech_score": 5,
-      "pub_time": 1785984007.0,
-      "pub_display": "08-06 10:40"
+      "tech_score": 8,
+      "pub_time": 1786059109.13,
+      "pub_display": "08-07 07:31"
     },
     {
       "index": 11,
@@ -162,16 +162,16 @@
     },
     {
       "index": 12,
-      "title": "“白海豚”逐渐向华东沿海靠近 或在浙江到福建北部沿海地区登陆",
+      "title": "海南云南北京河北等地有分散性强降水",
       "summary": "",
-      "text": "“白海豚”逐渐向华东沿海靠近 或在浙江到福建北部沿海地区登陆",
+      "text": "海南云南北京河北等地有分散性强降水",
       "source": "中新网",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-07/10673311.shtml",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-07/10673329.shtml",
       "topic": "local",
       "section": "general",
       "tech_score": 0,
-      "pub_time": 1786029987.0,
-      "pub_display": "08-06 23:26"
+      "pub_time": 1786037267.0,
+      "pub_display": "08-07 01:27"
     }
   ]
 }
