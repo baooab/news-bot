@@ -4,6 +4,8 @@ on:
   schedule:
     # UTC 22:30 = 北京时间 06:30（每天早上 6 点半）
     - cron: '30 22 * * *'
+    # UTC 16:05 = 北京时间 00:05（每天凌晨）
+    - cron: '5 16 * * *'
   workflow_dispatch: # 支持手动触发
 
 permissions:
