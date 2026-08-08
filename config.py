@@ -1,4 +1,4 @@
-"""配置文件 —— 6 大数据源 + AI 摘要 + 话题排序。"""
+"""配置文件 —— 数据源 + AI 摘要 + 话题排序。"""
 
 import os
 from pathlib import Path
@@ -11,20 +11,25 @@ except ImportError:
     pass
 
 # ============================================================
-# 数据源（6 个，全部直连，不依赖 RSSHub）
+# 数据源（全部直连）
 # ============================================================
-# 综合 / 民生：澎湃新闻 API、中新网社会 RSS
-# 科技商业：IT之家 RSS、36氪 RSS、Solidot RSS、凤凰科技 JSONP
-# 全部经过实测，返回当日实时新闻（3-20h 内）。
+# 综合 / 民生：澎湃、中新网、人民网、每日环球视野
+# 科技商业：IT之家、36氪、Solidot、凤凰科技
 
 SOURCES = [
     # 澎湃新闻 API（热闻 + 精选 + 财经）
     {"type": "thepaper", "name": "澎湃", "url": "https://cache.thepaper.cn/contentapi/wwwIndex/rightSidebar"},
     # 中新网社会 RSS（民生 / 社会向补充）
     {"type": "rss", "name": "中新网", "url": "https://www.chinanews.com.cn/rss/society.xml"},
+    # 人民网首页头条 RSS
+    {"type": "rss", "name": "人民网", "url": "https://plink.anyfeeder.com/people"},
+    # 每日环球视野 RSS（国际视野）
+    {"type": "rss", "name": "每日环球视野", "url": "https://plink.anyfeeder.com/idaily/today"},
     # --- 科技 / 商业 ---
     {"type": "rss", "name": "IT之家", "url": "https://www.ithome.com/rss/"},
-    {"type": "rss", "name": "36氪", "url": "https://36kr.com/feed"},
+    # 36氪 gateway 热榜 API（官方 RSS 已被火山引擎检测拦截）
+    {"type": "36kr", "name": "36氪",
+     "url": "https://gateway.36kr.com/api/mis/nav/home/nav/rank/hot"},
     {"type": "rss", "name": "Solidot", "url": "https://www.solidot.org/index.rss"},
     # 凤凰网科技频道精选池（JSONP）
     {"type": "ifeng", "name": "凤凰科技",

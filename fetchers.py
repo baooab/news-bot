@@ -104,7 +104,68 @@ def fetch_thepaper(source_name, url):
 
 
 # ============================================================
-# 1c. 采集 —— 凤凰网科技 JSONP
+# 1c. 采集 —— 36氪 gateway JSON API
+# ============================================================
+
+def fetch_36kr(source_name, url):
+    """抓取 36氪 热榜 API（绕过官方 RSS 的火山引擎检测页）。"""
+    try:
+        headers = dict(HTTP_HEADERS)
+        headers["Content-Type"] = "application/json"
+        payload = {"partner_id": "web", "param": {"siteId": 1, "platformId": 2}}
+        resp = requests.post(
+            url, headers=headers, json=payload, timeout=REQUEST_TIMEOUT
+        )
+        if resp.status_code != 200:
+            print(f"  [{source_name}] HTTP {resp.status_code}")
+            return []
+
+        data = resp.json()
+        if data.get("code") not in (0, "0", None):
+            # 部分响应成功时 code=0；若结构异常直接尝试取 data
+            if not isinstance(data.get("data"), dict):
+                print(f"  [{source_name}] API code={data.get('code')}")
+                return []
+
+        d = data.get("data") or {}
+        entries = d.get("hotRankList") or []
+        if not isinstance(entries, list):
+            print(f"  [{source_name}] hotRankList 非列表")
+            return []
+
+        items = []
+        for entry in entries[:MAX_FETCH_PER_FEED]:
+            tm = entry.get("templateMaterial") or {}
+            title = clean_title((tm.get("widgetTitle") or entry.get("title") or "").strip())
+            if not title or len(title) < 8:
+                continue
+
+            item_id = tm.get("itemId") or entry.get("itemId")
+            link = f"https://36kr.com/p/{item_id}" if item_id else ""
+
+            pub_time = None
+            ts = entry.get("publishTime") or tm.get("publishTime")
+            if ts:
+                try:
+                    ts = float(ts)
+                    pub_time = ts / 1000 if ts > 1e12 else ts
+                except Exception:
+                    pub_time = None
+
+            items.append({
+                "source": source_name,
+                "title": title,
+                "link": link,
+                "pub_time": pub_time,
+            })
+        return items
+    except Exception as e:
+        print(f"  [{source_name}] API 获取失败: {e}")
+        return []
+
+
+# ============================================================
+# 1d. 采集 —— 凤凰网科技 JSONP
 # ============================================================
 
 def _parse_jsonp(text):
@@ -174,6 +235,8 @@ def fetch_source(source):
         return fetch_rss(name, url)
     elif stype == "thepaper":
         return fetch_thepaper(name, url)
+    elif stype == "36kr":
+        return fetch_36kr(name, url)
     elif stype == "ifeng":
         return fetch_ifeng(name, url)
     else:
