@@ -13,8 +13,8 @@ except ImportError:
 # ============================================================
 # 数据源（6 个，全部直连，不依赖 RSSHub）
 # ============================================================
-# 综合 / 民生：澎湃新闻 API、中新网社会 RSS、联合早报 RSS
-# 科技商业：IT之家 RSS、36氪 RSS、Solidot RSS
+# 综合 / 民生：澎湃新闻 API、中新网社会 RSS
+# 科技商业：IT之家 RSS、36氪 RSS、Solidot RSS、凤凰科技 JSONP
 # 全部经过实测，返回当日实时新闻（3-20h 内）。
 
 SOURCES = [
@@ -22,12 +22,13 @@ SOURCES = [
     {"type": "thepaper", "name": "澎湃", "url": "https://cache.thepaper.cn/contentapi/wwwIndex/rightSidebar"},
     # 中新网社会 RSS（民生 / 社会向补充）
     {"type": "rss", "name": "中新网", "url": "https://www.chinanews.com.cn/rss/society.xml"},
-    # 联合早报 RSS（国际视角）
-    {"type": "rss", "name": "联合早报", "url": "https://plink.anyfeeder.com/zaobao/realtime/china"},
     # --- 科技 / 商业 ---
     {"type": "rss", "name": "IT之家", "url": "https://www.ithome.com/rss/"},
     {"type": "rss", "name": "36氪", "url": "https://36kr.com/feed"},
     {"type": "rss", "name": "Solidot", "url": "https://www.solidot.org/index.rss"},
+    # 凤凰网科技频道精选池（JSONP）
+    {"type": "ifeng", "name": "凤凰科技",
+     "url": "https://shankapi.ifeng.com/season/tech/selectedPoolData/20002/204/cb"},
 ]
 
 # ============================================================
@@ -37,7 +38,7 @@ SOURCES = [
 # RECENT_CALENDAR_DAYS=2 表示保留 2 个自然日；设为 0 关闭过滤
 RECENT_CALENDAR_DAYS = int(os.getenv("RECENT_CALENDAR_DAYS", "2"))
 MAX_PER_SOURCE = 3                                    # 每来源最多贡献几条
-MAX_FETCH_PER_FEED = 30                               # 每个 feed 最多抓取条数
+MAX_FETCH_PER_FEED = 60                               # 每个 feed 最多抓取条数
 REQUEST_TIMEOUT = 15                                  # 网络超时（秒）
 
 # ============================================================
@@ -103,6 +104,7 @@ TECH_SCORE_THRESHOLD = 25
 # 来源基础分
 TECH_SOURCE_SCORES = {
     "Solidot": 40,
+    "凤凰科技": 40,
     "IT之家": 25,
     "36氪": 15,
 }
@@ -131,6 +133,7 @@ TECH_ANTI_KEYWORDS = [
 # 科技系列：每来源在科技区的上限
 TECH_SOURCE_LIMITS = {
     "Solidot": 4,
+    "凤凰科技": 4,
     "IT之家": 4,
     "36氪": 3,
 }

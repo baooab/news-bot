@@ -1,5 +1,6 @@
 """新闻抓取模块 —— 直连数据源 + 日历过滤 + 模糊去重 + 话题排序。"""
 
+import json
 import re
 import time as time_module
 from datetime import datetime, timedelta
@@ -103,6 +104,63 @@ def fetch_thepaper(source_name, url):
 
 
 # ============================================================
+# 1c. 采集 —— 凤凰网科技 JSONP
+# ============================================================
+
+def _parse_jsonp(text):
+    """剥离 JSONP 回调包装；若已是纯 JSON 则直接解析。"""
+    text = (text or "").strip()
+    m = re.match(r"^[^(]*\((.*)\)\s*;?\s*$", text, re.DOTALL)
+    return json.loads(m.group(1) if m else text)
+
+
+def fetch_ifeng(source_name, url):
+    """抓取凤凰网科技精选池（JSONP），返回 item 列表。"""
+    try:
+        resp = requests.get(url, headers=HTTP_HEADERS, timeout=REQUEST_TIMEOUT)
+        if resp.status_code != 200:
+            print(f"  [{source_name}] HTTP {resp.status_code}")
+            return []
+
+        payload = _parse_jsonp(resp.text)
+        if payload.get("code") != 0:
+            print(f"  [{source_name}] API code={payload.get('code')} msg={payload.get('message')}")
+            return []
+
+        entries = payload.get("data") or []
+        if not isinstance(entries, list):
+            print(f"  [{source_name}] data 非列表")
+            return []
+
+        items = []
+        for entry in entries[:MAX_FETCH_PER_FEED]:
+            if entry.get("type") and entry.get("type") != "article":
+                continue
+            title = clean_title(entry.get("title", "").strip())
+            if not title or len(title) < 8:
+                continue
+
+            pub_time = None
+            news_time = entry.get("newsTime") or ""
+            if news_time:
+                try:
+                    pub_time = datetime.strptime(news_time.strip(), "%Y-%m-%d %H:%M:%S").timestamp()
+                except Exception:
+                    pub_time = None
+
+            items.append({
+                "source": source_name,
+                "title": title,
+                "link": entry.get("url", ""),
+                "pub_time": pub_time,
+            })
+        return items
+    except Exception as e:
+        print(f"  [{source_name}] JSONP 获取失败: {e}")
+        return []
+
+
+# ============================================================
 # 采集分发
 # ============================================================
 
@@ -116,6 +174,8 @@ def fetch_source(source):
         return fetch_rss(name, url)
     elif stype == "thepaper":
         return fetch_thepaper(name, url)
+    elif stype == "ifeng":
+        return fetch_ifeng(name, url)
     else:
         print(f"  [{name}] 未知源类型: {stype}")
         return []
@@ -339,7 +399,7 @@ def fetch_all_news():
 
 if __name__ == "__main__":
     print("=" * 60)
-    print("新闻抓取测试 v4.0 —— 7 大直连数据源")
+    print("新闻抓取测试 v4.0 —— 直连数据源")
     print("=" * 60)
 
     items = fetch_all_news()

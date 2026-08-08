@@ -26,10 +26,10 @@ https://<你的用户名>.github.io/<仓库名>/
 |------|------|------|
 | 综合 | 澎湃新闻 | JSON API |
 | 民生社会 | 中新网（社会频道） | RSS |
-| 综合 | 联合早报 | RSS |
 | 科技 | IT之家 | RSS |
 | 商业 | 36氪 | RSS |
 | 科技 | Solidot | RSS |
+| 科技 | 凤凰科技 | JSONP |
 
 > 如需增减来源，编辑 `config.py` 的 `SOURCES`。
 
