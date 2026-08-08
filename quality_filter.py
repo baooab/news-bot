@@ -111,10 +111,58 @@ _QUOTE_RIDDLE = re.compile(
     r".*(未来|新篇章|新征程|新蓝图|新天地)"
 )
 
-# 评论稿/猜谜式标题
+# 标题党 / 情绪煽动式
+_CLICKBAIT = re.compile(
+    r"(捅了马蜂窝|"
+    r"彻底凉了|凉透了|这下.{0,8}凉了|"
+    r"翻车了|炸锅了|破防了|搞事情|"
+    r"育儿大法|赚钱大法|搞钱大法|"
+    r"终于出手了|最适合做.{0,16}的(厂商|品牌|公司)|"
+    r"曾经.{0,16}第一.{0,20}(凉了|没落|衰落|不行))"
+    r"[？?！!…]*"
+)
+
+# 暖心/励志特稿（即便含「N年」也无硬新闻事实）
+_HUMAN_INTEREST = re.compile(
+    r"(续写大爱|大爱无疆|温暖人间|爱心接力|感人泪目|催人泪下|"
+    r"圆梦师范|圆梦大学|圆梦校园|失亲.{0,12}抚养|被老师抚养|"
+    r"暖心故事|温情时刻)"
+)
+
+# 动物/萌宠软文
+_ANIMAL_SOFT = re.compile(
+    r"^当.{0,24}(宝宝|小猫|小狗|松鼠|流浪猫|流浪狗|小动物).{0,30}"
+    r"(坠落|街头|走失|获救|被困|意外)|"
+    r"(松鼠宝宝|猫咪宝宝|狗狗).{0,20}(坠落|街头|走失)"
+)
+
+# 空洞政策表述：进一步优化/调整…但无具体数据或措施
+_VAGUE_POLICY = re.compile(
+    r"(进一步|持续|全面|深入|积极|稳妥).{0,10}"
+    r"(优化|调整|完善|加强|推进|做好).{0,20}"
+    r"(政策|措施|工作|力度|环境|机制)|"
+    r"优化调整.{0,16}(政策|措施|工作)"
+)
+
+# 评论稿/猜谜式标题（开头栏目名；兼容｜/|分隔）
 _OPINION_PREFIX = re.compile(
-    r"^(即时评|快评|社评|锐评|夜读|特稿|图集|视频|直播|专题|"
+    r"^(即时评|快评|社评|锐评|时评|夜读|特稿|图集|视频|直播|专题|"
     r"马上评|一周评|记者观察|专家解读|深度|独家|揭秘)"
+    r"(?:\s*[｜|：:])?"
+)
+
+# 媒体时评/评论员文章（含「新华时评：」）
+_COMMENTARY = re.compile(
+    r"(新华时评|人民时评|光明时评|经济日报|评论员文章|本报评论员|"
+    r"[\u4e00-\u9fff]{0,6}时评)[：:]|"
+    r"^(时评|评论)[：:]"
+)
+
+# 娱乐软广 / 情怀致敬
+_ENTERTAINMENT_SOFT = re.compile(
+    r"从[《「\"].{1,24}[》」\"]到[《「\"].{1,24}[》」\"]|"
+    r"致敬.{0,16}(初心|情怀|经典|梦想)|"
+    r"(电影|影视).{0,8}初心"
 )
 
 # 主体/机构常见标记（「大学生」不算「大学」）
@@ -131,9 +179,19 @@ _HAS_DIGIT = re.compile(
     r"[一二三四五六七八九十两]+[年月日天成倍]"
 )
 
+# 末尾无单位的 1～2 位尾巴数字（如「广阔天地0」），不算有效数据
+_TRAILING_JUNK_DIGIT = re.compile(r"[\u4e00-\u9fff]\d{1,2}$")
+
+
 
 def _has_action(title):
     return any(v in title for v in _ACTION_VERBS)
+
+
+def _has_real_digit(title):
+    """是否含有效数据信号（忽略末尾无单位垃圾数字）。"""
+    text = _TRAILING_JUNK_DIGIT.sub(lambda m: m.group(0)[0], title or "")
+    return bool(_HAS_DIGIT.search(text))
 
 
 def _has_entity(title):
@@ -154,7 +212,7 @@ def _has_entity(title):
 def _is_slogan(text):
     """判断是否为无具体信息的公文口号。"""
     text = (text or "").strip()
-    if not text or _HAS_DIGIT.search(text):
+    if not text or _has_real_digit(text):
         return False
     return bool(_SLOGAN.search(text))
 
@@ -169,6 +227,30 @@ def is_low_quality_title(title):
     if _OPINION_PREFIX.match(title):
         return True, "评论/栏目体"
 
+    # 1b. 时评/评论员文章
+    if _COMMENTARY.search(title):
+        return True, "时评评论"
+
+    # 1c. 标题党 / 情绪煽动
+    if _CLICKBAIT.search(title):
+        return True, "标题党"
+
+    # 1d. 娱乐情怀软文
+    if _ENTERTAINMENT_SOFT.search(title) and not _has_real_digit(title):
+        return True, "娱乐软文"
+
+    # 1e. 暖心励志特稿
+    if _HUMAN_INTEREST.search(title):
+        return True, "暖心特稿"
+
+    # 1f. 萌宠/动物软文
+    if _ANIMAL_SOFT.search(title):
+        return True, "动物软文"
+
+    # 1g. 空洞政策（无具体数据）
+    if _VAGUE_POLICY.search(title) and not _has_real_digit(title):
+        return True, "空洞政策"
+
     # 2. 引号猜谜 + 空洞展望
     if _QUOTE_RIDDLE.search(title):
         return True, "引号猜谜式"
@@ -180,7 +262,7 @@ def is_low_quality_title(title):
             after = after.strip()
             if not after:
                 continue
-            if not _HAS_DIGIT.search(after):
+            if not _has_real_digit(after):
                 if _RUMOR_DEBUNK.search(after) or _RUMOR_DEBUNK.search(title):
                     return True, "纯辟谣无事实"
                 if _is_slogan(after):
@@ -189,38 +271,45 @@ def is_low_quality_title(title):
                     return True, "冒号后空洞"
                 if _SPECULATIVE.search(after):
                     return True, "观点预测式"
+                # 时评冒号后纯口号/虚空表述
+                if re.search(
+                    r"(迎难而上|广阔天地|新篇章|新征程|新蓝图|砥砺前行|"
+                    r"再出发|再启航|向未来|谱新篇)",
+                    after,
+                ) and not _has_action(after):
+                    return True, "冒号后空洞"
             if len(after) <= 20 and _FLUFF_AFTER_COLON.match(after):
                 return True, "冒号后无事实"
-            if not _HAS_DIGIT.search(after) and not _has_action(after):
+            if not _has_real_digit(after) and not _has_action(after):
                 if re.search(r"(闹剧|笑话|可悲|可笑|引热议|引关注|引争议|值得关注)$", after):
                     return True, "冒号后无事实"
 
     # 3b. 整句观点预测（如「某某认为…可能…」）
-    if not _HAS_DIGIT.search(title) and _SPECULATIVE.search(title):
+    if not _has_real_digit(title) and _SPECULATIVE.search(title):
         return True, "观点预测式"
 
     # 3c. 整句纯辟谣（如 教育部："xxx"系谣言）
-    if not _HAS_DIGIT.search(title) and _RUMOR_DEBUNK.search(title):
+    if not _has_real_digit(title) and _RUMOR_DEBUNK.search(title):
         return True, "纯辟谣无事实"
 
     # 3d. 整句或后半段口号套话
-    if not _HAS_DIGIT.search(title) and _is_slogan(title):
+    if not _has_real_digit(title) and _is_slogan(title):
         return True, "口号式表述"
 
     # 4. 隐喻式收尾
-    if _METAPHOR_TAIL.search(title) and not _HAS_DIGIT.search(title):
+    if _METAPHOR_TAIL.search(title) and not _has_real_digit(title):
         return True, "隐喻无实质"
 
     # 5. 空洞通告
-    if _HOLLOW_NOTICE.search(title) and not _HAS_DIGIT.search(title):
+    if _HOLLOW_NOTICE.search(title) and not _has_real_digit(title):
         return True, "空洞通告"
 
     # 5b. 体验/探访类软文（无数据则视为无实质）
-    if _SOFT_FEATURE.search(title) and not _HAS_DIGIT.search(title):
+    if _SOFT_FEATURE.search(title) and not _has_real_digit(title):
         return True, "软文无实质"
 
     # 6. 综合低信息量：无主体 + 无动作 + 无数据
-    if not _has_entity(title) and not _has_action(title) and not _HAS_DIGIT.search(title):
+    if not _has_entity(title) and not _has_action(title) and not _has_real_digit(title):
         return True, "缺少主体与事件"
 
     # 7. 有主体但几乎无事件：短标题 + 无动作 + 无数据 + 抽象收尾
@@ -228,7 +317,7 @@ def is_low_quality_title(title):
         r"(未来|新篇章|新征程|新蓝图|意义重大|影响深远|值得关注|引热议|引关注)$",
         title,
     )
-    if abstract_tail and not _has_action(title) and not _HAS_DIGIT.search(title):
+    if abstract_tail and not _has_action(title) and not _has_real_digit(title):
         return True, "空洞展望"
 
     return False, ""

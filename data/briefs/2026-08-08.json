@@ -1,12 +1,12 @@
 {
   "series": "科技资讯",
-  "headline": "AMD收购AI芯片初创，SpaceX推Imagine2.0",
+  "headline": "AMD收购AI芯片创企，SpaceX推Imagine2.0",
   "date": "2026-08-08",
   "date_display": "2026年08月08日 星期六 农历六月廿六",
   "weekday": "星期六",
   "lunar": "农历六月廿六",
   "overview": "",
-  "generated_at": "2026-08-08 19:52:02",
+  "generated_at": "2026-08-08 20:02:52",
   "count": 12,
   "tech_quota": 8,
   "general_quota": 4,
@@ -21,8 +21,8 @@
     {
       "index": 1,
       "title": "AMD 收购将权重直接刻在芯片上的 AI 初创公司",
-      "summary": "AMD收购AI初创公司，将权重直接刻入芯片",
-      "text": "AMD收购AI初创公司，将权重直接刻入芯片",
+      "summary": "AMD收购AI初创公司，将权重直接刻在芯片上",
+      "text": "AMD收购AI初创公司，将权重直接刻在芯片上",
       "source": "Solidot",
       "link": "https://www.solidot.org/story?sid=85035",
       "topic": "other",
@@ -34,8 +34,8 @@
     {
       "index": 2,
       "title": "全球第二：马斯克SpaceXAI推出Imagine Image 2.0",
-      "summary": "SpaceX旗下AI推出Imagine Image 2.0，位列全球第二",
-      "text": "SpaceX旗下AI推出Imagine Image 2.0，位列全球第二",
+      "summary": "SpaceX旗下AI推出Imagine Image 2.0，全球第二",
+      "text": "SpaceX旗下AI推出Imagine Image 2.0，全球第二",
       "source": "凤凰科技",
       "link": "https://tech.ifeng.com/c/8vQAqADPiJI",
       "topic": "international",
@@ -47,8 +47,8 @@
     {
       "index": 3,
       "title": "降幅10~15%：苹果美国扩展官翻Mac、Apple Watch等产品",
-      "summary": "苹果美国扩展官翻Mac、Apple Watch等产品，降幅10~15%",
-      "text": "苹果美国扩展官翻Mac、Apple Watch等产品，降幅10~15%",
+      "summary": "苹果美国扩展官翻Mac、Apple Watch等，降幅10~15%",
+      "text": "苹果美国扩展官翻Mac、Apple Watch等，降幅10~15%",
       "source": "凤凰科技",
       "link": "https://tech.ifeng.com/c/8vPw3vzCkaW",
       "topic": "international",
@@ -73,8 +73,8 @@
     {
       "index": 5,
       "title": "价值350万的“提示词”开源，揭秘首部全AI生成的电影长片",
-      "summary": "价值350万的提示词开源，揭秘全AI电影长片制作",
-      "text": "价值350万的提示词开源，揭秘全AI电影长片制作",
+      "summary": "价值350万提示词开源，揭秘全AI生成电影长片",
+      "text": "价值350万提示词开源，揭秘全AI生成电影长片",
       "source": "凤凰科技",
       "link": "https://tech.ifeng.com/c/8vQ1DlHFmiu",
       "topic": "other",
@@ -99,8 +99,8 @@
     {
       "index": 7,
       "title": "杂志网站展示只有 AI 能看到的广告",
-      "summary": "杂志网站展示仅AI可见的广告",
-      "text": "杂志网站展示仅AI可见的广告",
+      "summary": "杂志网站展示只有AI能看到的广告",
+      "text": "杂志网站展示只有AI能看到的广告",
       "source": "Solidot",
       "link": "https://www.solidot.org/story?sid=85031",
       "topic": "other",
@@ -151,8 +151,8 @@
     {
       "index": 11,
       "title": "强台风“白海豚”逼近浙闽沿海 铁路部门停运部分列车",
-      "summary": "强台风白海豚逼近浙闽沿海，铁路部门停运部分列车",
-      "text": "强台风白海豚逼近浙闽沿海，铁路部门停运部分列车",
+      "summary": "强台风“白海豚”逼近浙闽沿海，部分列车停运",
+      "text": "强台风“白海豚”逼近浙闽沿海，部分列车停运",
       "source": "中新网",
       "link": "https://www.chinanews.com.cn/sh/2026/08-08/10674283.shtml",
       "topic": "social",
@@ -163,16 +163,16 @@
     },
     {
       "index": 12,
-      "title": "港澳大学生逐浪海南自贸港：跨越千年读懂东坡",
-      "summary": "港澳大学生逐浪海南自贸港，跨越千年读懂东坡",
-      "text": "港澳大学生逐浪海南自贸港，跨越千年读懂东坡",
-      "source": "中新网",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-08/10674207.shtml",
-      "topic": "social",
+      "title": "北京市教委：扰乱课堂秩序等七类情形，可实施教育惩戒",
+      "summary": "北京市教委：扰乱课堂秩序等七类情形可实施教育惩戒",
+      "text": "北京市教委：扰乱课堂秩序等七类情形可实施教育惩戒",
+      "source": "澎湃",
+      "link": "",
+      "topic": "local",
       "section": "general",
       "tech_score": 0,
-      "pub_time": 1786143336.0,
-      "pub_display": "08-08 06:55"
+      "pub_time": 1786190008.873,
+      "pub_display": "08-08 19:53"
     }
   ]
 }

@@ -22,18 +22,18 @@ SOURCES = [
     # 中新网社会 RSS（民生 / 社会向补充）
     {"type": "rss", "name": "中新网", "url": "https://www.chinanews.com.cn/rss/society.xml"},
     # 人民网首页头条 RSS
-    {"type": "rss", "name": "人民网", "url": "https://plink.anyfeeder.com/people"},
+    # {"type": "rss", "name": "人民网", "url": "https://plink.anyfeeder.com/people"},
     # 每日环球视野 RSS（国际视野）
-    {"type": "rss", "name": "每日环球视野", "url": "https://plink.anyfeeder.com/idaily/today"},
+    # {"type": "rss", "name": "每日环球视野", "url": "https://plink.anyfeeder.com/idaily/today"},
     # --- 科技 / 商业 ---
     {"type": "rss", "name": "IT之家", "url": "https://www.ithome.com/rss/"},
     # 36氪 gateway 热榜 API（官方 RSS 已被火山引擎检测拦截）
     {"type": "36kr", "name": "36氪",
      "url": "https://gateway.36kr.com/api/mis/nav/home/nav/rank/hot"},
-    {"type": "rss", "name": "Solidot", "url": "https://www.solidot.org/index.rss"},
     # 凤凰网科技频道精选池（JSONP）
     {"type": "ifeng", "name": "凤凰科技",
      "url": "https://shankapi.ifeng.com/season/tech/selectedPoolData/20002/204/cb"},
+    {"type": "rss", "name": "Solidot", "url": "https://www.solidot.org/index.rss"},
 ]
 
 # ============================================================

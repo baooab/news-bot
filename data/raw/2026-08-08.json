@@ -1,16 +1,14 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08 19:52:02",
-  "total": 267,
+  "generated_at": "2026-08-08 20:02:52",
+  "total": 229,
   "source_count": {
     "澎湃": 34,
     "中新网": 30,
-    "人民网": 29,
-    "每日环球视野": 8,
     "IT之家": 60,
-    "36氪": 37,
-    "Solidot": 9,
-    "凤凰科技": 60
+    "36氪": 36,
+    "凤凰科技": 60,
+    "Solidot": 9
   },
   "sources": {
     "澎湃": [
@@ -207,16 +205,16 @@
         "pub_display": "08-07 21:24"
       },
       {
-        "title": "奋楫之“陆” | 第三集《射天狼》",
+        "title": "北京市教委：扰乱课堂秩序等七类情形，可实施教育惩戒",
         "link": "",
-        "pub_time": 1786189570.917,
-        "pub_display": "08-08 19:46"
+        "pub_time": 1786190008.873,
+        "pub_display": "08-08 19:53"
       },
       {
-        "title": "恰逢风雨潮“三碰头”，台州市委书记、市长作紧急动员电视讲话",
+        "title": "匈牙利执政党提名前最高法院院长为总统候选人",
         "link": "",
-        "pub_time": 1786189165.754,
-        "pub_display": "08-08 19:39"
+        "pub_time": 1786189935.327,
+        "pub_display": "08-08 19:52"
       }
     ],
     "中新网": [
@@ -401,233 +399,13 @@
         "pub_display": "08-08 05:24"
       }
     ],
-    "人民网": [
-      {
-        "title": "7月高频数据折射经济向新向好",
-        "link": "http://finance.people.com.cn/n1/2026/0808/c1004-40776115.html",
-        "pub_time": 1786148340.0,
-        "pub_display": "08-08 08:19"
-      },
-      {
-        "title": "水利部部署台风“白海豚”暴雨洪水防御工作",
-        "link": "http://society.people.com.cn/n1/2026/0808/c1008-40776114.html",
-        "pub_time": 1786148280.0,
-        "pub_display": "08-08 08:18"
-      },
-      {
-        "title": "今年上半年人形机器人领域新设企业11.6万户",
-        "link": "http://finance.people.com.cn/n1/2026/0808/c1004-40776103.html",
-        "pub_time": 1786141560.0,
-        "pub_display": "08-08 06:26"
-      },
-      {
-        "title": "全民健身日丨一幅手绘漫画教你如何科学散步",
-        "link": "http://hlj.people.com.cn/n2/2026/0808/c220005-41662805.html",
-        "pub_time": 1786135740.0,
-        "pub_display": "08-08 04:49"
-      },
-      {
-        "title": "情满天山 援疆印记｜克州：一域文脉焕新，一方精神传承",
-        "link": "http://xj.people.com.cn/n2/2026/0808/c186332-41662758.html",
-        "pub_time": 1786128060.0,
-        "pub_display": "08-08 02:41"
-      },
-      {
-        "title": "南通：从34人到260多万人，善意接力从未停步",
-        "link": "http://js.people.com.cn/n2/2026/0808/c358232-41662752.html",
-        "pub_time": 1786127580.0,
-        "pub_display": "08-08 02:33"
-      },
-      {
-        "title": "浙江钱塘：一个制造大区的“产城人”融合实验",
-        "link": "http://zj.people.com.cn/n2/2026/0808/c228592-41662660.html",
-        "pub_time": 1786123560.0,
-        "pub_display": "08-08 01:26"
-      },
-      {
-        "title": "活力中国调研行｜永新光学追“新”记",
-        "link": "http://zj.people.com.cn/n2/2026/0808/c228592-41662645.html",
-        "pub_time": 1786123140.0,
-        "pub_display": "08-08 01:19"
-      },
-      {
-        "title": "整治“幽灵外卖” 浙江出实招",
-        "link": "http://zj.people.com.cn/n2/2026/0808/c186327-41662617.html",
-        "pub_time": 1786122300.0,
-        "pub_display": "08-08 01:05"
-      },
-      {
-        "title": "好city｜一条城建 “金点子”，为家乡发展增添新思路",
-        "link": "http://henan.people.com.cn/n2/2026/0808/c351638-41662535.html",
-        "pub_time": 1786121040.0,
-        "pub_display": "08-08 00:44"
-      },
-      {
-        "title": "贵州：金融下乡 山货致远",
-        "link": "http://gz.people.com.cn/n2/2026/0808/c222152-41662453.html",
-        "pub_time": 1786119180.0,
-        "pub_display": "08-08 00:13"
-      },
-      {
-        "title": "办实事｜网民反映雨天出行困扰 黑龙江省积极治理小区积水顽疾",
-        "link": "http://hlj.people.com.cn/n2/2026/0808/c220005-41662425.html",
-        "pub_time": 1786116600.0,
-        "pub_display": "08-07 23:30"
-      },
-      {
-        "title": "文物保护，如何面对气候挑战",
-        "link": "http://ent.people.com.cn/n1/2026/0808/c1012-40775950.html",
-        "pub_time": 1786110720.0,
-        "pub_display": "08-07 21:52"
-      },
-      {
-        "title": "水下钻探机器人，可移动的深海实验室",
-        "link": "http://finance.people.com.cn/n1/2026/0808/c1004-40775944.html",
-        "pub_time": 1786110660.0,
-        "pub_display": "08-07 21:51"
-      },
-      {
-        "title": "做核磁共振检查为何不能戴金属饰品",
-        "link": "http://finance.people.com.cn/n1/2026/0808/c1004-40775942.html",
-        "pub_time": 1786110660.0,
-        "pub_display": "08-07 21:51"
-      },
-      {
-        "title": "切实减轻教师非教育教学任务负担",
-        "link": "http://edu.people.com.cn/n1/2026/0808/c1006-40775936.html",
-        "pub_time": 1786110660.0,
-        "pub_display": "08-07 21:51"
-      },
-      {
-        "title": "我国首次依托水上通信渠道推送北极航道海冰预报",
-        "link": "http://finance.people.com.cn/n1/2026/0808/c1004-40775945.html",
-        "pub_time": 1786110660.0,
-        "pub_display": "08-07 21:51"
-      },
-      {
-        "title": "国家防总针对浙江、福建提升防汛防台风应急响应至三级",
-        "link": "http://society.people.com.cn/n1/2026/0808/c1008-40775935.html",
-        "pub_time": 1786110600.0,
-        "pub_display": "08-07 21:50"
-      },
-      {
-        "title": "“中文+”助力尼泊尔培养复合型人才",
-        "link": "http://world.people.com.cn/n1/2026/0808/c1002-40775926.html",
-        "pub_time": 1786110540.0,
-        "pub_display": "08-07 21:49"
-      },
-      {
-        "title": "上半年规上轻工业实现营收11.2万亿元",
-        "link": "http://finance.people.com.cn/n1/2026/0808/c1004-40775923.html",
-        "pub_time": 1786110540.0,
-        "pub_display": "08-07 21:49"
-      },
-      {
-        "title": "化妆品可实现“量肤定制”",
-        "link": "http://society.people.com.cn/n1/2026/0808/c1008-40775924.html",
-        "pub_time": 1786110540.0,
-        "pub_display": "08-07 21:49"
-      },
-      {
-        "title": "截至7月末我国外汇储备规模为34188亿美元",
-        "link": "http://finance.people.com.cn/n1/2026/0808/c1004-40775922.html",
-        "pub_time": 1786110540.0,
-        "pub_display": "08-07 21:49"
-      },
-      {
-        "title": "外交部发言人：日本执政当局应停止在核问题上玩火",
-        "link": "http://world.people.com.cn/n1/2026/0808/c1002-40775932.html",
-        "pub_time": 1786110540.0,
-        "pub_display": "08-07 21:49"
-      },
-      {
-        "title": "前7月我国货物贸易进出口同比增长17.3%",
-        "link": "http://finance.people.com.cn/n1/2026/0808/c1004-40775921.html",
-        "pub_time": 1786110540.0,
-        "pub_display": "08-07 21:49"
-      },
-      {
-        "title": "设立“国家情报局”，日本加速“再军事化”",
-        "link": "http://world.people.com.cn/n1/2026/0808/c1002-40775913.html",
-        "pub_time": 1786108980.0,
-        "pub_display": "08-07 21:23"
-      },
-      {
-        "title": "中国新型储能累计装机规模约占全球一半",
-        "link": "http://finance.people.com.cn/n1/2026/0808/c1004-40775911.html",
-        "pub_time": 1786108920.0,
-        "pub_display": "08-07 21:22"
-      },
-      {
-        "title": "上半年中国海船新承接订单量增105.2%",
-        "link": "http://finance.people.com.cn/n1/2026/0808/c1004-40775912.html",
-        "pub_time": 1786108920.0,
-        "pub_display": "08-07 21:22"
-      },
-      {
-        "title": "来中国，扫货“新特产”",
-        "link": "http://world.people.com.cn/n1/2026/0808/c1002-40775909.html",
-        "pub_time": 1786108860.0,
-        "pub_display": "08-07 21:21"
-      },
-      {
-        "title": "“世界建筑之都”北京将让世界看到什么",
-        "link": "http://ent.people.com.cn/n1/2026/0808/c1012-40775910.html",
-        "pub_time": 1786108860.0,
-        "pub_display": "08-07 21:21"
-      }
-    ],
-    "每日环球视野": [
-      {
-        "title": "船底座星云新诞生恒星团 - August 7, 2026",
-        "link": "https://m.idai.ly/se/505B0Z",
-        "pub_time": 1786071540.0,
-        "pub_display": "08-07 10:59"
-      },
-      {
-        "title": "猎鹰9号残骸撞击月面 - August 7, 2026",
-        "link": "https://m.idai.ly/se/30aj9I",
-        "pub_time": 1786067880.0,
-        "pub_display": "08-07 09:58"
-      },
-      {
-        "title": "特朗普签署限制出生公民权行政令 - August 7, 2026",
-        "link": "https://m.idai.ly/se/1c8pC0",
-        "pub_time": 1786064220.0,
-        "pub_display": "08-07 08:57"
-      },
-      {
-        "title": "纽约时代广场新观景台 - August 7, 2026",
-        "link": "https://m.idai.ly/se/c02ySl",
-        "pub_time": 1786064100.0,
-        "pub_display": "08-07 08:55"
-      },
-      {
-        "title": "缅甸总统访问泰国 - August 7, 2026",
-        "link": "https://m.idai.ly/se/2e318e",
-        "pub_time": 1786063980.0,
-        "pub_display": "08-07 08:53"
-      },
-      {
-        "title": "广岛原子弹爆炸81周年 - August 7, 2026",
-        "link": "https://m.idai.ly/se/79fQ26",
-        "pub_time": 1786063860.0,
-        "pub_display": "08-07 08:51"
-      },
-      {
-        "title": "朝鲜试射短程弹道导弹 - August 7, 2026",
-        "link": "https://m.idai.ly/se/ba3lnY",
-        "pub_time": 1786063740.0,
-        "pub_display": "08-07 08:49"
-      },
-      {
-        "title": "台风鲸鱼侵袭菲律宾 - August 7, 2026",
-        "link": "https://m.idai.ly/se/bd7s22",
-        "pub_time": 1786063620.0,
-        "pub_display": "08-07 08:47"
-      }
-    ],
     "IT之家": [
+      {
+        "title": "阿维塔 07L 大五座 SUV 上市：华为乾崑智驾 ADS 5 + 鸿蒙座舱，限时权益价 21.99 万元起",
+        "link": "https://www.ithome.com/0/987/429.htm",
+        "pub_time": 1786161058.0,
+        "pub_display": "08-08 11:50"
+      },
       {
         "title": "Take-Two CEO 泽尔尼克回应《GTA 6》预告片 Netflix 独家首播：看过就懂",
         "link": "https://www.ithome.com/0/987/426.htm",
@@ -981,12 +759,6 @@
         "link": "https://www.ithome.com/0/987/307.htm",
         "pub_time": 1786139979.0,
         "pub_display": "08-08 05:59"
-      },
-      {
-        "title": "消息称荣耀“在看”阔屏手机，目前尚未立项",
-        "link": "https://www.ithome.com/0/987/306.htm",
-        "pub_time": 1786139782.0,
-        "pub_display": "08-08 05:56"
       }
     ],
     "36氪": [
@@ -1087,16 +859,16 @@
         "pub_display": "08-07 21:13"
       },
       {
-        "title": "山姆三连招：49元免运费、首位CTO、六店齐开，沃尔玛中国在下一盘什么棋",
-        "link": "https://36kr.com/p/3929398925917574",
-        "pub_time": 1786107984.918,
-        "pub_display": "08-07 21:06"
-      },
-      {
         "title": "美国本土直播带货，长出一头 200 亿美元「巨兽」",
         "link": "https://36kr.com/p/3930356721499268",
         "pub_time": 1786174204.0,
         "pub_display": "08-08 15:30"
+      },
+      {
+        "title": "山姆三连招：49元免运费、首位CTO、六店齐开，沃尔玛中国在下一盘什么棋",
+        "link": "https://36kr.com/p/3929398925917574",
+        "pub_time": 1786107984.918,
+        "pub_display": "08-07 21:06"
       },
       {
         "title": "三星的“AI航母”，是大饼还是未来？",
@@ -1123,12 +895,6 @@
         "pub_display": "08-07 22:08"
       },
       {
-        "title": "粉丝百万也难逃关店，红人服饰为何越做越难？",
-        "link": "https://36kr.com/p/3929322899733638",
-        "pub_time": 1786103884.838,
-        "pub_display": "08-07 19:58"
-      },
-      {
         "title": "中国汽车出海，智能化为何“水土不服”？",
         "link": "https://36kr.com/p/3929392641653891",
         "pub_time": 1786107666.152,
@@ -1141,16 +907,16 @@
         "pub_display": "08-07 20:43"
       },
       {
-        "title": "日本机床的焦虑：东南亚工厂里的日本机床，正被中国货一台台替换掉",
-        "link": "https://36kr.com/p/3929309454876039",
-        "pub_time": 1786104356.418,
-        "pub_display": "08-07 20:05"
-      },
-      {
         "title": "经销商批量离场，活不起了也找不到方向",
         "link": "https://36kr.com/p/3930159831612804",
         "pub_time": 1786181409.0,
         "pub_display": "08-08 17:30"
+      },
+      {
+        "title": "日本机床的焦虑：东南亚工厂里的日本机床，正被中国货一台台替换掉",
+        "link": "https://36kr.com/p/3929309454876039",
+        "pub_time": 1786104356.418,
+        "pub_display": "08-07 20:05"
       },
       {
         "title": "寒武纪上半年营收60亿，净利23亿 章建平退出前十股东行列 或套现百亿",
@@ -1211,62 +977,6 @@
         "link": "https://36kr.com/p/3929297347739011",
         "pub_time": 1786104653.606,
         "pub_display": "08-07 20:10"
-      }
-    ],
-    "Solidot": [
-      {
-        "title": "中国科学家确认胶球存在",
-        "link": "https://www.solidot.org/story?sid=85037",
-        "pub_time": 1786091609.0,
-        "pub_display": "08-07 16:33"
-      },
-      {
-        "title": "糖在人类演化中起到了核心作用",
-        "link": "https://www.solidot.org/story?sid=85036",
-        "pub_time": 1786090007.0,
-        "pub_display": "08-07 16:06"
-      },
-      {
-        "title": "AMD 收购将权重直接刻在芯片上的 AI 初创公司",
-        "link": "https://www.solidot.org/story?sid=85035",
-        "pub_time": 1786087428.0,
-        "pub_display": "08-07 15:23"
-      },
-      {
-        "title": "字节跳动开发 10 万亿参数模型",
-        "link": "https://www.solidot.org/story?sid=85034",
-        "pub_time": 1786065119.0,
-        "pub_display": "08-07 09:11"
-      },
-      {
-        "title": "美洲狮改变鹿的行为减少交通事故",
-        "link": "https://www.solidot.org/story?sid=85033",
-        "pub_time": 1786063641.0,
-        "pub_display": "08-07 08:47"
-      },
-      {
-        "title": "日本反复要求特朗普政府停止用马里奥宝可梦等热门 IP 角色制作梗图",
-        "link": "https://www.solidot.org/story?sid=85032",
-        "pub_time": 1786062715.0,
-        "pub_display": "08-07 08:31"
-      },
-      {
-        "title": "杂志网站展示只有 AI 能看到的广告",
-        "link": "https://www.solidot.org/story?sid=85031",
-        "pub_time": 1786061815.0,
-        "pub_display": "08-07 08:16"
-      },
-      {
-        "title": "FDA 批准首款 mRNA 流感疫苗上市",
-        "link": "https://www.solidot.org/story?sid=85030",
-        "pub_time": 1786058256.0,
-        "pub_display": "08-07 07:17"
-      },
-      {
-        "title": "SpaceX 火箭残骸撞击月球",
-        "link": "https://www.solidot.org/story?sid=85029",
-        "pub_time": 1786057466.0,
-        "pub_display": "08-07 07:04"
       }
     ],
     "凤凰科技": [
@@ -1629,6 +1339,62 @@
         "link": "https://tech.ifeng.com/c/8vPreKbJgFD",
         "pub_time": 1786150901.0,
         "pub_display": "08-08 09:01"
+      }
+    ],
+    "Solidot": [
+      {
+        "title": "中国科学家确认胶球存在",
+        "link": "https://www.solidot.org/story?sid=85037",
+        "pub_time": 1786091609.0,
+        "pub_display": "08-07 16:33"
+      },
+      {
+        "title": "糖在人类演化中起到了核心作用",
+        "link": "https://www.solidot.org/story?sid=85036",
+        "pub_time": 1786090007.0,
+        "pub_display": "08-07 16:06"
+      },
+      {
+        "title": "AMD 收购将权重直接刻在芯片上的 AI 初创公司",
+        "link": "https://www.solidot.org/story?sid=85035",
+        "pub_time": 1786087428.0,
+        "pub_display": "08-07 15:23"
+      },
+      {
+        "title": "字节跳动开发 10 万亿参数模型",
+        "link": "https://www.solidot.org/story?sid=85034",
+        "pub_time": 1786065119.0,
+        "pub_display": "08-07 09:11"
+      },
+      {
+        "title": "美洲狮改变鹿的行为减少交通事故",
+        "link": "https://www.solidot.org/story?sid=85033",
+        "pub_time": 1786063641.0,
+        "pub_display": "08-07 08:47"
+      },
+      {
+        "title": "日本反复要求特朗普政府停止用马里奥宝可梦等热门 IP 角色制作梗图",
+        "link": "https://www.solidot.org/story?sid=85032",
+        "pub_time": 1786062715.0,
+        "pub_display": "08-07 08:31"
+      },
+      {
+        "title": "杂志网站展示只有 AI 能看到的广告",
+        "link": "https://www.solidot.org/story?sid=85031",
+        "pub_time": 1786061815.0,
+        "pub_display": "08-07 08:16"
+      },
+      {
+        "title": "FDA 批准首款 mRNA 流感疫苗上市",
+        "link": "https://www.solidot.org/story?sid=85030",
+        "pub_time": 1786058256.0,
+        "pub_display": "08-07 07:17"
+      },
+      {
+        "title": "SpaceX 火箭残骸撞击月球",
+        "link": "https://www.solidot.org/story?sid=85029",
+        "pub_time": 1786057466.0,
+        "pub_display": "08-07 07:04"
       }
     ]
   }
