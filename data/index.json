@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-09 06:53:00",
-  "total": 29,
+  "updated_at": "2026-08-10 06:20:54",
+  "total": 30,
   "briefs": [
+    {
+      "date": "2026-08-10",
+      "display": "2026年08月10日 星期一",
+      "series": "科技资讯",
+      "headline": "OpenAI收购演示文稿初创公司，SpaceX豪赌AI",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-08-09",
       "display": "2026年08月09日 星期日",
