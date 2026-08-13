@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-13 06:31:20",
-  "total": 33,
+  "updated_at": "2026-08-14 06:32:12",
+  "total": 34,
   "briefs": [
+    {
+      "date": "2026-08-14",
+      "display": "2026年08月14日 星期五",
+      "series": "科技资讯",
+      "headline": "GPT-5.6超Fable5，RTXSpark遭抢空",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-08-13",
       "display": "2026年08月13日 星期四",
