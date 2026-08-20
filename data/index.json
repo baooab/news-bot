@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-20 06:15:47",
-  "total": 40,
+  "updated_at": "2026-08-21 06:17:28",
+  "total": 41,
   "briefs": [
+    {
+      "date": "2026-08-21",
+      "display": "2026年08月21日 星期五",
+      "series": "科技资讯",
+      "headline": "苹果反驳OpenAI，谷歌Drive公开Android源码",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-08-20",
       "display": "2026年08月20日 星期四",
