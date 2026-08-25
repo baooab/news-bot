@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-25 06:16:17",
-  "total": 45,
+  "updated_at": "2026-08-26 06:17:16",
+  "total": 46,
   "briefs": [
+    {
+      "date": "2026-08-26",
+      "display": "2026年08月26日 星期三",
+      "series": "科技资讯",
+      "headline": "苹果推M5Ultra芯片，SpaceX明年发射AI卫星",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-08-25",
       "display": "2026年08月25日 星期二",
