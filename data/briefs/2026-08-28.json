@@ -1,12 +1,12 @@
 {
   "series": "科技资讯",
-  "headline": "OpenAI等百家公司发表联名信，苹果秋季发布会定了",
+  "headline": "OpenAI，亚马逊收购开源数据库DuckDB",
   "date": "2026-08-28",
   "date_display": "2026年08月28日 星期五 农历七月十六",
   "weekday": "星期五",
   "lunar": "农历七月十六",
   "overview": "",
-  "generated_at": "2026-08-28 08:01:14",
+  "generated_at": "2026-08-28 13:53:09",
   "count": 12,
   "tech_quota": 8,
   "general_quota": 4,
@@ -19,32 +19,19 @@
   "items": [
     {
       "index": 1,
-      "title": "OpenAI等百家公司发表联名信 呼吁全社会防御AI黑客攻击",
+      "title": "OpenAI、Anthropic为什么都开始自己造芯片？",
       "summary": "",
-      "text": "OpenAI等百家公司发表联名信 呼吁全社会防御AI黑客攻击",
+      "text": "OpenAI、Anthropic为什么都开始自己造芯片？",
       "source": "凤凰科技",
-      "link": "https://tech.ifeng.com/c/8vwvL5OZaPa",
+      "link": "https://tech.ifeng.com/c/8vxAAAiCvST",
       "topic": "other",
       "section": "tech",
       "tech_score": 64,
-      "pub_time": 1787871518.0,
-      "pub_display": "08-28 06:58"
+      "pub_time": 1787884335.0,
+      "pub_display": "08-28 10:32"
     },
     {
       "index": 2,
-      "title": "苹果秋季发布会定了：iPhone 18 Pro等新品抢先看光",
-      "summary": "",
-      "text": "苹果秋季发布会定了：iPhone 18 Pro等新品抢先看光",
-      "source": "凤凰科技",
-      "link": "https://tech.ifeng.com/c/8vwDFenpyYj",
-      "topic": "other",
-      "section": "tech",
-      "tech_score": 64,
-      "pub_time": 1787833336.0,
-      "pub_display": "08-27 20:22"
-    },
-    {
-      "index": 3,
       "title": "亚马逊收购开源数据库 DuckDB 开发团队",
       "summary": "",
       "text": "亚马逊收购开源数据库 DuckDB 开发团队",
@@ -55,6 +42,19 @@
       "tech_score": 64,
       "pub_time": 1787784476.0,
       "pub_display": "08-27 06:47"
+    },
+    {
+      "index": 3,
+      "title": "谷歌将支付2.6亿英镑，就英国App开发者集体诉讼达成和解",
+      "summary": "",
+      "text": "谷歌将支付2.6亿英镑，就英国App开发者集体诉讼达成和解",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8vx3SfFaStz",
+      "topic": "international",
+      "section": "tech",
+      "tech_score": 61,
+      "pub_time": 1787878604.0,
+      "pub_display": "08-28 08:56"
     },
     {
       "index": 4,
@@ -71,32 +71,19 @@
     },
     {
       "index": 5,
-      "title": "规避反垄断审查，据称英伟达暂停与多家AI公司的分成协议",
+      "title": "惊险一幕！特斯拉FSD自动驾驶时无视红灯 差点撞向火车",
       "summary": "",
-      "text": "规避反垄断审查，据称英伟达暂停与多家AI公司的分成协议",
+      "text": "惊险一幕！特斯拉FSD自动驾驶时无视红灯 差点撞向火车",
       "source": "凤凰科技",
-      "link": "https://tech.ifeng.com/c/8vwuUDLz7G5",
+      "link": "https://tech.ifeng.com/c/8vx06r6EsJ1",
       "topic": "other",
       "section": "tech",
       "tech_score": 56,
-      "pub_time": 1787872494.0,
-      "pub_display": "08-28 07:14"
+      "pub_time": 1787877080.0,
+      "pub_display": "08-28 08:31"
     },
     {
       "index": 6,
-      "title": "谷歌出手应对AI“吃内存” 将为安卓App内存占用设新门槛",
-      "summary": "",
-      "text": "谷歌出手应对AI“吃内存” 将为安卓App内存占用设新门槛",
-      "source": "凤凰科技",
-      "link": "https://tech.ifeng.com/c/8vwO8pbf9F7",
-      "topic": "other",
-      "section": "tech",
-      "tech_score": 56,
-      "pub_time": 1787843195.0,
-      "pub_display": "08-27 23:06"
-    },
-    {
-      "index": 7,
       "title": "亚马逊 AI 训练设施员工谈内部工作",
       "summary": "",
       "text": "亚马逊 AI 训练设施员工谈内部工作",
@@ -107,6 +94,19 @@
       "tech_score": 56,
       "pub_time": 1787811067.0,
       "pub_display": "08-27 14:11"
+    },
+    {
+      "index": 7,
+      "title": "100%自主可控！国产350nm光刻机拿下批量订单",
+      "summary": "",
+      "text": "100%自主可控！国产350nm光刻机拿下批量订单",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8vx7HdIQHMK",
+      "topic": "other",
+      "section": "tech",
+      "tech_score": 53,
+      "pub_time": 1787884521.0,
+      "pub_display": "08-28 10:35"
     },
     {
       "index": 8,
@@ -123,55 +123,55 @@
     },
     {
       "index": 9,
-      "title": "大量调运物资到达、道路加紧抢通，昨夜今晨西藏吉隆救援最新进展",
+      "title": "四川内江隆昌市发生5.1级地震，震源深度13千米",
       "summary": "",
-      "text": "大量调运物资到达、道路加紧抢通，昨夜今晨西藏吉隆救援最新进展",
+      "text": "四川内江隆昌市发生5.1级地震，震源深度13千米",
       "source": "澎湃",
       "link": "",
       "topic": "social",
       "section": "general",
-      "tech_score": 0,
-      "pub_time": 1787873695.796,
-      "pub_display": "08-28 07:34"
+      "tech_score": 5,
+      "pub_time": 1787894756.784,
+      "pub_display": "08-28 13:25"
     },
     {
       "index": 10,
-      "title": "三预警齐发！台风“沙德尔”预计在浙江温岭到平阳一带沿海登陆",
+      "title": "释新闻｜台风今年为何频频“锁定”浙江？",
       "summary": "",
-      "text": "三预警齐发！台风“沙德尔”预计在浙江温岭到平阳一带沿海登陆",
+      "text": "释新闻｜台风今年为何频频“锁定”浙江？",
       "source": "澎湃",
       "link": "",
       "topic": "social",
       "section": "general",
       "tech_score": 0,
-      "pub_time": 1787873494.115,
-      "pub_display": "08-28 07:31"
+      "pub_time": 1787892429.902,
+      "pub_display": "08-28 12:47"
     },
     {
       "index": 11,
-      "title": "浙江临海通报“小学入学需填家长学历”：对责任人严肃处理",
+      "title": "12件涉黑恶案件集中宣判，“市霸”“街霸”等被依法严惩",
       "summary": "",
-      "text": "浙江临海通报“小学入学需填家长学历”：对责任人严肃处理",
+      "text": "12件涉黑恶案件集中宣判，“市霸”“街霸”等被依法严惩",
       "source": "澎湃",
       "link": "",
       "topic": "social",
       "section": "general",
       "tech_score": 0,
-      "pub_time": 1787833101.255,
-      "pub_display": "08-27 20:18"
+      "pub_time": 1787891557.293,
+      "pub_display": "08-28 12:32"
     },
     {
       "index": 12,
-      "title": "云南红十字会拨付20万元支援西藏吉隆口岸灾害救援",
+      "title": "@高校新生 开学谨防各类陷阱 别让骗局搅乱你的大学生活",
       "summary": "",
-      "text": "云南红十字会拨付20万元支援西藏吉隆口岸灾害救援",
+      "text": "@高校新生 开学谨防各类陷阱 别让骗局搅乱你的大学生活",
       "source": "中新网",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-27/10685486.shtml",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-28/10685657.shtml",
       "topic": "social",
       "section": "general",
       "tech_score": 0,
-      "pub_time": 1787807610.0,
-      "pub_display": "08-27 13:13"
+      "pub_time": 1787854599.0,
+      "pub_display": "08-28 02:16"
     }
   ]
 }
