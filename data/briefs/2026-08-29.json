@@ -6,7 +6,7 @@
   "weekday": "星期六",
   "lunar": "农历七月十七",
   "overview": "",
-  "generated_at": "2026-08-29 00:37:20",
+  "generated_at": "2026-08-29 11:26:24",
   "count": 12,
   "tech_quota": 8,
   "general_quota": 4,
@@ -46,6 +46,32 @@
     },
     {
       "index": 3,
+      "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+      "summary": "",
+      "text": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/0/995/874.htm",
+      "topic": "other",
+      "section": "tech",
+      "tech_score": 57,
+      "pub_time": 1787941284.0,
+      "pub_display": "08-29 02:21"
+    },
+    {
+      "index": 4,
+      "title": "华硕成立物理AI事业群，人形机器人计划9月上路",
+      "summary": "",
+      "text": "华硕成立物理AI事业群，人形机器人计划9月上路",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8vxgEIlSwuz",
+      "topic": "other",
+      "section": "tech",
+      "tech_score": 56,
+      "pub_time": 1787912321.0,
+      "pub_display": "08-28 18:18"
+    },
+    {
+      "index": 5,
       "title": "Google 要求 Android 应用开发商降低内存占用",
       "summary": "",
       "text": "Google 要求 Android 应用开发商降低内存占用",
@@ -58,7 +84,20 @@
       "pub_display": "08-28 06:49"
     },
     {
-      "index": 4,
+      "index": 6,
+      "title": "开源鸿蒙机器人操作系统 M-Robots OS 3.0 Beta 版发布，重心从“单机能力”转向“群体智能”",
+      "summary": "",
+      "text": "开源鸿蒙机器人操作系统 M-Robots OS 3.0 Beta 版发布，重心从“单机能力”转向“群体智能”",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/0/995/865.htm",
+      "topic": "other",
+      "section": "tech",
+      "tech_score": 54,
+      "pub_time": 1787939723.0,
+      "pub_display": "08-29 01:55"
+    },
+    {
+      "index": 7,
       "title": "Meta和解协议细节：30%捆绑YouTube与TikTok行动",
       "summary": "",
       "text": "Meta和解协议细节：30%捆绑YouTube与TikTok行动",
@@ -71,33 +110,7 @@
       "pub_display": "08-28 16:01"
     },
     {
-      "index": 5,
-      "title": "OpenAI 提交新请愿书，要求驳回苹果诉讼",
-      "summary": "",
-      "text": "OpenAI 提交新请愿书，要求驳回苹果诉讼",
-      "source": "IT之家",
-      "link": "https://www.ithome.com/0/995/810.htm",
-      "topic": "other",
-      "section": "tech",
-      "tech_score": 49,
-      "pub_time": 1787901560.0,
-      "pub_display": "08-28 15:19"
-    },
-    {
-      "index": 6,
-      "title": "用AI，谈一场身心俱疲的恋爱",
-      "summary": "",
-      "text": "用AI，谈一场身心俱疲的恋爱",
-      "source": "凤凰科技",
-      "link": "https://tech.ifeng.com/c/8vxaHvFeBCf",
-      "topic": "other",
-      "section": "tech",
-      "tech_score": 48,
-      "pub_time": 1787908915.0,
-      "pub_display": "08-28 17:21"
-    },
-    {
-      "index": 7,
+      "index": 8,
       "title": "Haiku R1/beta6 释出",
       "summary": "",
       "text": "Haiku R1/beta6 释出",
@@ -110,46 +123,46 @@
       "pub_display": "08-28 07:08"
     },
     {
-      "index": 8,
-      "title": "英伟达 CEO 黄仁勋呼吁 AI 行业加强沟通：想建数据中心就得争取公众支持",
-      "summary": "",
-      "text": "英伟达 CEO 黄仁勋呼吁 AI 行业加强沟通：想建数据中心就得争取公众支持",
-      "source": "IT之家",
-      "link": "https://www.ithome.com/0/995/808.htm",
-      "topic": "other",
-      "section": "tech",
-      "tech_score": 41,
-      "pub_time": 1787900986.0,
-      "pub_display": "08-28 15:09"
-    },
-    {
       "index": 9,
-      "title": "再难，也要挺进——直击西藏吉隆口岸泥石流灾害救援",
+      "title": "对话“防台风最忙街道书记”张杨顺：不只是我，所有基层干部都会这么忙",
       "summary": "",
-      "text": "再难，也要挺进——直击西藏吉隆口岸泥石流灾害救援",
+      "text": "对话“防台风最忙街道书记”张杨顺：不只是我，所有基层干部都会这么忙",
       "source": "澎湃",
       "link": "",
       "topic": "social",
       "section": "general",
       "tech_score": 0,
-      "pub_time": 1787933140.505,
-      "pub_display": "08-29 00:05"
+      "pub_time": 1787958934.219,
+      "pub_display": "08-29 07:15"
     },
     {
       "index": 10,
-      "title": "解放军和武警部队官兵持续奋战在西藏吉隆救援一线",
+      "title": "此次吉隆口岸泥石流为何抢险救援难度极大？",
       "summary": "",
-      "text": "解放军和武警部队官兵持续奋战在西藏吉隆救援一线",
+      "text": "此次吉隆口岸泥石流为何抢险救援难度极大？",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-29/10686323.shtml",
+      "topic": "social",
+      "section": "general",
+      "tech_score": 0,
+      "pub_time": 1787944804.0,
+      "pub_display": "08-29 03:20"
+    },
+    {
+      "index": 11,
+      "title": "西藏吉隆泥石流灾害已致7人遇难",
+      "summary": "",
+      "text": "西藏吉隆泥石流灾害已致7人遇难",
       "source": "澎湃",
       "link": "",
       "topic": "social",
       "section": "general",
       "tech_score": 0,
-      "pub_time": 1787931244.314,
-      "pub_display": "08-28 23:34"
+      "pub_time": 1787939365.444,
+      "pub_display": "08-29 01:49"
     },
     {
-      "index": 11,
+      "index": 12,
       "title": "尼泊尔山洪遇难人数升至579人，1924人失联",
       "summary": "",
       "text": "尼泊尔山洪遇难人数升至579人，1924人失联",
@@ -160,19 +173,6 @@
       "tech_score": 0,
       "pub_time": 1787925472.824,
       "pub_display": "08-28 21:57"
-    },
-    {
-      "index": 12,
-      "title": "翻山越岭、向险而行 中国救援队挺进吉隆口岸救援核心位置开展不间断搜救作业",
-      "summary": "",
-      "text": "翻山越岭、向险而行 中国救援队挺进吉隆口岸救援核心位置开展不间断搜救作业",
-      "source": "中新网",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-29/10686251.shtml",
-      "topic": "social",
-      "section": "general",
-      "tech_score": 0,
-      "pub_time": 1787905240.0,
-      "pub_display": "08-28 16:20"
     }
   ]
 }
