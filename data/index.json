@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-09-05 23:19:53",
-  "total": 56,
+  "updated_at": "2026-09-06 22:35:20",
+  "total": 57,
   "briefs": [
+    {
+      "date": "2026-09-06",
+      "display": "2026年09月06日 星期日",
+      "series": "科技资讯",
+      "headline": "DeepSeek，OpenAIGPT-6跑分作弊被",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-09-05",
       "display": "2026年09月05日 星期六",
