@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-12 02:18:06",
+  "updated_at": "2026-09-12 20:13:13",
   "total": 63,
   "briefs": [
     {
       "date": "2026-09-12",
       "display": "2026年09月12日 星期六",
       "series": "科技资讯",
-      "headline": "英伟达开源Harness，国轩高科拿下沙特6GWh储能订单",
+      "headline": "Minitap指控谷歌盗用代码，Rust成微软一级语言",
       "count": 12,
       "sources": [
-        "36氪",
         "IT之家",
+        "Solidot",
         "中新网",
         "凤凰科技",
         "澎湃"
