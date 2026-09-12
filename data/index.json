@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-12 20:13:13",
-  "total": 63,
+  "updated_at": "2026-09-13 01:43:03",
+  "total": 64,
   "briefs": [
+    {
+      "date": "2026-09-13",
+      "display": "2026年09月13日 星期日",
+      "series": "科技资讯",
+      "headline": "苹果将AppleWatch定位为，DeepSeek论文披露V4.1",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-09-12",
       "display": "2026年09月12日 星期六",
