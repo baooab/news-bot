@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-20 23:20:43",
-  "total": 71,
+  "updated_at": "2026-09-21 02:08:38",
+  "total": 72,
   "briefs": [
+    {
+      "date": "2026-09-21",
+      "display": "2026年09月21日 星期一",
+      "series": "科技资讯",
+      "headline": "Anthropic，iPhone18Pro曝出死机问",
+      "count": 12,
+      "sources": [
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-09-20",
       "display": "2026年09月20日 星期日",
