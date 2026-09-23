@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-09-23 02:39:23",
+  "updated_at": "2026-09-23 22:17:22",
   "total": 74,
   "briefs": [
     {
       "date": "2026-09-23",
       "display": "2026年09月23日 星期三",
       "series": "科技资讯",
-      "headline": "阿里AI芯片性能翻三倍，小米18Pro首发徕卡双2亿",
+      "headline": "小米开源模型登顶全球，OpenAI开启大模型折扣季",
       "count": 12,
       "sources": [
         "IT之家",
+        "Solidot",
         "中新网",
         "凤凰科技",
         "澎湃"
