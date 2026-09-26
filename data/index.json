@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-09-26 20:34:58",
-  "total": 77,
+  "updated_at": "2026-09-27 02:26:53",
+  "total": 78,
   "briefs": [
+    {
+      "date": "2026-09-27",
+      "display": "2026年09月27日 星期日",
+      "series": "科技资讯",
+      "headline": "OpenAI失控Agent调用D，Anthropic与Akamai",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-09-26",
       "display": "2026年09月26日 星期六",
