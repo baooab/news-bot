@@ -1,136 +1,22 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02 04:14:42",
-  "total": 183,
+  "generated_at": "2026-10-02 20:36:10",
+  "total": 200,
   "source_count": {
     "澎湃": 34,
     "中新网": 30,
     "IT之家": 60,
-    "36氪": 8,
-    "凤凰科技": 47,
+    "36氪": 12,
+    "凤凰科技": 60,
     "Solidot": 4
   },
   "sources": {
     "澎湃": [
       {
-        "title": "京沪穗落地住房销售改革细则：三地有哪些不同，对楼市有何影响？",
+        "title": "中国驻美国大使接受美《新闻周刊》专访：谈习近平对美进行国事访问和中美关系",
         "link": "",
-        "pub_time": 1790816186.688,
-        "pub_display": "10-01 08:56"
-      },
-      {
-        "title": "奔赴“县”场｜安徽黟县：如何从“到此一游”到“留此成邻”",
-        "link": "",
-        "pub_time": 1790811159.613,
-        "pub_display": "10-01 07:32"
-      },
-      {
-        "title": "沪昆高速怀化段发生交通事故6死4伤，半挂车司机涉疲劳驾驶被控制",
-        "link": "",
-        "pub_time": 1790827434.877,
-        "pub_display": "10-01 12:03"
-      },
-      {
-        "title": "当水管工拉起操纵杆：中东上空的“空中浩劫”是怎样被扭转的",
-        "link": "",
-        "pub_time": 1790834286.881,
-        "pub_display": "10-01 13:58"
-      },
-      {
-        "title": "华为Mate 90系列发布：全系搭载韬芯片，麒麟9050 Pro亮相",
-        "link": "",
-        "pub_time": 1790851039.277,
-        "pub_display": "10-01 18:37"
-      },
-      {
-        "title": "现场｜亚运国足：进一寸，有进一寸的欢喜",
-        "link": "",
-        "pub_time": 1790818899.428,
-        "pub_display": "10-01 09:41"
-      },
-      {
-        "title": "中东密集外交互动谈了什么？释放哪些信号？",
-        "link": "",
-        "pub_time": 1790853109.718,
-        "pub_display": "10-01 19:11"
-      },
-      {
-        "title": "百金落定，一支从未让亚运金牌旁落的队伍，是什么样？",
-        "link": "",
-        "pub_time": 1790826232.63,
-        "pub_display": "10-01 11:43"
-      },
-      {
-        "title": "迪拜航空客机上唯一医护乘客披露救治细节：印度籍机长“手部几乎被切断”",
-        "link": "",
-        "pub_time": 1790843312.663,
-        "pub_display": "10-01 16:28"
-      },
-      {
-        "title": "美媒：鲁比奥要求伊朗代表团立即离美",
-        "link": "",
-        "pub_time": 1790823241.159,
-        "pub_display": "10-01 10:54"
-      },
-      {
-        "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
-        "link": "",
-        "pub_time": 1790826392.941,
-        "pub_display": "10-01 11:46"
-      },
-      {
-        "title": "反转又反转！美国女死囚被注射两剂致死药物后仍活着还打鼾，紧急送医治疗",
-        "link": "",
-        "pub_time": 1790840047.808,
-        "pub_display": "10-01 15:34"
-      },
-      {
-        "title": "旁白｜游乐园的双重体验：门票之外，速通服务该如何拿捏分寸",
-        "link": "",
-        "pub_time": 1790842960.317,
-        "pub_display": "10-01 16:22"
-      },
-      {
-        "title": "世界超级摩托车锦标赛首次落户中国，张雪机车明年驰骋上赛场",
-        "link": "",
-        "pub_time": 1790840935.741,
-        "pub_display": "10-01 15:48"
-      },
-      {
-        "title": "国庆假期上海推出2800余项文旅活动，景区商圈迎来大客流",
-        "link": "",
-        "pub_time": 1790855135.645,
-        "pub_display": "10-01 19:45"
-      },
-      {
-        "title": "银基动物王国回应“热门项目预约难”等：持续优化预约与管理",
-        "link": "",
-        "pub_time": 1790855349.087,
-        "pub_display": "10-01 19:49"
-      },
-      {
-        "title": "华为与赛力斯达成新五年合作，联合组建问界业务专属团队",
-        "link": "",
-        "pub_time": 1790854804.117,
-        "pub_display": "10-01 19:40"
-      },
-      {
-        "title": "银基动物王国实测：热门项目预约难，付费通道分流引争议",
-        "link": "",
-        "pub_time": 1790832304.35,
-        "pub_display": "10-01 13:25"
-      },
-      {
-        "title": "前三季度人民币对美元即期汇率升值超4%，后续如何走",
-        "link": "",
-        "pub_time": 1790844359.342,
-        "pub_display": "10-01 16:45"
-      },
-      {
-        "title": "于和伟谈《伟大的长征》：我扮演了特别崇敬的人物",
-        "link": "",
-        "pub_time": 1790843204.374,
-        "pub_display": "10-01 16:26"
+        "pub_time": 1790895819.017,
+        "pub_display": "10-02 07:03"
       },
       {
         "title": "在建在用规模世界第一，光热发展提速：青海再添百万千瓦级电站",
@@ -139,22 +25,58 @@
         "pub_display": "10-01 22:33"
       },
       {
-        "title": "美联储卡什卡利预计年内再加息一次，高盛将加息预期时间推迟至12月",
-        "link": "",
-        "pub_time": 1790865044.994,
-        "pub_display": "10-01 22:30"
-      },
-      {
         "title": "中使馆回应村田晃大持刀侵闯案开庭：敦促日方拿出应有态度，严惩凶犯",
         "link": "",
         "pub_time": 1790864495.919,
         "pub_display": "10-01 22:21"
       },
       {
-        "title": "伊拉克宣布实现国家完全主权",
+        "title": "女子因儿童未下车而阻挡列车关门，广州南车站回应：提醒教育，儿童已安全接回",
         "link": "",
-        "pub_time": 1790863120.985,
-        "pub_display": "10-01 21:58"
+        "pub_time": 1790915012.598,
+        "pub_display": "10-02 12:23"
+      },
+      {
+        "title": "欧洲年轻人把手机锁进“旅馆”：一场关于数字生活边界的实验",
+        "link": "",
+        "pub_time": 1790897613.532,
+        "pub_display": "10-02 07:33"
+      },
+      {
+        "title": "平遥观察｜许鞍华公开复盘失败作品之后",
+        "link": "",
+        "pub_time": 1790898341.312,
+        "pub_display": "10-02 07:45"
+      },
+      {
+        "title": "澎湃回声｜宁波鲸途海洋乐园：停止“挑逗”鳄鱼行为，改为其他互动形式",
+        "link": "",
+        "pub_time": 1790933954.044,
+        "pub_display": "10-02 17:39"
+      },
+      {
+        "title": "Figure让退役机器人自己跳熔炉，致敬《终结者》还请来施瓦辛格",
+        "link": "",
+        "pub_time": 1790865210.115,
+        "pub_display": "10-01 22:33"
+      },
+      {
+        "title": "内塔尼亚胡盛赞“高空救机”平民英雄：开了挂的好莱坞电影都编不出这样的剧情",
+        "link": "",
+        "pub_time": 1790905700.412,
+        "pub_display": "10-02 09:48"
+      },
+      {
+        "title": "新能源车主反映“充电排队取号像食堂打饭”，枣阳北服务区：排队最久一晚派了100多号",
+        "link": "",
+        "pub_time": 1790915651.526,
+        "pub_display": "10-02 12:34"
+      },
+      {
+        "title": "美联储卡什卡利预计年内再加息一次，高盛将加息预期时间推迟至12月",
+        "link": "",
+        "pub_time": 1790865044.994,
+        "pub_display": "10-01 22:30"
       },
       {
         "title": "442.7万人次，长三角铁路再创国庆假期运输单日客发量历史新高",
@@ -163,936 +85,1116 @@
         "pub_display": "10-01 21:41"
       },
       {
-        "title": "讲武谈兵｜德国接收首架F-35战机，欧洲核威慑的新角色",
+        "title": "伊拉克宣布实现国家完全主权",
         "link": "",
-        "pub_time": 1790860396.264,
-        "pub_display": "10-01 21:13"
+        "pub_time": 1790863120.985,
+        "pub_display": "10-01 21:58"
       },
       {
-        "title": "澎湃早晚报｜晚安湃·长假首日文旅开门红",
-        "link": "https://m.thepaper.cn/papernews/morningEveningPaper?n=268262",
-        "pub_time": 1790859677.942,
-        "pub_display": "10-01 21:01"
+        "title": "魔都眼丨“AI市集”亮相国庆街头：科技新品走近市民，消费群体渐趋多元",
+        "link": "",
+        "pub_time": 1790911337.496,
+        "pub_display": "10-02 11:22"
       },
       {
-        "title": "国庆假期首日铁路上海直属站发送旅客85.2万人次，创历史新高",
+        "title": "上海修订征地房屋补偿规定：补偿标准应至少每三年调整或者重新公布一次",
         "link": "",
-        "pub_time": 1790855627.454,
-        "pub_display": "10-01 19:53"
+        "pub_time": 1790908651.058,
+        "pub_display": "10-02 10:37"
       },
       {
-        "title": "银基动物王国回应“热门项目预约难”等：持续优化预约与管理",
+        "title": "“闪身步”“狗熊哆嗦毛”出圈，参与录制的北舞教授：系北舞本科必修课教材，源自民间舞",
         "link": "",
-        "pub_time": 1790855349.087,
-        "pub_display": "10-01 19:49"
+        "pub_time": 1790899693.556,
+        "pub_display": "10-02 08:08"
       },
       {
-        "title": "国庆假期上海推出2800余项文旅活动，景区商圈迎来大客流",
+        "title": "同比增六成！高速公路充电量创节假日单日新高，国家能源局回应",
         "link": "",
-        "pub_time": 1790855135.645,
-        "pub_display": "10-01 19:45"
+        "pub_time": 1790916730.673,
+        "pub_display": "10-02 12:52"
       },
       {
-        "title": "原央视主持人违规开展活动？澄清",
+        "title": "国际货币基金组织：“非常欢迎”中美经贸团队磋商取得积极共识",
         "link": "",
-        "pub_time": 1790843914.775,
-        "pub_display": "10-01 16:38"
+        "pub_time": 1790908630.246,
+        "pub_display": "10-02 10:37"
       },
       {
-        "title": "村田晃大强闯中使馆案首次庭审",
+        "title": "释新闻｜美国一死囚被注射致命药物后仍存活，失败原因何在？",
         "link": "",
-        "pub_time": 1790826785.321,
-        "pub_display": "10-01 11:53"
+        "pub_time": 1790929010.68,
+        "pub_display": "10-02 16:16"
       },
       {
-        "title": "国际油价1日上涨",
+        "title": "书单｜我们为什么旅行？",
         "link": "",
-        "pub_time": 1790885342.48,
-        "pub_display": "10-02 04:09"
+        "pub_time": 1790910663.347,
+        "pub_display": "10-02 11:11"
       },
       {
-        "title": "美元指数1日上涨",
+        "title": "宁波鲸途海洋乐园“挑逗”鳄鱼表演引关注，辖区文旅局约谈园区负责人",
         "link": "",
-        "pub_time": 1790885267.532,
-        "pub_display": "10-02 04:07"
+        "pub_time": 1790943120.627,
+        "pub_display": "10-02 20:12"
+      },
+      {
+        "title": "被捅数刀的印度籍机长对话莫迪：飞机急速下坠，我不能眼睁睁看着乘客死去",
+        "link": "",
+        "pub_time": 1790938876.903,
+        "pub_display": "10-02 19:01"
+      },
+      {
+        "title": "上海生育医疗费用个人“无自付”新政落地，部分住院分娩孕产妇已获益",
+        "link": "",
+        "pub_time": 1790937749.764,
+        "pub_display": "10-02 18:42"
+      },
+      {
+        "title": "1年内在12315平台累计举报1520次，市监部门：具牟利性职业索赔特征",
+        "link": "",
+        "pub_time": 1790937669.53,
+        "pub_display": "10-02 18:41"
+      },
+      {
+        "title": "回望《伟大的长征》创作历程，总编剧陈晋称是两次学习",
+        "link": "",
+        "pub_time": 1790935822.925,
+        "pub_display": "10-02 18:10"
+      },
+      {
+        "title": "华人物理学家叶军获“诺奖风向标”沃尔夫物理学奖，系该奖项史上第二位华人得主",
+        "link": "",
+        "pub_time": 1790935290.34,
+        "pub_display": "10-02 18:01"
+      },
+      {
+        "title": "国庆假期第二天多地景区再发限流公告，节中机票“真香价”催生“说走就走”的旅行",
+        "link": "",
+        "pub_time": 1790933985.094,
+        "pub_display": "10-02 17:39"
+      },
+      {
+        "title": "澎湃回声｜宁波鲸途海洋乐园：停止“挑逗”鳄鱼行为，改为其他互动形式",
+        "link": "",
+        "pub_time": 1790933954.044,
+        "pub_display": "10-02 17:39"
+      },
+      {
+        "title": "收入核算及资产减值损失确认不准确，*ST四通被责令改正、董事长等三名高管收警示函",
+        "link": "",
+        "pub_time": 1790933731.142,
+        "pub_display": "10-02 17:35"
+      },
+      {
+        "title": "挂出“7500”劫机代码：始终无法拧紧的机舱和地缘安全阀门｜907编辑部",
+        "link": "",
+        "pub_time": 1790929407.218,
+        "pub_display": "10-02 16:23"
+      },
+      {
+        "title": "今天跨区域流动量预计超3亿人次",
+        "link": "",
+        "pub_time": 1790929068.699,
+        "pub_display": "10-02 16:17"
+      },
+      {
+        "title": "节中机票价格跳水：明后天低谷",
+        "link": "",
+        "pub_time": 1790911890.373,
+        "pub_display": "10-02 11:31"
+      },
+      {
+        "title": "轻松拿下中网开门红，萨巴伦卡：你们都在等着看德约科维奇吧",
+        "link": "",
+        "pub_time": 1790944452.333,
+        "pub_display": "10-02 20:34"
+      },
+      {
+        "title": "中国与亚太协同，耐克如何继续“重做”中国市场？",
+        "link": "",
+        "pub_time": 1790943656.525,
+        "pub_display": "10-02 20:20"
       }
     ],
     "中新网": [
       {
-        "title": "侗族多耶节启幕 广西侗乡上演民俗文化盛宴",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706958.shtml",
-        "pub_time": 1790834056.0,
-        "pub_display": "10-01 13:54"
+        "title": "苏通大桥国庆假期首日流量达16.59万辆 创开通以来单日流量新高",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707263.shtml",
+        "pub_time": 1790913896.0,
+        "pub_display": "10-02 12:04"
       },
       {
-        "title": "冷空气袭扰长三角 雨水降温伴随国庆假期",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706957.shtml",
-        "pub_time": 1790833942.0,
-        "pub_display": "10-01 13:52"
+        "title": "湖南祁阳“补丁田”变“聚宝田” 五指毛桃铺就富民路",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707284.shtml",
+        "pub_time": 1790913083.0,
+        "pub_display": "10-02 11:51"
       },
       {
-        "title": "北京警方护航国庆假期旅游市场安全有序",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706941.shtml",
-        "pub_time": 1790831152.0,
-        "pub_display": "10-01 13:05"
+        "title": "福建霞浦美食街上的“台湾味”：同一片海，同一抹鲜",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707283.shtml",
+        "pub_time": 1790912829.0,
+        "pub_display": "10-02 11:47"
       },
       {
-        "title": "台青“登陆”创业近二十载 踩准时代节拍转型升级",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
-        "pub_time": 1790830898.0,
-        "pub_display": "10-01 13:01"
+        "title": "青春华章·学以报国｜山河为卷，云岭青年接力作答",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707253.shtml",
+        "pub_time": 1790909982.0,
+        "pub_display": "10-02 10:59"
       },
       {
-        "title": "彻夜守候见证“中国红” 广西南宁国庆升国旗仪式“超燃”",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
-        "pub_time": 1790830681.0,
-        "pub_display": "10-01 12:58"
+        "title": "多地冷空气接连到来 国庆出游穿衣指南来了",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707250.shtml",
+        "pub_time": 1790909694.0,
+        "pub_display": "10-02 10:54"
       },
       {
-        "title": "四川乐山：玉兔起舞九尾狐穿行 东坡楼上演“汉代奇遇”",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
-        "pub_time": 1790830589.0,
-        "pub_display": "10-01 12:56"
+        "title": "守护“深蓝”：“海巡22”船长的“在线”假期",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707235.shtml",
+        "pub_time": 1790907109.0,
+        "pub_display": "10-02 10:11"
       },
       {
-        "title": "国庆假期首日 海南自贸港重点项目施工忙",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706932.shtml",
-        "pub_time": 1790830543.0,
-        "pub_display": "10-01 12:55"
+        "title": "展示推广十余年建设成果 国图公开课资源全国推广活动正式启动",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707230.shtml",
+        "pub_time": 1790906747.0,
+        "pub_display": "10-02 10:05"
       },
       {
-        "title": "浙江客流最大县级火车站：国庆假期预计日均发送旅客5.13万人次",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
-        "pub_time": 1790830030.0,
-        "pub_display": "10-01 12:47"
+        "title": "高速串起山乡秋色 促浙江泰顺文旅“四季旺”",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707231.shtml",
+        "pub_time": 1790906743.0,
+        "pub_display": "10-02 10:05"
       },
       {
-        "title": "浙江杭州：假期兴起“人机互动热”",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706921.shtml",
-        "pub_time": 1790829836.0,
-        "pub_display": "10-01 12:43"
+        "title": "跨境“串门”热  中国边城满洲里客流创新高",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707220.shtml",
+        "pub_time": 1790906719.0,
+        "pub_display": "10-02 10:05"
       },
       {
-        "title": "全国首个人机协同智慧岗亭亮相杭州街头",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706920.shtml",
-        "pub_time": 1790829778.0,
-        "pub_display": "10-01 12:42"
+        "title": "华中最大地下环路试通车 智慧交通赋能滨江城市更新",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707219.shtml",
+        "pub_time": 1790906499.0,
+        "pub_display": "10-02 10:01"
       },
       {
-        "title": "“光语”点亮苏河湾：百年石库门变身梦幻舞台",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706919.shtml",
-        "pub_time": 1790829658.0,
-        "pub_display": "10-01 12:40"
+        "title": "浙江嘉兴首家机器人便利店营业 人机互动带来假日新体验",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707214.shtml",
+        "pub_time": 1790906286.0,
+        "pub_display": "10-02 09:58"
       },
       {
-        "title": "国庆快闪温暖琼州海峡铁路轮渡跨海旅途",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706886.shtml",
-        "pub_time": 1790827077.0,
-        "pub_display": "10-01 11:57"
+        "title": "国庆假期首日福州对台直航航班535人次旅客往返",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707202.shtml",
+        "pub_time": 1790906172.0,
+        "pub_display": "10-02 09:56"
       },
       {
-        "title": "国庆假期首日 琼州海峡联合巡航保通航安全",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706885.shtml",
-        "pub_time": 1790827061.0,
-        "pub_display": "10-01 11:57"
+        "title": "以阅读传承长征精神 江西省图书馆国庆红色研学活动启幕",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707212.shtml",
+        "pub_time": 1790906046.0,
+        "pub_display": "10-02 09:54"
       },
       {
-        "title": "江西赣县客家婚俗婚博秀上演 特色民俗活动点亮国庆文旅市场",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706880.shtml",
-        "pub_time": 1790826803.0,
-        "pub_display": "10-01 11:53"
+        "title": "莆田2026年秋季文旅活动启幕",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707211.shtml",
+        "pub_time": 1790905826.0,
+        "pub_display": "10-02 09:50"
       },
       {
-        "title": "阿木尔林业局国庆假期首日迎来入秋首场降雪",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706879.shtml",
-        "pub_time": 1790826685.0,
-        "pub_display": "10-01 11:51"
+        "title": "英烈倒下的地方 长出守护的力量",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707190.shtml",
+        "pub_time": 1790901768.0,
+        "pub_display": "10-02 08:42"
       },
       {
-        "title": "枯水位走低防搁浅 西江封开段将限制吃水超4.5米船舶航行",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706872.shtml",
-        "pub_time": 1790826511.0,
-        "pub_display": "10-01 11:48"
+        "title": "中国驻泰使馆：接到有关上海音乐教师失联的求助",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707187.shtml",
+        "pub_time": 1790900981.0,
+        "pub_display": "10-02 08:29"
       },
       {
-        "title": "浙江医疗帮扶纪实：山海相连护芳华",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706854.shtml",
-        "pub_time": 1790826366.0,
-        "pub_display": "10-01 11:46"
+        "title": "东莞碧道总长度突破1000里 基本实现无缝衔接",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707167.shtml",
+        "pub_time": 1790897289.0,
+        "pub_display": "10-02 07:28"
       },
       {
-        "title": "外国人畅游中国，从三亚出发",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706859.shtml",
-        "pub_time": 1790826360.0,
-        "pub_display": "10-01 11:46"
+        "title": "10月1日全国铁路发送旅客2520.4万人次",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707169.shtml",
+        "pub_time": 1790897253.0,
+        "pub_display": "10-02 07:27"
       },
       {
-        "title": "合湛铁路广东段首个支架法现浇连续梁完成首阶段浇筑",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706853.shtml",
-        "pub_time": 1790826290.0,
-        "pub_display": "10-01 11:44"
+        "title": "新疆G217线独库公路10月8日20时起实施冬季封闭",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707171.shtml",
+        "pub_time": 1790897165.0,
+        "pub_display": "10-02 07:26"
       },
       {
-        "title": "广西柳州水上执法者守护一江碧水 筑牢假期安全屏障",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706852.shtml",
-        "pub_time": 1790826282.0,
-        "pub_display": "10-01 11:44"
+        "title": "浙江铁道一线国庆守归途：愿每一场团圆都不负期许",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707147.shtml",
+        "pub_time": 1790897019.0,
+        "pub_display": "10-02 07:23"
       },
       {
-        "title": "爱上中国沙漠的非洲“00后”女车手",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706857.shtml",
-        "pub_time": 1790826236.0,
-        "pub_display": "10-01 11:43"
+        "title": "宁夏银川：拼豆手作带来假日新体验 在地文化邂逅青年潮流",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707152.shtml",
+        "pub_time": 1790896616.0,
+        "pub_display": "10-02 07:16"
       },
       {
-        "title": "从“看戏”到“入戏” 沉浸式影视游成文旅新风尚",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706851.shtml",
-        "pub_time": 1790826176.0,
-        "pub_display": "10-01 11:42"
+        "title": "江南古镇假日“上新”拥抱年轻人",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707158.shtml",
+        "pub_time": 1790896454.0,
+        "pub_display": "10-02 07:14"
       },
       {
-        "title": "宁夏银川：落地有礼 全城有景 以温情文旅拥抱八方游客",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706835.shtml",
-        "pub_time": 1790825976.0,
-        "pub_display": "10-01 11:39"
+        "title": "（乡村行·看振兴）从观光到沉浸 浙江吴兴乡村玩法焕新引客来",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707155.shtml",
+        "pub_time": 1790896180.0,
+        "pub_display": "10-02 07:09"
       },
       {
-        "title": "福州古厝“活”起来 国庆首日人气旺",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706834.shtml",
-        "pub_time": 1790825930.0,
-        "pub_display": "10-01 11:38"
+        "title": "杭州西湖仿生青鱼下水 守护国庆水域平安",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707154.shtml",
+        "pub_time": 1790896076.0,
+        "pub_display": "10-02 07:07"
       },
       {
-        "title": "川渝电力通道再升级 500千伏洪板一线改造竣工",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706833.shtml",
-        "pub_time": 1790825922.0,
-        "pub_display": "10-01 11:38"
+        "title": "探访杭州“无声烧饼摊”：烟火街巷里，圆残疾人就业梦",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707146.shtml",
+        "pub_time": 1790895786.0,
+        "pub_display": "10-02 07:03"
       },
       {
-        "title": "冷空气携暴雨袭粤 广州1小时降雨量达39.5毫米",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706827.shtml",
-        "pub_time": 1790825490.0,
-        "pub_display": "10-01 11:31"
+        "title": "黑龙江鸡西边境民警护航边境景区平安",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707132.shtml",
+        "pub_time": 1790894922.0,
+        "pub_display": "10-02 06:48"
       },
       {
-        "title": "广西钦州万人健步游平陆运河庆国庆",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706782.shtml",
-        "pub_time": 1790816645.0,
-        "pub_display": "10-01 09:04"
+        "title": "广西北海银滩“三秀”绽放 点燃国庆假日游热潮",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707129.shtml",
+        "pub_time": 1790894768.0,
+        "pub_display": "10-02 06:46"
       },
       {
-        "title": "国旗设计者故乡升国旗迎国庆 民众共抒家国情怀",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706780.shtml",
-        "pub_time": 1790816551.0,
-        "pub_display": "10-01 09:02"
+        "title": "假期出行物品遗失时有发生 这份“避坑”指南请收好",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707135.shtml",
+        "pub_time": 1790892830.0,
+        "pub_display": "10-02 06:13"
       },
       {
-        "title": "2026泉州闽南文化非遗周系列活动启幕：融两岸 最闽南",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706779.shtml",
-        "pub_time": 1790816479.0,
-        "pub_display": "10-01 09:01"
+        "title": "国庆假期首日广东交通流量诞生多项纪录",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707128.shtml",
+        "pub_time": 1790892700.0,
+        "pub_display": "10-02 06:11"
       },
       {
-        "title": "高黎贡山隧道持续攻坚：建设者以坚守破解世界级地质难题",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706764.shtml",
-        "pub_time": 1790816414.0,
-        "pub_display": "10-01 09:00"
+        "title": "湖畔无人机光影秀贺国庆 江西九江以科技光影展现城市新活力",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707095.shtml",
+        "pub_time": 1790892138.0,
+        "pub_display": "10-02 06:02"
       }
     ],
     "IT之家": [
       {
-        "title": "长安汽车 9 月交付 22.89 万辆，海外 96200 辆同比增长 73.8%",
-        "link": "https://www.ithome.com/1/009/170.htm",
-        "pub_time": 1790840853.0,
-        "pub_display": "10-01 15:47"
+        "title": "钛度推出轻鸾 2 头戴式耳机：50mm 动圈、230g 重量，159.9 元",
+        "link": "https://www.ithome.com/1/009/350.htm",
+        "pub_time": 1790915354.0,
+        "pub_display": "10-02 12:29"
       },
       {
-        "title": "英伟达为 GTX 700-10 系显卡发布 582.78 安全更新，修复 114 个漏洞",
-        "link": "https://www.ithome.com/1/009/169.htm",
-        "pub_time": 1790840142.0,
-        "pub_display": "10-01 15:35"
+        "title": "湖北智能家居国补范围扩大，机器人、数码相机、无人机、血压仪等可补贴 15%",
+        "link": "https://www.ithome.com/1/009/349.htm",
+        "pub_time": 1790914937.0,
+        "pub_display": "10-02 12:22"
       },
       {
-        "title": "Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取",
-        "link": "https://www.ithome.com/1/009/167.htm",
-        "pub_time": 1790838316.0,
-        "pub_display": "10-01 15:05"
+        "title": "消息称三星电子已量产 Exynos 2700 处理器，Galaxy S27 系列手机将搭载",
+        "link": "https://www.ithome.com/1/009/347.htm",
+        "pub_time": 1790913874.0,
+        "pub_display": "10-02 12:04"
       },
       {
-        "title": "2026 年 9 月汽车销量 / 交付榜出炉：比亚迪 46.36 万辆稳坐头把交椅，小米澎程上市首月交付破万",
-        "link": "https://www.ithome.com/1/009/168.htm",
-        "pub_time": 1790838991.0,
-        "pub_display": "10-01 15:16"
+        "title": "创维 F3 Pro 闺蜜机新增 12GB RAM + 256GB 存储空间版本，6099 元",
+        "link": "https://www.ithome.com/1/009/346.htm",
+        "pub_time": 1790913434.0,
+        "pub_display": "10-02 11:57"
       },
       {
-        "title": "华为 Pura 70 Pro / Pro+ / Ultra 获 HarmonyOS 7.0.0.109SP8 升级，文本通话支持声音修复等功能",
-        "link": "https://www.ithome.com/1/009/166.htm",
-        "pub_time": 1790838079.0,
-        "pub_display": "10-01 15:01"
+        "title": "小米米家体脂秤 4 Pro 开启预售：采用 USB-C 充电、支持身体数据趋势显示，149 元",
+        "link": "https://www.ithome.com/1/009/345.htm",
+        "pub_time": 1790912054.0,
+        "pub_display": "10-02 11:34"
       },
       {
-        "title": "奇安信盘古石取证宣布适配 Android 17：支持微信已删除多媒体碎片重组",
-        "link": "https://www.ithome.com/1/009/165.htm",
-        "pub_time": 1790837944.0,
-        "pub_display": "10-01 14:59"
+        "title": "我国深地油气开发实现关键跨越，8080 米地下获取连续 6 米岩芯",
+        "link": "https://www.ithome.com/1/009/344.htm",
+        "pub_time": 1790911658.0,
+        "pub_display": "10-02 11:27"
       },
       {
-        "title": "任天堂《宝可梦传说 Z-A》Switch 2 卡带 + 超次元爆涌 DLC 版 10 月 29 日发售",
-        "link": "https://www.ithome.com/1/009/164.htm",
-        "pub_time": 1790836974.0,
-        "pub_display": "10-01 14:42"
+        "title": "Anthropic 招股书警告：美国政府的态度会影响公司与客户的关系，甚至波及人类文明",
+        "link": "https://www.ithome.com/1/009/343.htm",
+        "pub_time": 1790910951.0,
+        "pub_display": "10-02 11:15"
       },
       {
-        "title": "余承东宣布华为移动影像升级，华为睿影 XMAGE 正式发布",
-        "link": "https://www.ithome.com/1/009/163.htm",
-        "pub_time": 1790836758.0,
-        "pub_display": "10-01 14:39"
+        "title": "保时捷 CEO 骆明楷：2028 年将推出燃油版 Macan，重拾油车≠弃电动化",
+        "link": "https://www.ithome.com/1/009/341.htm",
+        "pub_time": 1790910092.0,
+        "pub_display": "10-02 11:01"
       },
       {
-        "title": "华为 nova16 Pro 与 FIT 5 泡泡玛特 Hirono 小野联名款开售：12+256GB 昆仑玻璃款手机 3899 元，手表 1199 元",
-        "link": "https://www.ithome.com/1/009/162.htm",
-        "pub_time": 1790836220.0,
-        "pub_display": "10-01 14:30"
+        "title": "特斯拉推出 Dog Mode Chew Toy 车载周边：适用宠物场景，20 美元",
+        "link": "https://www.ithome.com/1/009/340.htm",
+        "pub_time": 1790909103.0,
+        "pub_display": "10-02 10:45"
       },
       {
-        "title": "惠普战 99 锐龙版 AI 移动工作站发布：AMD R9-9955HX3D + RTX PRO 2000，21999 元",
-        "link": "https://www.ithome.com/1/009/161.htm",
-        "pub_time": 1790835858.0,
-        "pub_display": "10-01 14:24"
+        "title": "罗技 Astro A50 X 头戴式耳机 McLAREN RACING“迈凯轮赛车版”国行发售，3499 元",
+        "link": "https://www.ithome.com/1/009/339.htm",
+        "pub_time": 1790909090.0,
+        "pub_display": "10-02 10:44"
       },
       {
-        "title": "华为 Mate XT 2 三折叠手机获 HarmonyOS 7.0.0.109 SP8 升级，通信共享升级支持多人互助共享",
-        "link": "https://www.ithome.com/1/009/160.htm",
-        "pub_time": 1790835824.0,
-        "pub_display": "10-01 14:23"
+        "title": "Rivian 为 R2 车型推送 10 月车机系统更新：新增 Pet Cam 宠物摄像头、电动尾门开启高度调节功能",
+        "link": "https://www.ithome.com/1/009/338.htm",
+        "pub_time": 1790909084.0,
+        "pub_display": "10-02 10:44"
       },
       {
-        "title": "致敬《终结者 2》：Figure 让 F.02 人形机器人亲自跳入熔炉，采纳施瓦辛格本人提议",
-        "link": "https://www.ithome.com/1/009/159.htm",
-        "pub_time": 1790834616.0,
-        "pub_display": "10-01 14:03"
+        "title": "绿联推出 45W 自带双线带屏 20000mAh 移动电源：3C + 1A，269 元",
+        "link": "https://www.ithome.com/1/009/337.htm",
+        "pub_time": 1790907263.0,
+        "pub_display": "10-02 10:14"
       },
       {
-        "title": "暴雪《魔兽世界：无限》开放预下载，史诗版 388 元含 10 月 6 日 Beta 测试资格",
-        "link": "https://www.ithome.com/1/009/158.htm",
-        "pub_time": 1790833795.0,
-        "pub_display": "10-01 13:49"
+        "title": "腾讯 WorkBuddy 内置模型独家支持 Space Bunny",
+        "link": "https://www.ithome.com/1/009/335.htm",
+        "pub_time": 1790906719.0,
+        "pub_display": "10-02 10:05"
       },
       {
-        "title": "华为余承东：享界 V8 开启预订 72 小时，订单突破 8200 台",
-        "link": "https://www.ithome.com/1/009/156.htm",
-        "pub_time": 1790833362.0,
-        "pub_display": "10-01 13:42"
+        "title": "安全公司曝光新型 macOS 恶意木马 CloudSyncD，通过伪装成 Zoom 安装程序传播",
+        "link": "https://www.ithome.com/1/009/334.htm",
+        "pub_time": 1790906690.0,
+        "pub_display": "10-02 10:04"
       },
       {
-        "title": "魁匠团宣布取消《绝地求生：黑色任务》搜打撤项目，游戏尚未发售便已落幕",
-        "link": "https://www.ithome.com/1/009/155.htm",
-        "pub_time": 1790832963.0,
-        "pub_display": "10-01 13:36"
+        "title": "雷神 K96 三模机械键盘新增“土星风暴”配色：PBT 球帽 + 环诺矮轴，249 元",
+        "link": "https://www.ithome.com/1/009/330.htm",
+        "pub_time": 1790906076.0,
+        "pub_display": "10-02 09:54"
       },
       {
-        "title": "宝马计划 2027 年在欧洲推行代理直销模式，避免经销商加价销售",
-        "link": "https://www.ithome.com/1/009/154.htm",
-        "pub_time": 1790832394.0,
-        "pub_display": "10-01 13:26"
+        "title": "荣耀林林：Magic9 系列不会推出 RSR 保时捷设计版本",
+        "link": "https://www.ithome.com/1/009/329.htm",
+        "pub_time": 1790905687.0,
+        "pub_display": "10-02 09:48"
       },
       {
-        "title": "吴彦祖官宣加盟《赛博朋克：边缘行者 2》献声，10 月 20 日上线",
-        "link": "https://www.ithome.com/1/009/153.htm",
-        "pub_time": 1790831498.0,
-        "pub_display": "10-01 13:11"
+        "title": "奇瑞汽车公布 9 月各品牌销量：主品牌超 19 万辆同比增长 17.2%，智界 5008 辆同比下降 36.5%",
+        "link": "https://www.ithome.com/1/009/328.htm",
+        "pub_time": 1790904972.0,
+        "pub_display": "10-02 09:36"
       },
       {
-        "title": "用户反馈升级微软 Win11 26H2 后内存用量减少约 1.5~2GB",
-        "link": "https://www.ithome.com/1/009/150.htm",
-        "pub_time": 1790830947.0,
-        "pub_display": "10-01 13:02"
+        "title": "消息称卡西欧计划 11 月推出戒指造型手表 CRW-002，售价约 135 美元",
+        "link": "https://www.ithome.com/1/009/327.htm",
+        "pub_time": 1790904832.0,
+        "pub_display": "10-02 09:33"
       },
       {
-        "title": "2026 年 9 月汽车销量 / 交付汇总（持续更新）：奇瑞超 29 万辆，上汽超 40 万辆",
-        "link": "https://www.ithome.com/1/008/990.htm",
-        "pub_time": 1790789815.0,
-        "pub_display": "10-01 01:36"
+        "title": "苹果 Apple Arcade 订阅服务新增 5 款游戏：含《Terraria+》《Pusheen's Place》等",
+        "link": "https://www.ithome.com/1/009/325.htm",
+        "pub_time": 1790904016.0,
+        "pub_display": "10-02 09:20"
       },
       {
-        "title": "奇瑞集团 9 月汽车销售 292,308 辆，单月出口破 20 万辆创中国汽车新纪录",
-        "link": "https://www.ithome.com/1/009/149.htm",
-        "pub_time": 1790830776.0,
-        "pub_display": "10-01 12:59"
+        "title": "周星驰导演电影《功夫女足》网播定档 10 月 3 日，已收获 23.45 亿元票房",
+        "link": "https://www.ithome.com/1/009/324.htm",
+        "pub_time": 1790903865.0,
+        "pub_display": "10-02 09:17"
       },
       {
-        "title": "消息称苹果智能家居产品宣传物料已送往全球各大 Apple Store，预计 10 月 8 日解禁？",
-        "link": "https://www.ithome.com/1/009/148.htm",
-        "pub_time": 1790830188.0,
-        "pub_display": "10-01 12:49"
+        "title": "中国电信 App 上线 eSIM 手机绑定号码数量查询功能",
+        "link": "https://www.ithome.com/1/009/323.htm",
+        "pub_time": 1790903445.0,
+        "pub_display": "10-02 09:10"
       },
       {
-        "title": "上汽集团 9 月整车销售 40.6 万辆，今年累计 314.7 万辆位居中国汽车行业首位",
-        "link": "https://www.ithome.com/1/009/147.htm",
-        "pub_time": 1790830132.0,
-        "pub_display": "10-01 12:48"
+        "title": "奇瑞风云 A9 九月交付超 7000 台，单月订单突破 2 万台",
+        "link": "https://www.ithome.com/1/009/322.htm",
+        "pub_time": 1790903349.0,
+        "pub_display": "10-02 09:09"
       },
       {
-        "title": "阿维塔 9 月交付 8183 辆新车，连续三个月环比增长",
-        "link": "https://www.ithome.com/1/009/146.htm",
-        "pub_time": 1790829499.0,
-        "pub_display": "10-01 12:38"
+        "title": "育碧手游《刺客信条：燎原》下架，2027 年 1 月 12 日停服",
+        "link": "https://www.ithome.com/1/009/321.htm",
+        "pub_time": 1790902877.0,
+        "pub_display": "10-02 09:01"
       },
       {
-        "title": "长城汽车 9 月销量约 11.5 万辆，同比下降近 14%",
-        "link": "https://www.ithome.com/1/009/144.htm",
-        "pub_time": 1790828485.0,
-        "pub_display": "10-01 12:21"
+        "title": "美国三大移动运营商将成立合资企业，利用卫星技术改善偏远地区网络覆盖",
+        "link": "https://www.ithome.com/1/009/320.htm",
+        "pub_time": 1790902736.0,
+        "pub_display": "10-02 08:58"
       },
       {
-        "title": "适马新品发布会定档 10 月 24 日，65mm 超大光圈镜头有望亮相",
-        "link": "https://www.ithome.com/1/009/142.htm",
-        "pub_time": 1790827433.0,
-        "pub_display": "10-01 12:03"
+        "title": "比亚迪日本市场专属纯电 K-Car“海獭”Racco 上市 2 个月，累计订单超 1800 辆",
+        "link": "https://www.ithome.com/1/009/318.htm",
+        "pub_time": 1790901853.0,
+        "pub_display": "10-02 08:44"
       },
       {
-        "title": "交通运输部：9 月 30 日全社会跨区域人员流动量 21935.5 万人次，同比下降 6.8%",
-        "link": "https://www.ithome.com/1/009/141.htm",
-        "pub_time": 1790827269.0,
-        "pub_display": "10-01 12:01"
+        "title": "小鹏 MONA L03 车型 9 月交付超 14,000 台，年轻用户占比过半",
+        "link": "https://www.ithome.com/1/009/317.htm",
+        "pub_time": 1790901737.0,
+        "pub_display": "10-02 08:42"
       },
       {
-        "title": "RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4",
-        "link": "https://www.ithome.com/1/009/140.htm",
-        "pub_time": 1790827052.0,
-        "pub_display": "10-01 11:57"
+        "title": "微软宣布《极限竞速》系列游戏在 Steam 平台开启秋季大促，《地平线 6》新史低 8 折后 238.4 元起",
+        "link": "https://www.ithome.com/1/009/316.htm",
+        "pub_time": 1790900139.0,
+        "pub_display": "10-02 08:15"
       },
       {
-        "title": "149 元起微软 Xbox 宜家联名家具发售：涵盖游戏椅、电视柜、笔记本电脑支架等",
-        "link": "https://www.ithome.com/1/009/139.htm",
-        "pub_time": 1790826361.0,
-        "pub_display": "10-01 11:46"
+        "title": "生图模型 FLUX 3 Image 发布：支持 4K 生成，可精准排布 AI 元素",
+        "link": "https://www.ithome.com/1/009/315.htm",
+        "pub_time": 1790899521.0,
+        "pub_display": "10-02 08:05"
       },
       {
-        "title": "我国川西锂矿找矿突破，新增碳酸锂当量约 104.68 万吨",
-        "link": "https://www.ithome.com/1/009/137.htm",
-        "pub_time": 1790825366.0,
-        "pub_display": "10-01 11:29"
+        "title": "大众安徽与众 09 夏测实车亮相，预售 19.99 万元起",
+        "link": "https://www.ithome.com/1/009/314.htm",
+        "pub_time": 1790899366.0,
+        "pub_display": "10-02 08:02"
       },
       {
-        "title": "北汽新能源 9 月销量 24,080 辆，同比增长 17.24%",
-        "link": "https://www.ithome.com/1/009/136.htm",
-        "pub_time": 1790825326.0,
-        "pub_display": "10-01 11:28"
+        "title": "日本租车公司 Nippon Rent-A-Car 遭黑客攻击，96 名会员个人信息泄露",
+        "link": "https://www.ithome.com/1/009/313.htm",
+        "pub_time": 1790899216.0,
+        "pub_display": "10-02 08:00"
       },
       {
-        "title": "育碧公布新品牌：创意事业部 2 更名 Massive Entertainment，统一管理多款知名 IP",
-        "link": "https://www.ithome.com/1/009/135.htm",
-        "pub_time": 1790824580.0,
-        "pub_display": "10-01 11:16"
+        "title": "京瓷预热本月下旬在日本市场推出 DIGNO BX4 商用手机：4 年安卓版本更新、搭联发科天玑 6400 处理器",
+        "link": "https://www.ithome.com/1/009/311.htm",
+        "pub_time": 1790898774.0,
+        "pub_display": "10-02 07:52"
       },
       {
-        "title": "吉利汽车 9 月销量 29.2 万辆，同比增长约 7%",
-        "link": "https://www.ithome.com/1/009/133.htm",
-        "pub_time": 1790823119.0,
-        "pub_display": "10-01 10:51"
+        "title": "2026 国庆档电影总票房破 3 亿：时隔七年重映《复联 4（加码臻享版）》进前三",
+        "link": "https://www.ithome.com/1/009/310.htm",
+        "pub_time": 1790898572.0,
+        "pub_display": "10-02 07:49"
       },
       {
-        "title": "华为、赛力斯达成新五年合作：共同升级问界业务推动品牌向上，余承东与张兴海出席签约",
-        "link": "https://www.ithome.com/1/009/131.htm",
-        "pub_time": 1790821965.0,
-        "pub_display": "10-01 10:32"
+        "title": "日本法院首次确认声音受法律保护，“AI 声优”涉及侵犯形象权",
+        "link": "https://www.ithome.com/1/009/309.htm",
+        "pub_time": 1790898466.0,
+        "pub_display": "10-02 07:47"
       },
       {
-        "title": "2GB 版树莓派 4 与树莓派 5 售价双双上调 12.5 美元，涨幅最高约 22.7%",
-        "link": "https://www.ithome.com/1/009/130.htm",
-        "pub_time": 1790821928.0,
-        "pub_display": "10-01 10:32"
+        "title": "因使用需求持续下降，日本东京都营地铁将于 2028 年 11 月前撤去站内所有公用电话",
+        "link": "https://www.ithome.com/1/009/308.htm",
+        "pub_time": 1790898346.0,
+        "pub_display": "10-02 07:45"
       },
       {
-        "title": "比亚迪 9 月汽车销量 463561 辆同比增长 16.98%：今年累计销量 313 万辆，方程豹 43181 辆同比暴涨 79%",
-        "link": "https://www.ithome.com/1/009/129.htm",
-        "pub_time": 1790821270.0,
-        "pub_display": "10-01 10:21"
+        "title": "纽约“点击即可取消”新规生效：用户退订服务不能比当初注册麻烦",
+        "link": "https://www.ithome.com/1/009/307.htm",
+        "pub_time": 1790897952.0,
+        "pub_display": "10-02 07:39"
       },
       {
-        "title": "华为 Mate 90 Pro Max 首发四卡三待功能，Mate XT 2 预计 10 月中下旬 OTA 支持",
-        "link": "https://www.ithome.com/1/009/128.htm",
-        "pub_time": 1790821185.0,
-        "pub_display": "10-01 10:19"
+        "title": "游戏发售宣传片公开：首发支持 DLSS 4.5 及光追，10 月 7 日正式发售",
+        "link": "https://www.ithome.com/1/009/306.htm",
+        "pub_time": 1790897622.0,
+        "pub_display": "10-02 07:33"
       },
       {
-        "title": "对标劳斯莱斯等品牌？丰田欲将顶级豪华车型世极推向全球市场",
-        "link": "https://www.ithome.com/1/009/126.htm",
-        "pub_time": 1790820867.0,
-        "pub_display": "10-01 10:14"
+        "title": "OpenAI 升级 ChatGPT 购物体验，新增 AI 衣服虚拟试穿体验",
+        "link": "https://www.ithome.com/1/009/304.htm",
+        "pub_time": 1790897336.0,
+        "pub_display": "10-02 07:28"
       },
       {
-        "title": "日本电力巨头 JERA 牵手戴尔等伙伴，将在千叶建设该国最大 AI 数据中心",
-        "link": "https://www.ithome.com/1/009/119.htm",
-        "pub_time": 1790820654.0,
-        "pub_display": "10-01 10:10"
+        "title": "交通运输部：10 月 1 日全社会跨区域人员流动量 32949.5 万人次，同比下降 1.9%",
+        "link": "https://www.ithome.com/1/009/303.htm",
+        "pub_time": 1790897315.0,
+        "pub_display": "10-02 07:28"
       },
       {
-        "title": "微软发布 Win11 26H2 ISO 下载镜像，支持全新安装与升级",
-        "link": "https://www.ithome.com/1/009/113.htm",
-        "pub_time": 1790820344.0,
-        "pub_display": "10-01 10:05"
+        "title": "极米记得 AI 显示眼镜 MemoMind One 明日登陆线下门店，开启定金预定",
+        "link": "https://www.ithome.com/1/009/302.htm",
+        "pub_time": 1790897193.0,
+        "pub_display": "10-02 07:26"
       },
       {
-        "title": "OpenAI 称其遭遇有组织蒸馏，将矛头指向月之暗面",
-        "link": "https://www.ithome.com/1/009/112.htm",
-        "pub_time": 1790819390.0,
-        "pub_display": "10-01 09:49"
+        "title": "特斯拉持续推进 FSD 辅助驾驶在中国台湾地区落地，正进一步优化道路测试计划",
+        "link": "https://www.ithome.com/1/009/301.htm",
+        "pub_time": 1790896924.0,
+        "pub_display": "10-02 07:22"
       },
       {
-        "title": "AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片",
-        "link": "https://www.ithome.com/1/009/111.htm",
-        "pub_time": 1790818732.0,
-        "pub_display": "10-01 09:38"
+        "title": "沃尔沃汽车 2026 年第三季度全球销量同比下降 10.7%，大中华区暴降 40.6%",
+        "link": "https://www.ithome.com/1/009/300.htm",
+        "pub_time": 1790896697.0,
+        "pub_display": "10-02 07:18"
       },
       {
-        "title": "福特 CEO 法利：美国应吸取欧洲教训，审慎对待中国车企入美",
-        "link": "https://www.ithome.com/1/009/110.htm",
-        "pub_time": 1790818317.0,
-        "pub_display": "10-01 09:31"
+        "title": "AOC 推出“U27G4FD”27 英寸裸眼 3D 显示器：4K 180Hz、配双 5W 扬声器",
+        "link": "https://www.ithome.com/1/009/299.htm",
+        "pub_time": 1790896526.0,
+        "pub_display": "10-02 07:15"
       },
       {
-        "title": "曝三星计划 10-11 月生产 114 万台 Galaxy Z Fold8 系列折叠屏手机，Fold8 阔折叠占比最高",
-        "link": "https://www.ithome.com/1/009/108.htm",
-        "pub_time": 1790817728.0,
-        "pub_display": "10-01 09:22"
+        "title": "水月雨推出星野 III 双动圈系统 Hi-Fi 入耳式耳机：变色星光烤漆工艺，699 元",
+        "link": "https://www.ithome.com/1/009/297.htm",
+        "pub_time": 1790896214.0,
+        "pub_display": "10-02 07:10"
       },
       {
-        "title": "谷歌 Pixel 10a 手机在日本涨价：起售价升至 92800 日元，最高涨幅 16.15%",
-        "link": "https://www.ithome.com/1/009/106.htm",
-        "pub_time": 1790816518.0,
-        "pub_display": "10-01 09:01"
+        "title": "荣耀 WIN 小平板正面照疑曝光，有望支持 240Hz 刷新率",
+        "link": "https://www.ithome.com/1/009/296.htm",
+        "pub_time": 1790896170.0,
+        "pub_display": "10-02 07:09"
       },
       {
-        "title": "华为、东航达成首个系统级机上联网合作：鸿蒙 7.0 手机支持空中 Wi-Fi 一键联网，Mate 90 系列及 XT2 非凡大师可享一年高级权益",
-        "link": "https://www.ithome.com/1/009/104.htm",
-        "pub_time": 1790816339.0,
-        "pub_display": "10-01 08:58"
+        "title": "马斯克：通过星舰未来将在月球部署巨型天文望远镜",
+        "link": "https://www.ithome.com/1/009/295.htm",
+        "pub_time": 1790896160.0,
+        "pub_display": "10-02 07:09"
       },
       {
-        "title": "欧盟出手整治游戏内氪金乱象，拳头、动视暴雪等 9 家大厂被点名",
-        "link": "https://www.ithome.com/1/009/103.htm",
-        "pub_time": 1790816278.0,
-        "pub_display": "10-01 08:57"
+        "title": "索尼 PS5《羊蹄山之魂》完全版发售：收录“弦续关原”新剧情及“无尽追缉”模式",
+        "link": "https://www.ithome.com/1/009/291.htm",
+        "pub_time": 1790895495.0,
+        "pub_display": "10-02 06:58"
       },
       {
-        "title": "曝三星 Galaxy Glasses 智能眼镜通过美国 FCC 认证，有望 11 月上市",
-        "link": "https://www.ithome.com/1/009/102.htm",
-        "pub_time": 1790815748.0,
-        "pub_display": "10-01 08:49"
+        "title": "10 月 1 日高德日活跃用户数近 3.7 亿：已成为全球规模最大的空间智能应用",
+        "link": "https://www.ithome.com/1/009/290.htm",
+        "pub_time": 1790895435.0,
+        "pub_display": "10-02 06:57"
       },
       {
-        "title": "华为 Mate 90 系列及全场景新品发布会一文汇总：史上最强 Mate，四款麒麟芯片，手表耳机智慧屏上新",
-        "link": "https://www.ithome.com/1/009/101.htm",
-        "pub_time": 1790815526.0,
-        "pub_display": "10-01 08:45"
+        "title": "极狐阿尔法 T5 汽车迎 OTA：部分车型新增苹果 CarPlay / 华为 HiCar 手机互联、端到端 4.0 辅助驾驶模型",
+        "link": "https://www.ithome.com/1/009/288.htm",
+        "pub_time": 1790895189.0,
+        "pub_display": "10-02 06:53"
       },
       {
-        "title": "曝腾讯租用甲骨文东南亚数据中心：涉及约 10 万块先进 AI 芯片，交易估值约 70 亿美元",
-        "link": "https://www.ithome.com/1/009/100.htm",
-        "pub_time": 1790815511.0,
-        "pub_display": "10-01 08:45"
+        "title": "7.56 亿票房超《星际穿越》：电影《奥德赛》刷新诺兰导演中国内地票房纪录",
+        "link": "https://www.ithome.com/1/009/285.htm",
+        "pub_time": 1790894950.0,
+        "pub_display": "10-02 06:49"
       },
       {
-        "title": "万灵竞记推出花兽 V2 鼠标：镁锂合金外壳，TheShy 联名",
-        "link": "https://www.ithome.com/1/009/099.htm",
-        "pub_time": 1790815091.0,
-        "pub_display": "10-01 08:38"
+        "title": "绿联推出彩色墨水屏手机壳：3.7 英寸面板，适配苹果 iPhone 17/18 Pro 及 Max 机型，278.8 元",
+        "link": "https://www.ithome.com/1/009/284.htm",
+        "pub_time": 1790894885.0,
+        "pub_display": "10-02 06:48"
       },
       {
-        "title": "运动相机品牌 GoPro 正式加入 M43 联盟",
-        "link": "https://www.ithome.com/1/009/097.htm",
-        "pub_time": 1790815074.0,
-        "pub_display": "10-01 08:37"
+        "title": "英特尔 Arc 显卡驱动 32.0.101.9034 Beta 版发布：支持《战争机器：事变日》游戏",
+        "link": "https://www.ithome.com/1/009/245.htm",
+        "pub_time": 1790894320.0,
+        "pub_display": "10-02 06:38"
       },
       {
-        "title": "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高",
-        "link": "https://www.ithome.com/1/009/096.htm",
-        "pub_time": 1790814538.0,
-        "pub_display": "10-01 08:28"
+        "title": "富士 X-T6 无反相机设计草图曝光，配 X-Processor 6 图像处理器",
+        "link": "https://www.ithome.com/1/009/283.htm",
+        "pub_time": 1790894089.0,
+        "pub_display": "10-02 06:34"
       },
       {
-        "title": "越野摩托竞速游戏《MXGP 26》发售，Steam 国区 170 元起",
-        "link": "https://www.ithome.com/1/009/093.htm",
-        "pub_time": 1790813567.0,
-        "pub_display": "10-01 08:12"
+        "title": "Steam 喜加一：地下城 RPG《Endor Awakens：Roguelite DRPG》转付费前免费领",
+        "link": "https://www.ithome.com/1/009/282.htm",
+        "pub_time": 1790894081.0,
+        "pub_display": "10-02 06:34"
       },
       {
-        "title": "岚图汽车 9 月交付 13025 辆，今年累计交付同比增长 19%",
-        "link": "https://www.ithome.com/1/009/095.htm",
-        "pub_time": 1790813810.0,
-        "pub_display": "10-01 08:16"
+        "title": "宝马升级 X3 M50：最大功率提升至 443 马力，新增黑色特别版车型",
+        "link": "https://www.ithome.com/1/009/281.htm",
+        "pub_time": 1790893749.0,
+        "pub_display": "10-02 06:29"
       },
       {
-        "title": "全靠平时爱看《空中浩劫》：迪拜航空 FZ1073 一乘客通过节目学会拉杆，协助救回机上 174 人",
-        "link": "https://www.ithome.com/1/009/094.htm",
-        "pub_time": 1790813605.0,
-        "pub_display": "10-01 08:13"
+        "title": "AI 灌水稿激增：预印本平台 arXiv 出台新规，每人每月限投 2 篇",
+        "link": "https://www.ithome.com/1/009/279.htm",
+        "pub_time": 1790892542.0,
+        "pub_display": "10-02 06:09"
       },
       {
-        "title": "长安启源 9 月全球交付 46507 辆，累计销量突破 100 万辆",
-        "link": "https://www.ithome.com/1/009/091.htm",
-        "pub_time": 1790813347.0,
-        "pub_display": "10-01 08:09"
+        "title": "加州通过新法：Robotaxi 阻碍警察或消防任务将面临罚款",
+        "link": "https://www.ithome.com/1/009/278.htm",
+        "pub_time": 1790892417.0,
+        "pub_display": "10-02 06:06"
       },
       {
-        "title": "vivo X Fold6 折叠屏手机登陆全球市场，电池相比国行版缩减 100mAh",
-        "link": "https://www.ithome.com/1/009/090.htm",
-        "pub_time": 1790813285.0,
-        "pub_display": "10-01 08:08"
+        "title": "影目科技回应 INMO AIR3 智能眼镜海外版出现过热：与部分第三方应用有关、已全部下架，国内版不受相关影响",
+        "link": "https://www.ithome.com/1/009/277.htm",
+        "pub_time": 1790892267.0,
+        "pub_display": "10-02 06:04"
       },
       {
-        "title": "“全球最小”：村田推出 3 端子多层陶瓷电容器，实装面积较此前产品减少约 64%",
-        "link": "https://www.ithome.com/1/009/088.htm",
-        "pub_time": 1790812948.0,
-        "pub_display": "10-01 08:02"
+        "title": "发射距今约 12 年：日本“隼鸟 2”探测器最后一台工作离子发动机发生故障",
+        "link": "https://www.ithome.com/1/009/275.htm",
+        "pub_time": 1790891290.0,
+        "pub_display": "10-02 05:48"
       },
       {
-        "title": "CHERRY XTRFY 推出磁轴键盘 PIXIU68：16kHz 回报率，799 元",
-        "link": "https://www.ithome.com/1/009/087.htm",
-        "pub_time": 1790812938.0,
-        "pub_display": "10-01 08:02"
+        "title": "10 月 1 日全国铁路发送旅客 2520.4 万人次，创单日旅客发送量历史新高",
+        "link": "https://www.ithome.com/1/009/274.htm",
+        "pub_time": 1790891049.0,
+        "pub_display": "10-02 05:44"
       },
       {
-        "title": "一字不改：加州州长纽森反击特朗普将“人工智能”改为“超级智能”，州政府范围内继续叫“AI”",
-        "link": "https://www.ithome.com/1/009/086.htm",
-        "pub_time": 1790812238.0,
-        "pub_display": "10-01 07:50"
+        "title": "阿斯顿 · 马丁首款纯电动汽车推迟至 2033 年后，V8/V12 发动机保留至 2035 年",
+        "link": "https://www.ithome.com/1/009/273.htm",
+        "pub_time": 1790890338.0,
+        "pub_display": "10-02 05:32"
       }
     ],
     "36氪": [
       {
-        "title": "突发！苹果全新产品线曝光，Siri AI 进家门",
-        "link": "https://36kr.com/p/4006033272131714",
-        "pub_time": 1790820626.866,
-        "pub_display": "10-01 10:10"
+        "title": "刚刚，GPT-6 Astra破解拿破仑百年悬案",
+        "link": "https://36kr.com/p/4007160336027525",
+        "pub_time": 1790904687.316,
+        "pub_display": "10-02 09:31"
       },
       {
-        "title": "一生要强的中国人，连度假都要「考个证」？",
-        "link": "https://36kr.com/p/4006619084689545",
-        "pub_time": 1790820297.892,
-        "pub_display": "10-01 10:04"
+        "title": "AI 打破了风投界最老铁律，这是 670 亿美元的硬核证明",
+        "link": "https://36kr.com/p/3965960047664391",
+        "pub_time": 1790899255.764,
+        "pub_display": "10-02 08:00"
       },
       {
-        "title": "00后捧红的“穷鬼天堂”，成了国庆最狠镰刀",
-        "link": "https://36kr.com/p/4006810439733378",
-        "pub_time": 1790842953.343,
-        "pub_display": "10-01 16:22"
+        "title": "青年养老院火了两年，这门“躺平生意”怎么样了？",
+        "link": "https://36kr.com/p/4007113782644870",
+        "pub_time": 1790902001.055,
+        "pub_display": "10-02 08:46"
       },
       {
-        "title": "刚刚，谷歌发布Gemini 4 Argon：单次输出上限达100万Token",
-        "link": "https://36kr.com/p/4006503753830529",
-        "pub_time": 1790816422.486,
-        "pub_display": "10-01 09:00"
+        "title": "这届老外：来中国扫货，顺便旅个游",
+        "link": "https://36kr.com/p/4008129479315332",
+        "pub_time": 1790909034.655,
+        "pub_display": "10-02 10:43"
       },
       {
-        "title": "谷歌反击！Gemini 4 Argon性能比肩Astra，成本仅60%",
-        "link": "https://36kr.com/p/4006662298865801",
-        "pub_time": 1790820486.979,
-        "pub_display": "10-01 10:08"
+        "title": "月薪两万修不起车，新能源车维修为啥这么难？",
+        "link": "https://36kr.com/p/4007322594432649",
+        "pub_time": 1790913166.512,
+        "pub_display": "10-02 11:52"
       },
       {
-        "title": "卡戴珊“闯中”太接地气，但700块一件的网红衣还卖得动吗？",
-        "link": "https://36kr.com/p/4006830758989953",
-        "pub_time": 1790835724.078,
-        "pub_display": "10-01 14:22"
+        "title": "变现门槛翻一番，YouTube的目标或是短视频",
+        "link": "https://36kr.com/p/4007122846748807",
+        "pub_time": 1790903813.106,
+        "pub_display": "10-02 09:16"
       },
       {
-        "title": "如何记住所有学过的知识",
-        "link": "https://36kr.com/p/3963176848522629",
-        "pub_time": 1790812858.476,
-        "pub_display": "10-01 08:00"
+        "title": "全球乱跑的中国游客，让老外也过上了黄金周",
+        "link": "https://36kr.com/p/4008277186285446",
+        "pub_time": 1790919148.5,
+        "pub_display": "10-02 13:32"
       },
       {
-        "title": "从周杰伦到凤凰传奇，谁在承包国庆酒店？",
-        "link": "https://36kr.com/p/4006690290765959",
-        "pub_time": 1790826112.201,
-        "pub_display": "10-01 11:41"
+        "title": "超长13天：游客挤景区，景区挤港交所",
+        "link": "https://36kr.com/p/4008237864374406",
+        "pub_time": 1790916623.686,
+        "pub_display": "10-02 12:50"
+      },
+      {
+        "title": "乐高乐园被上海打工人玩成“邪修健身房”？跳楼机都是手动的、玩一天能瘦三斤",
+        "link": "https://36kr.com/p/4008247094267776",
+        "pub_time": 1790917648.875,
+        "pub_display": "10-02 13:07"
+      },
+      {
+        "title": "这届中产，不想再开网红民宿的盲盒了",
+        "link": "https://36kr.com/p/4008449499877252",
+        "pub_time": 1790929158.619,
+        "pub_display": "10-02 16:19"
+      },
+      {
+        "title": "“品牌给我的婚礼随份子”，这届年轻人开始“喜宴招商”",
+        "link": "https://36kr.com/p/4008416964104320",
+        "pub_time": 1790927433.148,
+        "pub_display": "10-02 15:50"
+      },
+      {
+        "title": "最牛暴涨超924%！公募“长跑成绩单”来了",
+        "link": "https://36kr.com/p/4008220727693191",
+        "pub_time": 1790915082.7,
+        "pub_display": "10-02 12:24"
       }
     ],
     "凤凰科技": [
       {
-        "title": "vivo X Fold6折叠屏手机登陆全球市场",
-        "link": "https://tech.ifeng.com/c/8ws0TSOW55Y",
-        "pub_time": 1790844511.0,
-        "pub_display": "10-01 16:48"
+        "title": "用AI生成一张图片：男子面临十年监禁",
+        "link": "https://tech.ifeng.com/c/8wtgk4pyzVv",
+        "pub_time": 1790929697.0,
+        "pub_display": "10-02 16:28"
       },
       {
-        "title": "特朗普签行政令：美国政府全面封杀AI",
-        "link": "https://tech.ifeng.com/c/8wrcynuycKa",
-        "pub_time": 1790841921.0,
-        "pub_display": "10-01 16:05"
+        "title": "多数新势力车企没有“金九”",
+        "link": "https://tech.ifeng.com/c/8wteEgniioP",
+        "pub_time": 1790929606.0,
+        "pub_display": "10-02 16:26"
       },
       {
-        "title": "Altman与Dario闹掰内幕曝光，信息量巨大",
-        "link": "https://tech.ifeng.com/c/8wq8wmmDSuw",
-        "pub_time": 1790840888.0,
-        "pub_display": "10-01 15:48"
+        "title": "补贴一停就现原形：电动全球化，美国为何开起了倒车？",
+        "link": "https://tech.ifeng.com/c/8wtfRoq40ne",
+        "pub_time": 1790929266.0,
+        "pub_display": "10-02 16:21"
       },
       {
-        "title": "中国首个三塔光热基地正式亮相",
-        "link": "https://tech.ifeng.com/c/8wrvsfQdUY1",
-        "pub_time": 1790839264.0,
-        "pub_display": "10-01 15:21"
+        "title": "华为发布阿尔法6000基站天线：首次集成太阳能板 有光就有电",
+        "link": "https://tech.ifeng.com/c/8wtfRoq40rq",
+        "pub_time": 1790929063.0,
+        "pub_display": "10-02 16:17"
       },
       {
-        "title": "iPhone 18标准版首秀：苹果A20芯片焊点图曝光",
-        "link": "https://tech.ifeng.com/c/8wrwU9rFGj1",
-        "pub_time": 1790839262.0,
-        "pub_display": "10-01 15:21"
+        "title": "生图AI模型FLUX 3 Image发布：支持4K生成",
+        "link": "https://tech.ifeng.com/c/8wtgDEaCbTF",
+        "pub_time": 1790929035.0,
+        "pub_display": "10-02 16:17"
       },
       {
-        "title": "福特CEO法利：AI将成为蓝领工人的“搭档”",
-        "link": "https://tech.ifeng.com/c/8wrwU9rFGj0",
-        "pub_time": 1790839262.0,
-        "pub_display": "10-01 15:21"
+        "title": "日本法院确认声音受法律保护，“AI声优”涉及侵犯形象权",
+        "link": "https://tech.ifeng.com/c/8wteK3Dhd3b",
+        "pub_time": 1790928071.0,
+        "pub_display": "10-02 16:01"
       },
       {
-        "title": "存储暴涨厂商赚麻：美光净利暴涨1078%",
-        "link": "https://tech.ifeng.com/c/8wrcynuycKW",
-        "pub_time": 1790838230.0,
-        "pub_display": "10-01 15:03"
+        "title": "第三大HDD硬盘厂商宣布扩产 明年产能翻倍",
+        "link": "https://tech.ifeng.com/c/8wteQ5CmiQc",
+        "pub_time": 1790928047.0,
+        "pub_display": "10-02 16:00"
       },
       {
-        "title": "中国占全球折叠机销量超三分之一，苹果能否在最大战场后来居上？",
-        "link": "https://original.ifeng.com/c/8wrsd1tQpWn",
-        "pub_time": 1790836784.0,
-        "pub_display": "10-01 14:39"
+        "title": "登顶之路不只有一条，华为Mate 90全系韬芯片踏光向前",
+        "link": "https://tech.ifeng.com/c/8wtcdPJwk2v",
+        "pub_time": 1790927972.0,
+        "pub_display": "10-02 15:59"
       },
       {
-        "title": "消息称赛力斯与华为合作模式再调整",
-        "link": "https://tech.ifeng.com/c/8wrns77xHap",
-        "pub_time": 1790834610.0,
-        "pub_display": "10-01 14:03"
+        "title": "特斯拉持续推进FSD在中国台湾地区落地，优化道路测试计划架构",
+        "link": "https://tech.ifeng.com/c/8wtahJOZpTw",
+        "pub_time": 1790925793.0,
+        "pub_display": "10-02 15:23"
       },
       {
-        "title": "印度高端汽车市场“扩容”奔驰宝马压力陡增",
-        "link": "https://tech.ifeng.com/c/8wrqsSj9r3N",
-        "pub_time": 1790834564.0,
-        "pub_display": "10-01 14:02"
+        "title": "荣耀WIN小平板正面照疑曝光，有望支持240Hz刷新率",
+        "link": "https://tech.ifeng.com/c/8wtahJOZpTy",
+        "pub_time": 1790925128.0,
+        "pub_display": "10-02 15:12"
       },
       {
-        "title": "“央视军事”AI大片！歼15T机甲，硬刚外星飞行器",
-        "link": "https://tech.ifeng.com/c/8wq8wmmDSur",
-        "pub_time": 1790833781.0,
-        "pub_display": "10-01 13:49"
+        "title": "马斯克：通过星舰未来将在月球部署巨型天文望远镜",
+        "link": "https://tech.ifeng.com/c/8wtayUGB7E2",
+        "pub_time": 1790925128.0,
+        "pub_display": "10-02 15:12"
       },
       {
-        "title": "小鹏9月交付41,256台，第三季度累计交付118,390台",
-        "link": "https://tech.ifeng.com/c/8wrlEwWl6mj",
-        "pub_time": 1790830525.0,
-        "pub_display": "10-01 12:55"
+        "title": "飞机餐确实难吃，但问题可能出在你自己身上",
+        "link": "https://tech.ifeng.com/c/8wtcdPJwjum",
+        "pub_time": 1790924836.0,
+        "pub_display": "10-02 15:07"
       },
       {
-        "title": "多家车企公布9月新车销量",
-        "link": "https://tech.ifeng.com/c/8wriRDowsB6",
-        "pub_time": 1790828202.0,
-        "pub_display": "10-01 12:16"
+        "title": "Figure机器人自跳熔炉！复刻《终结者》名场面",
+        "link": "https://tech.ifeng.com/c/8wtaAQQBjHM",
+        "pub_time": 1790924227.0,
+        "pub_display": "10-02 14:57"
       },
       {
-        "title": "极氪9月交付37216辆，同比增长103.85%",
-        "link": "https://tech.ifeng.com/c/8wrgreHoNSE",
-        "pub_time": 1790827490.0,
-        "pub_display": "10-01 12:04"
+        "title": "极狐阿尔法T5迎OTA：部分车型新增苹果CarPlay手机互联",
+        "link": "https://tech.ifeng.com/c/8wta2DYnuB5",
+        "pub_time": 1790924057.0,
+        "pub_display": "10-02 14:54"
       },
       {
-        "title": "零跑9月全球交付105656台，同比增长59%",
-        "link": "https://tech.ifeng.com/c/8wrh9bknI7A",
-        "pub_time": 1790827479.0,
-        "pub_display": "10-01 12:04"
+        "title": "叶军拿下诺奖风向标！物理学奖史上第二位华人",
+        "link": "https://tech.ifeng.com/c/8wtU29HzyXw",
+        "pub_time": 1790922360.0,
+        "pub_display": "10-02 14:26"
       },
       {
-        "title": "Meta否认AI智能体Muse未经许可读取用户私信",
-        "link": "https://tech.ifeng.com/c/8wricvsJEB6",
-        "pub_time": 1790827368.0,
-        "pub_display": "10-01 12:02"
+        "title": "谷歌把AI芯片送上太空，算力争夺进入新阶段",
+        "link": "https://tech.ifeng.com/c/8wtclGTaJVX",
+        "pub_time": 1790922159.0,
+        "pub_display": "10-02 14:22"
       },
       {
-        "title": "华为Mate 90 RS非凡大师手机发布，售价12999元起",
-        "link": "https://tech.ifeng.com/c/8wreOwswI5h",
-        "pub_time": 1790824969.0,
-        "pub_display": "10-01 11:22"
+        "title": "加州通过新法：Robotaxi阻碍警察或消防任务将面临罚款",
+        "link": "https://tech.ifeng.com/c/8wtWvHItzQr",
+        "pub_time": 1790921656.0,
+        "pub_display": "10-02 14:14"
       },
       {
-        "title": "华为余承东：搭载鸿蒙单框架终端设备数突破9000万",
-        "link": "https://original.ifeng.com/c/8wreW7mKfei",
-        "pub_time": 1790824639.0,
-        "pub_display": "10-01 11:17"
+        "title": "影目科技回应INMO AIR3智能眼镜海外版过热：与三方应用有关",
+        "link": "https://tech.ifeng.com/c/8wtVho2KkK8",
+        "pub_time": 1790921108.0,
+        "pub_display": "10-02 14:05"
       },
       {
-        "title": "华为Mate 90系列正式发布：售价5999元起",
-        "link": "https://original.ifeng.com/c/8wraTq6cedA",
-        "pub_time": 1790824433.0,
-        "pub_display": "10-01 11:13"
+        "title": "和Opus 5.5同题交卷，MiniMax M3.1让Flash开始超纲了",
+        "link": "https://tech.ifeng.com/c/8wtVmjZFTZv",
+        "pub_time": 1790920885.0,
+        "pub_display": "10-02 14:01"
       },
       {
-        "title": "华为Mate 90全系搭载旗舰韬芯片",
-        "link": "https://original.ifeng.com/c/8wrZWNOU4mE",
-        "pub_time": 1790821958.0,
-        "pub_display": "10-01 10:32"
+        "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+        "link": "https://tech.ifeng.com/c/8wtZHH0E7WU",
+        "pub_time": 1790920800.0,
+        "pub_display": "10-02 14:00"
       },
       {
-        "title": "理想汽车9月交付31817辆，历史累计突破183万辆",
-        "link": "https://tech.ifeng.com/c/8wraTq6ceeK",
-        "pub_time": 1790821925.0,
-        "pub_display": "10-01 10:32"
+        "title": "阿斯顿·马丁首款纯电动汽车推迟至2033年后",
+        "link": "https://tech.ifeng.com/c/8wtVINb1Ty2",
+        "pub_time": 1790919914.0,
+        "pub_display": "10-02 13:45"
       },
       {
-        "title": "谷歌推出了个“做题家”：Gemini 4 Argon屠榜",
-        "link": "https://tech.ifeng.com/c/8wogfnLYLNT",
-        "pub_time": 1790821187.0,
-        "pub_display": "10-01 10:19"
+        "title": "三人死亡，这家想做自动驾驶界“安卓”的公司被查",
+        "link": "https://tech.ifeng.com/c/8wtRaWGQImF",
+        "pub_time": 1790919713.0,
+        "pub_display": "10-02 13:41"
       },
       {
-        "title": "再牵手？网传华为赛力斯或将“复合”",
-        "link": "https://tech.ifeng.com/c/8wq8wmmDSuQ",
-        "pub_time": 1790819470.0,
-        "pub_display": "10-01 09:51"
+        "title": "曝OpenAI融资再落袋200亿美元，英伟达、软银等已出资约90%",
+        "link": "https://tech.ifeng.com/c/8wtTu57vyJ2",
+        "pub_time": 1790918887.0,
+        "pub_display": "10-02 13:28"
       },
       {
-        "title": "“大空头”伯里：股市崩盘以阻止OpenAI、Anthropic上市",
-        "link": "https://original.ifeng.com/c/8wrWqShsCbs",
-        "pub_time": 1790818929.0,
-        "pub_display": "10-01 09:42"
+        "title": "9月车市冷热分化：大盘承压，头部车企继续走强",
+        "link": "https://tech.ifeng.com/c/8wtTLA6E7sM",
+        "pub_time": 1790918160.0,
+        "pub_display": "10-02 13:16"
       },
       {
-        "title": "谷歌DeepMind首创AI蛋白质水印技术",
-        "link": "https://tech.ifeng.com/c/8wq8wmmDSuM",
-        "pub_time": 1790818133.0,
-        "pub_display": "10-01 09:28"
+        "title": "华为第一，元戎第二：城市NOA前三强差距只剩1.7%",
+        "link": "https://tech.ifeng.com/c/8wtSGnTVNfG",
+        "pub_time": 1790917773.0,
+        "pub_display": "10-02 13:09"
       },
       {
-        "title": "智界回应浙赛中国量产SUV圈速第一：弯道反超是真本事",
-        "link": "https://tech.ifeng.com/c/8wrVEW8Ej6g",
-        "pub_time": 1790817611.0,
-        "pub_display": "10-01 09:20"
+        "title": "国家能源局：国庆假期首日高速公路充电量同比增长60.4%",
+        "link": "https://tech.ifeng.com/c/8wtSAottSFm",
+        "pub_time": 1790917694.0,
+        "pub_display": "10-02 13:08"
       },
       {
-        "title": "小米汽车9月交付超4万台，澎程系列首月数据10月7日公布",
-        "link": "https://tech.ifeng.com/c/8wogfnLYLN6",
-        "pub_time": 1790817422.0,
-        "pub_display": "10-01 09:17"
+        "title": "高德公布长假首日数据：日活近3.7亿，驾车导航里程97亿公里",
+        "link": "https://tech.ifeng.com/c/8wtQM0hQUiz",
+        "pub_time": 1790917280.0,
+        "pub_display": "10-02 13:01"
       },
       {
-        "title": "Gemini 4震撼发布，已实现RSI？",
-        "link": "https://tech.ifeng.com/c/8wogfnLYLNC",
-        "pub_time": 1790817036.0,
-        "pub_display": "10-01 09:10"
+        "title": "用二氧化碳存电发电！中国首个百兆瓦级储能项目并网",
+        "link": "https://tech.ifeng.com/c/8wtPVAtMIEG",
+        "pub_time": 1790916919.0,
+        "pub_display": "10-02 12:55"
       },
       {
-        "title": "iPhone 18 Pro灵动岛瘦身：苹果离真全面屏又近了一步",
-        "link": "https://tech.ifeng.com/c/8wrW603QFWX",
-        "pub_time": 1790817033.0,
-        "pub_display": "10-01 09:10"
+        "title": "昨天Gemini 4 Argon，今天Fable 5.5，刚宣布超级智能就上猛料",
+        "link": "https://tech.ifeng.com/c/8wtPVAtMI6N",
+        "pub_time": 1790916522.0,
+        "pub_display": "10-02 12:48"
       },
       {
-        "title": "特斯拉Model 3全系升级：16英寸大屏，新增外供电功能",
-        "link": "https://tech.ifeng.com/c/8wrT6xRI8DG",
-        "pub_time": 1790816392.0,
-        "pub_display": "10-01 08:59"
+        "title": "创历史新高！蔚来10月1日换电量超18万单 平均0.47秒换一台",
+        "link": "https://tech.ifeng.com/c/8wtNZbCJSKG",
+        "pub_time": 1790914280.0,
+        "pub_display": "10-02 12:11"
       },
       {
-        "title": "美媒：黄仁勋等AI领袖私下质疑Anthropic CEO",
-        "link": "https://original.ifeng.com/c/8wrT8y5T2XY",
-        "pub_time": 1790815799.0,
-        "pub_display": "10-01 08:49"
+        "title": "博通向Anthropic提供最高420亿美元贷款，用于租赁自家芯片等",
+        "link": "https://tech.ifeng.com/c/8wtLvBrMOnX",
+        "pub_time": 1790913307.0,
+        "pub_display": "10-02 11:55"
       },
       {
-        "title": "iPhone Duo本月发售：良率只有60%多",
-        "link": "https://tech.ifeng.com/c/8wrSpOtt5oJ",
-        "pub_time": 1790815086.0,
-        "pub_display": "10-01 08:38"
+        "title": "特斯拉美国上线充电时“紧急驶离”功能",
+        "link": "https://tech.ifeng.com/c/8wtNYm7Mp1c",
+        "pub_time": 1790912914.0,
+        "pub_display": "10-02 11:48"
       },
       {
-        "title": "“人造太阳”建设，有新进展",
-        "link": "https://tech.ifeng.com/c/8wq8wmmDSuD",
-        "pub_time": 1790814797.0,
-        "pub_display": "10-01 08:33"
+        "title": "奥特曼开掉3人，OpenAI又出大事了",
+        "link": "https://tech.ifeng.com/c/8wtHEHygk13",
+        "pub_time": 1790912331.0,
+        "pub_display": "10-02 11:38"
       },
       {
-        "title": "谷歌终于推出旗舰AI模型 但实战性能却遭员工质疑",
-        "link": "https://original.ifeng.com/c/8wrRXxUG5ET",
-        "pub_time": 1790814077.0,
-        "pub_display": "10-01 08:21"
+        "title": "踩刹车，但OpenAI要再融2000亿",
+        "link": "https://tech.ifeng.com/c/8wtHEHygk21",
+        "pub_time": 1790912321.0,
+        "pub_display": "10-02 11:38"
       },
       {
-        "title": "五角大楼聘请马斯克等人，协助研究美军应对“未来的战场”",
-        "link": "https://tech.ifeng.com/c/8wrRox8Q6Tn",
-        "pub_time": 1790813939.0,
-        "pub_display": "10-01 08:18"
+        "title": "一汽-大众ID. AURA T6纯电SUV开启全国交付，12.99万元起",
+        "link": "https://tech.ifeng.com/c/8wtJd969xnT",
+        "pub_time": 1790911090.0,
+        "pub_display": "10-02 11:18"
       },
       {
-        "title": "宝马借AI大裁员！管理层缩减20%：8000人被迫下岗",
-        "link": "https://tech.ifeng.com/c/8wogfnLYLN9",
-        "pub_time": 1790813854.0,
-        "pub_display": "10-01 08:17"
+        "title": "2岁娃吃8个月儿童装银鳕鱼 体检血汞超标 多平台下架或整改",
+        "link": "https://tech.ifeng.com/c/8wtIt37uo7a",
+        "pub_time": 1790910270.0,
+        "pub_display": "10-02 11:04"
       },
       {
-        "title": "中国大模型首次！Kimi K3进入OpenAI企业付费结算体系",
-        "link": "https://tech.ifeng.com/c/8wrRmlm1reK",
-        "pub_time": 1790813245.0,
-        "pub_display": "10-01 08:07"
+        "title": "三星上调Galaxy S26系列手机建议零售价：涨800-1800元",
+        "link": "https://tech.ifeng.com/c/8wtI4d9mUO0",
+        "pub_time": 1790909770.0,
+        "pub_display": "10-02 10:56"
       },
       {
-        "title": "派拉蒙收购华纳兄弟预计10月6日完成交易",
-        "link": "https://tech.ifeng.com/c/8wq8wmmDSu9",
-        "pub_time": 1790812001.0,
-        "pub_display": "10-01 07:46"
+        "title": "银河通用消费级机器人开卖了，7.9万起售",
+        "link": "https://tech.ifeng.com/c/8wtEwIPttlJ",
+        "pub_time": 1790909658.0,
+        "pub_display": "10-02 10:54"
       },
       {
-        "title": "仅用22天：Meta Muse超越ChatGPT",
-        "link": "https://tech.ifeng.com/c/8wogfnLYLN7",
-        "pub_time": 1790811952.0,
-        "pub_display": "10-01 07:45"
+        "title": "羡慕？国行iPhone18 Pro独享3大功能，是海外版没有的",
+        "link": "https://tech.ifeng.com/c/8wtGuuTmjIZ",
+        "pub_time": 1790908384.0,
+        "pub_display": "10-02 10:33"
       },
       {
-        "title": "Gemini 4正式发布，追平GPT-6但被质疑刷榜，官方辟谣",
-        "link": "https://tech.ifeng.com/c/8wogfnLYLN8",
-        "pub_time": 1790811417.0,
-        "pub_display": "10-01 07:36"
+        "title": "华为Mate 90 Pro Max体验：这一代Mate终于开始“玩”起来了",
+        "link": "https://tech.ifeng.com/c/8wtG1iSJLQc",
+        "pub_time": 1790908038.0,
+        "pub_display": "10-02 10:27"
       },
       {
-        "title": "苹果iPad Mini 8前瞻：首次支持IP防水，A20 Pro芯片",
-        "link": "https://tech.ifeng.com/c/8wrPa971nJE",
-        "pub_time": 1790811357.0,
-        "pub_display": "10-01 07:35"
+        "title": "存储危机还在恶化！入门手机几近灭绝 笔记本销量暴跌25%",
+        "link": "https://tech.ifeng.com/c/8wtG5GGMoSX",
+        "pub_time": 1790907600.0,
+        "pub_display": "10-02 10:20"
       },
       {
-        "title": "AI智能体闯大祸，1.3万张敏感截图被公开",
-        "link": "https://tech.ifeng.com/c/8wqq3h7Sair",
-        "pub_time": 1790811105.0,
-        "pub_display": "10-01 07:31"
+        "title": "消息称iPhone 18 Pro系列开售不到14天，国内销量破200万",
+        "link": "https://tech.ifeng.com/c/8wtG5GGMoOR",
+        "pub_time": 1790907320.0,
+        "pub_display": "10-02 10:15"
       },
       {
-        "title": "国庆出门，最该小心的是这些押金刺客",
-        "link": "https://tech.ifeng.com/c/8wogfnLYLN5",
-        "pub_time": 1790810986.0,
-        "pub_display": "10-01 07:29"
+        "title": "“人造太阳”新进展：中国紧凑型聚变能实验装置园区交付",
+        "link": "https://tech.ifeng.com/c/8wtG1iSJLOt",
+        "pub_time": 1790907320.0,
+        "pub_display": "10-02 10:15"
       },
       {
-        "title": "寒武纪离职高管梁军变更诉讼 索赔金由42亿改为278亿",
-        "link": "https://tech.ifeng.com/c/8wrPa971nLZ",
-        "pub_time": 1790810844.0,
-        "pub_display": "10-01 07:27"
+        "title": "比亚迪9月乘用车累销456713辆，7款车型单月销量超过3万辆",
+        "link": "https://tech.ifeng.com/c/8wtEJWk5F3o",
+        "pub_time": 1790907155.0,
+        "pub_display": "10-02 10:12"
       },
       {
-        "title": "苹果新智能家居设备设置流程曝光，新增“Photo Face”",
-        "link": "https://tech.ifeng.com/c/8wrOWHfuZBv",
-        "pub_time": 1790810218.0,
-        "pub_display": "10-01 07:16"
+        "title": "新能源车主注意！官方发布国庆服务区充电繁忙清单",
+        "link": "https://tech.ifeng.com/c/8wtG433W8lR",
+        "pub_time": 1790907046.0,
+        "pub_display": "10-02 10:10"
       },
       {
-        "title": "国内首条3D先进封装量产线正式通线",
-        "link": "https://tech.ifeng.com/c/8wq8wmmDSu8",
-        "pub_time": 1790810157.0,
-        "pub_display": "10-01 07:15"
+        "title": "新势力9月洗牌：小鹏小米上4万，鸿蒙理想回落",
+        "link": "https://tech.ifeng.com/c/8wtDTZaMm2i",
+        "pub_time": 1790906530.0,
+        "pub_display": "10-02 10:02"
       },
       {
-        "title": "谷歌最前沿AI模型：Gemini 4 Argon登场",
-        "link": "https://tech.ifeng.com/c/8wrNRxfpxUm",
-        "pub_time": 1790809143.0,
-        "pub_display": "10-01 06:59"
+        "title": "Mate90登场，能打苹果的还得是华为",
+        "link": "https://tech.ifeng.com/c/8wtEZ75AnhE",
+        "pub_time": 1790906160.0,
+        "pub_display": "10-02 09:56"
+      },
+      {
+        "title": "Stellantis新专利：电动汽车可主动脱离过热电池并继续行驶",
+        "link": "https://tech.ifeng.com/c/8wtByn9ZVQ7",
+        "pub_time": 1790904496.0,
+        "pub_display": "10-02 09:28"
+      },
+      {
+        "title": "中国研发新型锂电正极材料，可提升快充效率与耐用性",
+        "link": "https://tech.ifeng.com/c/8wtByn9ZVQ8",
+        "pub_time": 1790904496.0,
+        "pub_display": "10-02 09:28"
+      },
+      {
+        "title": "DeepSeek为什么要16000张卡？",
+        "link": "https://tech.ifeng.com/c/8wtDTbot2lg",
+        "pub_time": 1790903484.0,
+        "pub_display": "10-02 09:11"
+      },
+      {
+        "title": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
+        "link": "https://tech.ifeng.com/c/8wrmk9Td58x",
+        "pub_time": 1790902860.0,
+        "pub_display": "10-02 09:01"
+      },
+      {
+        "title": "Gemini 4能追回多少？",
+        "link": "https://tech.ifeng.com/c/8wt7TZmbMYC",
+        "pub_time": 1790902328.0,
+        "pub_display": "10-02 08:52"
+      },
+      {
+        "title": "500万放余额宝一天的收益冲上热搜 网友：500万也没法躺平",
+        "link": "https://tech.ifeng.com/c/8wt8jGr8eqT",
+        "pub_time": 1790901464.0,
+        "pub_display": "10-02 08:37"
+      },
+      {
+        "title": "苹果首款智能安防摄像头曝光：金属圆柱造型，不录不存视频",
+        "link": "https://tech.ifeng.com/c/8wt8jGr8ep8",
+        "pub_time": 1790901312.0,
+        "pub_display": "10-02 08:35"
+      },
+      {
+        "title": "古尔曼：苹果首款智能家居中枢支持AI面部识别",
+        "link": "https://tech.ifeng.com/c/8wt7GiuK4fu",
+        "pub_time": 1790901312.0,
+        "pub_display": "10-02 08:35"
+      },
+      {
+        "title": "微软、NVIDIA联合官宣！10月7日见",
+        "link": "https://tech.ifeng.com/c/8wt7GiuK4h0",
+        "pub_time": 1790900982.0,
+        "pub_display": "10-02 08:29"
+      },
+      {
+        "title": "谷歌AI芯片即将上天！太空数据中心迈出关键一步？",
+        "link": "https://tech.ifeng.com/c/8wtBn6X3c8K",
+        "pub_time": 1790900873.0,
+        "pub_display": "10-02 08:27"
+      },
+      {
+        "title": "越查事越大 OpenAI：已向100多家机构发出失控智能体警报",
+        "link": "https://tech.ifeng.com/c/8wt5HjG1qqW",
+        "pub_time": 1790899924.0,
+        "pub_display": "10-02 08:12"
+      },
+      {
+        "title": "传祺BU总裁黄坚回归广汽丰田，担任中方负责人",
+        "link": "https://tech.ifeng.com/c/8wqDDg5PWw7",
+        "pub_time": 1790899912.0,
+        "pub_display": "10-02 08:11"
+      },
+      {
+        "title": "小鹏辟谣零部件产线传言：造谣者竟是自家二级供应商员工",
+        "link": "https://tech.ifeng.com/c/8wqGYWstMBd",
+        "pub_time": 1790899900.0,
+        "pub_display": "10-02 08:11"
       }
     ],
     "Solidot": [
