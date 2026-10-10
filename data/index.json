@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-10 20:25:12",
-  "total": 91,
+  "updated_at": "2026-10-11 03:11:11",
+  "total": 92,
   "briefs": [
+    {
+      "date": "2026-10-11",
+      "display": "2026年10月11日 星期日",
+      "series": "科技资讯",
+      "headline": "OpenAI公布大批数学成果，Cloudflare收购Deno",
+      "count": 12,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-10-10",
       "display": "2026年10月10日 星期六",
