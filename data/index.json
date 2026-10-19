@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-19 22:44:17",
-  "total": 100,
+  "updated_at": "2026-10-20 04:27:50",
+  "total": 101,
   "briefs": [
+    {
+      "date": "2026-10-20",
+      "display": "2026年10月20日 星期二",
+      "series": "科技资讯",
+      "headline": "RedmiNote12跑通iOS16，AMD锐龙AI7HX455曝光",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-10-19",
       "display": "2026年10月19日 星期一",
