@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-20 23:25:40",
-  "total": 101,
+  "updated_at": "2026-10-21 03:05:09",
+  "total": 102,
   "briefs": [
+    {
+      "date": "2026-10-21",
+      "display": "2026年10月21日 星期三",
+      "series": "科技资讯",
+      "headline": "iPhoneAir国补后4989元，DeepSeek开源推理框架",
+      "count": 12,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-10-20",
       "display": "2026年10月20日 星期二",
