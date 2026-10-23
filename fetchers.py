@@ -1,10 +1,13 @@
-"""新闻抓取模块 —— 直连数据源 + 日历过滤 + 模糊去重 + 话题排序。"""
+"""新闻抓取模块 —— 直连数据源 + 日历窗口 + 完全去重。
+
+设计原则：本地不做任何内容过滤与判断（软文/质量/相关性等全部交由 AI 主编处理），
+本地只做「数据清洗」：标题清洗、时间窗口、归一化后完全相同的标题去重。
+"""
 
 import json
 import re
 import time as time_module
 from datetime import datetime, timedelta
-from difflib import SequenceMatcher
 
 import feedparser
 import requests
@@ -13,11 +16,8 @@ from config import (
     SOURCES,
     RECENT_CALENDAR_DAYS,
     REQUEST_TIMEOUT,
-    SORT_TOPICS,
-    SORT_KEYWORDS,
     MAX_FETCH_PER_FEED,
 )
-from quality_filter import filter_low_quality
 
 HTTP_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -340,54 +340,41 @@ filter_by_time = filter_by_recency
 
 
 # ============================================================
-# 5. 去重（模糊匹配）
+# 5. 去重（仅剔除完全相同的标题，不做相似度判断）
 # ============================================================
 
-def _normalize(text):
-    return re.sub(r"[\s\W_]+", "", text.lower())
+def _normalize_title(text):
+    """归一化标题：去空白/标点、转小写，用于完全重复判定。"""
+    return re.sub(r"[\s\W_]+", "", (text or "")).lower()
 
 
-def deduplicate(items, threshold=0.55):
-    """基于标题相似度去重，保留先出现的（更重要的一条）。"""
+def deduplicate(items):
+    """剔除归一化后完全相同的条目（多为同一新闻被多源收录）。
+
+    相似但不同的标题一律保留 —— 是否同一事件、该不该合并，由 AI 主编判断。
+    """
     unique = []
+    seen = set()
     for item in items:
-        norm = _normalize(item["title"])
-        is_dup = False
-        for existing in unique:
-            sim = SequenceMatcher(None, norm, _normalize(existing["title"])).ratio()
-            if sim > threshold:
-                is_dup = True
-                break
-        if not is_dup:
-            unique.append(item)
+        norm = _normalize_title(item["title"])
+        if norm and norm in seen:
+            continue
+        if norm:
+            seen.add(norm)
+        unique.append(item)
     removed = len(items) - len(unique)
     if removed:
-        print(f"  模糊去重：移除 {removed} 条重复")
+        print(f"  完全去重：移除 {removed} 条同题重复")
     return unique
 
 
 # ============================================================
-# 6. 话题分类 + 排序
+# 6. 排序（仅按时间倒序，重要性判断交给 AI）
 # ============================================================
 
-def classify_topic(title):
-    """将新闻标题分入话题类别，用于排序。"""
-    for topic in SORT_TOPICS:
-        if topic == "other":
-            continue
-        for kw in SORT_KEYWORDS.get(topic, []):
-            if kw in title:
-                return topic
-    return "other"
-
-
 def sort_news(items):
-    """按话题优先级 + 时效性排序。同话题内按时间倒序。"""
-    topic_order = {topic: i for i, topic in enumerate(SORT_TOPICS)}
-    items.sort(key=lambda x: (
-        topic_order.get(x.get("topic", "other"), 999),
-        -(x.get("pub_time") or 0),
-    ))
+    """按发布时间倒序。不做任何重要性/相关性排序。"""
+    items.sort(key=lambda x: -(x.get("pub_time") or 0))
     return items
 
 
@@ -411,8 +398,9 @@ def collect_raw():
 
 
 def process_news(raw_items, skip_recency_filter=False):
-    """对原始条目做：时间过滤 -> 去重 -> 分类 -> 排序，返回精选候选列表。
+    """对原始条目做：时间过滤 -> 完全去重 -> 时间倒序，返回候选池。
 
+    不做任何质量/相关性/重要性过滤 —— 那些判断全部由 AI 主编完成。
     不修改传入的 raw_items（内部复制），以便原始数据保持完整。
     skip_recency_filter=True 时跳过时间过滤（调用方已过滤）。
     """
@@ -423,30 +411,8 @@ def process_news(raw_items, skip_recency_filter=False):
     print(f"  时间过滤后：{len(all_items)} 条")
 
     all_items = deduplicate(all_items)
-    print(f"  去重后：{len(all_items)} 条")
-
-    all_items = filter_low_quality(all_items)
-    print(f"  质量过滤后：{len(all_items)} 条")
-
-    for item in all_items:
-        item["topic"] = classify_topic(item["title"])
-
     all_items = sort_news(all_items)
-
-    topic_names = {
-        "national": "国家政策",
-        "local": "地方民生",
-        "social": "社会事件",
-        "international": "国际新闻",
-        "other": "其他",
-    }
-    dist = {}
-    for item in all_items:
-        dist[item["topic"]] = dist.get(item["topic"], 0) + 1
-    dist_str = " / ".join(
-        f"{topic_names.get(t, t)}{c}" for t, c in dist.items() if c > 0
-    )
-    print(f"  话题分布：{dist_str}")
+    print(f"  去重后候选池：{len(all_items)} 条")
 
     return all_items
 

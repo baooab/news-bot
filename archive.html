@@ -20,20 +20,40 @@
   .hero.is-tech .has-text-grey { color:rgba(255,255,255,.62) !important; }
   .hero.is-tech a { color:rgba(255,255,255,.85); text-decoration:underline; text-underline-offset:3px; }
   .hero.is-tech a:hover { color:#fff; }
-  .brief-card { transition:box-shadow .2s, transform .2s; height:100%; }
-  .brief-card:hover { box-shadow:0 6px 22px rgba(0,0,0,.10); transform:translateY(-3px); }
-  .src-tags .tag { margin:2px 4px 2px 0; }
   .toolbar {
     display:flex; flex-wrap:wrap; gap:.75rem; align-items:center;
-    margin-bottom:1.5rem;
+    margin-bottom:1.75rem;
   }
   .toolbar .field { margin-bottom:0; }
-  .month-block { margin-bottom:2.25rem; }
-  .month-block .month-title {
-    display:flex; align-items:baseline; justify-content:space-between;
-    gap:.75rem; margin-bottom:1rem; padding-bottom:.5rem;
-    border-bottom:1px solid #e8e8e8;
+  .year-block { margin-bottom:2.25rem; }
+  .year-title {
+    display:flex; align-items:baseline; gap:.75rem;
+    margin-bottom:1rem; padding-bottom:.6rem;
+    border-bottom:2px solid #2c5364;
   }
+  .year-title .title { letter-spacing:2px; }
+  .month-block {
+    margin:0 0 1.25rem; padding:.85rem 0 .85rem 1rem;
+    border-left:3px solid #e4e7ea;
+  }
+  .month-title {
+    display:flex; align-items:baseline; gap:.6rem;
+    margin-bottom:.7rem;
+  }
+  .date-list { display:flex; flex-wrap:wrap; gap:.5rem; }
+  .date-pill {
+    display:inline-flex; align-items:baseline; gap:.35rem;
+    padding:.3rem .8rem; border-radius:999px;
+    background:#fff; border:1px solid #e6e8ea;
+    color:#243b53; font-size:.9rem; line-height:1.5;
+    font-variant-numeric:tabular-nums;
+    transition:background .18s, color .18s, border-color .18s, transform .18s;
+  }
+  .date-pill:hover {
+    background:#2c5364; border-color:#2c5364; color:#fff; transform:translateY(-1px);
+  }
+  .date-pill .d { font-weight:600; }
+  .date-pill .w { font-size:.72rem; opacity:.6; }
   .footer { background:transparent; }
 </style>
 </head>
@@ -43,7 +63,7 @@
   <div class="hero-body has-text-centered">
     <p class="title is-2" style="letter-spacing:3px;">历史归档</p>
     <p class="subtitle is-6 mt-3 has-text-grey-light">
-      按月份浏览往期科技资讯
+      按年份、月份浏览往期科技资讯
     </p>
     <p class="is-size-7 mt-3">
       <a href="index.html">← 返回首页</a>
@@ -52,13 +72,13 @@
 </section>
 
 <section class="section">
-  <div class="container" style="max-width:900px;">
+  <div class="container" style="max-width:820px;">
     <div class="toolbar">
       <div class="field">
         <div class="control">
           <div class="select is-small">
-            <select id="monthSelect" aria-label="选择月份">
-              <option value="">全部月份</option>
+            <select id="yearSelect" aria-label="选择年份">
+              <option value="">全部年份</option>
             </select>
           </div>
         </div>
@@ -90,42 +110,43 @@
 <script>
 let allBriefs = [];
 
+const WEEKDAYS = ['周日','周一','周二','周三','周四','周五','周六'];
+
+function yearKeyOf(date) {
+  return (date || '').slice(0, 4);
+}
+
 function monthKeyOf(date) {
   return (date || '').slice(0, 7);
 }
 
+function yearLabel(key) {
+  return `${key}年`;
+}
+
 function monthLabel(key) {
   if (!key || key.length < 7) return key;
-  const [y, m] = key.split('-');
-  return `${y}年${Number(m)}月`;
+  return `${Number(key.slice(5, 7))} 月`;
+}
+
+function weekdayOf(date) {
+  const t = new Date(`${date}T00:00:00`);
+  return Number.isNaN(t.getTime()) ? '' : WEEKDAYS[t.getDay()];
 }
 
 function qs(name) {
   return new URLSearchParams(location.search).get(name) || '';
 }
 
-function renderBriefCard(b) {
-  const tags = (b.sources || []).map(s =>
-    `<span class="tag is-light is-small">${s}</span>`).join('');
-  const headline = b.headline
-    ? `<p class="is-size-6 has-text-weight-semibold mt-2 mb-1">${b.headline}</p>`
-    : '';
-  return `
-  <div class="column is-half">
-    <a href="brief.html?v=5&date=${b.date}" class="box brief-card is-block">
-      <div class="level is-mobile mb-1">
-        <div class="level-left">
-          <span class="title is-6 mb-0 has-text-grey">${b.display}</span>
-          <span class="tag is-info is-light is-small ml-2">8+4</span>
-        </div>
-        <div class="level-right">
-          <span class="tag is-dark is-rounded">${b.count} 条</span>
-        </div>
-      </div>
-      ${headline}
-      <div class="src-tags mt-2">${tags}</div>
-    </a>
-  </div>`;
+function groupByYear(briefs) {
+  const map = new Map();
+  for (const b of briefs) {
+    const key = yearKeyOf(b.date);
+    if (!key) continue;
+    if (!map.has(key)) map.set(key, []);
+    map.get(key).push(b);
+  }
+  return [...map.entries()].sort((a, b) => b[0].localeCompare(a[0]));
 }
 
 function groupByMonth(briefs) {
@@ -139,15 +160,24 @@ function groupByMonth(briefs) {
   return [...map.entries()].sort((a, b) => b[0].localeCompare(a[0]));
 }
 
+function renderDatePill(b) {
+  const day = (b.date || '').slice(8, 10).replace(/^0/, '');
+  const w = weekdayOf(b.date);
+  const tip = b.headline ? ` title="${b.headline.replace(/"/g, '&quot;')}"` : '';
+  return `<a class="date-pill" href="brief.html?date=${b.date}"${tip}>
+    <span class="d">${day} 日</span>${w ? `<span class="w">${w}</span>` : ''}
+  </a>`;
+}
+
 function applyFilters() {
-  const month = document.getElementById('monthSelect').value;
+  const year = document.getElementById('yearSelect').value;
   const keyword = document.getElementById('keywordInput').value.trim().toLowerCase();
   const archive = document.getElementById('archive');
   const emptyBox = document.getElementById('empty');
   const meta = document.getElementById('resultMeta');
 
   let filtered = allBriefs;
-  if (month) filtered = filtered.filter(b => monthKeyOf(b.date) === month);
+  if (year) filtered = filtered.filter(b => yearKeyOf(b.date) === year);
   if (keyword) {
     filtered = filtered.filter(b => {
       const hay = [b.headline, b.display, b.date, ...(b.sources || [])].join(' ').toLowerCase();
@@ -159,34 +189,39 @@ function applyFilters() {
 
   if (!filtered.length) {
     archive.innerHTML = '';
-    emptyBox.textContent = '没有匹配的简报，请调整月份或关键词。';
+    emptyBox.textContent = '没有匹配的简报，请调整年份或关键词。';
     emptyBox.style.display = 'block';
     return;
   }
 
   emptyBox.style.display = 'none';
-  const groups = groupByMonth(filtered);
-  archive.innerHTML = groups.map(([key, items]) => `
-    <div class="month-block" id="month-${key}">
-      <div class="month-title">
-        <h2 class="title is-5 mb-0">${monthLabel(key)}</h2>
-        <span class="is-size-7 has-text-grey">${items.length} 期</span>
+  archive.innerHTML = groupByYear(filtered).map(([yKey, yItems]) => `
+    <div class="year-block">
+      <div class="year-title">
+        <h2 class="title is-4 mb-0">${yearLabel(yKey)}</h2>
+        <span class="is-size-7 has-text-grey">${yItems.length} 期</span>
       </div>
-      <div class="columns is-multiline">
-        ${items.map(renderBriefCard).join('')}
-      </div>
+      ${groupByMonth(yItems).map(([mKey, mItems]) => `
+        <div class="month-block">
+          <div class="month-title">
+            <h3 class="title is-6 mb-0">${monthLabel(mKey)}</h3>
+            <span class="is-size-7 has-text-grey">${mItems.length} 期</span>
+          </div>
+          <div class="date-list">${mItems.map(renderDatePill).join('')}</div>
+        </div>
+      `).join('')}
     </div>
   `).join('');
 }
 
-function fillMonthSelect(briefs) {
-  const select = document.getElementById('monthSelect');
-  const keys = [...new Set(briefs.map(b => monthKeyOf(b.date)).filter(Boolean))]
+function fillYearSelect(briefs) {
+  const select = document.getElementById('yearSelect');
+  const keys = [...new Set(briefs.map(b => yearKeyOf(b.date)).filter(Boolean))]
     .sort((a, b) => b.localeCompare(a));
-  select.innerHTML = '<option value="">全部月份</option>' +
-    keys.map(k => `<option value="${k}">${monthLabel(k)}</option>`).join('');
+  select.innerHTML = '<option value="">全部年份</option>' +
+    keys.map(k => `<option value="${k}">${yearLabel(k)}</option>`).join('');
 
-  const fromQuery = qs('month');
+  const fromQuery = qs('year');
   if (fromQuery && keys.includes(fromQuery)) select.value = fromQuery;
 }
 
@@ -206,14 +241,14 @@ async function load() {
       return;
     }
 
-    fillMonthSelect(allBriefs);
+    fillYearSelect(allBriefs);
     applyFilters();
 
-    document.getElementById('monthSelect').addEventListener('change', () => {
-      const month = document.getElementById('monthSelect').value;
+    document.getElementById('yearSelect').addEventListener('change', () => {
+      const year = document.getElementById('yearSelect').value;
       const url = new URL(location.href);
-      if (month) url.searchParams.set('month', month);
-      else url.searchParams.delete('month');
+      if (year) url.searchParams.set('year', year);
+      else url.searchParams.delete('year');
       history.replaceState(null, '', url);
       applyFilters();
     });

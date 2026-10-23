@@ -157,10 +157,136 @@ def _extract_numbers(text):
     return set(re.findall(r"\d+(?:\.\d+)?[%％]?|\d+万|\d+亿", text or ""))
 
 
+# ============================================================
+# AI 灌水检测
+# ============================================================
+
+# 尾部废话：AI 常在原标题后追加无信息量的评语
+_FLUFF_TAIL = re.compile(
+    r"(，|,)?\s*"
+    r"(控制成本与资源消耗|引发关注|引发热议|引发讨论|引起关注|备受关注|"
+    r"引发市场关注|未来可期|未来已来|值得期待|值得关注|受到关注|"
+    r"由谁.{0,8}待定|具体.{0,8}待定|后续.{0,8}待定|"
+    r"有望进一步|将进一步|也进一步|正在进一步|"
+    r"标志着|象征着|彰显了|体现了|凸显了|"
+    r"具有.{0,8}里程碑意义|"
+    r"这一消息|此举|该举措|这意味着|可以说|值得一提的是)"
+    r"\s*[。\.！!]?$"
+)
+
+# 纯口水话（整句只有评语，没有事实）
+_FLUFF_ONLY = re.compile(
+    r"^[\s，,。.！!？?、；;：:]*(?:"
+    r"引发关注|引发热议|值得关注|受到关注|备受瞩目|令人期待|"
+    r"未来可期|不容忽视|意义重大|影响深远|"
+    r".+引发(?:了)?(?:广泛|热烈)?(?:关注|热议|讨论)"
+    r")[\s。.！!]*$"
+)
+
+# 句末多余标点
+_TRAILING_PUNCT = re.compile(r"[。\.，,；;、\s]+$")
+
+# 已知合法英文词（含驼峰），不被拆分
+_KEEP_TOGETHER = {
+    "deepmind", "openai", "chatgpt", "github", "gitlab", "kubernetes",
+    "javascript", "typescript", "python", "linux", "android", "iphone", "ipad",
+    "macbook", "imac", "icloud", "itunes", "webcam", "airpods", "cann",
+    "pytorch", "tensorflow", "langchain", "midjourney", "huggingface",
+    "gemma", "wenxin", "mistral", "mixtral", "copilot", "linkedin", "openjdk",
+    "gradle", "maven", "kotlin", "swift", "unity", "unreal", "ffmpeg",
+    "mpeg4", "sha256", "base64", "utf8", "ipv4", "ipv6", "wifi", "bluetooth",
+    "spacex", "apple", "google", "microsoft", "amazon", "meta", "tesla",
+    "nvidia", "amd", "intel", "samsung", "huawei", "xiaomi", "alibaba",
+    "tencent", "baidu", "bytedance", "tiktok", "oracle", "rust", "unity3d",
+}
+
+# 中英粘连：中文后紧跟英文单词
+_GLUE_CJK_LATIN = re.compile(r"(?<=[一-鿿])(?=[A-Za-z][a-z])")
+# 英文粘连：驼峰但不在白名单内（如 AIToken）
+_GLUE_CAMEL = re.compile(r"(?<=[a-z])(?=[A-Z])")
+
+# 常见实体粘连修复表：粘连形态 -> 正确写法
+_KNOWN_GLUE = {
+    "spacexai": "SpaceX AI",
+    "aitoken": "AI Token",
+    "aichatgpt": "AI ChatGPT",
+    "openaigpt": "OpenAI GPT",
+    "chatgptapp": "ChatGPT App",
+    "appleintelligence": "Apple Intelligence",
+    "googledeepmind": "Google DeepMind",
+    "applevision": "Apple Vision",
+    "byteDance": "ByteDance",
+    "huggingface": "Hugging Face",
+    "openai o1": "OpenAI o1",
+}
+
+
+def _fix_glue(text):
+    """修复中英粘连词（如 AIToken / SpaceXAI），保留已知英文单词原样。"""
+    if not text:
+        return text
+
+    # 1) 已知粘连形态精确修复（不区分大小写匹配词边界）
+    def _known(m):
+        low = m.group(0).lower()
+        if low in _KNOWN_GLUE:
+            return " " + _KNOWN_GLUE[low]
+        return m.group(0)
+
+    text = re.sub(r"[A-Za-z][A-Za-z0-9]*", _known, text)
+
+    def _split_camel(m):
+        seg = m.group(0)
+        if seg.lower() in _KEEP_TOGETHER:
+            return seg
+        # 在驼峰处插入空格：AI Token / Space X AI
+        parts = re.findall(r"[A-Z]+(?![a-z])|[A-Z][a-z]+|[a-z]+", seg)
+        if len(parts) >= 2:
+            return " " + " ".join(parts)
+        return seg
+
+    # 2) 驼峰拆分
+    text = _GLUE_CAMEL.sub(_split_camel, text)
+    # 3) 中文与英文之间补空格
+    text = _GLUE_CJK_LATIN.sub(" ", text)
+
+    return re.sub(r"[ \t]{2,}", " ", text).strip()
+
+
+def _strip_fluff(text):
+    """剥离尾部废话与多余标点。"""
+    if not text:
+        return text
+    text = _TRAILING_PUNCT.sub("", text.strip())
+    prev = None
+    while prev != text:
+        prev = text
+        text = _FLUFF_TAIL.sub("", text).strip()
+        text = _TRAILING_PUNCT.sub("", text)
+    return text
+
+
 def validate_summary(title, summary):
     """校验 AI 摘要是否符合简报风格；不合格则回退原标题。"""
     summary = (summary or "").strip()
     if not summary or len(summary) < 6:
+        return False
+
+    # 0) 纯口水话，无事实
+    if _FLUFF_ONLY.match(summary):
+        return False
+
+    # 1) 尾部灌水：剥离后若信息量不足则判不合格
+    stripped = _strip_fluff(summary)
+    if len(stripped) < len(summary):
+        if len(stripped) < 8:
+            return False
+        if not validate_summary(title, stripped):
+            return False
+        summary = stripped
+
+    # 2) 整体比原标题长出太多 —— AI 在复述/扩写
+    if len(summary) > max(len(title) * 1.6, len(title) + 12):
         return False
 
     bad, _ = is_low_quality_title(summary)
@@ -178,9 +304,12 @@ def validate_summary(title, summary):
 
 
 def normalize_summary(title, summary):
-    """校验不通过时回退原标题；去掉序号前缀等。"""
+    """校验不通过时回退原标题；并清洗粘连词、尾部废话。"""
     summary = (summary or "").strip()
     summary = re.sub(r"^\d+[\.、\)]\s*", "", summary)
+    summary = _fix_glue(summary)
+    summary = _strip_fluff(summary)
     if validate_summary(title, summary):
         return summary
-    return title
+    # 回退时同样清洗原标题，避免粘连词带入成品
+    return _fix_glue(title)

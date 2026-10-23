@@ -48,6 +48,24 @@
   .panel-pane { display:none; }
   .panel-pane.is-active { display:block; }
 
+  /* 本期主线导语 */
+  .overview-card {
+    position:relative;
+    background:linear-gradient(135deg,#f7f9fc 0%,#eef3fa 100%);
+    border-left:3px solid #3273dc;
+    border-radius:0 6px 6px 0;
+    padding:.9rem 1.1rem .95rem;
+  }
+  .overview-label {
+    display:inline-block;
+    font-size:.68rem; font-weight:700; letter-spacing:2px;
+    color:#3273dc; margin-bottom:.4rem;
+  }
+  .overview-text {
+    margin:0; font-size:.92rem; line-height:1.75;
+    color:#2b3a4d; letter-spacing:.2px;
+  }
+
   /* 资讯条目 */
   #newsList { position:relative; }
   #newsList.is-dragging .news-item:not(.is-dragging) {
@@ -163,6 +181,11 @@
         <!-- 科技资讯 -->
         <div id="paneBrief" class="panel-pane is-active" role="tabpanel">
           <p class="edit-hint mb-3">拖动左侧手柄排序 · 点击删除移除 · 在「来源媒体」Tab 添加条目</p>
+
+          <div class="overview-card mb-4" id="overviewCard" style="display:none;">
+            <span class="overview-label">本期主线</span>
+            <p id="overviewText" class="overview-text"></p>
+          </div>
 
           <div class="box p-3">
             <ol id="newsList" style="list-style:none; margin:0; padding:0;"></ol>
@@ -614,6 +637,16 @@ function renderBrief(data) {
   document.getElementById('tabBriefLabel').textContent = seriesTitle;
   document.getElementById('dateDisplay').textContent = data.date_display || data.date;
 
+  // 本期主线导语
+  const overview = (data.overview || '').trim();
+  const ovCard = document.getElementById('overviewCard');
+  if (overview) {
+    document.getElementById('overviewText').textContent = overview;
+    ovCard.style.display = '';
+  } else {
+    ovCard.style.display = 'none';
+  }
+
   document.getElementById('sources').textContent = (data.sources || []).join(' / ');
   renderNewsList();
   document.getElementById('mainPanel').style.display = 'block';
@@ -670,6 +703,10 @@ async function load() {
 function buildWechatText(d) {
   const title = d.headline || d.series || '科技资讯';
   const lines = [title, d.date_display || d.date, ''];
+  if (d.overview) {
+    lines.push(d.overview);
+    lines.push('');
+  }
   (d.items || []).forEach(it => {
     lines.push(it.index + '、' + it.text);
   });

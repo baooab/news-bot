@@ -36,7 +36,7 @@
   <div class="hero-body has-text-centered">
     <p class="title is-2" style="letter-spacing:3px;">科技资讯</p>
     <p class="subtitle is-6 mt-3 has-text-grey-light">
-      每天 06:30 自动更新 · 8 条科技 + 4 条民生社会 · 贴图公众号系列
+      每天 21:00 自动更新 · <span id="quotaText">12 条科技 + 6 条民生社会</span> · 贴图公众号系列
     </p>
     <p class="is-size-7 has-text-grey">
       Solidot / IT之家 / 36氪 / 凤凰科技 / 澎湃 / 中新网 / 人民网 / 每日环球视野
@@ -86,13 +86,15 @@ function renderBriefCard(b) {
   const headline = b.headline
     ? `<p class="is-size-6 has-text-weight-semibold mt-2 mb-1">${b.headline}</p>`
     : '';
+  const quota = (b.tech_quota != null && b.general_quota != null)
+    ? `${b.tech_quota}+${b.general_quota}` : '';
   return `
   <div class="column is-half">
     <a href="brief.html?v=5&date=${b.date}" class="box brief-card is-block">
       <div class="level is-mobile mb-1">
         <div class="level-left">
           <span class="title is-6 mb-0 has-text-grey">${b.display}</span>
-          <span class="tag is-info is-light is-small ml-2">8+4</span>
+          ${quota ? `<span class="tag is-info is-light is-small ml-2">${quota}</span>` : ''}
         </div>
         <div class="level-right">
           <span class="tag is-dark is-rounded">${b.count} 条</span>
@@ -123,6 +125,13 @@ async function load() {
       emptyBox.innerHTML = `本月暂无简报。可前往 <a href="archive.html">历史归档</a> 查看往期内容。`;
       emptyBox.style.display = 'block';
       return;
+    }
+
+    // 配额取自最新一期数据，避免前端硬编码随配置过期
+    const latest = briefs[0];
+    if (latest.tech_quota != null && latest.general_quota != null) {
+      document.getElementById('quotaText').textContent =
+        `${latest.tech_quota} 条科技 + ${latest.general_quota} 条民生社会`;
     }
 
     list.innerHTML = briefs.map(renderBriefCard).join('');
