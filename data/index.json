@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-10-23 22:55:00",
+  "updated_at": "2026-10-23 23:25:05",
   "total": 104,
   "briefs": [
     {
       "date": "2026-10-23",
-      "display": "2026年10月23日 星期五 农历九月十四",
+      "display": "2026年10月23日 星期五",
       "series": "科技资讯",
       "headline": "算力扩张代价上台面，谷歌为数据中心清场25万棵树",
       "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
       "sources": [
         "IT之家",
         "中新网",
         "凤凰科技",
         "澎湃",
         "雷峰网"
-      ],
-      "tech_quota": 12,
-      "general_quota": 6
+      ]
     },
     {
       "date": "2026-10-22",
@@ -24,6 +24,8 @@
       "series": "科技资讯",
       "headline": "三星W27折叠屏定档，特斯拉AI支出目标降约20%",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -38,6 +40,8 @@
       "series": "科技资讯",
       "headline": "OpenAI，SpaceX加码AI算力",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -52,6 +56,8 @@
       "series": "科技资讯",
       "headline": "OpenAI上线ChatGPTS，DeepSeek工程师参与华为芯",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -66,6 +72,8 @@
       "series": "科技资讯",
       "headline": "RedmiNote12跑通iOS16，AMD锐龙AI7HX455曝光",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -80,6 +88,8 @@
       "series": "科技资讯",
       "headline": "苹果折叠屏下周开售，OpenAI将研发人形机器人",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -94,6 +104,8 @@
       "series": "科技资讯",
       "headline": "英伟达开源机器人接入GPT-6，DeepSeek新模型再降价",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -108,6 +120,8 @@
       "series": "科技资讯",
       "headline": "谷歌布林称AI开始自造自己，美八州起诉OpenAI",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "Solidot",
         "中新网",
@@ -121,6 +135,8 @@
       "series": "科技资讯",
       "headline": "苹果折叠屏iPhoneDuo开启预购，马斯克称中国AI算力将领先世界",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -135,6 +151,8 @@
       "series": "科技资讯",
       "headline": "Anthropic弃用Git，国星宇航一箭八星入轨",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -149,6 +167,8 @@
       "series": "科技资讯",
       "headline": "英伟达在华AI芯片份额降至34%，亚马逊500亿收购算力互连公司",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -163,6 +183,8 @@
       "series": "科技资讯",
       "headline": "三星近八成存储产能被锁定，AMD发布锐龙AIHalo平台",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -177,6 +199,8 @@
       "series": "科技资讯",
       "headline": "英伟达洽谈收购美国AI新锐，可灵估值破千亿冲刺IPO",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -191,6 +215,8 @@
       "series": "科技资讯",
       "headline": "苹果iPhoneDuo加单30%，DeepSeek拟融资1000亿元",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -206,6 +232,8 @@
       "series": "科技资讯",
       "headline": "RISC-V第一股港股上市，Anthropic免费扫开源漏洞",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "Solidot",
         "中新网",
@@ -219,6 +247,8 @@
       "series": "科技资讯",
       "headline": "亚马逊裁员超3万转投AI，Windows最大更新叫板Mac",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "Solidot",
         "中新网",
@@ -232,6 +262,8 @@
       "series": "科技资讯",
       "headline": "苹果一大波新品要来了，送AI上太空！SpaceX砸40",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "中新网",
@@ -245,6 +277,8 @@
       "series": "科技资讯",
       "headline": "华为PuraXMax销量涨76%，月之暗面拟明年港股上市",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -259,6 +293,8 @@
       "series": "科技资讯",
       "headline": "华为与高通达成专利许可，FieldAI拟融资7亿美元",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "中新网",
@@ -272,6 +308,8 @@
       "series": "科技资讯",
       "headline": "OpenAIGPT-6Astra，谷歌暂停部分开源漏洞奖励计划",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "中新网",
@@ -285,6 +323,8 @@
       "series": "科技资讯",
       "headline": "华为昇腾中国份额超英伟达，Meta开源MuseGadgets",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -299,6 +339,8 @@
       "series": "科技资讯",
       "headline": "OpenAI再融资200亿美元，谷歌AI芯片送上太空",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -313,6 +355,8 @@
       "series": "科技资讯",
       "headline": "华为Mate90携四款麒麟芯片，中国生成式AI用户超7亿",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -327,6 +371,8 @@
       "series": "科技资讯",
       "headline": "MetaMuse爆火，DeepSeek开源昇腾基础组件",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "Solidot",
@@ -341,6 +387,8 @@
       "series": "科技资讯",
       "headline": "深蓝S07AI激光版上市，中国芯片攻关取得新突破",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -355,6 +403,8 @@
       "series": "科技资讯",
       "headline": "英伟达推AI安全系统防失控，16岁少年用AI挖出微软漏洞",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -369,6 +419,8 @@
       "series": "科技资讯",
       "headline": "ChatGPT拟推24小时常驻，半导体超级IPO估值1万亿",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -383,6 +435,8 @@
       "series": "科技资讯",
       "headline": "GPT-6Astra需求空前，Anthropic与Akamai",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -397,6 +451,8 @@
       "series": "科技资讯",
       "headline": "OpenAI，钟文泽回应被指对华为苹果双标",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -411,6 +467,8 @@
       "series": "科技资讯",
       "headline": "中国2030年自研光刻补算力缺口，Meta发布AI电子宠物设备",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "Solidot",
         "中新网",
@@ -424,6 +482,8 @@
       "series": "科技资讯",
       "headline": "小米开源模型登顶全球，OpenAI开启大模型折扣季",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -438,6 +498,8 @@
       "series": "科技资讯",
       "headline": "阿里AI芯片性能提三倍，小米18Pro首发徕卡双2亿像素",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -452,6 +514,8 @@
       "series": "科技资讯",
       "headline": "黑客假测试感染3万台设备，英伟达GPU内置RISC-V核心",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "Solidot",
         "中新网",
@@ -465,6 +529,8 @@
       "series": "科技资讯",
       "headline": "Anthropic拟IPO前推新模型，iPhone18Pro曝死机问题",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "Solidot",
         "中新网",
@@ -478,6 +544,8 @@
       "series": "科技资讯",
       "headline": "华为PuraXMax发货破120万，AnthropicIPO推迟至11月",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -492,6 +560,8 @@
       "series": "科技资讯",
       "headline": "黑客用Claude入侵OpenAI，华为昇腾960芯片提前推出",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "Solidot",
         "中新网",
@@ -505,6 +575,8 @@
       "series": "科技资讯",
       "headline": "iOS27推送60项升级，英伟达谷歌组建AI能源联盟",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -519,6 +591,8 @@
       "series": "科技资讯",
       "headline": "iOS27更新60项，FAST发现最轻双中子星",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -533,6 +607,8 @@
       "series": "科技资讯",
       "headline": "朱雀二号改进型一箭十星，荣耀首发Agent操作系统",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -547,6 +623,8 @@
       "series": "科技资讯",
       "headline": "特斯拉美国份额升至52%，华为MateXT2性能解禁",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "中新网",
@@ -560,6 +638,8 @@
       "series": "科技资讯",
       "headline": "特斯拉份额升至52%，国产GPU类脑异构推理系统发布",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -574,6 +654,8 @@
       "series": "科技资讯",
       "headline": "Minitap指控谷歌盗用代码，Rust成微软一级语言",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -588,6 +670,8 @@
       "series": "科技资讯",
       "headline": "Anthropic披露AI相亲骗，网易火速适配苹果折叠屏",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -602,6 +686,8 @@
       "series": "科技资讯",
       "headline": "月之暗面拟沪港双重上市，微软九月更新修复近千个Bug",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "Solidot",
         "中新网",
@@ -615,6 +701,8 @@
       "series": "科技资讯",
       "headline": "GPT-6Astra需求空前，消息称DeepSeek已聘请中信",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -629,6 +717,8 @@
       "series": "科技资讯",
       "headline": "瑞士政府试点用开源软件取代Mic，分析机构Similarweb",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -643,6 +733,8 @@
       "series": "科技资讯",
       "headline": "瑞士政府试点用开源软件取代Mic，不只三折叠！华为今天发布的新品",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -657,6 +749,8 @@
       "series": "科技资讯",
       "headline": "DeepSeek，OpenAIGPT-6跑分作弊被",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -671,6 +765,8 @@
       "series": "科技资讯",
       "headline": "OpenAIGPT-6Astra，苹果华为小米等六大品牌9月大乱斗",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "Solidot",
         "中新网",
@@ -684,6 +780,8 @@
       "series": "科技资讯",
       "headline": "OpenAI证实将自研人形机器人，英伟达发布开源工具将闲置算力连成",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "Solidot",
         "中新网",
@@ -697,6 +795,8 @@
       "series": "科技资讯",
       "headline": "英伟达收购HuggingFace，奥尔特曼",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -711,6 +811,8 @@
       "series": "科技资讯",
       "headline": "编程追赶OpenAI与Anthr，首发韬定律麒麟芯片！华为Mate",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -725,6 +827,8 @@
       "series": "科技资讯",
       "headline": "美国五角大楼部署定制版ChatG，科大讯飞星火X2.5-4B",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -739,6 +843,8 @@
       "series": "科技资讯",
       "headline": "量子电池充电仅一飞秒，江波龙赴港募资62.8亿",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -753,6 +859,8 @@
       "series": "科技资讯",
       "headline": "OpenAI，不止有iPhone18Pro发布",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -767,6 +875,8 @@
       "series": "科技资讯",
       "headline": "称她芯片女王！华为何庭波入选AI，算力需求持续扩张！中国芯片行业利",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -781,6 +891,8 @@
       "series": "科技资讯",
       "headline": "OpenAI，亚马逊收购开源数据库DuckDB",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "Solidot",
         "中新网",
@@ -794,6 +906,8 @@
       "series": "科技资讯",
       "headline": "IT早报0827，黄仁勋回应OpenAI自研芯片",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -808,6 +922,8 @@
       "series": "科技资讯",
       "headline": "苹果推M5Ultra芯片，SpaceX明年发射AI卫星",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -822,6 +938,8 @@
       "series": "科技资讯",
       "headline": "小米推3nm智驾芯片，小鹏机器人融资超9亿美元",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -836,6 +954,8 @@
       "series": "科技资讯",
       "headline": "OpenAI投资的美国AI公司转，英伟达AI服务器将涨价15%！1",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -850,6 +970,8 @@
       "series": "科技资讯",
       "headline": "OpenAI下调GPT-5.6S，苹果首款带摄像头的耳机！AirP",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -864,6 +986,8 @@
       "series": "科技资讯",
       "headline": "海光信息，OpenAI被曝秘密测试GPTI",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -878,6 +1002,8 @@
       "series": "科技资讯",
       "headline": "苹果反驳OpenAI，谷歌Drive公开Android源码",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -892,6 +1018,8 @@
       "series": "科技资讯",
       "headline": "马斯克放弃的华为200万年薪“天，宇树IPO暴涨成中国机器人产业里",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -906,6 +1034,8 @@
       "series": "科技资讯",
       "headline": "SpaceX与特斯拉合并概率55%，骁龙X2跑分超锐龙83%",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -920,6 +1050,8 @@
       "series": "科技资讯",
       "headline": "美国拟封堵离岸高端算力，OpenAI举报了一名在与Cha",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -934,6 +1066,8 @@
       "series": "科技资讯",
       "headline": "OpenAI提速狂飙16倍！GP，关税高达127.5%也划算！谷歌",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -948,6 +1082,8 @@
       "series": "科技资讯",
       "headline": "减少1300亿美元英伟达收缩对O，老板电器潘黄斌谈AI护城河",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -962,6 +1098,8 @@
       "series": "科技资讯",
       "headline": "高盛主导英伟达5000亿融资，SpaceX600亿拿下Cursor",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -976,6 +1114,8 @@
       "series": "科技资讯",
       "headline": "GPT-5.6超Fable5，RTXSpark遭抢空",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -990,6 +1130,8 @@
       "series": "科技资讯",
       "headline": "英伟达推出30B开源AI模型Ne，腾讯投资瑞典AI编程公司Lova",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1004,6 +1146,8 @@
       "series": "科技资讯",
       "headline": "ChatGPT企业席位用量多5倍，英伟达开发万亿参数开源模型",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1018,6 +1162,8 @@
       "series": "科技资讯",
       "headline": "Meta开源30B模型，比亚迪海獭日本订单破千",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1032,6 +1178,8 @@
       "series": "科技资讯",
       "headline": "OpenAI收购演示文稿初创公司，SpaceX豪赌AI",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1046,6 +1194,8 @@
       "series": "科技资讯",
       "headline": "SpaceXAI新模型全球第二，谷歌布林亲自盯Gemini",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1060,6 +1210,8 @@
       "series": "科技资讯",
       "headline": "AMD收购AI芯片创企，SpaceX推Imagine2.0",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1074,6 +1226,8 @@
       "series": "科技资讯",
       "headline": "GPT-4.5以来训练的最大模型，苹果发布macOS26.6.1T",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1087,6 +1241,8 @@
       "series": "科技资讯",
       "headline": "微软限制AIToken，华为昇腾0Day支持",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1100,6 +1256,8 @@
       "series": "科技资讯",
       "headline": "苹果推送 AirPods 新测试版固件 9A5336b",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1114,6 +1272,8 @@
       "series": "科技资讯",
       "headline": "今日硬科技看点速览",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1127,6 +1287,8 @@
       "series": "科技资讯",
       "headline": "谷歌地球叫停AI生图，MacBook Air供应告急",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1141,6 +1303,8 @@
       "series": "科技资讯",
       "headline": "Google Earth 发布然后撤回了 AI 工具",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1155,6 +1319,8 @@
       "series": "科技资讯",
       "headline": "小米新机定档，OpenAI 封禁诈骗账号",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1168,6 +1334,8 @@
       "series": "科技资讯",
       "headline": "OpenAI 降价 80%，小米新车搭载骁龙 8 与英伟达 Thor",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1180,6 +1348,8 @@
       "series": "科技资讯",
       "headline": "谷歌AI挖出200漏洞，高通拿下宝马十年芯",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1193,6 +1363,8 @@
       "series": "科技资讯",
       "headline": "中国量产DUV光刻机，特斯拉包下太阳能电站",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1207,6 +1379,8 @@
       "series": "科技资讯",
       "headline": "英伟达投苏茨克维AI，Mac漏洞修复155个",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1221,6 +1395,8 @@
       "series": "科技资讯",
       "headline": "英伟达SK联手建AI工厂，OpenAI游说受限遭反对",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1235,6 +1411,8 @@
       "series": "科技资讯",
       "headline": "TCL 93亿收购华星半导体，华为AI眼镜支持支付宝",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1249,6 +1427,8 @@
       "series": "科技资讯",
       "headline": "星舰第13飞回收成功，25巨头联名呼吁AI开源",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1262,6 +1442,8 @@
       "series": "科技资讯",
       "headline": "Google遭欧盟8.9亿罚单，AMD 2nm 256核CPU发布",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1275,6 +1457,8 @@
       "series": "科技资讯",
       "headline": "OpenAI 200亿建数据中心 三星AI眼镜续航9小时",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1288,6 +1472,8 @@
       "series": "科技资讯",
       "headline": "苹果赔6.34亿 谷歌推三款AI模型",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1302,6 +1488,8 @@
       "series": "科技资讯",
       "headline": "OpenAI不满中国开源，星舰第13次试飞推迟",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1316,6 +1504,8 @@
       "series": "科技资讯",
       "headline": "Kimi K3首进前十 微软部署AMD AI机架系统",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1329,6 +1519,8 @@
       "series": "科技资讯",
       "headline": "英伟达N1X跑分逼近M3 Max，印度民营火箭首飞入轨",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1343,6 +1535,8 @@
       "series": "科技资讯",
       "headline": "一加退出欧美，RTX 50 SUPER 因显存太贵暂缓",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1356,6 +1550,8 @@
       "series": "科技资讯",
       "headline": "DeepSeek冲刺IPO，苹果今秋推OLED版iPad mini",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1369,6 +1565,8 @@
       "series": "科技资讯",
       "headline": "苹果洽购AI芯片，马斯克开源编程助手",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1383,6 +1581,8 @@
       "series": "科技资讯",
       "headline": "DeepSeek筹备IPO，OpenAI首款硬件曝光",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1396,6 +1596,8 @@
       "series": "科技资讯",
       "headline": "钙钛矿破世界纪录，苹果开放跨设备API",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "IT之家",
         "Solidot",
@@ -1409,6 +1611,8 @@
       "series": "科技资讯",
       "headline": "M7 Ultra内存1.5TB，Meta多模态模型强化智能体",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",
@@ -1423,6 +1627,8 @@
       "series": "科技资讯",
       "headline": "长鑫冲刺上市，OpenAI 推出智能体",
       "count": 12,
+      "tech_quota": 8,
+      "general_quota": 4,
       "sources": [
         "36氪",
         "IT之家",

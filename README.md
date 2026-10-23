@@ -133,7 +133,7 @@ https://<你的用户名>.github.io/<仓库名>/
 |--------|------|--------|------|
 | `AI_API_KEY` | ✅ | — | 你的 API Key |
 | `AI_API_URL` | | `https://api.deepseek.com/v1/chat/completions` | OpenAI 兼容接口地址 |
-| `AI_MODEL` | | `deepseek-v4-flash` | 模型名 |
+| `AI_MODEL` | | `deepseek-flash` | 模型名（现行调用名，实为 V4.1-Flash-1017） |
 
 本地也可复制 `.env.example` 为 `.env` 填写上述变量（`.env` 已在 `.gitignore`，不会提交）。
 

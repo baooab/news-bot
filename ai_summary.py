@@ -13,7 +13,7 @@ import json
 import requests
 
 from config import (
-    AI_API_URL, AI_API_KEY, AI_MODEL, REQUEST_TIMEOUT,
+    AI_API_URL, AI_API_KEY, AI_MODEL, AI_THINKING, REQUEST_TIMEOUT,
     TECH_QUOTA, GENERAL_QUOTA, TARGET_COUNT,
 )
 from tech_brief_style import (
@@ -170,6 +170,10 @@ def _call_api(prompt):
         "temperature": 0.45,
         # 输出：18 条 {idx, section, summary} + 导语 + 期标题
         "max_tokens": 5200,
+        # 关闭思考：选材改写属提取类任务，思考会挤占输出额度且拖慢响应
+        "thinking": {
+            "type": "enabled" if AI_THINKING.lower() == "enabled" else "disabled"
+        },
     }
     resp = requests.post(AI_API_URL, headers=headers, json=data, timeout=REQUEST_TIMEOUT * 2)
     resp.raise_for_status()

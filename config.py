@@ -62,7 +62,8 @@ AI_CANDIDATE_LIMIT = int(os.getenv("AI_CANDIDATE_LIMIT", "260"))
 # 推荐 Deepseek：价格极低，中文效果好
 # 仅需配置 AI_API_KEY 即可；URL / MODEL 有默认值
 #   AI_API_URL=https://api.deepseek.com/v1/chat/completions
-#   AI_MODEL=deepseek-chat
+#   AI_MODEL=deepseek-flash
+# 注：deepseek-flash 为现行调用名（实为 V4.1-Flash-1017）；旧名 deepseek-v4-flash 已退役
 
 
 def _env(key, default=""):
@@ -74,5 +75,10 @@ def _env(key, default=""):
 
 
 AI_API_URL = _env("AI_API_URL", "https://api.deepseek.com/v1/chat/completions")
-AI_MODEL = _env("AI_MODEL", "deepseek-v4-flash")
+AI_MODEL = _env("AI_MODEL", "deepseek-flash")
 AI_API_KEY = _env("AI_API_KEY", "")
+
+# 是否开启模型思考（reasoning）。DeepSeek Flash 默认开启，但本任务是结构化选材与
+# 改写（非推理题），思考会额外消耗数百至数千 token，既挤占输出额度又拖慢响应。
+# 默认关闭；若发现编排质量不足，可设为 enabled。
+AI_THINKING = _env("AI_THINKING", "disabled")
