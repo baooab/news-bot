@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-10-23 23:25:05",
-  "total": 104,
+  "updated_at": "2026-10-24 19:35:28",
+  "total": 105,
   "briefs": [
+    {
+      "date": "2026-10-24",
+      "display": "2026年10月24日 星期六",
+      "series": "科技资讯",
+      "headline": "国产大模型冲进全球前四，Kimi K3.1 Pro以3万亿参数应战",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技"
+      ]
+    },
     {
       "date": "2026-10-23",
       "display": "2026年10月23日 星期五",

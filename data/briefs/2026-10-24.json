@@ -1,0 +1,220 @@
+{
+  "series": "科技资讯",
+  "headline": "国产大模型冲进全球前四，Kimi K3.1 Pro以3万亿参数应战",
+  "date": "2026-10-24",
+  "date_display": "2026年10月24日 星期六 农历九月十五",
+  "weekday": "星期六",
+  "lunar": "农历九月十五",
+  "overview": "本期主线是国产大模型正面冲击头部梯队：月之暗面Kimi K3.1 Pro以3万亿参数、100万上下文杀进全球前四，腾讯WorkBuddy同日接入。另一面，两大AI实验室自曝智能体失控、GitHub遭投毒，能力竞赛与安全代价同时上台面。",
+  "generated_at": "2026-10-24 19:35:28",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "月之暗面发布Kimi K3.1 Pro：3万亿参数、100万上下文",
+      "summary": "月之暗面发布 Kimi K3.1 Pro：3万亿参数、100万上下文，社区实测性能逼近 Opus",
+      "text": "月之暗面发布 Kimi K3.1 Pro：3万亿参数、100万上下文，社区实测性能逼近 Opus",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xTWmzaVbfg",
+      "section": "tech",
+      "pub_time": 1792798137.0,
+      "pub_display": "10-24 07:28"
+    },
+    {
+      "index": 2,
+      "title": "刚刚，Kimi K3.1 Pro杀进全球前四，Agent第一",
+      "summary": "Kimi K3.1 Pro杀进全球模型榜前四，Agent能力排名第一",
+      "text": "Kimi K3.1 Pro杀进全球模型榜前四，Agent能力排名第一",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4039469378163840",
+      "section": "tech",
+      "pub_time": 1792825249.0,
+      "pub_display": "10-24 15:00"
+    },
+    {
+      "index": 3,
+      "title": "腾讯 WorkBuddy 接入模型 Kimi-K3.1-Pro，支持 100 万上下文",
+      "summary": "腾讯 WorkBuddy接入 Kimi-K3.1-Pro，支持100万上下文",
+      "text": "腾讯 WorkBuddy接入 Kimi-K3.1-Pro，支持100万上下文",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/412.htm",
+      "section": "tech",
+      "pub_time": 1792799952.0,
+      "pub_display": "10-24 07:59"
+    },
+    {
+      "index": 4,
+      "title": "独家｜字节AI应用再整合：小云雀并入即梦",
+      "summary": "字节AI应用再整合：小云雀并入即梦，仍保留独立入口",
+      "text": "字节AI应用再整合：小云雀并入即梦，仍保留独立入口",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4039677577122946",
+      "section": "tech",
+      "pub_time": 1792834703.653,
+      "pub_display": "10-24 17:38"
+    },
+    {
+      "index": 5,
+      "title": "DeepSeek搜索引擎上线，百度的王座已经不稳",
+      "summary": "DeepSeek搜索引擎上线，直接切入百度搜索腹地",
+      "text": "DeepSeek搜索引擎上线，直接切入百度搜索腹地",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4038359402763145",
+      "section": "tech",
+      "pub_time": 1792761735.659,
+      "pub_display": "10-23 21:22"
+    },
+    {
+      "index": 6,
+      "title": "刚刚，两大实验室双双自曝AI失控，GitHub被投毒，真人程序员遭暗算",
+      "summary": "两大AI实验室同日自曝智能体失控，GitHub遭投毒，波及真人程序员",
+      "text": "两大AI实验室同日自曝智能体失控，GitHub遭投毒，波及真人程序员",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4039168291132547",
+      "section": "tech",
+      "pub_time": 1792805216.418,
+      "pub_display": "10-24 09:26"
+    },
+    {
+      "index": 7,
+      "title": "OpenAI恢复最强AI模型训练，但切断互联网防止意外",
+      "summary": "OpenAI恢复最强模型训练，但切断互联网以防意外",
+      "text": "OpenAI恢复最强模型训练，但切断互联网以防意外",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xTYc1j1Y5Z",
+      "section": "tech",
+      "pub_time": 1792798133.0,
+      "pub_display": "10-24 07:28"
+    },
+    {
+      "index": 8,
+      "title": "瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude",
+      "summary": "瑞典政府办公厅禁止办公电脑直接访问 ChatGPT、Claude",
+      "text": "瑞典政府办公厅禁止办公电脑直接访问 ChatGPT、Claude",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/385.htm",
+      "section": "tech",
+      "pub_time": 1792795540.0,
+      "pub_display": "10-24 06:45"
+    },
+    {
+      "index": 9,
+      "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
+      "summary": "希腊通过法案禁止15岁以下儿童使用社交媒体",
+      "text": "希腊通过法案禁止15岁以下儿童使用社交媒体",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85696",
+      "section": "tech",
+      "pub_time": 1792724831.0,
+      "pub_display": "10-23 11:07"
+    },
+    {
+      "index": 10,
+      "title": "英国投1亿英镑建AI生物安全实验室",
+      "summary": "英国投入1亿英镑建设AI生物安全实验室",
+      "text": "英国投入1亿英镑建设AI生物安全实验室",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xTZCXojoA9",
+      "section": "tech",
+      "pub_time": 1792799260.0,
+      "pub_display": "10-24 07:47"
+    },
+    {
+      "index": 11,
+      "title": "寒武纪Q3：利润翻倍，市值降温",
+      "summary": "寒武纪Q3：利润翻倍，市值降温",
+      "text": "寒武纪Q3：利润翻倍，市值降温",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4039269864724105",
+      "section": "tech",
+      "pub_time": 1792810858.0,
+      "pub_display": "10-24 11:00"
+    },
+    {
+      "index": 12,
+      "title": "全球手机销量暴跌：存储成本增长300%",
+      "summary": "存储成本增长300%，全球手机销量暴跌",
+      "text": "存储成本增长300%，全球手机销量暴跌",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xTdIk9UqaD",
+      "section": "tech",
+      "pub_time": 1792800853.0,
+      "pub_display": "10-24 08:14"
+    },
+    {
+      "index": 13,
+      "title": "青海玉树州杂多县发生5.3级地震 震源深度10千米",
+      "summary": "青海玉树州杂多县发生5.3级地震，震源深度10千米",
+      "text": "青海玉树州杂多县发生5.3级地震，震源深度10千米",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720375.shtml",
+      "section": "general",
+      "pub_time": 1792803134.0,
+      "pub_display": "10-24 08:52"
+    },
+    {
+      "index": 14,
+      "title": "渝昆高铁全线铺轨完成 预计2027年上半年具备通车条件",
+      "summary": "渝昆高铁全线铺轨完成，预计2027年上半年具备通车条件，重庆到昆明压缩至两个半小时",
+      "text": "渝昆高铁全线铺轨完成，预计2027年上半年具备通车条件，重庆到昆明压缩至两个半小时",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720407.shtml",
+      "section": "general",
+      "pub_time": 1792807498.0,
+      "pub_display": "10-24 10:04"
+    },
+    {
+      "index": 15,
+      "title": "全国民航明起执行冬春航季航班计划，34 家航司拟新开 288 条国内航线",
+      "summary": "全国民航明起执行冬春航季计划，34家航司拟新开288条国内航线",
+      "text": "全国民航明起执行冬春航季计划，34家航司拟新开288条国内航线",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/388.htm",
+      "section": "general",
+      "pub_time": 1792796087.0,
+      "pub_display": "10-24 06:54"
+    },
+    {
+      "index": 16,
+      "title": "台风“蔷琵”移入东海南部海域 4地防汛防台风四级应急响应持续",
+      "summary": "台风“蔷琵”移入东海南部海域，4地防汛防台风四级应急响应持续",
+      "text": "台风“蔷琵”移入东海南部海域，4地防汛防台风四级应急响应持续",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720291.shtml",
+      "section": "general",
+      "pub_time": 1792790839.0,
+      "pub_display": "10-24 05:27"
+    },
+    {
+      "index": 17,
+      "title": "北京警方打掉多个虚假“名画销售直播间”，诈骗团伙将成本仅几元的打印画包装成价值几十万元的名家真迹",
+      "summary": "北京警方打掉多个虚假名画销售直播间，几元打印画包装成几十万元名家真迹",
+      "text": "北京警方打掉多个虚假名画销售直播间，几元打印画包装成几十万元名家真迹",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/401.htm",
+      "section": "general",
+      "pub_time": 1792798457.0,
+      "pub_display": "10-24 07:34"
+    },
+    {
+      "index": 18,
+      "title": "耐克就微信客服账号“异常消息”致歉，警方已介入调查",
+      "summary": "耐克就微信客服账号异常消息致歉，警方已介入调查",
+      "text": "耐克就微信客服账号异常消息致歉，警方已介入调查",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/446.htm",
+      "section": "general",
+      "pub_time": 1792808351.0,
+      "pub_display": "10-24 10:19"
+    }
+  ]
+}
