@@ -1,0 +1,220 @@
+{
+  "series": "科技资讯",
+  "headline": "中国信通院，为让数据中心有充足电力Google将",
+  "date": "2026-10-25",
+  "date_display": "2026年10月25日 星期日 农历九月十六",
+  "weekday": "星期日",
+  "lunar": "农历九月十六",
+  "overview": "本期主线是算力与存储成本同时收紧：6月国内词元日均消耗约500万亿、达去年12月的近4倍，谷歌却要付钱请人少用电来保数据中心供电。成本压力已传导到终端，三季度全球PC出货量同比跌21%，华强北RTX 5090被炒到6万元。",
+  "generated_at": "2026-10-25 00:21:09",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍",
+      "summary": "中国信通院：6月国内词元日均消耗约500万亿，是2025年12月的近4倍，推理需求加速放量",
+      "text": "中国信通院：6月国内词元日均消耗约500万亿，是2025年12月的近4倍，推理需求加速放量",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/518.htm",
+      "section": "tech",
+      "pub_time": 1792824109.0,
+      "pub_display": "10-24 14:41"
+    },
+    {
+      "index": 2,
+      "title": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
+      "summary": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
+      "text": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85701",
+      "section": "tech",
+      "pub_time": 1792821021.0,
+      "pub_display": "10-24 13:50"
+    },
+    {
+      "index": 3,
+      "title": "Counterpoint 报告：2026 年第三季度全球 PC 出货量 5700 万台，同比下降 21%",
+      "summary": "Counterpoint：2026年三季度全球PC出货量5700万台，同比下降21%，存储涨价压制整机需求",
+      "text": "Counterpoint：2026年三季度全球PC出货量5700万台，同比下降21%，存储涨价压制整机需求",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/508.htm",
+      "section": "tech",
+      "pub_time": 1792820673.0,
+      "pub_display": "10-24 13:44"
+    },
+    {
+      "index": 4,
+      "title": "显卡一日一价：英伟达停产传闻搅动华强北，RTX 5090 被炒至 6 万元",
+      "summary": "英伟达停产传闻搅动华强北，RTX 5090被炒至6万元，显卡一日一价",
+      "text": "英伟达停产传闻搅动华强北，RTX 5090被炒至6万元，显卡一日一价",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/440.htm",
+      "section": "tech",
+      "pub_time": 1792807225.0,
+      "pub_display": "10-24 10:00"
+    },
+    {
+      "index": 5,
+      "title": "消息称部分手机产品线或平板线迎来停更，成本兜不住",
+      "summary": "消息称部分手机与平板产品线或停更，存储等成本兜不住，终端厂商开始收缩产品线",
+      "text": "消息称部分手机与平板产品线或停更，存储等成本兜不住，终端厂商开始收缩产品线",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/505.htm",
+      "section": "tech",
+      "pub_time": 1792819019.0,
+      "pub_display": "10-24 13:16"
+    },
+    {
+      "index": 6,
+      "title": "Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付",
+      "summary": "Anthropic Claude付款页面新增中国及港澳台地区选项，支持银联卡支付",
+      "text": "Anthropic Claude付款页面新增中国及港澳台地区选项，支持银联卡支付",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/490.htm",
+      "section": "tech",
+      "pub_time": 1792813189.0,
+      "pub_display": "10-24 11:39"
+    },
+    {
+      "index": 7,
+      "title": "研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复",
+      "summary": "研究人员通过DNS数据库发现数千个公开的 Muse聊天记录分享链接，Meta已修复",
+      "text": "研究人员通过DNS数据库发现数千个公开的 Muse聊天记录分享链接，Meta已修复",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/517.htm",
+      "section": "tech",
+      "pub_time": 1792823958.0,
+      "pub_display": "10-24 14:39"
+    },
+    {
+      "index": 8,
+      "title": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告",
+      "summary": "谷歌修改隐私条款，将 Gmail和照片数据用于个性化广告，用户数据边界再收缩",
+      "text": "谷歌修改隐私条款，将 Gmail和照片数据用于个性化广告，用户数据边界再收缩",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85698",
+      "section": "tech",
+      "pub_time": 1792817601.0,
+      "pub_display": "10-24 12:53"
+    },
+    {
+      "index": 9,
+      "title": "陶哲轩尴尬了，哈佛研究显示AI审稿比专家强",
+      "summary": "哈佛研究显示AI审稿比专家更准，陶哲轩此前的判断被数据打脸",
+      "text": "哈佛研究显示AI审稿比专家更准，陶哲轩此前的判断被数据打脸",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xSXpkNB7Z4",
+      "section": "tech",
+      "pub_time": 1792821776.0,
+      "pub_display": "10-24 14:02"
+    },
+    {
+      "index": 10,
+      "title": "宇航员干眼症有救了！首款无重力眼部给药贴片面世",
+      "summary": "首款无重力眼部给药贴片面世，针对宇航员干眼症，航天医学转化落地",
+      "text": "首款无重力眼部给药贴片面世，针对宇航员干眼症，航天医学转化落地",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xTp6Tz5ezW",
+      "section": "tech",
+      "pub_time": 1792811141.0,
+      "pub_display": "10-24 11:05"
+    },
+    {
+      "index": 11,
+      "title": "中国信通院：截至 8 月，国内约 1500 万辆乘用车具备领航驾驶辅助（NOA）功能",
+      "summary": "中国信通院：截至8月国内约1500万辆乘用车具备领航驾驶辅助NOA功能，智驾进入规模装车期",
+      "text": "中国信通院：截至8月国内约1500万辆乘用车具备领航驾驶辅助NOA功能，智驾进入规模装车期",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/494.htm",
+      "section": "tech",
+      "pub_time": 1792814551.0,
+      "pub_display": "10-24 12:02"
+    },
+    {
+      "index": 12,
+      "title": "小鹏汽车官宣在欧洲四国实现累计销量破万，覆盖丹麦、挪威、法国、德国",
+      "summary": "小鹏汽车在欧洲丹麦、挪威、法国、德国四国累计销量破万，出海进入放量阶段",
+      "text": "小鹏汽车在欧洲丹麦、挪威、法国、德国四国累计销量破万，出海进入放量阶段",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/422.htm",
+      "section": "tech",
+      "pub_time": 1792802295.0,
+      "pub_display": "10-24 08:38"
+    },
+    {
+      "index": 13,
+      "title": "G341线辘白公路靖远东湾黄河特大桥主桥合龙",
+      "summary": "G341线辘白公路靖远东湾黄河特大桥主桥合龙",
+      "text": "G341线辘白公路靖远东湾黄河特大桥主桥合龙",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720466.shtml",
+      "section": "general",
+      "pub_time": 1792815345.0,
+      "pub_display": "10-24 12:15"
+    },
+    {
+      "index": 14,
+      "title": "拼多多紧急捐赠 1000 万元，驰援西藏那曲抗震救灾",
+      "summary": "拼多多紧急捐赠1000万元，驰援西藏那曲抗震救灾",
+      "text": "拼多多紧急捐赠1000万元，驰援西藏那曲抗震救灾",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/017/512.htm",
+      "section": "general",
+      "pub_time": 1792823330.0,
+      "pub_display": "10-24 14:28"
+    },
+    {
+      "index": 15,
+      "title": "山东枣庄一老师被指体罚学生，区教育局：家长已报警，会跟进处理",
+      "summary": "山东枣庄一老师被指体罚学生，区教育局称家长已报警并将跟进处理",
+      "text": "山东枣庄一老师被指体罚学生，区教育局称家长已报警并将跟进处理",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1792829891.11,
+      "pub_display": "10-24 16:18"
+    },
+    {
+      "index": 16,
+      "title": "广西多地呼吁“外嫁女回娘家”摒弃攀比",
+      "summary": "广西多地呼吁“外嫁女回娘家”摒弃攀比，引导乡村人情消费减负",
+      "text": "广西多地呼吁“外嫁女回娘家”摒弃攀比，引导乡村人情消费减负",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1792833355.541,
+      "pub_display": "10-24 17:15"
+    },
+    {
+      "index": 17,
+      "title": "泽连斯基：不会为结束冲突放弃更多领土",
+      "summary": "",
+      "text": "泽连斯基：不会为结束冲突放弃更多领土",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1792858634.026,
+      "pub_display": "10-25 00:17"
+    },
+    {
+      "index": 18,
+      "title": "在大湾区感受海派风情与岭南乡音的碰撞，舞台剧《繁花》亮相粤港澳大湾区文化艺术节",
+      "summary": "",
+      "text": "在大湾区感受海派风情与岭南乡音的碰撞，舞台剧《繁花》亮相粤港澳大湾区文化艺术节",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1792858584.15,
+      "pub_display": "10-25 00:16"
+    }
+  ]
+}

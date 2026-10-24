@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-10-24 19:35:28",
-  "total": 105,
+  "updated_at": "2026-10-25 00:21:09",
+  "total": 106,
   "briefs": [
+    {
+      "date": "2026-10-25",
+      "display": "2026年10月25日 星期日",
+      "series": "科技资讯",
+      "headline": "中国信通院，为让数据中心有充足电力Google将",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-10-24",
       "display": "2026年10月24日 星期六",
