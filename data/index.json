@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-25 00:21:09",
+  "updated_at": "2026-10-25 19:00:35",
   "total": 106,
   "briefs": [
     {
       "date": "2026-10-25",
       "display": "2026年10月25日 星期日",
       "series": "科技资讯",
-      "headline": "中国信通院，为让数据中心有充足电力Google将",
+      "headline": "算力扩张撞上电力墙，谷歌付费请用户少用电",
       "count": 18,
       "tech_quota": 12,
       "general_quota": 6,
       "sources": [
+        "36氪",
         "IT之家",
-        "Solidot",
         "中新网",
         "凤凰科技",
-        "澎湃"
+        "雷峰网"
       ]
     },
     {
