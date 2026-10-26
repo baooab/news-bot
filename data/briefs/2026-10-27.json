@@ -1,0 +1,221 @@
+{
+  "series": "科技资讯",
+  "headline": "AI融资再上台阶，Meta抛出950亿美元计划",
+  "date": "2026-10-27",
+  "date_display": "2026年10月27日 星期二 农历九月十八",
+  "weekday": "星期二",
+  "lunar": "农历九月十八",
+  "overview": "本期主线是 AI 资本开支与融资规模再上台阶：Meta 抛出至多 950 亿美元融资、SpaceX 签下约 400 亿美元 GPU 融资，而三星因内存涨价减产 20% 中低端手机，扩张成本正沿供应链传导。",
+  "generated_at": "2026-10-27 02:56:22",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "中新网",
+    "凤凰科技",
+    "澎湃",
+    "雷峰网"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金",
+      "summary": "Meta 宣布至多 950 亿美元融资计划，英伟达、AMD、博通有意认购至多 50 亿美元股票",
+      "text": "Meta 宣布至多 950 亿美元融资计划，英伟达、AMD、博通有意认购至多 50 亿美元股票",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/018/144.htm",
+      "section": "tech",
+      "pub_time": 1792988781.0,
+      "pub_display": "10-26 12:26"
+    },
+    {
+      "index": 2,
+      "title": "SpaceX 达成史上最大规模 GPU 融资安排，协议总额约 400 亿美元",
+      "summary": "SpaceX 达成史上最大规模 GPU 融资安排，协议总额约 400 亿美元",
+      "text": "SpaceX 达成史上最大规模 GPU 融资安排，协议总额约 400 亿美元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/018/150.htm",
+      "section": "tech",
+      "pub_time": 1792989767.0,
+      "pub_display": "10-26 12:42"
+    },
+    {
+      "index": 3,
+      "title": "Anthropic 提交纳斯达克 IPO 申请，股票代码为“ANT”",
+      "summary": "Anthropic 提交纳斯达克 IPO 申请，股票代码为“ANT”",
+      "text": "Anthropic 提交纳斯达克 IPO 申请，股票代码为“ANT”",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/018/162.htm",
+      "section": "tech",
+      "pub_time": 1792992585.0,
+      "pub_display": "10-26 13:29"
+    },
+    {
+      "index": 4,
+      "title": "DeepSeek 开源看家算子的同一周，AI 超过了它",
+      "summary": "DeepSeek 开源看家算子并公开推理框架，有人据此测算 AI 毛利可达 82%",
+      "text": "DeepSeek 开源看家算子并公开推理框架，有人据此测算 AI 毛利可达 82%",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html",
+      "section": "tech",
+      "pub_time": 1792969080.0,
+      "pub_display": "10-26 06:58"
+    },
+    {
+      "index": 5,
+      "title": "寒武纪董事长回应“明年芯片出货超100万颗”",
+      "summary": "寒武纪董事长回应“明年芯片出货超100万颗”",
+      "text": "寒武纪董事长回应“明年芯片出货超100万颗”",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xVjyJ3rBgt",
+      "section": "tech",
+      "pub_time": 1793014070.0,
+      "pub_display": "10-26 19:27"
+    },
+    {
+      "index": 6,
+      "title": "受内存涨价影响，曝三星计划减产 20% Galaxy A 系中低端手机",
+      "summary": "受内存涨价影响，三星计划减产 20% Galaxy A 系中低端手机",
+      "text": "受内存涨价影响，三星计划减产 20% Galaxy A 系中低端手机",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/018/165.htm",
+      "section": "tech",
+      "pub_time": 1792993108.0,
+      "pub_display": "10-26 13:38"
+    },
+    {
+      "index": 7,
+      "title": "苹果 MacBook Pro 转向 OLED 屏幕后，Mini LED 笔记本面板年出货量预计 2027 年暴跌 75%",
+      "summary": "MacBook Pro 转 OLED 后，Mini LED 笔记本面板年出货量预计 2027 年暴跌 75%",
+      "text": "MacBook Pro 转 OLED 后，Mini LED 笔记本面板年出货量预计 2027 年暴跌 75%",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/018/151.htm",
+      "section": "tech",
+      "pub_time": 1792989887.0,
+      "pub_display": "10-26 12:44"
+    },
+    {
+      "index": 8,
+      "title": "英特尔 CEO 陈立武：已经和 AMD CEO 苏姿丰就潜在合作展开对话",
+      "summary": "英特尔 CEO 陈立武称已与 AMD CEO 苏姿丰就潜在合作展开对话",
+      "text": "英特尔 CEO 陈立武称已与 AMD CEO 苏姿丰就潜在合作展开对话",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/018/155.htm",
+      "section": "tech",
+      "pub_time": 1792990931.0,
+      "pub_display": "10-26 13:02"
+    },
+    {
+      "index": 9,
+      "title": "传三星电子、SK 海力士 2027Q2 全面量产并向英伟达出货 8Hi HBM4 内存",
+      "summary": "传三星、SK 海力士 2027Q2 全面量产 8Hi HBM4 内存并向英伟达出货",
+      "text": "传三星、SK 海力士 2027Q2 全面量产 8Hi HBM4 内存并向英伟达出货",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/018/125.htm",
+      "section": "tech",
+      "pub_time": 1792984019.0,
+      "pub_display": "10-26 11:06"
+    },
+    {
+      "index": 10,
+      "title": "停训11天后重启，OpenAI最强模型断网开练",
+      "summary": "停训 11 天后 OpenAI 重启最强模型训练，但切断互联网以防意外",
+      "text": "停训 11 天后 OpenAI 重启最强模型训练，但切断互联网以防意外",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4041213296612488",
+      "section": "tech",
+      "pub_time": 1792972167.396,
+      "pub_display": "10-26 07:49"
+    },
+    {
+      "index": 11,
+      "title": "刚刚，Reddit最大开源社区全面封杀AI，Linux和Python被除名",
+      "summary": "Reddit 最大开源社区全面封杀 AI 内容，Linux 与 Python 板块被除名",
+      "text": "Reddit 最大开源社区全面封杀 AI 内容，Linux 与 Python 板块被除名",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4042371529921671",
+      "section": "tech",
+      "pub_time": 1792999445.219,
+      "pub_display": "10-26 15:24"
+    },
+    {
+      "index": 12,
+      "title": "小米开源硬件HachimoDock亮相：150元就能复刻万能AI桌宠",
+      "summary": "小米开源硬件 HachimoDock，约 150 元即可复刻万能 AI 桌宠",
+      "text": "小米开源硬件 HachimoDock，约 150 元即可复刻万能 AI 桌宠",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xXA0WYqkAf",
+      "section": "tech",
+      "pub_time": 1792987863.0,
+      "pub_display": "10-26 12:11"
+    },
+    {
+      "index": 13,
+      "title": "违法违规收集个人信息，“东方甄选”等84款移动应用被通报",
+      "summary": "违法违规收集个人信息，“东方甄选”等 84 款移动应用被通报",
+      "text": "违法违规收集个人信息，“东方甄选”等 84 款移动应用被通报",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xXFUkLKgVX",
+      "section": "general",
+      "pub_time": 1792989978.0,
+      "pub_display": "10-26 12:46"
+    },
+    {
+      "index": 14,
+      "title": "央视曝光新能源汽车充电桩“电动自行车充电神器”转接头：无安全认证、极易引发火灾",
+      "summary": "央视曝光新能源汽车充电桩“电动自行车充电神器”转接头：无安全认证、极易引发火灾",
+      "text": "央视曝光新能源汽车充电桩“电动自行车充电神器”转接头：无安全认证、极易引发火灾",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/018/138.htm",
+      "section": "general",
+      "pub_time": 1792987481.0,
+      "pub_display": "10-26 12:04"
+    },
+    {
+      "index": 15,
+      "title": "向校门口的二手烟说“不”，上海开展托幼机构、中小学控烟专项巡查",
+      "summary": "上海开展托幼机构、中小学控烟专项巡查，整治校门口二手烟",
+      "text": "上海开展托幼机构、中小学控烟专项巡查，整治校门口二手烟",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1792980367.094,
+      "pub_display": "10-26 10:06"
+    },
+    {
+      "index": 16,
+      "title": "新建银巴铁路启动联调联试",
+      "summary": "新建银巴铁路启动联调联试",
+      "text": "新建银巴铁路启动联调联试",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10721338.shtml",
+      "section": "general",
+      "pub_time": 1792991187.0,
+      "pub_display": "10-26 13:06"
+    },
+    {
+      "index": 17,
+      "title": "浙江 ETC 服务上新，“手机 +”无卡通行 10 月 29 日上线",
+      "summary": "浙江 ETC 服务上新，“手机+”无卡通行 10 月 29 日上线",
+      "text": "浙江 ETC 服务上新，“手机+”无卡通行 10 月 29 日上线",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/018/176.htm",
+      "section": "general",
+      "pub_time": 1792998077.0,
+      "pub_display": "10-26 15:01"
+    },
+    {
+      "index": 18,
+      "title": "国考资格审查结束，竞争比97:1",
+      "summary": "国考资格审查结束，竞争比达 97:1",
+      "text": "国考资格审查结束，竞争比达 97:1",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793015376.787,
+      "pub_display": "10-26 19:49"
+    }
+  ]
+}
