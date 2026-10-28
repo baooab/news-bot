@@ -1,0 +1,220 @@
+{
+  "series": "科技资讯",
+  "headline": "宇树科技首份财报出炉，Artificial",
+  "date": "2026-10-29",
+  "date_display": "2026年10月29日 星期四 农历九月二十",
+  "weekday": "星期四",
+  "lunar": "农历九月二十",
+  "overview": "本期主线是 AI 从能力竞赛转入兑现与代价清算：宇树科技首份财报前三季净利 3.87 亿元，DeepSeek V4.1 Flash 拿下开源模型最高分、V5 已现身代码库。另一面，Anthropic 实验显示 86% 专家决策被 AI 立场左右，xAI 因噪声被诉后直接收购居民房产。",
+  "generated_at": "2026-10-29 02:34:23",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "宇树科技首份财报出炉：前三季净利3.87亿",
+      "summary": "宇树科技首份财报出炉：前三季净利3.87亿",
+      "text": "宇树科技首份财报出炉：前三季净利3.87亿",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xb0oFvtXtM",
+      "section": "tech",
+      "pub_time": 1793185877.0,
+      "pub_display": "10-28 19:11"
+    },
+    {
+      "index": 2,
+      "title": "Artificial Analysis Intelligence Index v5 基准上线，DeepSeek V4.1 Flash 1017 为 FrontierCode 2.0 开源模型最高成绩",
+      "summary": "Artificial Analysis Intelligence Index v5 上线，DeepSeek V4.1 Flash 1017 拿下 FrontierCode 2.0 开源模型最高分",
+      "text": "Artificial Analysis Intelligence Index v5 上线，DeepSeek V4.1 Flash 1017 拿下 FrontierCode 2.0 开源模型最高分",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/019/237.htm",
+      "section": "tech",
+      "pub_time": 1793178381.0,
+      "pub_display": "10-28 17:06"
+    },
+    {
+      "index": 3,
+      "title": "DeepSeek V5大模型已现身官方代码库",
+      "summary": "DeepSeek V5大模型已现身官方代码库",
+      "text": "DeepSeek V5大模型已现身官方代码库",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xaMcSLMZzo",
+      "section": "tech",
+      "pub_time": 1793164696.0,
+      "pub_display": "10-28 13:18"
+    },
+    {
+      "index": 4,
+      "title": "彭博行业研究：中国AI大模型将在2030年引领全球",
+      "summary": "彭博行业研究：中国AI大模型将在2030年引领全球，给出明确时间表判断",
+      "text": "彭博行业研究：中国AI大模型将在2030年引领全球，给出明确时间表判断",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xabEL09CBt",
+      "section": "tech",
+      "pub_time": 1793165782.0,
+      "pub_display": "10-28 13:36"
+    },
+    {
+      "index": 5,
+      "title": "现实版「思想钢印」， Anthropic惊悚实验曝光，86%顶尖专家关键决策被AI控制",
+      "summary": "Anthropic 实验曝光：86% 顶尖专家关键决策被 AI 立场左右，人类判断边界被量化",
+      "text": "Anthropic 实验曝光：86% 顶尖专家关键决策被 AI 立场左右，人类判断边界被量化",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4045003602007172",
+      "section": "tech",
+      "pub_time": 1793161611.588,
+      "pub_display": "10-28 12:26"
+    },
+    {
+      "index": 6,
+      "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
+      "summary": "31岁亚马逊前华人女工程师听信 GPT 用药建议自行停药后死亡，父母起诉 OpenAI",
+      "text": "31岁亚马逊前华人女工程师听信 GPT 用药建议自行停药后死亡，父母起诉 OpenAI",
+      "source": "澎湃",
+      "link": "",
+      "section": "tech",
+      "pub_time": 1793183544.329,
+      "pub_display": "10-28 18:32"
+    },
+    {
+      "index": 7,
+      "title": "FCC 再度驳回 TP-LINK 在美国销售 Wi-Fi 8 路由器申请，指其提交虚假文件、部分产品功率超标",
+      "summary": "FCC 再度驳回 TP-LINK 在美销售 Wi-Fi 8 路由器申请，指其提交虚假文件、功率超标",
+      "text": "FCC 再度驳回 TP-LINK 在美销售 Wi-Fi 8 路由器申请，指其提交虚假文件、功率超标",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/019/229.htm",
+      "section": "tech",
+      "pub_time": 1793172953.0,
+      "pub_display": "10-28 15:35"
+    },
+    {
+      "index": 8,
+      "title": "马斯克动用钞能力：美国居民起诉数据中心噪声后，xAI 准备直接收购其房产",
+      "summary": "xAI 因数据中心噪声被居民起诉，转而直接收购其房产，算力扩张代价首次以买断方式解决",
+      "text": "xAI 因数据中心噪声被居民起诉，转而直接收购其房产，算力扩张代价首次以买断方式解决",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/019/222.htm",
+      "section": "tech",
+      "pub_time": 1793171525.0,
+      "pub_display": "10-28 15:12"
+    },
+    {
+      "index": 9,
+      "title": "黄仁勋砸200亿，押注扎克伯格",
+      "summary": "黄仁勋砸200亿，押注扎克伯格",
+      "text": "黄仁勋砸200亿，押注扎克伯格",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4044084558959489",
+      "section": "tech",
+      "pub_time": 1793143100.421,
+      "pub_display": "10-28 07:18"
+    },
+    {
+      "index": 10,
+      "title": "微软要一刀裁掉大半个Meta，Copilot沦为重灾区",
+      "summary": "微软要一刀裁掉大半个 Meta，Copilot沦为重灾区",
+      "text": "微软要一刀裁掉大半个 Meta，Copilot沦为重灾区",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4045048546154374",
+      "section": "tech",
+      "pub_time": 1793162950.768,
+      "pub_display": "10-28 12:49"
+    },
+    {
+      "index": 11,
+      "title": "小度CEO李莹离职，百度副总裁阮瑜接任",
+      "summary": "小度 CEO 李莹离职，百度副总裁阮瑜接任，智能助手业务换帅",
+      "text": "小度 CEO 李莹离职，百度副总裁阮瑜接任，智能助手业务换帅",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xaUiULdS2v",
+      "section": "tech",
+      "pub_time": 1793158497.0,
+      "pub_display": "10-28 11:34"
+    },
+    {
+      "index": 12,
+      "title": "小鹏机器人固态电池小批量量产",
+      "summary": "小鹏机器人固态电池小批量量产",
+      "text": "小鹏机器人固态电池小批量量产",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xaYz3CZoEi",
+      "section": "tech",
+      "pub_time": 1793164775.0,
+      "pub_display": "10-28 13:19"
+    },
+    {
+      "index": 13,
+      "title": "西班牙官方公布高铁相撞事故已致64人死亡",
+      "summary": "西班牙官方公布高铁相撞事故已致 64 人死亡",
+      "text": "西班牙官方公布高铁相撞事故已致 64 人死亡",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793192640.038,
+      "pub_display": "10-28 21:04"
+    },
+    {
+      "index": 14,
+      "title": "西藏巴青7.0级地震：首获地表破裂无人机高清影像 锁定发震构造",
+      "summary": "西藏巴青 7.0 级地震首获地表破裂无人机高清影像，锁定发震构造",
+      "text": "西藏巴青 7.0 级地震首获地表破裂无人机高清影像，锁定发震构造",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-28/10722258.shtml",
+      "section": "general",
+      "pub_time": 1793147766.0,
+      "pub_display": "10-28 08:36"
+    },
+    {
+      "index": 15,
+      "title": "“徽剑”之死：电诈头目刘忍已被捕，旗下金贝集团是柬埔寨最大电诈团伙之一",
+      "summary": "反诈博主“徽剑”遇害案进展：电诈头目刘忍已被捕，旗下金贝集团为柬埔寨最大电诈团伙之一",
+      "text": "反诈博主“徽剑”遇害案进展：电诈头目刘忍已被捕，旗下金贝集团为柬埔寨最大电诈团伙之一",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4044076113564547",
+      "section": "general",
+      "pub_time": 1793145270.618,
+      "pub_display": "10-28 07:54"
+    },
+    {
+      "index": 16,
+      "title": "美联储宣布维持利率不变",
+      "summary": "",
+      "text": "美联储宣布维持利率不变",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793210576.528,
+      "pub_display": "10-29 02:02"
+    },
+    {
+      "index": 17,
+      "title": "内塔尼亚胡阵营在议会选举中领先，但未过半数",
+      "summary": "",
+      "text": "内塔尼亚胡阵营在议会选举中领先，但未过半数",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793204488.741,
+      "pub_display": "10-29 00:21"
+    },
+    {
+      "index": 18,
+      "title": "华为“天才少年”杨玉雯加盟南京大学",
+      "summary": "",
+      "text": "华为“天才少年”杨玉雯加盟南京大学",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793194391.536,
+      "pub_display": "10-28 21:33"
+    }
+  ]
+}

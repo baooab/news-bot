@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-10-28 22:18:13",
-  "total": 109,
+  "updated_at": "2026-10-29 02:34:23",
+  "total": 110,
   "briefs": [
+    {
+      "date": "2026-10-29",
+      "display": "2026年10月29日 星期四",
+      "series": "科技资讯",
+      "headline": "宇树科技首份财报出炉，Artificial",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-10-28",
       "display": "2026年10月28日 星期三",
