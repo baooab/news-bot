@@ -1,0 +1,222 @@
+{
+  "series": "科技资讯",
+  "headline": "FTC批准亚马逊以115亿美元收购，Alphabet盘初跌超13%",
+  "date": "2026-10-30",
+  "date_display": "2026年10月30日 星期五 农历九月廿一",
+  "weekday": "星期五",
+  "lunar": "农历九月廿一",
+  "overview": "本期主线是存储与算力资产被重新定价：中际旭创净利增211.81%、江波龙增1909.68%，亚马逊115亿美元收购Globalstar，Alphabet单日跌13%。AI扩张的资本代价与收益正同时被摆上台面。",
+  "generated_at": "2026-10-30 02:43:42",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃",
+    "雷峰网"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "FTC 批准亚马逊以 115 亿美元收购 Globalstar",
+      "summary": "FTC批准亚马逊以115亿美元收购 Globalstar，卫星通信资产并入AWS生态",
+      "text": "FTC批准亚马逊以115亿美元收购 Globalstar，卫星通信资产并入AWS生态",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85740",
+      "section": "tech",
+      "pub_time": 1793228932.0,
+      "pub_display": "10-29 07:08"
+    },
+    {
+      "index": 2,
+      "title": "谷歌 Alphabet 盘初跌超 13% 创其历史上最大单日跌幅",
+      "summary": "Alphabet盘初跌超13%，创其历史上最大单日跌幅",
+      "text": "Alphabet盘初跌超13%，创其历史上最大单日跌幅",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/019/773.htm",
+      "section": "tech",
+      "pub_time": 1793252442.0,
+      "pub_display": "10-29 13:40"
+    },
+    {
+      "index": 3,
+      "title": "中际旭创2026年前三季度净利润同比增长211.81%，达222.38亿元",
+      "summary": "中际旭创前三季度净利润222.38亿元，同比增长211.81%",
+      "text": "中际旭创前三季度净利润222.38亿元，同比增长211.81%",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xcfrjRwwvB",
+      "section": "tech",
+      "pub_time": 1793273015.0,
+      "pub_display": "10-29 19:23"
+    },
+    {
+      "index": 4,
+      "title": "兆易创新2026年前三季净利110.66亿，同比增长921.55%",
+      "summary": "兆易创新前三季净利110.66亿元，同比增长921.55%",
+      "text": "兆易创新前三季净利110.66亿元，同比增长921.55%",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xcYPDpMPO2",
+      "section": "tech",
+      "pub_time": 1793266957.0,
+      "pub_display": "10-29 17:42"
+    },
+    {
+      "index": 5,
+      "title": "江波龙 2026 年前三季度归母净利润 143.22 亿元，同比增长 1909.68%",
+      "summary": "江波龙前三季度归母净利润143.22亿元，同比增长1909.68%",
+      "text": "江波龙前三季度归母净利润143.22亿元，同比增长1909.68%",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/019/735.htm",
+      "section": "tech",
+      "pub_time": 1793245587.0,
+      "pub_display": "10-29 11:46"
+    },
+    {
+      "index": 6,
+      "title": "马斯克称机器人内存需求将超过所有设备，存储板块大涨",
+      "summary": "马斯克称机器人内存需求将超过所有设备，存储板块大涨",
+      "text": "马斯克称机器人内存需求将超过所有设备，存储板块大涨",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4045722193974149",
+      "section": "tech",
+      "pub_time": 1793233512.674,
+      "pub_display": "10-29 08:25"
+    },
+    {
+      "index": 7,
+      "title": "大语言模型“收入榜”出炉，阿里云以46.6%份额居首",
+      "summary": "大语言模型收入榜：阿里云以46.6%份额居首",
+      "text": "大语言模型收入榜：阿里云以46.6%份额居首",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/industrynews/VsFzLhOgbV95UM6v.html",
+      "section": "tech",
+      "pub_time": 1793229180.0,
+      "pub_display": "10-29 07:13"
+    },
+    {
+      "index": 8,
+      "title": "豆包工作向企业客户推出第三方模型服务：含 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等",
+      "summary": "豆包工作向企业客户开放第三方模型，含 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash",
+      "text": "豆包工作向企业客户开放第三方模型，含 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/019/733.htm",
+      "section": "tech",
+      "pub_time": 1793244863.0,
+      "pub_display": "10-29 11:34"
+    },
+    {
+      "index": 9,
+      "title": "蚂蚁灵光2.0打通钉钉、支付宝等数十项服务，加速走向“能管事”",
+      "summary": "蚂蚁灵光2.0打通钉钉、支付宝等数十项服务，从对话走向能管事",
+      "text": "蚂蚁灵光2.0打通钉钉、支付宝等数十项服务，从对话走向能管事",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/industrynews/eigNbrwrLkMYpiwN.html",
+      "section": "tech",
+      "pub_time": 1793235240.0,
+      "pub_display": "10-29 08:54"
+    },
+    {
+      "index": 10,
+      "title": "腾讯推出Buddy One跨应用AI体系",
+      "summary": "腾讯推出 Buddy One跨应用AI体系，不推独立 App",
+      "text": "腾讯推出 Buddy One跨应用AI体系，不推独立 App",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xcQElLpVFu",
+      "section": "tech",
+      "pub_time": 1793261152.0,
+      "pub_display": "10-29 16:05"
+    },
+    {
+      "index": 11,
+      "title": "月之暗面 Kimi 接入谷歌 Gmail、云端硬盘和日历",
+      "summary": "月之暗面 Kimi接入谷歌 Gmail、云端硬盘和日历",
+      "text": "月之暗面 Kimi接入谷歌 Gmail、云端硬盘和日历",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/019/782.htm",
+      "section": "tech",
+      "pub_time": 1793255259.0,
+      "pub_display": "10-29 14:27"
+    },
+    {
+      "index": 12,
+      "title": "微软发布自 2018 年以来最大 DirectX 光追升级：AMD RX 9070 示例性能提升约 66 倍",
+      "summary": "微软发布2018年以来最大 DirectX光追升级，AMD RX 9070示例性能提升约66倍",
+      "text": "微软发布2018年以来最大 DirectX光追升级，AMD RX 9070示例性能提升约66倍",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/019/781.htm",
+      "section": "tech",
+      "pub_time": 1793255253.0,
+      "pub_display": "10-29 14:27"
+    },
+    {
+      "index": 13,
+      "title": "西藏自治区交通运输厅针对巴青7.0级地震已排查公路29353公里",
+      "summary": "西藏交通运输厅针对巴青7.0级地震已排查公路29353公里",
+      "text": "西藏交通运输厅针对巴青7.0级地震已排查公路29353公里",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-29/10722914.shtml",
+      "section": "general",
+      "pub_time": 1793244102.0,
+      "pub_display": "10-29 11:21"
+    },
+    {
+      "index": 14,
+      "title": "注意防范 这些地方将有大暴雪、特大暴雪",
+      "summary": "气象部门预警：部分地区将有大暴雪、特大暴雪",
+      "text": "气象部门预警：部分地区将有大暴雪、特大暴雪",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-29/10722911.shtml",
+      "section": "general",
+      "pub_time": 1793243879.0,
+      "pub_display": "10-29 11:17"
+    },
+    {
+      "index": 15,
+      "title": "大风蓝色预警：内蒙古黑龙江等10省区部分地区阵风可达7至9级",
+      "summary": "大风蓝色预警：内蒙古黑龙江等10省区阵风可达7至9级",
+      "text": "大风蓝色预警：内蒙古黑龙江等10省区阵风可达7至9级",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-29/10722895.shtml",
+      "section": "general",
+      "pub_time": 1793243457.0,
+      "pub_display": "10-29 11:10"
+    },
+    {
+      "index": 16,
+      "title": "进博抢鲜看｜不但能听清声音还可辨别方向，这款人工耳蜗为何是全球唯一？",
+      "summary": "进博会展示全球唯一可辨方向人工耳蜗",
+      "text": "进博会展示全球唯一可辨方向人工耳蜗",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793228755.853,
+      "pub_display": "10-29 07:05"
+    },
+    {
+      "index": 17,
+      "title": "“理财产品要变相保本了”系误读政策（2026·10·29）",
+      "summary": "“理财产品要变相保本了”系误读政策（2026·10·29）",
+      "text": "“理财产品要变相保本了”系误读政策（2026·10·29）",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-29/10722930.shtml",
+      "section": "general",
+      "pub_time": 1793245375.0,
+      "pub_display": "10-29 11:42"
+    },
+    {
+      "index": 18,
+      "title": "ChatGPT建议减药致华人女工程师离世，OpenAI遭起诉",
+      "summary": "ChatGPT建议减药致华人女工程师离世，OpenAI遭起诉",
+      "text": "ChatGPT建议减药致华人女工程师离世，OpenAI遭起诉",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4045723396739973",
+      "section": "general",
+      "pub_time": 1793233474.405,
+      "pub_display": "10-29 08:24"
+    }
+  ]
+}

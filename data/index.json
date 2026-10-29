@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-29 22:13:58",
-  "total": 110,
+  "updated_at": "2026-10-30 02:43:42",
+  "total": 111,
   "briefs": [
+    {
+      "date": "2026-10-30",
+      "display": "2026年10月30日 星期五",
+      "series": "科技资讯",
+      "headline": "FTC批准亚马逊以115亿美元收购，Alphabet盘初跌超13%",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃",
+        "雷峰网"
+      ]
+    },
     {
       "date": "2026-10-29",
       "display": "2026年10月29日 星期四",
