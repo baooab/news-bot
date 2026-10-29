@@ -1,21 +1,23 @@
 {
-  "updated_at": "2026-10-29 02:34:23",
+  "updated_at": "2026-10-29 22:13:58",
   "total": 110,
   "briefs": [
     {
       "date": "2026-10-29",
       "display": "2026年10月29日 星期四",
       "series": "科技资讯",
-      "headline": "宇树科技首份财报出炉，Artificial",
+      "headline": "模型王座一夜易主，谷歌Gemini 4登顶却市值蒸发3000亿美元",
       "count": 18,
       "tech_quota": 12,
       "general_quota": 6,
       "sources": [
         "36氪",
         "IT之家",
+        "Solidot",
         "中新网",
         "凤凰科技",
-        "澎湃"
+        "澎湃",
+        "雷峰网"
       ]
     },
     {
