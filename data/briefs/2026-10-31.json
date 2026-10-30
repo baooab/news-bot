@@ -1,0 +1,222 @@
+{
+  "series": "科技资讯",
+  "headline": "谷歌创上市至今最大跌幅，奥特曼自曝OpenAI新模型",
+  "date": "2026-10-31",
+  "date_display": "2026年10月31日 星期六 农历九月廿二",
+  "weekday": "星期六",
+  "lunar": "农历九月廿二",
+  "overview": "本期主线是AI叙事第一次被市场公开算账：谷歌创上市以来最大跌幅、市值蒸发逾5000亿美元，英特尔因Fab 28爆炸停产两周、预计损失6亿美元营收，股价开盘跌超30%。另一边，GPT-6在250道3D题上仅得0.53分，能力与估值之间的落差被同时摆上台面。",
+  "generated_at": "2026-10-31 02:20:28",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃",
+    "雷峰网"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "Google 创上市至今最大跌幅，市值蒸发逾 5000 亿美元",
+      "summary": "谷歌创上市至今最大跌幅，市值蒸发逾5000亿美元，AI投入回报遭市场重估",
+      "text": "谷歌创上市至今最大跌幅，市值蒸发逾5000亿美元，AI投入回报遭市场重估",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85752",
+      "section": "tech",
+      "pub_time": 1793319029.0,
+      "pub_display": "10-30 08:10"
+    },
+    {
+      "index": 2,
+      "title": "刚刚，奥特曼自曝OpenAI新模型：让我兴奋到两晚没睡",
+      "summary": "奥特曼自曝 OpenAI新模型，称兴奋到两晚没睡，未公布参数与发布时间",
+      "text": "奥特曼自曝 OpenAI新模型，称兴奋到两晚没睡，未公布参数与发布时间",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4047595233098247",
+      "section": "tech",
+      "pub_time": 1793319528.605,
+      "pub_display": "10-30 08:18"
+    },
+    {
+      "index": 3,
+      "title": "GPT-6“看不懂 3D”实锤，250道题只拿0.53分，Claude没及格",
+      "summary": "GPT-6空间推理实测：250道3D题仅得0.53分，Claude同样未及格",
+      "text": "GPT-6空间推理实测：250道3D题仅得0.53分，Claude同样未及格",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4048320092912129",
+      "section": "tech",
+      "pub_time": 1793364914.029,
+      "pub_display": "10-30 20:55"
+    },
+    {
+      "index": 4,
+      "title": "MiniMax H3 开源生态持续拓展，英伟达团队开源 4K 视频增强方案",
+      "summary": "MiniMax H3开源生态扩容，英伟达团队开源4K视频增强方案",
+      "text": "MiniMax H3开源生态扩容，英伟达团队开源4K视频增强方案",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/industrynews/eJ3swacisd2iTByo.html",
+      "section": "tech",
+      "pub_time": 1793315160.0,
+      "pub_display": "10-30 07:06"
+    },
+    {
+      "index": 5,
+      "title": "小米开源 0.8B 参数 OCR 小模型：打通文档解析与视觉问答，支持 Markdown 与 JSON 输出",
+      "summary": "小米开源0.8B参数OCR小模型，打通文档解析与视觉问答，支持 Markdown与JSON输出",
+      "text": "小米开源0.8B参数OCR小模型，打通文档解析与视觉问答，支持 Markdown与JSON输出",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/346.htm",
+      "section": "tech",
+      "pub_time": 1793337317.0,
+      "pub_display": "10-30 13:15"
+    },
+    {
+      "index": 6,
+      "title": "Claude Code for VS Code 官方扩展被植入后门",
+      "summary": "Claude Code for VS Code官方扩展被植入后门，开发者工具链成攻击面",
+      "text": "Claude Code for VS Code官方扩展被植入后门，开发者工具链成攻击面",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85756",
+      "section": "tech",
+      "pub_time": 1793339031.0,
+      "pub_display": "10-30 13:43"
+    },
+    {
+      "index": 7,
+      "title": "英特尔：以色列 Fab 28 爆炸事故已致工厂停产约两周，预计 Q3 和 Q4 两个季度损失 6 亿美元营收",
+      "summary": "英特尔以色列 Fab 28爆炸停产约两周，预计Q3、Q4合计损失6亿美元营收",
+      "text": "英特尔以色列 Fab 28爆炸停产约两周，预计Q3、Q4合计损失6亿美元营收",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/385.htm",
+      "section": "tech",
+      "pub_time": 1793346587.0,
+      "pub_display": "10-30 15:49"
+    },
+    {
+      "index": 8,
+      "title": "英特尔股价开盘跌超 30%，或将创下有记录以来最大单日跌幅",
+      "summary": "英特尔股价开盘跌超30%，或创有记录以来最大单日跌幅",
+      "text": "英特尔股价开盘跌超30%，或创有记录以来最大单日跌幅",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/364.htm",
+      "section": "tech",
+      "pub_time": 1793340049.0,
+      "pub_display": "10-30 14:00"
+    },
+    {
+      "index": 9,
+      "title": "天数智芯天垓300实测对标H200，国产GPU接下来拼什么？",
+      "summary": "天数智芯天垓300实测对标英伟达H200，单卡吞吐约为1.05倍",
+      "text": "天数智芯天垓300实测对标英伟达H200，单卡吞吐约为1.05倍",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/chips/748GRHfg9VPRbp7x.html",
+      "section": "tech",
+      "pub_time": 1793322120.0,
+      "pub_display": "10-30 09:02"
+    },
+    {
+      "index": 10,
+      "title": "刚刚，中国首个AI定义芯片诞生",
+      "summary": "中国首个AI定义芯片发布，芯片设计流程由AI主导完成",
+      "text": "中国首个AI定义芯片发布，芯片设计流程由AI主导完成",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xdpukAXGMN",
+      "section": "tech",
+      "pub_time": 1793336377.0,
+      "pub_display": "10-30 12:59"
+    },
+    {
+      "index": 11,
+      "title": "苹果已收购数据工程公司 Ascend.io，扩大 AI 技术布局",
+      "summary": "苹果收购数据工程公司 Ascend.io，扩大AI数据管线布局",
+      "text": "苹果收购数据工程公司 Ascend.io，扩大AI数据管线布局",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/354.htm",
+      "section": "tech",
+      "pub_time": 1793338401.0,
+      "pub_display": "10-30 13:33"
+    },
+    {
+      "index": 12,
+      "title": "杭州国资入股李开复创办的零一万物",
+      "summary": "杭州国资入股李开复创办的零一万物，国资加注大模型公司",
+      "text": "杭州国资入股李开复创办的零一万物，国资加注大模型公司",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xdisR8FYGx",
+      "section": "tech",
+      "pub_time": 1793327042.0,
+      "pub_display": "10-30 10:24"
+    },
+    {
+      "index": 13,
+      "title": "西藏巴青7.0级地震：受灾民众板房入住率超七成",
+      "summary": "西藏巴青7.0级地震受灾民众板房入住率超七成",
+      "text": "西藏巴青7.0级地震受灾民众板房入住率超七成",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-30/10723638.shtml",
+      "section": "general",
+      "pub_time": 1793338784.0,
+      "pub_display": "10-30 13:39"
+    },
+    {
+      "index": 14,
+      "title": "三部门增加调拨1000套中央救灾物资板房 保障西藏受灾群众安全温暖过冬",
+      "summary": "三部门增调1000套中央救灾板房，保障西藏受灾群众安全温暖过冬",
+      "text": "三部门增调1000套中央救灾板房，保障西藏受灾群众安全温暖过冬",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-30/10723655.shtml",
+      "section": "general",
+      "pub_time": 1793339582.0,
+      "pub_display": "10-30 13:53"
+    },
+    {
+      "index": 15,
+      "title": "学生摆拍大体老师头骨标本，长沙民政医学院通报：给予校纪处分",
+      "summary": "长沙民政医学院通报学生摆拍大体老师头骨标本，给予校纪处分并全面整改",
+      "text": "长沙民政医学院通报学生摆拍大体老师头骨标本，给予校纪处分并全面整改",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793333154.907,
+      "pub_display": "10-30 12:05"
+    },
+    {
+      "index": 16,
+      "title": "官方通报“湘江三大桥桥墩疑似倾斜”：非桥梁桥墩主体结构",
+      "summary": "官方通报湘江三大桥桥墩疑似倾斜：非桥梁桥墩主体结构",
+      "text": "官方通报湘江三大桥桥墩疑似倾斜：非桥梁桥墩主体结构",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-30/10723501.shtml",
+      "section": "general",
+      "pub_time": 1793326573.0,
+      "pub_display": "10-30 10:16"
+    },
+    {
+      "index": 17,
+      "title": "公安部拟规定：办理性侵害案件询问未成年女性时，应由女警员尽量一次完成",
+      "summary": "公安部拟规定：办理性侵害案件询问未成年女性时，应由女警员尽量一次完成",
+      "text": "公安部拟规定：办理性侵害案件询问未成年女性时，应由女警员尽量一次完成",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793338119.502,
+      "pub_display": "10-30 13:28"
+    },
+    {
+      "index": 18,
+      "title": "周末要降温！全国冬装出场地图来了 看看哪里寒凉加重需添衣",
+      "summary": "全国冬装出场地图发布，周末多地降温寒凉加重需添衣",
+      "text": "全国冬装出场地图发布，周末多地降温寒凉加重需添衣",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-30/10723483.shtml",
+      "section": "general",
+      "pub_time": 1793323658.0,
+      "pub_display": "10-30 09:27"
+    }
+  ]
+}
