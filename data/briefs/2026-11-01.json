@@ -1,0 +1,221 @@
+{
+  "series": "科技资讯",
+  "headline": "存储芯片短缺加剧，存储五巨头单季营业利润与净利总额首次",
+  "date": "2026-11-01",
+  "date_display": "2026年11月01日 星期日 农历九月廿三",
+  "weekday": "星期日",
+  "lunar": "农历九月廿三",
+  "overview": "本期主线是AI算力扩张撞上存储短缺：微软、谷歌、甲骨文等承诺AI基建投入超3万亿美元，奥尔特曼亲赴韩国会见约50名三星高管锁内存。同一批新闻里，存储五巨头单季利润首超美国科技五巨头，而纳斯达克本月或蒸发2万亿美元市值——扩张的代价与回报正被同时摆上台面。",
+  "generated_at": "2026-11-01 01:26:06",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
+      "summary": "微软、谷歌、甲骨文等巨头承诺AI基建投入超3万亿美元，算力军备竞赛进入万亿级",
+      "text": "微软、谷歌、甲骨文等巨头承诺AI基建投入超3万亿美元，算力军备竞赛进入万亿级",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/632.htm",
+      "section": "tech",
+      "pub_time": 1793433360.0,
+      "pub_display": "10-31 15:56"
+    },
+    {
+      "index": 2,
+      "title": "存储芯片短缺加剧之际，OpenAI 奥尔特曼赴韩与约 50 名三星高管会面",
+      "summary": "存储芯片短缺加剧，奥尔特曼赴韩会见约50名三星高管锁定内存供应",
+      "text": "存储芯片短缺加剧，奥尔特曼赴韩会见约50名三星高管锁定内存供应",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/597.htm",
+      "section": "tech",
+      "pub_time": 1793419848.0,
+      "pub_display": "10-31 12:10"
+    },
+    {
+      "index": 3,
+      "title": "数据显示，“存储五巨头”上季度营业利润及净利总额首超美国科技五巨头",
+      "summary": "存储五巨头单季营业利润与净利总额首次超过美国科技五巨头，存储周期反转",
+      "text": "存储五巨头单季营业利润与净利总额首次超过美国科技五巨头，存储周期反转",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/617.htm",
+      "section": "tech",
+      "pub_time": 1793425572.0,
+      "pub_display": "10-31 13:46"
+    },
+    {
+      "index": 4,
+      "title": "长鑫科技：基于 4F² 架构的第六代技术平台 DRAM 完成工程样片验证",
+      "summary": "长鑫科技基于4F²架构的第六代DRAM完成工程样片验证，国产存储推进代际追赶",
+      "text": "长鑫科技基于4F²架构的第六代DRAM完成工程样片验证，国产存储推进代际追赶",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/599.htm",
+      "section": "tech",
+      "pub_time": 1793420778.0,
+      "pub_display": "10-31 12:26"
+    },
+    {
+      "index": 5,
+      "title": "苹果选择千问，阿里AI拿到大结果",
+      "summary": "苹果选择千问，阿里AI拿到大结果",
+      "text": "苹果选择千问，阿里AI拿到大结果",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xfZQSQLODU",
+      "section": "tech",
+      "pub_time": 1793424918.0,
+      "pub_display": "10-31 13:35"
+    },
+    {
+      "index": 6,
+      "title": "阿里宣布与苹果合作，将千问集成至Apple智能",
+      "summary": "阿里宣布与苹果合作，将千问集成至 Apple智能，国行AI落地路径明确",
+      "text": "阿里宣布与苹果合作，将千问集成至 Apple智能，国行AI落地路径明确",
+      "source": "澎湃",
+      "link": "",
+      "section": "tech",
+      "pub_time": 1793403971.218,
+      "pub_display": "10-31 07:46"
+    },
+    {
+      "index": 7,
+      "title": "Claude套餐大升级！Max 20x 升级为 Ultra，5 小时限额直接取消",
+      "summary": "Claude套餐升级，Max 20x改为 Ultra并取消5小时限额，订阅竞争转向用量",
+      "text": "Claude套餐升级，Max 20x改为 Ultra并取消5小时限额，订阅竞争转向用量",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4049021975886084",
+      "section": "tech",
+      "pub_time": 1793409358.004,
+      "pub_display": "10-31 09:15"
+    },
+    {
+      "index": 8,
+      "title": "DeepSeek 提出 Super-agent 架构设计：Router 与 Worker 双层架构，探索更自主的 Agent 系统",
+      "summary": "DeepSeek提出 Super-agent架构，Router与 Worker双层设计探索更自主的 Agent系统",
+      "text": "DeepSeek提出 Super-agent架构，Router与 Worker双层设计探索更自主的 Agent系统",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/615.htm",
+      "section": "tech",
+      "pub_time": 1793424995.0,
+      "pub_display": "10-31 13:36"
+    },
+    {
+      "index": 9,
+      "title": "币安63亿美元被盗，源头竟是一台工程师笔记本",
+      "summary": "币安63亿美元被盗，源头为一台工程师笔记本，交易所安全边界再受拷问",
+      "text": "币安63亿美元被盗，源头为一台工程师笔记本，交易所安全边界再受拷问",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xfblvOyLZe",
+      "section": "tech",
+      "pub_time": 1793424202.0,
+      "pub_display": "10-31 13:23"
+    },
+    {
+      "index": 10,
+      "title": "史上最大 IPO 前夕，黑石突然改口称 Anthropic 或无法获得投资级信用评级",
+      "summary": "黑石在 Anthropic史上最大IPO前夕改口，称其或无法获得投资级信用评级",
+      "text": "黑石在 Anthropic史上最大IPO前夕改口，称其或无法获得投资级信用评级",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/610.htm",
+      "section": "tech",
+      "pub_time": 1793423401.0,
+      "pub_display": "10-31 13:10"
+    },
+    {
+      "index": 11,
+      "title": "总投资约 295 亿，全球首条印刷 OLED G8.6 代产线 TCL 华星 t8 项目设备正式搬入",
+      "summary": "总投资约295亿元的TCL华星t8印刷OLED G8.6代线设备搬入，全球首条该世代产线",
+      "text": "总投资约295亿元的TCL华星t8印刷OLED G8.6代线设备搬入，全球首条该世代产线",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/592.htm",
+      "section": "tech",
+      "pub_time": 1793417783.0,
+      "pub_display": "10-31 11:36"
+    },
+    {
+      "index": 12,
+      "title": "中国首次载人登月计划由三人组成其中两人将着陆月球表面",
+      "summary": "中国首次载人登月计划由3人组成，其中2人将着陆月球表面",
+      "text": "中国首次载人登月计划由3人组成，其中2人将着陆月球表面",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85762",
+      "section": "tech",
+      "pub_time": 1793420671.0,
+      "pub_display": "10-31 12:24"
+    },
+    {
+      "index": 13,
+      "title": "四川勒多曼因峰有4人滑坠致2人遇难，系违规登山",
+      "summary": "四川勒多曼因峰4人滑坠致2人遇难，经查系违规登山",
+      "text": "四川勒多曼因峰4人滑坠致2人遇难，经查系违规登山",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793456955.89,
+      "pub_display": "10-31 22:29"
+    },
+    {
+      "index": 14,
+      "title": "四川华蓥大摆荡项目事故调查报告公布",
+      "summary": "四川华蓥大摆荡项目事故调查报告公布，相关责任与原因对外披露",
+      "text": "四川华蓥大摆荡项目事故调查报告公布，相关责任与原因对外披露",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793450526.564,
+      "pub_display": "10-31 20:42"
+    },
+    {
+      "index": 15,
+      "title": "陪诊行业首个国标明起实施 这7件事陪诊员不能做",
+      "summary": "陪诊行业首个国家标准明起实施，明确陪诊员7件不能做的事",
+      "text": "陪诊行业首个国家标准明起实施，明确陪诊员7件不能做的事",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723936.shtml",
+      "section": "general",
+      "pub_time": 1793406838.0,
+      "pub_display": "10-31 08:33"
+    },
+    {
+      "index": 16,
+      "title": "涉电动汽车、App 适老化等，500 多项国家标准下月实施",
+      "summary": "涉电动汽车、App适老化等500多项国家标准下月实施",
+      "text": "涉电动汽车、App适老化等500多项国家标准下月实施",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/577.htm",
+      "section": "general",
+      "pub_time": 1793413008.0,
+      "pub_display": "10-31 10:16"
+    },
+    {
+      "index": 17,
+      "title": "大范围雨雪降温影响中国 局地降温10℃以上",
+      "summary": "大范围雨雪降温影响中国，局地降温10℃以上",
+      "text": "大范围雨雪降温影响中国，局地降温10℃以上",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723855.shtml",
+      "section": "general",
+      "pub_time": 1793394527.0,
+      "pub_display": "10-31 05:08"
+    },
+    {
+      "index": 18,
+      "title": "姚家平水利枢纽工程成功截流 进入主体施工阶段",
+      "summary": "姚家平水利枢纽工程成功截流 进入主体施工阶段",
+      "text": "姚家平水利枢纽工程成功截流 进入主体施工阶段",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723872.shtml",
+      "section": "general",
+      "pub_time": 1793396651.0,
+      "pub_display": "10-31 05:44"
+    }
+  ]
+}
