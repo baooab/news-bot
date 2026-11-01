@@ -1,0 +1,221 @@
+{
+  "series": "科技资讯",
+  "headline": "AI巨头联手定抓取规则，Pika六步生成音视频",
+  "date": "2026-11-02",
+  "date_display": "2026年11月02日 星期一 农历九月廿四",
+  "weekday": "星期一",
+  "lunar": "农历九月廿四",
+  "overview": "本期要闻：Pika 基于 MiniMax H3 开源 H3 Flex；OpenAI、谷歌、微软、Anthropic 联手推行 AI 数据抓取退出标准；xAI 为 Grok 生成文本添加隐形水印。",
+  "generated_at": "2026-11-02 02:12:03",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "中新网",
+    "凤凰科技",
+    "澎湃",
+    "雷峰网"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成",
+      "summary": "Pika 基于 MiniMax H3 开源 H3 Flex，六步完成音视频联合生成，开源模型进入多模态生成核心链路",
+      "text": "Pika 基于 MiniMax H3 开源 H3 Flex，六步完成音视频联合生成，开源模型进入多模态生成核心链路",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
+      "section": "tech",
+      "pub_time": 1793497560.0,
+      "pub_display": "11-01 09:46"
+    },
+    {
+      "index": 2,
+      "title": "OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准",
+      "summary": "OpenAI、谷歌、微软、Anthropic 联手推行 AI 数据抓取退出标准，内容方与模型方首次就抓取边界形成统一规范",
+      "text": "OpenAI、谷歌、微软、Anthropic 联手推行 AI 数据抓取退出标准，内容方与模型方首次就抓取边界形成统一规范",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/837.htm",
+      "section": "tech",
+      "pub_time": 1793513992.0,
+      "pub_display": "11-01 14:19"
+    },
+    {
+      "index": 3,
+      "title": "xAI为Grok生成的文本添加隐形水印，响应欧盟AI法案",
+      "summary": "xAI 为 Grok 生成文本添加隐形水印，以响应欧盟 AI 法案对合成内容标识的要求",
+      "text": "xAI 为 Grok 生成文本添加隐形水印，以响应欧盟 AI 法案对合成内容标识的要求",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xhL6mziJzv",
+      "section": "tech",
+      "pub_time": 1793513974.0,
+      "pub_display": "11-01 14:19"
+    },
+    {
+      "index": 4,
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "summary": "Claude紧急叫停！暗改 Harness禁止逆向游戏",
+      "text": "Claude紧急叫停！暗改 Harness禁止逆向游戏",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4050722097828740",
+      "section": "tech",
+      "pub_time": 1793518554.0,
+      "pub_display": "11-01 15:35"
+    },
+    {
+      "index": 5,
+      "title": "让AI自己做脑部手术，初创公司成功让智能体给小鼠治疗癫痫",
+      "summary": "初创公司让 AI 智能体自主完成小鼠癫痫脑部手术，首次实现智能体闭环操作活体治疗",
+      "text": "初创公司让 AI 智能体自主完成小鼠癫痫脑部手术，首次实现智能体闭环操作活体治疗",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xhOCCg4IpK",
+      "section": "tech",
+      "pub_time": 1793517639.0,
+      "pub_display": "11-01 15:20"
+    },
+    {
+      "index": 6,
+      "title": "中国科研人员成功用全新微创手术治疗心衰患者：不用开胸",
+      "summary": "中国科研人员用全新微创手术治疗心衰患者，无需开胸，器械与术式同步推进",
+      "text": "中国科研人员用全新微创手术治疗心衰患者，无需开胸，器械与术式同步推进",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xhMTId0jo9",
+      "section": "tech",
+      "pub_time": 1793517399.0,
+      "pub_display": "11-01 15:16"
+    },
+    {
+      "index": 7,
+      "title": "加速落地高海拔地区！我国高原新能源装机比重达 52.9%，高于全国平均水平 4.4 个百分点",
+      "summary": "我国高原新能源装机比重达 52.9%，高于全国平均 4.4 个百分点，高海拔清洁能源加速落地",
+      "text": "我国高原新能源装机比重达 52.9%，高于全国平均 4.4 个百分点，高海拔清洁能源加速落地",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/787.htm",
+      "section": "tech",
+      "pub_time": 1793498639.0,
+      "pub_display": "11-01 10:03"
+    },
+    {
+      "index": 8,
+      "title": "市场监管总局发布钢铁智能制造相关国家标准：破设计口径不一、数据互通难题",
+      "summary": "市场监管总局发布钢铁智能制造国家标准，破解设计口径不一与数据互通难题",
+      "text": "市场监管总局发布钢铁智能制造国家标准，破解设计口径不一与数据互通难题",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/820.htm",
+      "section": "tech",
+      "pub_time": 1793505477.0,
+      "pub_display": "11-01 11:57"
+    },
+    {
+      "index": 9,
+      "title": "Qt 推出零代码嵌入式界面设计工具 Clate，设计成果可直接导出 QML 代码",
+      "summary": "Qt 推出零代码嵌入式界面设计工具 Clate，设计成果可直接导出 QML 代码",
+      "text": "Qt 推出零代码嵌入式界面设计工具 Clate，设计成果可直接导出 QML 代码",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/821.htm",
+      "section": "tech",
+      "pub_time": 1793505637.0,
+      "pub_display": "11-01 12:00"
+    },
+    {
+      "index": 10,
+      "title": "中国科学院欧阳明高：动力电池未来十年仍将以磷酸铁锂为主",
+      "summary": "中科院欧阳明高判断动力电池未来十年仍以磷酸铁锂为主，技术路线之争暂告一段落",
+      "text": "中科院欧阳明高判断动力电池未来十年仍以磷酸铁锂为主，技术路线之争暂告一段落",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xhAW2Ahn1c",
+      "section": "tech",
+      "pub_time": 1793505274.0,
+      "pub_display": "11-01 11:54"
+    },
+    {
+      "index": 11,
+      "title": "紧急撤IPO！欣旺达放弃A+H，小米理想入局动力电池",
+      "summary": "紧急撤IPO！欣旺达放弃A+H，小米理想入局动力电池",
+      "text": "紧急撤IPO！欣旺达放弃A+H，小米理想入局动力电池",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xh7XPO4WkR",
+      "section": "tech",
+      "pub_time": 1793505073.0,
+      "pub_display": "11-01 11:51"
+    },
+    {
+      "index": 12,
+      "title": "三星电子会长李在镕赴日本考察先进封装技术，计划 5 年投资 400 亿日元",
+      "summary": "三星电子会长李在镕赴日本考察先进封装技术，计划 5 年投资 400 亿日元",
+      "text": "三星电子会长李在镕赴日本考察先进封装技术，计划 5 年投资 400 亿日元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/020/770.htm",
+      "section": "tech",
+      "pub_time": 1793495893.0,
+      "pub_display": "11-01 09:18"
+    },
+    {
+      "index": 13,
+      "title": "成都就销售熏硫白芷相关问题依法立案调查",
+      "summary": "成都就销售熏硫白芷相关问题依法立案调查",
+      "text": "成都就销售熏硫白芷相关问题依法立案调查",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793537651.89,
+      "pub_display": "11-01 20:54"
+    },
+    {
+      "index": 14,
+      "title": "青岛就熏硫白芷相关问题依法立案调查",
+      "summary": "青岛同步就熏硫白芷问题依法立案调查，两地监管同日出手",
+      "text": "青岛同步就熏硫白芷问题依法立案调查，两地监管同日出手",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-01/10724402.shtml",
+      "section": "general",
+      "pub_time": 1793499146.0,
+      "pub_display": "11-01 10:12"
+    },
+    {
+      "index": 15,
+      "title": "打着“无硫”旗号实则超标！熏硫白芷线上线下仍在偷偷售卖",
+      "summary": "打着“无硫”旗号实则二氧化硫超标，熏硫白芷线上线下仍在偷偷售卖",
+      "text": "打着“无硫”旗号实则二氧化硫超标，熏硫白芷线上线下仍在偷偷售卖",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-01/10724332.shtml",
+      "section": "general",
+      "pub_time": 1793492562.0,
+      "pub_display": "11-01 08:22"
+    },
+    {
+      "index": 16,
+      "title": "西藏巴青震区首批589名师生今赴拉萨异地复课",
+      "summary": "西藏巴青震区首批 589 名师生赴拉萨异地复课，安置与教学同步推进",
+      "text": "西藏巴青震区首批 589 名师生赴拉萨异地复课，安置与教学同步推进",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-01/10724301.shtml",
+      "section": "general",
+      "pub_time": 1793488144.0,
+      "pub_display": "11-01 07:09"
+    },
+    {
+      "index": 17,
+      "title": "云南昭通打掉一贩毒团伙 缴获冰毒片剂57万片",
+      "summary": "云南昭通打掉一贩毒团伙，缴获冰毒片剂 57 万片",
+      "text": "云南昭通打掉一贩毒团伙，缴获冰毒片剂 57 万片",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-01/10724338.shtml",
+      "section": "general",
+      "pub_time": 1793494110.0,
+      "pub_display": "11-01 08:48"
+    },
+    {
+      "index": 18,
+      "title": "警方通报“谢霆锋演唱会被扔荧光棒”：已对违法行为人作出行政处罚",
+      "summary": "警方通报谢霆锋演唱会被扔荧光棒事件，已对违法行为人作出行政处罚",
+      "text": "警方通报谢霆锋演唱会被扔荧光棒事件，已对违法行为人作出行政处罚",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-01/10724314.shtml",
+      "section": "general",
+      "pub_time": 1793491279.0,
+      "pub_display": "11-01 08:01"
+    }
+  ]
+}
