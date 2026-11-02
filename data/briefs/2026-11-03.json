@@ -1,0 +1,220 @@
+{
+  "series": "科技资讯",
+  "headline": "AI资本竞赛进入深水区，Anthropic单季营收暴涨11倍",
+  "date": "2026-11-03",
+  "date_display": "2026年11月03日 星期二 农历九月廿五",
+  "weekday": "星期二",
+  "lunar": "农历九月廿五",
+  "overview": "本期主线是 AI 资本与算力竞赛进入深水区：Anthropic 单季营收 170 亿美元同比暴涨 11 倍并冲刺史上最大 IPO，小红书入股 DeepSeek、SpaceX 洽购 Boost Mobile 同步展开。另一面是成本与安全代价浮现——马斯克称 Grok 服务成本难以为继，欧洲多国超市冷柜再遭网络攻击。",
+  "generated_at": "2026-11-03 06:01:18",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO",
+      "summary": "Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO",
+      "text": "Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/021/277.htm",
+      "section": "tech",
+      "pub_time": 1793602929.0,
+      "pub_display": "11-02 15:02"
+    },
+    {
+      "index": 2,
+      "title": "小红书，投了梁文锋",
+      "summary": "小红书，投了梁文锋",
+      "text": "小红书，投了梁文锋",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4052339774821248",
+      "section": "tech",
+      "pub_time": 1793609747.177,
+      "pub_display": "11-02 16:55"
+    },
+    {
+      "index": 3,
+      "title": "消息称 SpaceX 洽谈收购 Boost Mobile，挑战美国电信三巨头",
+      "summary": "SpaceX 洽谈收购 Boost Mobile，拟挑战美国电信三巨头",
+      "text": "SpaceX 洽谈收购 Boost Mobile，拟挑战美国电信三巨头",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/021/262.htm",
+      "section": "tech",
+      "pub_time": 1793594114.0,
+      "pub_display": "11-02 12:35"
+    },
+    {
+      "index": 4,
+      "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继",
+      "summary": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继",
+      "text": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/021/271.htm",
+      "section": "tech",
+      "pub_time": 1793597913.0,
+      "pub_display": "11-02 13:38"
+    },
+    {
+      "index": 5,
+      "title": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+      "summary": "iPhone 国行 AI 落地，千问成为 Siri 新搭档",
+      "text": "iPhone 国行 AI 落地，千问成为 Siri 新搭档",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4051767251735430",
+      "section": "tech",
+      "pub_time": 1793579420.172,
+      "pub_display": "11-02 08:30"
+    },
+    {
+      "index": 6,
+      "title": "腾讯混元发布 Hyra 2.0：为模型研发打造可复用工具",
+      "summary": "腾讯混元发布 Hyra 2.0，为模型研发打造可复用工具链",
+      "text": "腾讯混元发布 Hyra 2.0，为模型研发打造可复用工具链",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/021/266.htm",
+      "section": "tech",
+      "pub_time": 1793596100.0,
+      "pub_display": "11-02 13:08"
+    },
+    {
+      "index": 7,
+      "title": "冰箱变烤箱，欧洲多国超市冷柜再遭网络攻击",
+      "summary": "欧洲多国超市冷柜再遭网络攻击，冷藏设备出现异常",
+      "text": "欧洲多国超市冷柜再遭网络攻击，冷藏设备出现异常",
+      "source": "澎湃",
+      "link": "",
+      "section": "tech",
+      "pub_time": 1793653475.737,
+      "pub_display": "11-03 05:04"
+    },
+    {
+      "index": 8,
+      "title": "Meta 调整 VR 硬件优先级：将更多资源转向可穿戴设备和 AI 业务，降低消费级 VR 硬件优先级",
+      "summary": "Meta 调整 VR 硬件优先级，资源转向可穿戴设备与 AI 业务",
+      "text": "Meta 调整 VR 硬件优先级，资源转向可穿戴设备与 AI 业务",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/021/231.htm",
+      "section": "tech",
+      "pub_time": 1793586414.0,
+      "pub_display": "11-02 10:26"
+    },
+    {
+      "index": 9,
+      "title": "业界首个六自由度三维空间影像格式：空间菁彩影像国产标准宣布开源参考工具",
+      "summary": "业界首个六自由度三维空间影像格式：空间菁彩影像国产标准宣布开源参考工具",
+      "text": "业界首个六自由度三维空间影像格式：空间菁彩影像国产标准宣布开源参考工具",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/021/179.htm",
+      "section": "tech",
+      "pub_time": 1793583716.0,
+      "pub_display": "11-02 09:41"
+    },
+    {
+      "index": 10,
+      "title": "海光发布 14XX 系列工业控制 CPU，支持 -40℃ ~ +105℃ 宽温",
+      "summary": "海光发布 14XX 系列工业控制 CPU，支持 -40℃ 至 +105℃ 宽温",
+      "text": "海光发布 14XX 系列工业控制 CPU，支持 -40℃ 至 +105℃ 宽温",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/021/239.htm",
+      "section": "tech",
+      "pub_time": 1793588484.0,
+      "pub_display": "11-02 11:01"
+    },
+    {
+      "index": 11,
+      "title": "国产超低温核磁探头面世，灵敏度提升超三倍",
+      "summary": "国产超低温核磁探头面世，灵敏度提升超三倍",
+      "text": "国产超低温核磁探头面世，灵敏度提升超三倍",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xim45LowbJ",
+      "section": "tech",
+      "pub_time": 1793600812.0,
+      "pub_display": "11-02 14:26"
+    },
+    {
+      "index": 12,
+      "title": "全国首个民资参建核电项目，浙江三澳核电 2 号机组完成首次核燃料装载",
+      "summary": "全国首个民资参建核电项目，浙江三澳核电 2 号机组完成首次核燃料装载",
+      "text": "全国首个民资参建核电项目，浙江三澳核电 2 号机组完成首次核燃料装载",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/021/132.htm",
+      "section": "tech",
+      "pub_time": 1793581258.0,
+      "pub_display": "11-02 09:00"
+    },
+    {
+      "index": 13,
+      "title": "美里尔 60 公务机俯冲坠毁，机上 9 人全部遇难",
+      "summary": "美国里尔 60 公务机俯冲坠毁，机上 9 人全部遇难",
+      "text": "美国里尔 60 公务机俯冲坠毁，机上 9 人全部遇难",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xim45Lowb9",
+      "section": "general",
+      "pub_time": 1793596732.0,
+      "pub_display": "11-02 13:18"
+    },
+    {
+      "index": 14,
+      "title": "西藏那曲市巴青县发生4.2级地震",
+      "summary": "西藏那曲市巴青县发生 4.2 级地震",
+      "text": "西藏那曲市巴青县发生 4.2 级地震",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
+      "section": "general",
+      "pub_time": 1793605771.0,
+      "pub_display": "11-02 15:49"
+    },
+    {
+      "index": 15,
+      "title": "央视揭秘“AI 生成女友”网恋诈骗流水线，15 人被骗 180 余万元",
+      "summary": "央视揭秘“AI 生成女友”网恋诈骗流水线，15 人被骗 180 余万元",
+      "text": "央视揭秘“AI 生成女友”网恋诈骗流水线，15 人被骗 180 余万元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/021/245.htm",
+      "section": "general",
+      "pub_time": 1793590242.0,
+      "pub_display": "11-02 11:30"
+    },
+    {
+      "index": 16,
+      "title": "市场监管总局：淘天、京东、拼多多、小红书、抖音等 22 家平台企业签署网售重点工业产品自律公约",
+      "summary": "市场监管总局：淘天、京东、拼多多等 22 家平台签署网售重点工业产品自律公约",
+      "text": "市场监管总局：淘天、京东、拼多多等 22 家平台签署网售重点工业产品自律公约",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/021/272.htm",
+      "section": "general",
+      "pub_time": 1793598093.0,
+      "pub_display": "11-02 13:41"
+    },
+    {
+      "index": 17,
+      "title": "印发：到 2030 年，机场场内纯电动车辆占比超过 55%",
+      "summary": "印发：到 2030 年，机场场内纯电动车辆占比超过 55%",
+      "text": "印发：到 2030 年，机场场内纯电动车辆占比超过 55%",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/021/212.htm",
+      "section": "general",
+      "pub_time": 1793584502.0,
+      "pub_display": "11-02 09:55"
+    },
+    {
+      "index": 18,
+      "title": "国际海事组织：仍不建议船舶在霍尔木兹海峡航行",
+      "summary": "",
+      "text": "国际海事组织：仍不建议船舶在霍尔木兹海峡航行",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793647270.669,
+      "pub_display": "11-03 03:21"
+    }
+  ]
+}

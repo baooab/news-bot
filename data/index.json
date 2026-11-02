@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-02 22:37:16",
-  "total": 114,
+  "updated_at": "2026-11-03 06:01:18",
+  "total": 115,
   "briefs": [
+    {
+      "date": "2026-11-03",
+      "display": "2026年11月03日 星期二",
+      "series": "科技资讯",
+      "headline": "AI资本竞赛进入深水区，Anthropic单季营收暴涨11倍",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-11-02",
       "display": "2026年11月02日 星期一",

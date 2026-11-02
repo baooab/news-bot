@@ -1,0 +1,1485 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03 06:01:18",
+  "total": 243,
+  "source_count": {
+    "澎湃": 34,
+    "中新网": 30,
+    "IT之家": 59,
+    "36氪": 50,
+    "凤凰科技": 60,
+    "Solidot": 10
+  },
+  "sources": {
+    "澎湃": [
+      {
+        "title": "党的二十届五中全会《决定》诞生记",
+        "link": "",
+        "pub_time": 1793602774.456,
+        "pub_display": "11-02 14:59"
+      },
+      {
+        "title": "女子追讨13年前开店“保证金”申请再审被驳回：已过诉讼时效",
+        "link": "",
+        "pub_time": 1793604283.299,
+        "pub_display": "11-02 15:24"
+      },
+      {
+        "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
+        "link": "",
+        "pub_time": 1793577835.609,
+        "pub_display": "11-02 08:03"
+      },
+      {
+        "title": "褶皱里的民意｜中期选举倒计时1天：快加不起油的美国人最关心什么？",
+        "link": "",
+        "pub_time": 1793574936.546,
+        "pub_display": "11-02 07:15"
+      },
+      {
+        "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
+        "link": "",
+        "pub_time": 1793574929.997,
+        "pub_display": "11-02 07:15"
+      },
+      {
+        "title": "马上测｜实测儿童手表“壁垒”（1）：充电接口各行其是，配件难互通",
+        "link": "",
+        "pub_time": 1793577660.839,
+        "pub_display": "11-02 08:01"
+      },
+      {
+        "title": "难以“造王”的19席：大选折射以色列阿拉伯人的力量与尴尬",
+        "link": "",
+        "pub_time": 1793609099.004,
+        "pub_display": "11-02 16:44"
+      },
+      {
+        "title": "马上评｜假乒乓球比赛直播，都怪观众缺少辨识力？",
+        "link": "",
+        "pub_time": 1793595740.413,
+        "pub_display": "11-02 13:02"
+      },
+      {
+        "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
+        "link": "",
+        "pub_time": 1793586385.786,
+        "pub_display": "11-02 10:26"
+      },
+      {
+        "title": "媒体：21岁幼师毕业当环卫工，自食其力就是最大的体面",
+        "link": "",
+        "pub_time": 1793562778.449,
+        "pub_display": "11-02 03:52"
+      },
+      {
+        "title": "纪念｜“陈主编”吕齐：北京人艺最后一位1920年代演员",
+        "link": "",
+        "pub_time": 1793577140.907,
+        "pub_display": "11-02 07:52"
+      },
+      {
+        "title": "三部门：股票回购增持再贷款利率由1.25%降至1%",
+        "link": "",
+        "pub_time": 1793621007.659,
+        "pub_display": "11-02 20:03"
+      },
+      {
+        "title": "证监会稳市再加码：拟优化护盘式回购、鼓励18只主动ETF加快建仓",
+        "link": "",
+        "pub_time": 1793622819.033,
+        "pub_display": "11-02 20:33"
+      },
+      {
+        "title": "释新闻｜中期选举前不打、选后难测，最后谈判窗口美伊卡在哪里？",
+        "link": "",
+        "pub_time": 1793621441.383,
+        "pub_display": "11-02 20:10"
+      },
+      {
+        "title": "AI嵌入进博保障：后厨问题“拍照即识”，电梯情况“扫码即知”",
+        "link": "",
+        "pub_time": 1793620721.369,
+        "pub_display": "11-02 19:58"
+      },
+      {
+        "title": "刘奇凡任云南省副省长、代省长",
+        "link": "",
+        "pub_time": 1793587912.744,
+        "pub_display": "11-02 10:51"
+      },
+      {
+        "title": "从“考古中国”到深海探秘：未来五年中国考古将如何发力？",
+        "link": "",
+        "pub_time": 1793625127.28,
+        "pub_display": "11-02 21:12"
+      },
+      {
+        "title": "央行将于11月3日开展证券、基金、保险公司互换便利操作",
+        "link": "",
+        "pub_time": 1793610297.7,
+        "pub_display": "11-02 17:04"
+      },
+      {
+        "title": "澎湃思想周报｜何为Z世代社会主义；当《人生七年》终结于《人生七十》",
+        "link": "",
+        "pub_time": 1793596089.126,
+        "pub_display": "11-02 13:08"
+      },
+      {
+        "title": "圆桌｜中国车卖到海外后谁来修？专家：售后是最容易被低估的变量",
+        "link": "",
+        "pub_time": 1793627324.787,
+        "pub_display": "11-02 21:48"
+      },
+      {
+        "title": "马上评｜“床虱地图”走红，能倒逼解决消费痛点吗？",
+        "link": "",
+        "pub_time": 1793632214.295,
+        "pub_display": "11-02 23:10"
+      },
+      {
+        "title": "十四届全国人大常委会第二十五次会议在京举行，审议检察公益诉讼法草案、水法修订草案等",
+        "link": "",
+        "pub_time": 1793630231.452,
+        "pub_display": "11-02 22:37"
+      },
+      {
+        "title": "圆桌｜中国车卖到海外后谁来修？专家：售后是最容易被低估的变量",
+        "link": "",
+        "pub_time": 1793627324.787,
+        "pub_display": "11-02 21:48"
+      },
+      {
+        "title": "从“考古中国”到深海探秘：未来五年中国考古将如何发力？",
+        "link": "",
+        "pub_time": 1793625127.28,
+        "pub_display": "11-02 21:12"
+      },
+      {
+        "title": "技术派｜美军考虑将B-21轰炸机改成空战“武库机”，妙招还是险棋？",
+        "link": "",
+        "pub_time": 1793624832.308,
+        "pub_display": "11-02 21:07"
+      },
+      {
+        "title": "钟薛高重新开售：预售标价单支约12元，为何选择淡季重出江湖？",
+        "link": "",
+        "pub_time": 1793624107.128,
+        "pub_display": "11-02 20:55"
+      },
+      {
+        "title": "澎湃早晚报｜晚安湃·国会控制权之争",
+        "link": "https://m.thepaper.cn/papernews/morningEveningPaper?n=268353",
+        "pub_time": 1793623010.849,
+        "pub_display": "11-02 20:36"
+      },
+      {
+        "title": "证监会稳市再加码：拟优化护盘式回购、鼓励18只主动ETF加快建仓",
+        "link": "",
+        "pub_time": 1793622819.033,
+        "pub_display": "11-02 20:33"
+      },
+      {
+        "title": "进博直击｜探馆“四叶草”：硬核展品开箱，480件首秀抢先看",
+        "link": "",
+        "pub_time": 1793622410.968,
+        "pub_display": "11-02 20:26"
+      },
+      {
+        "title": "释新闻｜中期选举前不打、选后难测，最后谈判窗口美伊卡在哪里？",
+        "link": "",
+        "pub_time": 1793621441.383,
+        "pub_display": "11-02 20:10"
+      },
+      {
+        "title": "央行明日开展SFISF操作",
+        "link": "",
+        "pub_time": 1793610667.164,
+        "pub_display": "11-02 17:11"
+      },
+      {
+        "title": "王毅会见伊最高国家安全委员会副秘书",
+        "link": "",
+        "pub_time": 1793611275.145,
+        "pub_display": "11-02 17:21"
+      },
+      {
+        "title": "冰箱变烤箱，欧洲多国超市冷柜再遭网络攻击",
+        "link": "",
+        "pub_time": 1793653475.737,
+        "pub_display": "11-03 05:04"
+      },
+      {
+        "title": "国际海事组织：仍不建议船舶在霍尔木兹海峡航行",
+        "link": "",
+        "pub_time": 1793647270.669,
+        "pub_display": "11-03 03:21"
+      }
+    ],
+    "中新网": [
+      {
+        "title": "西藏那曲市巴青县发生4.2级地震",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
+        "pub_time": 1793605771.0,
+        "pub_display": "11-02 15:49"
+      },
+      {
+        "title": "权威发布！全国十佳新闻工作者LOGO",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725076.shtml",
+        "pub_time": 1793603481.0,
+        "pub_display": "11-02 15:11"
+      },
+      {
+        "title": "聚焦AI时代人的意义 心理分析与中国文化国际学术论坛将举行",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725075.shtml",
+        "pub_time": 1793602844.0,
+        "pub_display": "11-02 15:00"
+      },
+      {
+        "title": "警用智能装备亮相浙江乌镇 “空地网”筑牢安全防线",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725067.shtml",
+        "pub_time": 1793601159.0,
+        "pub_display": "11-02 14:32"
+      },
+      {
+        "title": "道地药材县域突围，广东德庆县南药总产值达40.74亿元",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725058.shtml",
+        "pub_time": 1793600066.0,
+        "pub_display": "11-02 14:14"
+      },
+      {
+        "title": "上海哲学社会科学“五大文库”书籍在台湾发售",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725056.shtml",
+        "pub_time": 1793599954.0,
+        "pub_display": "11-02 14:12"
+      },
+      {
+        "title": "年接待游客突破600万人次 九寨沟精细管护守护山水魅力",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725008.shtml",
+        "pub_time": 1793599910.0,
+        "pub_display": "11-02 14:11"
+      },
+      {
+        "title": "“考场”搬进商超等场景 人形机器人与具身智能实景实训挑战赛将启",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725059.shtml",
+        "pub_time": 1793599856.0,
+        "pub_display": "11-02 14:10"
+      },
+      {
+        "title": "云南三季度以工代赈带动近30万人就业 发放劳务报酬超73亿元",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725006.shtml",
+        "pub_time": 1793599828.0,
+        "pub_display": "11-02 14:10"
+      },
+      {
+        "title": "第二届上海老年学习课程展开幕 银发AI课程成亮点",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725048.shtml",
+        "pub_time": 1793599720.0,
+        "pub_display": "11-02 14:08"
+      },
+      {
+        "title": "2026国际版权论坛敦煌开幕  聚焦数智时代版权与创意产业",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725011.shtml",
+        "pub_time": 1793599710.0,
+        "pub_display": "11-02 14:08"
+      },
+      {
+        "title": "首届国际事务专业“全球治理”案例大赛在沪收官 搭建学界与实务对话平台",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725050.shtml",
+        "pub_time": 1793599693.0,
+        "pub_display": "11-02 14:08"
+      },
+      {
+        "title": "浙江文旅观察：AI时代，旅游服务如何更有温度？",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725004.shtml",
+        "pub_time": 1793599679.0,
+        "pub_display": "11-02 14:07"
+      },
+      {
+        "title": "欧洲华媒代表“走读”长沙 感知科创开放文脉共生之美",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725051.shtml",
+        "pub_time": 1793599661.0,
+        "pub_display": "11-02 14:07"
+      },
+      {
+        "title": "2026国际版权论坛在甘肃敦煌开幕",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724997.shtml",
+        "pub_time": 1793599565.0,
+        "pub_display": "11-02 14:06"
+      },
+      {
+        "title": "宁夏规范城镇开发边界管理 推动城镇空间绿色发展",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724993.shtml",
+        "pub_time": 1793599483.0,
+        "pub_display": "11-02 14:04"
+      },
+      {
+        "title": "甘肃官鹅沟引客秋日“反向游” 错峰赏景从容“出片”",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724990.shtml",
+        "pub_time": 1793599433.0,
+        "pub_display": "11-02 14:03"
+      },
+      {
+        "title": "跨越26年的团圆 广西柳州夫妇终迎被拐幼子归家",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724979.shtml",
+        "pub_time": 1793599079.0,
+        "pub_display": "11-02 13:57"
+      },
+      {
+        "title": "聚焦原始创新、鼓励自由探索 2027年度“新基石研究员项目”启动申报",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724987.shtml",
+        "pub_time": 1793598584.0,
+        "pub_display": "11-02 13:49"
+      },
+      {
+        "title": "留学生在唐山沉浸式感受非遗魅力",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724980.shtml",
+        "pub_time": 1793598566.0,
+        "pub_display": "11-02 13:49"
+      },
+      {
+        "title": "黑龙江秋整地绘就“大地美学”：黑土翻涌 沃野“留白”",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724988.shtml",
+        "pub_time": 1793598514.0,
+        "pub_display": "11-02 13:48"
+      },
+      {
+        "title": "沈括科学传播奖，连接了什么？",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725022.shtml",
+        "pub_time": 1793598324.0,
+        "pub_display": "11-02 13:45"
+      },
+      {
+        "title": "中国2026年度“最美的书”揭晓",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725044.shtml",
+        "pub_time": 1793598122.0,
+        "pub_display": "11-02 13:42"
+      },
+      {
+        "title": "超强厄尔尼诺已形成 广西今冬暖冬概率大但冷暖起伏明显",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724966.shtml",
+        "pub_time": 1793598110.0,
+        "pub_display": "11-02 13:41"
+      },
+      {
+        "title": "杭州以法治护航人工智能合规创新发展",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724963.shtml",
+        "pub_time": 1793598080.0,
+        "pub_display": "11-02 13:41"
+      },
+      {
+        "title": "上海今年前十月签发电子口岸签证近5000证次",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725039.shtml",
+        "pub_time": 1793597950.0,
+        "pub_display": "11-02 13:39"
+      },
+      {
+        "title": "广西构建依法普法新格局 基层普法力量进一步壮大",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724954.shtml",
+        "pub_time": 1793597932.0,
+        "pub_display": "11-02 13:38"
+      },
+      {
+        "title": "湖南江永深挖特色文旅资源 瑶乡田园IP赋能乡村振兴",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724951.shtml",
+        "pub_time": 1793597816.0,
+        "pub_display": "11-02 13:36"
+      },
+      {
+        "title": "小积分激活大治理 湖南新田青皮源村微改造扮靓瑶乡",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724947.shtml",
+        "pub_time": 1793597778.0,
+        "pub_display": "11-02 13:36"
+      },
+      {
+        "title": "2026世界城市日城市可持续发展全球大会全体大会在沪举行",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724958.shtml",
+        "pub_time": 1793597720.0,
+        "pub_display": "11-02 13:35"
+      }
+    ],
+    "IT之家": [
+      {
+        "title": "安森美 2026 财年前三季度报归母净利润 5.07 亿美元，同比扭亏为盈",
+        "link": "https://www.ithome.com/1/021/282.htm",
+        "pub_time": 1793625628.0,
+        "pub_display": "11-02 21:20"
+      },
+      {
+        "title": "消息称 HomeView Ultra 硬件已定型两年，但苹果内部仍存在“分歧”",
+        "link": "https://www.ithome.com/1/021/280.htm",
+        "pub_time": 1793605202.0,
+        "pub_display": "11-02 15:40"
+      },
+      {
+        "title": "起亚汽车 10 月全球总销量达到 29.12 万辆，同比增长 10.3%",
+        "link": "https://www.ithome.com/1/021/279.htm",
+        "pub_time": 1793603971.0,
+        "pub_display": "11-02 15:19"
+      },
+      {
+        "title": "Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO",
+        "link": "https://www.ithome.com/1/021/277.htm",
+        "pub_time": 1793602929.0,
+        "pub_display": "11-02 15:02"
+      },
+      {
+        "title": "一体化电视全国推广部署推进会召开，加快落实终端适配",
+        "link": "https://www.ithome.com/1/021/276.htm",
+        "pub_time": 1793602202.0,
+        "pub_display": "11-02 14:50"
+      },
+      {
+        "title": "现代汽车 10 月销量为 32.98 万辆同比减少 6.3%，连续 13 个月下降",
+        "link": "https://www.ithome.com/1/021/275.htm",
+        "pub_time": 1793600832.0,
+        "pub_display": "11-02 14:27"
+      },
+      {
+        "title": "OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀",
+        "link": "https://www.ithome.com/1/021/274.htm",
+        "pub_time": 1793600512.0,
+        "pub_display": "11-02 14:21"
+      },
+      {
+        "title": "联想“LOQ 25-10”24.5 英寸显示器上市：1080P 280Hz，599 元",
+        "link": "https://www.ithome.com/1/021/273.htm",
+        "pub_time": 1793598305.0,
+        "pub_display": "11-02 13:45"
+      },
+      {
+        "title": "市场监管总局：淘天、京东、拼多多、小红书、抖音等 22 家平台企业签署网售重点工业产品自律公约",
+        "link": "https://www.ithome.com/1/021/272.htm",
+        "pub_time": 1793598093.0,
+        "pub_display": "11-02 13:41"
+      },
+      {
+        "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继",
+        "link": "https://www.ithome.com/1/021/271.htm",
+        "pub_time": 1793597913.0,
+        "pub_display": "11-02 13:38"
+      },
+      {
+        "title": "亿咖通科技与 Arm 签署合作备忘录，共同开发面向出行领域及跨行业场景的下一代高性能 AI 计算平台",
+        "link": "https://www.ithome.com/1/021/268.htm",
+        "pub_time": 1793596607.0,
+        "pub_display": "11-02 13:16"
+      },
+      {
+        "title": "腾讯混元发布 Hyra 2.0：为模型研发打造可复用工具",
+        "link": "https://www.ithome.com/1/021/266.htm",
+        "pub_time": 1793596100.0,
+        "pub_display": "11-02 13:08"
+      },
+      {
+        "title": "狼蛛推出 GS8 蓝牙音箱“京东专供款”：采用幻梦紫配色，首发价 179 元",
+        "link": "https://www.ithome.com/1/021/265.htm",
+        "pub_time": 1793595663.0,
+        "pub_display": "11-02 13:01"
+      },
+      {
+        "title": "消息称罗马仕“重生计划”因债务搁浅，拟按三折清偿",
+        "link": "https://www.ithome.com/1/021/264.htm",
+        "pub_time": 1793595014.0,
+        "pub_display": "11-02 12:50"
+      },
+      {
+        "title": "谷歌上线《塞尔达传说：时之笛》彩蛋，可跳转至 1998 年复古搜索页",
+        "link": "https://www.ithome.com/1/021/263.htm",
+        "pub_time": 1793594943.0,
+        "pub_display": "11-02 12:49"
+      },
+      {
+        "title": "消息称 SpaceX 洽谈收购 Boost Mobile，挑战美国电信三巨头",
+        "link": "https://www.ithome.com/1/021/262.htm",
+        "pub_time": 1793594114.0,
+        "pub_display": "11-02 12:35"
+      },
+      {
+        "title": "上汽大众 ID.ERA 5X 将于 11 月 12 日上市，家族首款纯电 SUV",
+        "link": "https://www.ithome.com/1/021/261.htm",
+        "pub_time": 1793594100.0,
+        "pub_display": "11-02 12:35"
+      },
+      {
+        "title": "Lumentum 2027 财年第一财季归母净利润 3.6 亿美元，同比增长 8478.57%",
+        "link": "https://www.ithome.com/1/021/260.htm",
+        "pub_time": 1793593884.0,
+        "pub_display": "11-02 12:31"
+      },
+      {
+        "title": "我国第二艘国产大型邮轮“爱达 · 花城号”将于 11 月 6 日在上海完成交付",
+        "link": "https://www.ithome.com/1/021/259.htm",
+        "pub_time": 1793593551.0,
+        "pub_display": "11-02 12:25"
+      },
+      {
+        "title": "宁德时代与蓝色向量达成合作，为 SKYLA V30 定制开发航空动力电池",
+        "link": "https://www.ithome.com/1/021/256.htm",
+        "pub_time": 1793593152.0,
+        "pub_display": "11-02 12:19"
+      },
+      {
+        "title": "Marvell 宣布将以全股票交易收购 Lumentum，拓展 AI 光互连版图",
+        "link": "https://www.ithome.com/1/021/255.htm",
+        "pub_time": 1793592970.0,
+        "pub_display": "11-02 12:16"
+      },
+      {
+        "title": "研究发现：好奇心或驱动人类大脑形成复杂结构",
+        "link": "https://www.ithome.com/1/021/254.htm",
+        "pub_time": 1793592544.0,
+        "pub_display": "11-02 12:09"
+      },
+      {
+        "title": "世嘉介绍 VR 街机游戏《死亡之屋：重生》：支持双人游玩、机台预计 2027 年上市",
+        "link": "https://www.ithome.com/1/021/253.htm",
+        "pub_time": 1793592320.0,
+        "pub_display": "11-02 12:05"
+      },
+      {
+        "title": "英特尔 FCLGA1954 平台落地先声：W980、Z970 主板现身海关舱单记录",
+        "link": "https://www.ithome.com/1/021/252.htm",
+        "pub_time": 1793591930.0,
+        "pub_display": "11-02 11:58"
+      },
+      {
+        "title": "游民星空发行的经营游戏《二手游戏店模拟器》发售，国区首发特惠 33.75 元",
+        "link": "https://www.ithome.com/1/021/248.htm",
+        "pub_time": 1793591130.0,
+        "pub_display": "11-02 11:45"
+      },
+      {
+        "title": "首届 CMG 世界机器人登泰山大赛收官，宇树斩获 1 金 2 银",
+        "link": "https://www.ithome.com/1/021/250.htm",
+        "pub_time": 1793591651.0,
+        "pub_display": "11-02 11:54"
+      },
+      {
+        "title": "黑客研发新型恶意木马 VOLTA，用 AI 分析受害者是否值得入侵",
+        "link": "https://www.ithome.com/1/021/249.htm",
+        "pub_time": 1793591587.0,
+        "pub_display": "11-02 11:53"
+      },
+      {
+        "title": "宝马计划在 2027 年将 L2 辅助驾驶扩展至城市，德国首发",
+        "link": "https://www.ithome.com/1/021/247.htm",
+        "pub_time": 1793590610.0,
+        "pub_display": "11-02 11:36"
+      },
+      {
+        "title": "沃顿教授：转行技工难以抵御 AI 冲击，四类核心能力才是破局关键",
+        "link": "https://www.ithome.com/1/021/246.htm",
+        "pub_time": 1793590407.0,
+        "pub_display": "11-02 11:33"
+      },
+      {
+        "title": "央视揭秘“AI 生成女友”网恋诈骗流水线，15 人被骗 180 余万元",
+        "link": "https://www.ithome.com/1/021/245.htm",
+        "pub_time": 1793590242.0,
+        "pub_display": "11-02 11:30"
+      },
+      {
+        "title": "小米雷军到海尔总部参观，送董事长周云杰车模",
+        "link": "https://www.ithome.com/1/021/244.htm",
+        "pub_time": 1793590179.0,
+        "pub_display": "11-02 11:29"
+      },
+      {
+        "title": "百代电影公司推出催眠实验：抹除观众记忆，帮其找回初次观看经典电影的感觉",
+        "link": "https://www.ithome.com/1/021/243.htm",
+        "pub_time": 1793589446.0,
+        "pub_display": "11-02 11:17"
+      },
+      {
+        "title": "“女生罹癌离世前攒下医药费，买张 RTX5090 留给男友”温情故事引发关注，网友感叹“宁愿这是编的”",
+        "link": "https://www.ithome.com/1/021/242.htm",
+        "pub_time": 1793589401.0,
+        "pub_display": "11-02 11:16"
+      },
+      {
+        "title": "受内存短缺影响，16GB 版树莓派 5 价格上调 80 美元至 385 美元",
+        "link": "https://www.ithome.com/1/021/240.htm",
+        "pub_time": 1793588599.0,
+        "pub_display": "11-02 11:03"
+      },
+      {
+        "title": "海光发布 14XX 系列工业控制 CPU，支持 -40℃ ~ +105℃ 宽温",
+        "link": "https://www.ithome.com/1/021/239.htm",
+        "pub_time": 1793588484.0,
+        "pub_display": "11-02 11:01"
+      },
+      {
+        "title": "英伟达 DLSS 5 加持下的《马力欧卡丁车͏ 世界》，画质堪比动画电影",
+        "link": "https://www.ithome.com/1/021/238.htm",
+        "pub_time": 1793588048.0,
+        "pub_display": "11-02 10:54"
+      },
+      {
+        "title": "广汽埃安 Ray7 车型 11 月 12 日上市：搭载华为 DriveONE 多合一电驱，预售价 12.88 万元起",
+        "link": "https://www.ithome.com/1/021/237.htm",
+        "pub_time": 1793588013.0,
+        "pub_display": "11-02 10:53"
+      },
+      {
+        "title": "比利时、瑞典多家超市冷冻柜出现异常，疑遭网络攻击",
+        "link": "https://www.ithome.com/1/021/236.htm",
+        "pub_time": 1793587264.0,
+        "pub_display": "11-02 10:41"
+      },
+      {
+        "title": "铺路再接再厉：开发者放出微软 Lumia 950 XL 刷苹果 iOS 16.7.16 脚本方案",
+        "link": "https://www.ithome.com/1/021/235.htm",
+        "pub_time": 1793587236.0,
+        "pub_display": "11-02 10:40"
+      },
+      {
+        "title": "RPCS3 模拟器里程碑：几乎所有 PS3 单机游戏均已可在电脑上运行",
+        "link": "https://www.ithome.com/1/021/233.htm",
+        "pub_time": 1793586619.0,
+        "pub_display": "11-02 10:30"
+      },
+      {
+        "title": "Meta 调整 VR 硬件优先级：将更多资源转向可穿戴设备和 AI 业务，降低消费级 VR 硬件优先级",
+        "link": "https://www.ithome.com/1/021/231.htm",
+        "pub_time": 1793586414.0,
+        "pub_display": "11-02 10:26"
+      },
+      {
+        "title": "谷歌母公司 Alphabet 年内第二次发行欧元债券，检验市场对其 AI 投入信心",
+        "link": "https://www.ithome.com/1/021/230.htm",
+        "pub_time": 1793585883.0,
+        "pub_display": "11-02 10:18"
+      },
+      {
+        "title": "开发者将任天堂经典游戏《超级马力欧 64》移植至 Pico 头显：可将马力欧“抓出屏幕”",
+        "link": "https://www.ithome.com/1/021/229.htm",
+        "pub_time": 1793585854.0,
+        "pub_display": "11-02 10:17"
+      },
+      {
+        "title": "华硕 ROG 斯巴达 X 65K 鼠标上架预约：补贴到手价 1199 元起，11 月 9 日开售",
+        "link": "https://www.ithome.com/1/021/223.htm",
+        "pub_time": 1793585122.0,
+        "pub_display": "11-02 10:05"
+      },
+      {
+        "title": "宇树机器人 G1 因过热退出登泰山大赛，被担架抬下山",
+        "link": "https://www.ithome.com/1/021/222.htm",
+        "pub_time": 1793585014.0,
+        "pub_display": "11-02 10:03"
+      },
+      {
+        "title": "桌面战棋游戏《辐射：战争》将于本月推出 XR 版本，登陆 XREAL Aura 平台",
+        "link": "https://www.ithome.com/1/021/221.htm",
+        "pub_time": 1793584951.0,
+        "pub_display": "11-02 10:02"
+      },
+      {
+        "title": "印发：到 2030 年，机场场内纯电动车辆占比超过 55%",
+        "link": "https://www.ithome.com/1/021/212.htm",
+        "pub_time": 1793584502.0,
+        "pub_display": "11-02 09:55"
+      },
+      {
+        "title": "2026 年世界互联网大会领先科技奖名单揭晓：“九章四号”光量子计算原型机等获奖",
+        "link": "https://www.ithome.com/1/021/182.htm",
+        "pub_time": 1793584138.0,
+        "pub_display": "11-02 09:48"
+      },
+      {
+        "title": "Anthropic 以“蚂蚁”为代号冲刺 IPO，昆虫学者有话要说",
+        "link": "https://www.ithome.com/1/021/194.htm",
+        "pub_time": 1793583998.0,
+        "pub_display": "11-02 09:46"
+      },
+      {
+        "title": "450 亿美元 2 座晶圆厂：美国得州谢尔曼收获国际半导体业者建厂意向",
+        "link": "https://www.ithome.com/1/021/189.htm",
+        "pub_time": 1793583871.0,
+        "pub_display": "11-02 09:44"
+      },
+      {
+        "title": "业界首个六自由度三维空间影像格式：空间菁彩影像国产标准宣布开源参考工具",
+        "link": "https://www.ithome.com/1/021/179.htm",
+        "pub_time": 1793583716.0,
+        "pub_display": "11-02 09:41"
+      },
+      {
+        "title": "Counterpoint 数据：智能手机 SoC 出货量 2026Q3 萎缩 21%，苹果市占逼近高通",
+        "link": "https://www.ithome.com/1/021/118.htm",
+        "pub_time": 1793580076.0,
+        "pub_display": "11-02 08:41"
+      },
+      {
+        "title": "胡润《2026 女企业家榜》发布，蓝思科技周群飞 1270 亿元时隔 11 年再夺中国女首富",
+        "link": "https://www.ithome.com/1/021/125.htm",
+        "pub_time": 1793582201.0,
+        "pub_display": "11-02 09:16"
+      },
+      {
+        "title": "荣耀 WIN 游戏手柄开售：四键位自由映射，399 元",
+        "link": "https://www.ithome.com/1/021/138.htm",
+        "pub_time": 1793582415.0,
+        "pub_display": "11-02 09:20"
+      },
+      {
+        "title": "首个 Year 1 DLC 角色「凤凰雷光眼」Steam 上线，54 元",
+        "link": "https://www.ithome.com/1/021/135.htm",
+        "pub_time": 1793581952.0,
+        "pub_display": "11-02 09:12"
+      },
+      {
+        "title": "无损改装：2009 索尼 Walkman 依托原生 WiFi 芯片跑通 ESP-NOW 通信",
+        "link": "https://www.ithome.com/1/021/134.htm",
+        "pub_time": 1793581807.0,
+        "pub_display": "11-02 09:10"
+      },
+      {
+        "title": "IDC 预测：企业到 2028 年将在开源模型上运行 60% 的 AI 工作负载",
+        "link": "https://www.ithome.com/1/021/116.htm",
+        "pub_time": 1793580049.0,
+        "pub_display": "11-02 08:40"
+      },
+      {
+        "title": "全国首个民资参建核电项目，浙江三澳核电 2 号机组完成首次核燃料装载",
+        "link": "https://www.ithome.com/1/021/132.htm",
+        "pub_time": 1793581258.0,
+        "pub_display": "11-02 09:00"
+      },
+      {
+        "title": "小米米家洗鞋机 3kg 开启众筹：3D 水流、0.9 洗净比，799 元",
+        "link": "https://www.ithome.com/1/021/130.htm",
+        "pub_time": 1793580782.0,
+        "pub_display": "11-02 08:53"
+      }
+    ],
+    "36氪": [
+      {
+        "title": "8点1氪丨“黄金平替”，全球爆单；奇瑞高管回应智界独立；OpenAI宣布ChatGPT部分任务将与Codex共享额度",
+        "link": "https://36kr.com/p/4051860578702216",
+        "pub_time": 1793578106.467,
+        "pub_display": "11-02 08:08"
+      },
+      {
+        "title": "英伟达/谷歌/英特尔接连出手，物理AI打响基础设施之争",
+        "link": "https://36kr.com/p/4052396709106560",
+        "pub_time": 1793625211.208,
+        "pub_display": "11-02 21:13"
+      },
+      {
+        "title": "在座各位AI，都是“垃圾”",
+        "link": "https://36kr.com/p/4052093433893767",
+        "pub_time": 1793593041.961,
+        "pub_display": "11-02 12:17"
+      },
+      {
+        "title": "当你意识到\"致富其实是个技术活\"时，你的人生将彻底改变",
+        "link": "https://36kr.com/p/4031233364497030",
+        "pub_time": 1793575251.591,
+        "pub_display": "11-02 07:20"
+      },
+      {
+        "title": "ChatGPT要和Codex共用额度，免费重置时代结束了",
+        "link": "https://36kr.com/p/4051737057088392",
+        "pub_time": 1793579522.539,
+        "pub_display": "11-02 08:32"
+      },
+      {
+        "title": "如何赚够“说不”的底气（不靠运气）",
+        "link": "https://36kr.com/p/4033536760173697",
+        "pub_time": 1793575823.911,
+        "pub_display": "11-02 07:30"
+      },
+      {
+        "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
+        "link": "https://36kr.com/p/4051964645331847",
+        "pub_time": 1793586711.159,
+        "pub_display": "11-02 10:31"
+      },
+      {
+        "title": "00后女生，估值300亿",
+        "link": "https://36kr.com/p/4050933802980481",
+        "pub_time": 1793579576.902,
+        "pub_display": "11-02 08:32"
+      },
+      {
+        "title": "OpenAI、Claude新旗舰同日曝光",
+        "link": "https://36kr.com/p/4051806214214530",
+        "pub_time": 1793579401.626,
+        "pub_display": "11-02 08:30"
+      },
+      {
+        "title": "蒸发3000亿，背刺年轻人的“下饭神器”，惨遭短剧血洗",
+        "link": "https://36kr.com/p/4050772386878337",
+        "pub_time": 1793579705.497,
+        "pub_display": "11-02 08:35"
+      },
+      {
+        "title": "AI“杀死币圈”？",
+        "link": "https://36kr.com/p/4052310948123528",
+        "pub_time": 1793610892.664,
+        "pub_display": "11-02 17:14"
+      },
+      {
+        "title": "DeepSeek刚发的下一代Agent，竟被这家硅谷团队提前半年实现了？",
+        "link": "https://36kr.com/p/4051770972083075",
+        "pub_time": 1793579087.765,
+        "pub_display": "11-02 08:24"
+      },
+      {
+        "title": "汉堡巨头要被卖了",
+        "link": "https://36kr.com/p/4052006050501763",
+        "pub_time": 1793587647.834,
+        "pub_display": "11-02 10:47"
+      },
+      {
+        "title": "昔日耐克劲敌，在中国再次重启",
+        "link": "https://36kr.com/p/4042301259158408",
+        "pub_time": 1793601316.773,
+        "pub_display": "11-02 14:35"
+      },
+      {
+        "title": "评分影史第一，A24 拍出的「年度最诡异」纪录片说了什么？",
+        "link": "https://36kr.com/p/4049620280742785",
+        "pub_time": 1793590860.234,
+        "pub_display": "11-02 11:41"
+      },
+      {
+        "title": "新势力10月销量：零跑守住10万，鸿蒙理想失速",
+        "link": "https://36kr.com/p/4051951607534724",
+        "pub_time": 1793584249.997,
+        "pub_display": "11-02 09:50"
+      },
+      {
+        "title": "赫拉利深度访谈：真正的 AI 危机来了",
+        "link": "https://36kr.com/p/4050997736232834",
+        "pub_time": 1793584277.902,
+        "pub_display": "11-02 09:51"
+      },
+      {
+        "title": "出海合规进入Agent时代：创界通发布合规大脑2.0",
+        "link": "https://36kr.com/p/4045401168712581",
+        "pub_time": 1793599460.454,
+        "pub_display": "11-02 14:04"
+      },
+      {
+        "title": "双十一大促，年轻女性纷纷涌入男装区",
+        "link": "https://36kr.com/p/4052064341202057",
+        "pub_time": 1793590771.721,
+        "pub_display": "11-02 11:39"
+      },
+      {
+        "title": "AI治不了CEO的大病",
+        "link": "https://36kr.com/p/4052076624680834",
+        "pub_time": 1793592695.75,
+        "pub_display": "11-02 12:11"
+      },
+      {
+        "title": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+        "link": "https://36kr.com/p/4051767251735430",
+        "pub_time": 1793579420.172,
+        "pub_display": "11-02 08:30"
+      },
+      {
+        "title": "AI “看相”算出死亡名单，竟应验了一半？",
+        "link": "https://36kr.com/p/4049885381858177",
+        "pub_time": 1793590062.318,
+        "pub_display": "11-02 11:27"
+      },
+      {
+        "title": "详解Super Agent：会主动干活，更懂何时闭嘴",
+        "link": "https://36kr.com/p/4050650194630536",
+        "pub_time": 1793583776.438,
+        "pub_display": "11-02 09:42"
+      },
+      {
+        "title": "小红书，投了梁文锋",
+        "link": "https://36kr.com/p/4052339774821248",
+        "pub_time": 1793609747.177,
+        "pub_display": "11-02 16:55"
+      },
+      {
+        "title": "从婚姻中“毕业”的中年人，努力学着体面告别",
+        "link": "https://36kr.com/p/4050522559108230",
+        "pub_time": 1793583793.047,
+        "pub_display": "11-02 09:43"
+      },
+      {
+        "title": "Claude 给活鼠做了场脑部手术，Opus 5.5 却不肯动手",
+        "link": "https://36kr.com/p/4051750786405505",
+        "pub_time": 1793579495.023,
+        "pub_display": "11-02 08:31"
+      },
+      {
+        "title": "日薪7元湖南打工妹，靠一门绝活干出1270亿身家",
+        "link": "https://36kr.com/p/4050766333056137",
+        "pub_time": 1793579591.541,
+        "pub_display": "11-02 08:33"
+      },
+      {
+        "title": "难怪Claude突然封号，Anthropic自曝：你聊的每句话，它都在后台悄悄举报",
+        "link": "https://36kr.com/p/4051781915661193",
+        "pub_time": 1793578249.834,
+        "pub_display": "11-02 08:10"
+      },
+      {
+        "title": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
+        "link": "https://36kr.com/p/4051737188209540",
+        "pub_time": 1793579437.123,
+        "pub_display": "11-02 08:30"
+      },
+      {
+        "title": "郑州与横店之间：AI沉浮，短剧工厂的残酷算术",
+        "link": "https://36kr.com/p/4052104112543620",
+        "pub_time": 1793609921.659,
+        "pub_display": "11-02 16:58"
+      },
+      {
+        "title": "十强省会，排名要大变了",
+        "link": "https://36kr.com/p/4052047432144009",
+        "pub_time": 1793589754.784,
+        "pub_display": "11-02 11:22"
+      },
+      {
+        "title": "消失的“金九银十”",
+        "link": "https://36kr.com/p/4050491921814663",
+        "pub_time": 1793580074.557,
+        "pub_display": "11-02 08:41"
+      },
+      {
+        "title": "36氪首发丨复旦东华团队做“离子皮肤”，获元禾、华为哈勃超千万元融资",
+        "link": "https://36kr.com/p/4051972607530113",
+        "pub_time": 1793584876.917,
+        "pub_display": "11-02 10:01"
+      },
+      {
+        "title": "5大品牌齐跌，三家新势力破5万，10月车市冰火两重天",
+        "link": "https://36kr.com/p/4051738646418567",
+        "pub_time": 1793583191.678,
+        "pub_display": "11-02 09:33"
+      },
+      {
+        "title": "电车车主以为能“逃单”？充电的钱还是被中石油赚了",
+        "link": "https://36kr.com/p/4050678862009218",
+        "pub_time": 1793589968.03,
+        "pub_display": "11-02 11:26"
+      },
+      {
+        "title": "第一批纯过日子中产，都在「县城度假」？",
+        "link": "https://36kr.com/p/4051920787625088",
+        "pub_time": 1793583148.834,
+        "pub_display": "11-02 09:32"
+      },
+      {
+        "title": "AI推导出「外星数学」，38年无解混沌难题，被GPT-6联手Claude终结",
+        "link": "https://36kr.com/p/4051783938774151",
+        "pub_time": 1793578354.079,
+        "pub_display": "11-02 08:12"
+      },
+      {
+        "title": "66 岁 Yann LeCun 发新论文挑战 Scaling Law：1.09 亿参数胜过 720 亿，模型越大不一定越懂世界",
+        "link": "https://36kr.com/p/4052080077427593",
+        "pub_time": 1793592685.041,
+        "pub_display": "11-02 12:11"
+      },
+      {
+        "title": "11月新机再度爆发，影像依然是重点，中端机不再拼性能",
+        "link": "https://36kr.com/p/4051200262281095",
+        "pub_time": 1793583396.95,
+        "pub_display": "11-02 09:36"
+      },
+      {
+        "title": "HALO PIXELBAR AI 正式发布：以情绪AI重构声光交互，定义桌面智能音箱全新形态",
+        "link": "https://36kr.com/p/4052000160813956",
+        "pub_time": 1793599304.335,
+        "pub_display": "11-02 14:01"
+      },
+      {
+        "title": "非洲奥运首秀，阿里巴巴交出了一份“双面答卷”",
+        "link": "https://36kr.com/p/4052324134638466",
+        "pub_time": 1793606553.592,
+        "pub_display": "11-02 16:02"
+      },
+      {
+        "title": "奥特曼暴论被骂翻，普通人电脑装内存太浪费，不如统一交给AI",
+        "link": "https://36kr.com/p/4051772922696581",
+        "pub_time": 1793578276.595,
+        "pub_display": "11-02 08:11"
+      },
+      {
+        "title": "500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？",
+        "link": "https://36kr.com/p/4052312512844678",
+        "pub_time": 1793610733.871,
+        "pub_display": "11-02 17:12"
+      },
+      {
+        "title": "“数据中心”名声臭了，OpenAI想给它改个名字",
+        "link": "https://36kr.com/p/4052313446880137",
+        "pub_time": 1793609717.548,
+        "pub_display": "11-02 16:55"
+      },
+      {
+        "title": "武汉新房备案价首破10万元",
+        "link": "https://36kr.com/p/4052207026082945",
+        "pub_time": 1793599101.574,
+        "pub_display": "11-02 13:58"
+      },
+      {
+        "title": "AI抄袭者正在全力毁灭游戏行业",
+        "link": "https://36kr.com/p/4051103872521091",
+        "pub_time": 1793583596.089,
+        "pub_display": "11-02 09:39"
+      },
+      {
+        "title": "投入最狠、收成平淡，亚马逊已成英伟达 “打工仔”？",
+        "link": "https://36kr.com/p/4051094590100358",
+        "pub_time": 1793580097.713,
+        "pub_display": "11-02 08:41"
+      },
+      {
+        "title": "0裁员，专家工资先降30%，DeepMind联创推演AI第一刀",
+        "link": "https://36kr.com/p/4051781751903361",
+        "pub_time": 1793578264.073,
+        "pub_display": "11-02 08:11"
+      },
+      {
+        "title": "广州人周末进村，已经不满足于喝咖啡了",
+        "link": "https://36kr.com/p/4052012386046850",
+        "pub_time": 1793587635.576,
+        "pub_display": "11-02 10:47"
+      },
+      {
+        "title": "“连真话都听不到，还怎么解决问题？”达里奥兄妹揭秘5年前离开OpenAI内幕、7人创办Anthropic、承诺Claude不会植入广告",
+        "link": "https://36kr.com/p/4051979309225096",
+        "pub_time": 1793586733.611,
+        "pub_display": "11-02 10:32"
+      }
+    ],
+    "凤凰科技": [
+      {
+        "title": "Kimi加码游戏赛道",
+        "link": "https://original.ifeng.com/c/8xjEIumK3ad",
+        "pub_time": 1793626370.0,
+        "pub_display": "11-02 21:32"
+      },
+      {
+        "title": "免费、自己爽、无限效率，红果如何改造中国影视业",
+        "link": "https://tech.ifeng.com/c/8xjQksR4vtb",
+        "pub_time": 1793624363.0,
+        "pub_display": "11-02 20:59"
+      },
+      {
+        "title": "东风、宁德时代首搭权谈判进行时",
+        "link": "https://original.ifeng.com/c/8xjPdwWYDFv",
+        "pub_time": 1793624227.0,
+        "pub_display": "11-02 20:57"
+      },
+      {
+        "title": "红果收紧中小短剧保底补贴：原每部20万至35万元",
+        "link": "https://tech.ifeng.com/c/8xjPbtBTBQS",
+        "pub_time": 1793624211.0,
+        "pub_display": "11-02 20:56"
+      },
+      {
+        "title": "AI不只做题，还开始造工具了",
+        "link": "https://original.ifeng.com/c/8xjMEhQvTuR",
+        "pub_time": 1793623903.0,
+        "pub_display": "11-02 20:51"
+      },
+      {
+        "title": "东风汽车领导班子成员调整：吴碧磊、卢放履新",
+        "link": "https://original.ifeng.com/c/8xjL6svAapi",
+        "pub_time": 1793623880.0,
+        "pub_display": "11-02 20:51"
+      },
+      {
+        "title": "抖音李亮炮轰“专家自媒体”",
+        "link": "https://original.ifeng.com/c/8xjOnnHkIqN",
+        "pub_time": 1793622739.0,
+        "pub_display": "11-02 20:32"
+      },
+      {
+        "title": "字节Seed模型评测负责人黄文灏离职，或转身创业",
+        "link": "https://original.ifeng.com/c/8xjODciQMMu",
+        "pub_time": 1793622178.0,
+        "pub_display": "11-02 20:22"
+      },
+      {
+        "title": "AI“杀死币圈”？",
+        "link": "https://tech.ifeng.com/c/8xjJTkv6PSn",
+        "pub_time": 1793619660.0,
+        "pub_display": "11-02 19:41"
+      },
+      {
+        "title": "首届CMG世界机器人登泰山大赛收官，宇树科技斩获1金2银",
+        "link": "https://tech.ifeng.com/c/8xjL6svAalV",
+        "pub_time": 1793619445.0,
+        "pub_display": "11-02 19:37"
+      },
+      {
+        "title": "再次被指侮辱用户的罗技，在中国居然卖得更好了？",
+        "link": "https://tech.ifeng.com/c/8xjJy6crfZZ",
+        "pub_time": 1793619388.0,
+        "pub_display": "11-02 19:36"
+      },
+      {
+        "title": "苹果新CEO上任两个月，三款新品被疯狂吐槽",
+        "link": "https://tech.ifeng.com/c/8xjHmf1aPuh",
+        "pub_time": 1793617211.0,
+        "pub_display": "11-02 19:00"
+      },
+      {
+        "title": "扎克伯格的Logo，救不了傅利叶商业化",
+        "link": "https://original.ifeng.com/c/8xjHmfANxxG",
+        "pub_time": 1793617198.0,
+        "pub_display": "11-02 18:59"
+      },
+      {
+        "title": "比利时、瑞典多家超市冷冻柜出现异常，疑遭网络攻击",
+        "link": "https://tech.ifeng.com/c/8xjJEnDA9P0",
+        "pub_time": 1793616847.0,
+        "pub_display": "11-02 18:54"
+      },
+      {
+        "title": "AI广告分化：Meta增长26%，谷歌仅增12%",
+        "link": "https://original.ifeng.com/c/8xj2He8MFZh",
+        "pub_time": 1793613844.0,
+        "pub_display": "11-02 18:04"
+      },
+      {
+        "title": "问界M9 Ultimate车主画像曝光",
+        "link": "https://original.ifeng.com/c/8xj1Vg7a6Bc",
+        "pub_time": 1793613823.0,
+        "pub_display": "11-02 18:03"
+      },
+      {
+        "title": "Galaxy S27 Pro、Ultra将搭载隐私显示屏",
+        "link": "https://original.ifeng.com/c/8xjAjMwh3yN",
+        "pub_time": 1793613283.0,
+        "pub_display": "11-02 17:54"
+      },
+      {
+        "title": "35岁保时捷女销冠再夺第一，奖励是芬兰免费旅游",
+        "link": "https://tech.ifeng.com/c/8xjDXvvFdf6",
+        "pub_time": 1793612408.0,
+        "pub_display": "11-02 17:40"
+      },
+      {
+        "title": "Claude Ultra取消已验证账户5小时限额",
+        "link": "https://original.ifeng.com/c/8xjCj7c9hQR",
+        "pub_time": 1793612109.0,
+        "pub_display": "11-02 17:35"
+      },
+      {
+        "title": "AI编程开发的“床虱地图”小程序走红，超600家酒店被标记",
+        "link": "https://tech.ifeng.com/c/8xjCuudDEOe",
+        "pub_time": 1793611657.0,
+        "pub_display": "11-02 17:27"
+      },
+      {
+        "title": "独家 | 抖音副总裁李亮回应被秦朔起诉",
+        "link": "https://original.ifeng.com/c/8xjB3PBt3OJ",
+        "pub_time": 1793611566.0,
+        "pub_display": "11-02 17:26"
+      },
+      {
+        "title": "宇树机器人因过热退出登泰山大赛，被担架抬走",
+        "link": "https://tech.ifeng.com/c/8xj9rkMAtai",
+        "pub_time": 1793611351.0,
+        "pub_display": "11-02 17:22"
+      },
+      {
+        "title": "中国版“诺贝尔”杀疯了",
+        "link": "https://tech.ifeng.com/c/8xim45Lowba",
+        "pub_time": 1793610313.0,
+        "pub_display": "11-02 17:05"
+      },
+      {
+        "title": "星宇股份Q3净利润同比下降39.62%，曾陷劝退应届生风波",
+        "link": "https://original.ifeng.com/c/8xj8u7qsKVV",
+        "pub_time": 1793610128.0,
+        "pub_display": "11-02 17:02"
+      },
+      {
+        "title": "OPPO小布建议9月活跃用户同比增长139.9%",
+        "link": "https://tech.ifeng.com/c/8xj8kbGicSA",
+        "pub_time": 1793609923.0,
+        "pub_display": "11-02 16:58"
+      },
+      {
+        "title": "微软解释Windows11任务栏不能拖动",
+        "link": "https://original.ifeng.com/c/8xj9bmFK0QO",
+        "pub_time": 1793609911.0,
+        "pub_display": "11-02 16:58"
+      },
+      {
+        "title": "一分钟急坠近万米，美国公务机失事全员罹难",
+        "link": "https://tech.ifeng.com/c/8xj7jf0n9eO",
+        "pub_time": 1793608139.0,
+        "pub_display": "11-02 16:28"
+      },
+      {
+        "title": "腾讯地图想把所有Agent都拉进朋友圈",
+        "link": "https://tech.ifeng.com/c/8xj7jf0n9eT",
+        "pub_time": 1793606009.0,
+        "pub_display": "11-02 15:53"
+      },
+      {
+        "title": "巴菲特自曝特殊习惯：已经48年没喝过水，每日狂饮可乐",
+        "link": "https://tech.ifeng.com/c/8xj4Socaw8C",
+        "pub_time": 1793605789.0,
+        "pub_display": "11-02 15:49"
+      },
+      {
+        "title": "人民网锐评“中国互联网进入字节时间”",
+        "link": "https://tech.ifeng.com/c/8xj7jf0n9eK",
+        "pub_time": 1793604360.0,
+        "pub_display": "11-02 15:26"
+      },
+      {
+        "title": "韩国拟大幅增加AI投资",
+        "link": "https://original.ifeng.com/c/8xj0yDVgNZ4",
+        "pub_time": 1793602444.0,
+        "pub_display": "11-02 14:54"
+      },
+      {
+        "title": "仰望U9X宣布重启极速挑战，将在阿布扎比公路冲击新纪录",
+        "link": "https://original.ifeng.com/c/8xixkoq17kO",
+        "pub_time": 1793602429.0,
+        "pub_display": "11-02 14:53"
+      },
+      {
+        "title": "比亚迪仰望U9X重启极速挑战，小米胡峥楠转发致敬",
+        "link": "https://original.ifeng.com/c/8xixuf141bp",
+        "pub_time": 1793602415.0,
+        "pub_display": "11-02 14:53"
+      },
+      {
+        "title": "首届CMG世界机器人登泰山大赛足式竞速冠军出炉",
+        "link": "https://tech.ifeng.com/c/8xj1Vg7a6FL",
+        "pub_time": 1793602310.0,
+        "pub_display": "11-02 14:51"
+      },
+      {
+        "title": "硬核老爸改造电视防沉迷：开机广告换成初一语数英题",
+        "link": "https://original.ifeng.com/c/8xiy5rg2sai",
+        "pub_time": 1793601525.0,
+        "pub_display": "11-02 14:38"
+      },
+      {
+        "title": "广告牌光线干扰识别，L4无人车引发交通事故",
+        "link": "https://tech.ifeng.com/c/8xgyqTkW0jt",
+        "pub_time": 1793601281.0,
+        "pub_display": "11-02 14:34"
+      },
+      {
+        "title": "中国区专属！iOS 27.2拦截摇一摇广告，百度网盘待更新适配",
+        "link": "https://tech.ifeng.com/c/8xim45LowbO",
+        "pub_time": 1793601169.0,
+        "pub_display": "11-02 14:32"
+      },
+      {
+        "title": "北大数院戈登贝尔奖得主下场：破解物理AI“准与快”死结",
+        "link": "https://tech.ifeng.com/c/8xim45LowbN",
+        "pub_time": 1793601000.0,
+        "pub_display": "11-02 14:30"
+      },
+      {
+        "title": "国产超低温核磁探头面世，灵敏度提升超三倍",
+        "link": "https://tech.ifeng.com/c/8xim45LowbJ",
+        "pub_time": 1793600812.0,
+        "pub_display": "11-02 14:26"
+      },
+      {
+        "title": "Claude逃出沙箱，GPT-6装乖被抓，顶尖学者纷纷警告",
+        "link": "https://tech.ifeng.com/c/8xim45LowbH",
+        "pub_time": 1793600191.0,
+        "pub_display": "11-02 14:16"
+      },
+      {
+        "title": "北美求职大踩踏！康奈尔博士亲历：没业界经验宛如裸奔",
+        "link": "https://tech.ifeng.com/c/8xgyqTkW0jq",
+        "pub_time": 1793600191.0,
+        "pub_display": "11-02 14:16"
+      },
+      {
+        "title": "AI需求拉动，三星2nm订单同比有望翻倍",
+        "link": "https://tech.ifeng.com/c/8xim45LowbA",
+        "pub_time": 1793599275.0,
+        "pub_display": "11-02 14:01"
+      },
+      {
+        "title": "中国车占全球32%，欧洲车企份额大跌面临“二次创业”",
+        "link": "https://original.ifeng.com/c/8xiwN3W1RuG",
+        "pub_time": 1793599221.0,
+        "pub_display": "11-02 14:00"
+      },
+      {
+        "title": "清河夜话圆桌：辨析AI幻象与真相，警惕伪装成未来的深渊",
+        "link": "https://tech.ifeng.com/c/8xim45LowbM",
+        "pub_time": 1793598388.0,
+        "pub_display": "11-02 13:46"
+      },
+      {
+        "title": "跨境差旅党换iPhone Duo：没实现一机走天下",
+        "link": "https://tech.ifeng.com/c/8xivBgvBCFe",
+        "pub_time": 1793598382.0,
+        "pub_display": "11-02 13:46"
+      },
+      {
+        "title": "嫌YouTube推荐太烂，AI大神卡帕西用2小时“手搓”出替代网站",
+        "link": "https://original.ifeng.com/c/8xiuoB9Kjjc",
+        "pub_time": 1793598338.0,
+        "pub_display": "11-02 13:45"
+      },
+      {
+        "title": "多家汽车企业“进京”与相关部门协商“混动汽车出口配额”",
+        "link": "https://tech.ifeng.com/c/8xitSOnuLZW",
+        "pub_time": 1793597950.0,
+        "pub_display": "11-02 13:39"
+      },
+      {
+        "title": "车企KPI大溃败",
+        "link": "https://tech.ifeng.com/c/8xivDbIlFUa",
+        "pub_time": 1793597937.0,
+        "pub_display": "11-02 13:38"
+      },
+      {
+        "title": "第一批抢到iPhone Duo的人，心碎",
+        "link": "https://tech.ifeng.com/c/8xiuoB9KjVC",
+        "pub_time": 1793597889.0,
+        "pub_display": "11-02 13:38"
+      },
+      {
+        "title": "今晚李佳琦直播首卖“Token”，阿里陈宇森做客直播间",
+        "link": "https://tech.ifeng.com/c/8xiu0pJAWq0",
+        "pub_time": 1793597869.0,
+        "pub_display": "11-02 13:37"
+      },
+      {
+        "title": "理想MEGA因屏幕短缺致歉",
+        "link": "https://original.ifeng.com/c/8xiuoB9KjUX",
+        "pub_time": 1793597814.0,
+        "pub_display": "11-02 13:36"
+      },
+      {
+        "title": "iPhone Duo被指国行美版存结构差异 苹果回应",
+        "link": "https://tech.ifeng.com/c/8xivDbIlFcL",
+        "pub_time": 1793597809.0,
+        "pub_display": "11-02 13:36"
+      },
+      {
+        "title": "美里尔 60 公务机俯冲坠毁，机上 9 人全部遇难",
+        "link": "https://tech.ifeng.com/c/8xim45Lowb9",
+        "pub_time": 1793596732.0,
+        "pub_display": "11-02 13:18"
+      },
+      {
+        "title": "今日宜休AI睡眠硬件发布，主打科学监测与干预",
+        "link": "https://original.ifeng.com/c/8xiseTcgSeI",
+        "pub_time": 1793596264.0,
+        "pub_display": "11-02 13:11"
+      },
+      {
+        "title": "央视严选“中国AI创业十骏”：唯一AI制药公司是清华系",
+        "link": "https://tech.ifeng.com/c/8xim45LowbK",
+        "pub_time": 1793593800.0,
+        "pub_display": "11-02 12:30"
+      },
+      {
+        "title": "奔驰新款长轴E级车上市：首次搭载中国团队开发的AI座舱",
+        "link": "https://original.ifeng.com/c/8xioOjxDTq1",
+        "pub_time": 1793593227.0,
+        "pub_display": "11-02 12:20"
+      },
+      {
+        "title": "NASA火星模拟实验结束，四名宇航员隔离378天后出舱",
+        "link": "https://original.ifeng.com/c/8xipHaRjNrY",
+        "pub_time": 1793593058.0,
+        "pub_display": "11-02 12:17"
+      },
+      {
+        "title": "9.8分高危Linux漏洞，AI辅助完成漏洞利用",
+        "link": "https://tech.ifeng.com/c/8xgyqTkW0jf",
+        "pub_time": 1793592836.0,
+        "pub_display": "11-02 12:13"
+      },
+      {
+        "title": "在座各位AI，都是“垃圾”",
+        "link": "https://tech.ifeng.com/c/8xim45Lowb5",
+        "pub_time": 1793591856.0,
+        "pub_display": "11-02 11:57"
+      },
+      {
+        "title": "全球AI投资，进入“深水区”",
+        "link": "https://tech.ifeng.com/c/8xgyqTkW0js",
+        "pub_time": 1793591585.0,
+        "pub_display": "11-02 11:53"
+      }
+    ],
+    "Solidot": [
+      {
+        "title": "鳄鱼为何免受毁灭恐龙的小行星的影响？",
+        "link": "https://www.solidot.org/story?sid=85777",
+        "pub_time": 1793605282.0,
+        "pub_display": "11-02 15:41"
+      },
+      {
+        "title": "小鼠研究显示阉割有助于长寿",
+        "link": "https://www.solidot.org/story?sid=85776",
+        "pub_time": 1793604713.0,
+        "pub_display": "11-02 15:31"
+      },
+      {
+        "title": "比利时瑞典超市冷冻冷藏设备遭遇网络攻击",
+        "link": "https://www.solidot.org/story?sid=85775",
+        "pub_time": 1793593674.0,
+        "pub_display": "11-02 12:27"
+      },
+      {
+        "title": "鸟类遗传多样性显著下降",
+        "link": "https://www.solidot.org/story?sid=85774",
+        "pub_time": 1793589303.0,
+        "pub_display": "11-02 11:15"
+      },
+      {
+        "title": "Proton 全力推动工程师转向 AI",
+        "link": "https://www.solidot.org/story?sid=85773",
+        "pub_time": 1793584396.0,
+        "pub_display": "11-02 09:53"
+      },
+      {
+        "title": "Steam 用户中使用 Linux 比例占 3.95%",
+        "link": "https://www.solidot.org/story?sid=85772",
+        "pub_time": 1793581475.0,
+        "pub_display": "11-02 09:04"
+      },
+      {
+        "title": "小鼠研究发现骨骼在运动中会释放延缓衰老和延寿的蛋白质",
+        "link": "https://www.solidot.org/story?sid=85771",
+        "pub_time": 1793580367.0,
+        "pub_display": "11-02 08:46"
+      },
+      {
+        "title": "Linux 7.4-rc1 释出",
+        "link": "https://www.solidot.org/story?sid=85770",
+        "pub_time": 1793575370.0,
+        "pub_display": "11-02 07:22"
+      },
+      {
+        "title": "Stack Overflow 表示它还活着",
+        "link": "https://www.solidot.org/story?sid=85769",
+        "pub_time": 1793570939.0,
+        "pub_display": "11-02 06:08"
+      },
+      {
+        "title": "币安恢复提现后净流出 36.4 亿美元资产",
+        "link": "https://www.solidot.org/story?sid=85768",
+        "pub_time": 1793569623.0,
+        "pub_display": "11-02 05:47"
+      }
+    ]
+  }
+}
