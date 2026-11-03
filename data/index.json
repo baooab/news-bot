@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-03 22:22:12",
-  "total": 115,
+  "updated_at": "2026-11-04 03:53:45",
+  "total": 116,
   "briefs": [
+    {
+      "date": "2026-11-04",
+      "display": "2026年11月04日 星期三",
+      "series": "科技资讯",
+      "headline": "Anthropic，Anthropic算力承诺达8954",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-11-03",
       "display": "2026年11月03日 星期二",
