@@ -1,0 +1,222 @@
+{
+  "series": "科技资讯",
+  "headline": "OpenAI发布AGI新标准，谷歌Gemini 4 Carbon榜",
+  "date": "2026-11-05",
+  "date_display": "2026年11月05日 星期四 农历九月廿七",
+  "weekday": "星期四",
+  "lunar": "农历九月廿七",
+  "overview": "本期主线是AI资本叙事的分化：OpenAI抛出1.7万亿美元AGI新标准，甲骨文200亿美元融资却引发抛售，谷歌Gemini 4 Carbon登顶榜单同时市值暴跌。一边是DeepSeek获1500亿元融资、后摩智能数十亿元B轮，一边是SUSE因AI裁员十分之一，AI投入的代价与回报正被同时摆上台面。",
+  "generated_at": "2026-11-05 04:09:14",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃",
+    "雷峰网"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "今天，OpenAI发布AGI新标准，价值1.7万亿美元，接管全球80亿人类",
+      "summary": "OpenAI发布AGI新标准，宣称价值1.7万亿美元，引发行业对AGI定义权与商业化路径的争议",
+      "text": "OpenAI发布AGI新标准，宣称价值1.7万亿美元，引发行业对AGI定义权与商业化路径的争议",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4054987443524745",
+      "section": "tech",
+      "pub_time": 1793777094.781,
+      "pub_display": "11-04 15:24"
+    },
+    {
+      "index": 2,
+      "title": "榜单第一，市值暴跌！Gemini 4 Carbon「速成」背后，谷歌一场豪赌",
+      "summary": "谷歌 Gemini 4 Carbon榜单第一但市值暴跌，速成策略背后是一场豪赌",
+      "text": "谷歌 Gemini 4 Carbon榜单第一但市值暴跌，速成策略背后是一场豪赌",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/yanxishe/7uvYEZBsCWcPvhw3.html",
+      "section": "tech",
+      "pub_time": 1793745540.0,
+      "pub_display": "11-04 06:39"
+    },
+    {
+      "index": 3,
+      "title": "甲骨文200亿美元融资引发抛售，AI扩张前景遭质疑",
+      "summary": "甲骨文200亿美元融资引发抛售，市场质疑其AI扩张前景",
+      "text": "甲骨文200亿美元融资引发抛售，市场质疑其AI扩张前景",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xkZQaKMvsW",
+      "section": "tech",
+      "pub_time": 1793748349.0,
+      "pub_display": "11-04 07:25"
+    },
+    {
+      "index": 4,
+      "title": "AI绑架美股七姐妹",
+      "summary": "AI绑架美股七姐妹",
+      "text": "AI绑架美股七姐妹",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4054817959121794",
+      "section": "tech",
+      "pub_time": 1793758705.384,
+      "pub_display": "11-04 10:18"
+    },
+    {
+      "index": 5,
+      "title": "汽车芯片价格三连涨，车企再被供应链卡脖子，行业利润率降至1.4%",
+      "summary": "汽车芯片价格三连涨，车企再被供应链卡脖子，行业利润率降至1.4%",
+      "text": "汽车芯片价格三连涨，车企再被供应链卡脖子，行业利润率降至1.4%",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4054718912107398",
+      "section": "tech",
+      "pub_time": 1793755141.102,
+      "pub_display": "11-04 09:19"
+    },
+    {
+      "index": 6,
+      "title": "后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+      "summary": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+      "text": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+      "section": "tech",
+      "pub_time": 1793730060.0,
+      "pub_display": "11-04 02:21"
+    },
+    {
+      "index": 7,
+      "title": "1500亿，机构抢着给DeepSeek送钱",
+      "summary": "1500亿，机构抢着给 DeepSeek送钱",
+      "text": "1500亿，机构抢着给 DeepSeek送钱",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4054750746399618",
+      "section": "tech",
+      "pub_time": 1793754541.074,
+      "pub_display": "11-04 09:09"
+    },
+    {
+      "index": 8,
+      "title": "SUSE 因 AI 而计划裁员十分之一",
+      "summary": "SUSE因AI计划裁员十分之一，传统软件厂商加速向AI转型",
+      "text": "SUSE因AI计划裁员十分之一，传统软件厂商加速向AI转型",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85791",
+      "section": "tech",
+      "pub_time": 1793751817.0,
+      "pub_display": "11-04 08:23"
+    },
+    {
+      "index": 9,
+      "title": "AMD 营收预计将首次超过英特尔",
+      "summary": "AMD 营收预计将首次超过英特尔",
+      "text": "AMD 营收预计将首次超过英特尔",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85799",
+      "section": "tech",
+      "pub_time": 1793784006.0,
+      "pub_display": "11-04 17:20"
+    },
+    {
+      "index": 10,
+      "title": "AMD Q3营收133.8亿美元同比增45%，数据中心营收增97%",
+      "summary": "AMD Q3营收133.8亿美元同比增45%，数据中心营收增97%",
+      "text": "AMD Q3营收133.8亿美元同比增45%，数据中心营收增97%",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xltsDayPeJ",
+      "section": "tech",
+      "pub_time": 1793753198.0,
+      "pub_display": "11-04 08:46"
+    },
+    {
+      "index": 11,
+      "title": "最高 50 亿元将创科创板纪录，长鑫科技董事长朱一明提议增加回购股份金",
+      "summary": "长鑫科技董事长朱一明提议回购上限增至50亿元，将创科创板纪录",
+      "text": "长鑫科技董事长朱一明提议回购上限增至50亿元，将创科创板纪录",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/022/378.htm",
+      "section": "tech",
+      "pub_time": 1793761434.0,
+      "pub_display": "11-04 11:03"
+    },
+    {
+      "index": 12,
+      "title": "最前线| 拓竹发布新一代3D打印机，9个独立打印头、最快6秒切换",
+      "summary": "拓竹发布新一代3D打印机，9个独立打印头、最快6秒切换",
+      "text": "拓竹发布新一代3D打印机，9个独立打印头、最快6秒切换",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4054776330900353",
+      "section": "tech",
+      "pub_time": 1793755990.922,
+      "pub_display": "11-04 09:33"
+    },
+    {
+      "index": 13,
+      "title": "美国密西西比州一化工厂发生爆炸",
+      "summary": "美国密西西比州一化工厂发生爆炸，伤亡情况待核实",
+      "text": "美国密西西比州一化工厂发生爆炸，伤亡情况待核实",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793818834.477,
+      "pub_display": "11-05 03:00"
+    },
+    {
+      "index": 14,
+      "title": "硫磺熏笋乱象曝光后，多地发通告：严禁工业硫磺用于任何食用农产品",
+      "summary": "硫磺熏笋乱象曝光后，多地发通告：严禁工业硫磺用于任何食用农产品",
+      "text": "硫磺熏笋乱象曝光后，多地发通告：严禁工业硫磺用于任何食用农产品",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793800014.977,
+      "pub_display": "11-04 21:46"
+    },
+    {
+      "index": 15,
+      "title": "云南“十五五”将推进城市“5分钟消防救援圈”建设",
+      "summary": "云南“十五五”将推进城市“5分钟消防救援圈”建设",
+      "text": "云南“十五五”将推进城市“5分钟消防救援圈”建设",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726234.shtml",
+      "section": "general",
+      "pub_time": 1793768381.0,
+      "pub_display": "11-04 12:59"
+    },
+    {
+      "index": 16,
+      "title": "云南玉溪警方通报“球迷投掷鼓槌击中球员”：肇事球迷已被行拘",
+      "summary": "云南玉溪警方通报球迷投掷鼓槌击中球员，肇事球迷已被行拘",
+      "text": "云南玉溪警方通报球迷投掷鼓槌击中球员，肇事球迷已被行拘",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726071.shtml",
+      "section": "general",
+      "pub_time": 1793753315.0,
+      "pub_display": "11-04 08:48"
+    },
+    {
+      "index": 17,
+      "title": "黑龙江未来2天迎寒潮 局地最低气温降幅达12℃",
+      "summary": "黑龙江未来2天迎寒潮，局地最低气温降幅达12℃",
+      "text": "黑龙江未来2天迎寒潮，局地最低气温降幅达12℃",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726149.shtml",
+      "section": "general",
+      "pub_time": 1793760184.0,
+      "pub_display": "11-04 10:43"
+    },
+    {
+      "index": 18,
+      "title": "山西“十五五”：力争九成疑难复杂手术在省内实施",
+      "summary": "山西“十五五”力争九成疑难复杂手术在省内实施",
+      "text": "山西“十五五”力争九成疑难复杂手术在省内实施",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726060.shtml",
+      "section": "general",
+      "pub_time": 1793752601.0,
+      "pub_display": "11-04 08:36"
+    }
+  ]
+}
