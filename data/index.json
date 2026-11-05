@@ -1,23 +1,21 @@
 {
-  "updated_at": "2026-11-05 04:09:14",
+  "updated_at": "2026-11-05 20:11:54",
   "total": 117,
   "briefs": [
     {
       "date": "2026-11-05",
       "display": "2026年11月05日 星期四",
       "series": "科技资讯",
-      "headline": "OpenAI发布AGI新标准，谷歌Gemini 4 Carbon榜",
+      "headline": "国产模型集体开源抢入口，Kimi K3.1 Pro登顶开源榜",
       "count": 18,
       "tech_quota": 12,
       "general_quota": 6,
       "sources": [
-        "36氪",
         "IT之家",
         "Solidot",
         "中新网",
         "凤凰科技",
-        "澎湃",
-        "雷峰网"
+        "澎湃"
       ]
     },
     {
