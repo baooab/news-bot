@@ -1,0 +1,220 @@
+{
+  "series": "科技资讯",
+  "headline": "AI融资与算力账本对撞，Sand.ai单笔融2亿美元",
+  "date": "2026-11-06",
+  "date_display": "2026年11月06日 星期五 农历九月廿八",
+  "weekday": "星期五",
+  "lunar": "农历九月廿八",
+  "overview": "本期主线是AI资本与算力账本同时收紧：Sand.ai单笔融资2亿美元、Agility登陆纳斯达克，而内存短缺被摩根大通判到2028年、SK海力士与美光股价集体大跌。扩张与代价第一次在同一期里正面对撞。",
+  "generated_at": "2026-11-06 04:23:53",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "中国AI爆款诞生：Sand.ai融资2亿美元",
+      "summary": "中国AI爆款诞生：Sand.ai融资2亿美元",
+      "text": "中国AI爆款诞生：Sand.ai融资2亿美元",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4056244763513734",
+      "section": "tech",
+      "pub_time": 1793846720.168,
+      "pub_display": "11-05 10:45"
+    },
+    {
+      "index": 2,
+      "title": "美国人形机器人第一股：Agility Robotics 本周登陆纳斯达克，获富士康、英伟达投资",
+      "summary": "Agility Robotics本周登陆纳斯达克，成美国人形机器人第一股，富士康、英伟达参投",
+      "text": "Agility Robotics本周登陆纳斯达克，成美国人形机器人第一股，富士康、英伟达参投",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/022/978.htm",
+      "section": "tech",
+      "pub_time": 1793853537.0,
+      "pub_display": "11-05 12:38"
+    },
+    {
+      "index": 3,
+      "title": "DeepSeek Harness：日活跃用户达 154 万、日消耗 Token 约 92 万亿，将建设官方插件市场",
+      "summary": "DeepSeek Harness日活154万、日消耗 Token约92万亿，将建官方插件市场",
+      "text": "DeepSeek Harness日活154万、日消耗 Token约92万亿，将建官方插件市场",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/011.htm",
+      "section": "tech",
+      "pub_time": 1793861329.0,
+      "pub_display": "11-05 14:48"
+    },
+    {
+      "index": 4,
+      "title": "百度上线模型交易平台“词元所”，汇集42款大模型",
+      "summary": "百度上线模型交易平台「词元所」，汇集42款大模型",
+      "text": "百度上线模型交易平台「词元所」，汇集42款大模型",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4056235634186113",
+      "section": "tech",
+      "pub_time": 1793853271.231,
+      "pub_display": "11-05 12:34"
+    },
+    {
+      "index": 5,
+      "title": "半年106亿、狂涨近9倍！卖Token的这个新方向，爆了",
+      "summary": "Token分销新方向半年营收106亿元、同比涨近9倍",
+      "text": "Token分销新方向半年营收106亿元、同比涨近9倍",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xmLKMxkgmD",
+      "section": "tech",
+      "pub_time": 1793851620.0,
+      "pub_display": "11-05 12:07"
+    },
+    {
+      "index": 6,
+      "title": "高通净利润暴涨146%，手机收入下滑26%，已与华为续签授权",
+      "summary": "高通净利润暴涨146%，手机收入下滑26%，已与华为续签授权",
+      "text": "高通净利润暴涨146%，手机收入下滑26%，已与华为续签授权",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4056266550760327",
+      "section": "tech",
+      "pub_time": 1793847891.07,
+      "pub_display": "11-05 11:04"
+    },
+    {
+      "index": 7,
+      "title": "高通拿下迄今最大5G订单，客户是马斯克的SpaceX",
+      "summary": "高通拿下迄今最大5G订单，客户为马斯克旗下 SpaceX",
+      "text": "高通拿下迄今最大5G订单，客户为马斯克旗下 SpaceX",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xncJqiwnr0",
+      "section": "tech",
+      "pub_time": 1793842230.0,
+      "pub_display": "11-05 09:30"
+    },
+    {
+      "index": 8,
+      "title": "内存短缺或持续到2030年，SK海力士、美光等股价集体大跌",
+      "summary": "内存短缺或持续至2030年，SK海力士、美光等股价集体大跌",
+      "text": "内存短缺或持续至2030年，SK海力士、美光等股价集体大跌",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4056336356267140",
+      "section": "tech",
+      "pub_time": 1793852701.451,
+      "pub_display": "11-05 12:25"
+    },
+    {
+      "index": 9,
+      "title": "摩根大通：DRAM / NAND 供需仍紧张，基本面有望保持强劲至 2028 年",
+      "summary": "摩根大通：DRAM/NAND供需仍紧张，基本面有望强劲至2028年",
+      "text": "摩根大通：DRAM/NAND供需仍紧张，基本面有望强劲至2028年",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/022/991.htm",
+      "section": "tech",
+      "pub_time": 1793857886.0,
+      "pub_display": "11-05 13:51"
+    },
+    {
+      "index": 10,
+      "title": "反对声浪下 OpenAI 重申将承担数据中心供电成本，承诺征求社区意见、公开建设规划",
+      "summary": "反对声浪下 OpenAI重申承担数据中心供电成本，承诺公开建设规划",
+      "text": "反对声浪下 OpenAI重申承担数据中心供电成本，承诺公开建设规划",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/022/958.htm",
+      "section": "tech",
+      "pub_time": 1793847899.0,
+      "pub_display": "11-05 11:04"
+    },
+    {
+      "index": 11,
+      "title": "法国血液机构冷库遭黑客攻击：温控目标被改至110℃",
+      "summary": "法国血液机构冷库遭黑客攻击，温控目标被篡改至110℃",
+      "text": "法国血液机构冷库遭黑客攻击，温控目标被篡改至110℃",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xnsuNjG6S8",
+      "section": "tech",
+      "pub_time": 1793860794.0,
+      "pub_display": "11-05 14:39"
+    },
+    {
+      "index": 12,
+      "title": "法国一银行遭网络攻击，约 1 亿欧元被转走并兑换成加密货币",
+      "summary": "法国一银行遭网络攻击，约1亿欧元被转走并兑换成加密货币",
+      "text": "法国一银行遭网络攻击，约1亿欧元被转走并兑换成加密货币",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/022/942.htm",
+      "section": "tech",
+      "pub_time": 1793846682.0,
+      "pub_display": "11-05 10:44"
+    },
+    {
+      "index": 13,
+      "title": "新疆和田地区和康县发生4.8级地震 震源深度60千米",
+      "summary": "新疆和田地区和康县发生4.8级地震，震源深度60千米",
+      "text": "新疆和田地区和康县发生4.8级地震，震源深度60千米",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-06/10726977.shtml",
+      "section": "general",
+      "pub_time": 1793870438.0,
+      "pub_display": "11-05 17:20"
+    },
+    {
+      "index": 14,
+      "title": "专盯“一手女房东”！“房产中介”倒卖信息获刑三年半",
+      "summary": "房产中介倒卖「一手女房东」个人信息，获刑三年半",
+      "text": "房产中介倒卖「一手女房东」个人信息，获刑三年半",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726922.shtml",
+      "section": "general",
+      "pub_time": 1793860169.0,
+      "pub_display": "11-05 14:29"
+    },
+    {
+      "index": 15,
+      "title": "多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
+      "summary": "多所高校引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
+      "text": "多所高校引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1793858898.169,
+      "pub_display": "11-05 14:08"
+    },
+    {
+      "index": 16,
+      "title": "采暖消费进入旺季 山西省消协提示：防范风险、明白消费、温暖过冬",
+      "summary": "采暖消费进入旺季，山西省消协提示防范风险、明白消费、温暖过冬",
+      "text": "采暖消费进入旺季，山西省消协提示防范风险、明白消费、温暖过冬",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726818.shtml",
+      "section": "general",
+      "pub_time": 1793850560.0,
+      "pub_display": "11-05 11:49"
+    },
+    {
+      "index": 17,
+      "title": "今年秋冬北京降水预计偏多 或出现阶段性强降温",
+      "summary": "北京今冬降水预计偏多，或出现阶段性强降温",
+      "text": "北京今冬降水预计偏多，或出现阶段性强降温",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726822.shtml",
+      "section": "general",
+      "pub_time": 1793850748.0,
+      "pub_display": "11-05 11:52"
+    },
+    {
+      "index": 18,
+      "title": "青藏集团公司：调整客货车次期间 旅客和货主须核实信息",
+      "summary": "青藏集团调整客货车次，旅客和货主须核实信息",
+      "text": "青藏集团调整客货车次，旅客和货主须核实信息",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726846.shtml",
+      "section": "general",
+      "pub_time": 1793853927.0,
+      "pub_display": "11-05 12:45"
+    }
+  ]
+}
