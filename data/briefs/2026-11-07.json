@@ -1,0 +1,221 @@
+{
+  "series": "科技资讯",
+  "headline": "OpenAI发布GPT-6，Claude破解首个原核巨型蛋白结构",
+  "date": "2026-11-07",
+  "date_display": "2026年11月07日 星期六 农历九月廿九",
+  "weekday": "星期六",
+  "lunar": "农历九月廿九",
+  "overview": "本期主线是AI从“会说话”转向“能干活、能发现”：OpenAI的GPT-6 Cyber在Linux曝光948条提权路径、在Firefox挖出81个高危漏洞，Claude则破解了40年未解的原核巨型蛋白结构。与此同时，LeCun用1.09亿参数模型挑战Scaling Law，算力扩张与效率路线正面相撞。",
+  "generated_at": "2026-11-07 03:46:01",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "刚刚，OpenAI 发布 GPT‑6 Cyber，横扫两大开源项目：Firefox 挖出 81 个高危漏洞，Linux 曝光 948 条提权路径",
+      "summary": "OpenAI发布GPT-6 Cyber，在 Firefox挖出81个高危漏洞、Linux曝光948条提权路径，攻防能力同时拉满",
+      "text": "OpenAI发布GPT-6 Cyber，在 Firefox挖出81个高危漏洞、Linux曝光948条提权路径，攻防能力同时拉满",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4057235026121864",
+      "section": "tech",
+      "pub_time": 1793922319.718,
+      "pub_display": "11-06 07:45"
+    },
+    {
+      "index": 2,
+      "title": "重磅，Claude破解首个原核巨型蛋白，40年神秘结构现真身",
+      "summary": "Claude破解首个原核巨型蛋白结构，40年未解的神秘结构现出真身，AI开始直接产出科研发现",
+      "text": "Claude破解首个原核巨型蛋白结构，40年未解的神秘结构现出真身，AI开始直接产出科研发现",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4058172995736709",
+      "section": "tech",
+      "pub_time": 1793969037.202,
+      "pub_display": "11-06 20:43"
+    },
+    {
+      "index": 3,
+      "title": "“山寨祖师爷”不再山寨！众泰又开始赚钱了",
+      "summary": "“山寨祖师爷”不再山寨！众泰又开始赚钱了",
+      "text": "“山寨祖师爷”不再山寨！众泰又开始赚钱了",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xph03tQKk0",
+      "section": "tech",
+      "pub_time": 1793950181.0,
+      "pub_display": "11-06 15:29"
+    },
+    {
+      "index": 4,
+      "title": "Day-0 支持：摩尔线程完成 3 万亿级参数 Kimi-K3.1 Pro 适配，支持文本与图片推理",
+      "summary": "摩尔线程完成3万亿参数 Kimi-K3.1 Pro适配，支持文本与图片推理，国产GPU跑通国产大模型",
+      "text": "摩尔线程完成3万亿参数 Kimi-K3.1 Pro适配，支持文本与图片推理，国产GPU跑通国产大模型",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/561.htm",
+      "section": "tech",
+      "pub_time": 1793947315.0,
+      "pub_display": "11-06 14:41"
+    },
+    {
+      "index": 5,
+      "title": "宇树与中石油昆仑制造拟新设合营企业，布局工业具身智能",
+      "summary": "宇树与中石油昆仑制造拟新设合营企业，布局工业具身智能",
+      "text": "宇树与中石油昆仑制造拟新设合营企业，布局工业具身智能",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xpl0th6TPU",
+      "section": "tech",
+      "pub_time": 1793952477.0,
+      "pub_display": "11-06 16:07"
+    },
+    {
+      "index": 6,
+      "title": "字节跳动出售沐瞳科技获市场监管总局批准，交易价格超 60 亿美元",
+      "summary": "字节跳动出售沐瞳科技获市场监管总局批准，交易价格超60亿美元，游戏资产继续剥离",
+      "text": "字节跳动出售沐瞳科技获市场监管总局批准，交易价格超60亿美元，游戏资产继续剥离",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/550.htm",
+      "section": "tech",
+      "pub_time": 1793944606.0,
+      "pub_display": "11-06 13:56"
+    },
+    {
+      "index": 7,
+      "title": "最高投资 100 亿美元：SK 海力士设立美国 AI 投资子公司 Hyaico，崔泰源掌舵",
+      "summary": "SK海力士设立美国AI投资子公司 Hyaico，最高投资100亿美元，崔泰源亲自掌舵",
+      "text": "SK海力士设立美国AI投资子公司 Hyaico，最高投资100亿美元，崔泰源亲自掌舵",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/584.htm",
+      "section": "tech",
+      "pub_time": 1793948728.0,
+      "pub_display": "11-06 15:05"
+    },
+    {
+      "index": 8,
+      "title": "Silver Lake 和 PIF 磋商收购 Unity Software",
+      "summary": "Silver Lake与沙特PIF磋商收购 Unity Software，游戏引擎巨头或再易主",
+      "text": "Silver Lake与沙特PIF磋商收购 Unity Software，游戏引擎巨头或再易主",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85816",
+      "section": "tech",
+      "pub_time": 1793928173.0,
+      "pub_display": "11-06 09:22"
+    },
+    {
+      "index": 9,
+      "title": "刚刚，Gemini Omini 1.2登顶了，360p视频每秒0.07美元，还能升4K",
+      "summary": "Gemini Omini 1.2登顶榜单，360p视频生成每秒0.07美元，还能升4K，视频生成价格再下探",
+      "text": "Gemini Omini 1.2登顶榜单，360p视频生成每秒0.07美元，还能升4K，视频生成价格再下探",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4058140931822721",
+      "section": "tech",
+      "pub_time": 1793965283.415,
+      "pub_display": "11-06 19:41"
+    },
+    {
+      "index": 10,
+      "title": "高通CEO安蒙：6G从设计之初就具备AI原生特性",
+      "summary": "高通CEO安蒙称6G从设计之初就具备AI原生特性，通信标准开始为AI重写",
+      "text": "高通CEO安蒙称6G从设计之初就具备AI原生特性，通信标准开始为AI重写",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xpnpWiIpwz",
+      "section": "tech",
+      "pub_time": 1793954756.0,
+      "pub_display": "11-06 16:45"
+    },
+    {
+      "index": 11,
+      "title": "微软回应称Win11安全未恶化，只是AI找出了更多漏洞",
+      "summary": "微软回应 Win11安全未恶化，称只是AI找出了更多漏洞，漏洞数量与安全水平被重新定义",
+      "text": "微软回应 Win11安全未恶化，称只是AI找出了更多漏洞，漏洞数量与安全水平被重新定义",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xpiN8IaAIj",
+      "section": "tech",
+      "pub_time": 1793951043.0,
+      "pub_display": "11-06 15:44"
+    },
+    {
+      "index": 12,
+      "title": "我国科学家造出已知最冷人造物质",
+      "summary": "我国科学家造出已知最冷人造物质",
+      "text": "我国科学家造出已知最冷人造物质",
+      "source": "澎湃",
+      "link": "",
+      "section": "tech",
+      "pub_time": 1793916339.84,
+      "pub_display": "11-06 06:05"
+    },
+    {
+      "index": 13,
+      "title": "中国三季度 CO2 排放下降 3%",
+      "summary": "中国三季度 CO2 排放下降 3%",
+      "text": "中国三季度 CO2 排放下降 3%",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85817",
+      "section": "general",
+      "pub_time": 1793929057.0,
+      "pub_display": "11-06 09:37"
+    },
+    {
+      "index": 14,
+      "title": "重庆万州恩广高速“3·30”较大瓦斯爆炸事故调查报告公布",
+      "summary": "重庆万州恩广高速“3·30”较大瓦斯爆炸事故调查报告公布，事故原因与责任被明确",
+      "text": "重庆万州恩广高速“3·30”较大瓦斯爆炸事故调查报告公布，事故原因与责任被明确",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727592.shtml",
+      "section": "general",
+      "pub_time": 1793943218.0,
+      "pub_display": "11-06 13:33"
+    },
+    {
+      "index": 15,
+      "title": "北京发布分区域暴雪黄色预警 周末将迎明显雨雪过程",
+      "summary": "北京发布分区域暴雪黄色预警，周末将迎明显雨雪过程，出行需防范道路结冰",
+      "text": "北京发布分区域暴雪黄色预警，周末将迎明显雨雪过程，出行需防范道路结冰",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727656.shtml",
+      "section": "general",
+      "pub_time": 1793949178.0,
+      "pub_display": "11-06 15:12"
+    },
+    {
+      "index": 16,
+      "title": "国家网信办、金融监管总局集中整治网上金融“黑灰产”信息乱象",
+      "summary": "国家网信办、金融监管总局集中整治网上金融“黑灰产”信息乱象，清理非法荐股与贷款中介",
+      "text": "国家网信办、金融监管总局集中整治网上金融“黑灰产”信息乱象，清理非法荐股与贷款中介",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/473.htm",
+      "section": "general",
+      "pub_time": 1793929192.0,
+      "pub_display": "11-06 09:39"
+    },
+    {
+      "index": 17,
+      "title": "奇瑞召回 53882 辆瑞虎 5x、欧萌达系列汽车，后轴纵臂与套管可能焊接不良",
+      "summary": "奇瑞召回53882辆瑞虎5x、欧萌达系列汽车，后轴纵臂与套管可能焊接不良",
+      "text": "奇瑞召回53882辆瑞虎5x、欧萌达系列汽车，后轴纵臂与套管可能焊接不良",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/479.htm",
+      "section": "general",
+      "pub_time": 1793930441.0,
+      "pub_display": "11-06 10:00"
+    },
+    {
+      "index": 18,
+      "title": "喇叭或无法正常鸣响存在安全隐患：斯巴鲁汽车（中国）有限公司召回部分进口汽车，共计 196494 辆",
+      "summary": "斯巴鲁在华召回196494辆进口汽车，喇叭可能无法正常鸣响存在安全隐患",
+      "text": "斯巴鲁在华召回196494辆进口汽车，喇叭可能无法正常鸣响存在安全隐患",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/481.htm",
+      "section": "general",
+      "pub_time": 1793930306.0,
+      "pub_display": "11-06 09:58"
+    }
+  ]
+}

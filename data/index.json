@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-11-06 21:06:47",
-  "total": 118,
+  "updated_at": "2026-11-07 03:46:01",
+  "total": 119,
   "briefs": [
+    {
+      "date": "2026-11-07",
+      "display": "2026年11月07日 星期六",
+      "series": "科技资讯",
+      "headline": "OpenAI发布GPT-6，Claude破解首个原核巨型蛋白结构",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-11-06",
       "display": "2026年11月06日 星期五",
