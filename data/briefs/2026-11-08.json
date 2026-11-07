@@ -1,0 +1,220 @@
+{
+  "series": "科技资讯",
+  "headline": "台积电CoWoS产能吃紧，我国新一代通信网技术突破",
+  "date": "2026-11-08",
+  "date_display": "2026年11月08日 星期日 农历九月三十",
+  "weekday": "星期日",
+  "lunar": "农历九月三十",
+  "overview": "本期主线是硬科技从实验室走向工程化：我国千公里信号单程传输压到3.43毫秒、飞轮储能调节精度超99.5%，GitHub内测单仓库5000智能体协作。但先进封装产能吃紧，英伟达需出资数十亿美元托日月光扩产CoWoS。",
+  "generated_at": "2026-11-08 01:54:20",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "消息称因台积电产能吃紧，英伟达提供数十亿美元支持日月光扩产 CoWoS 先进封装",
+      "summary": "台积电 CoWoS产能吃紧，英伟达出资数十亿美元支持日月光扩产先进封装",
+      "text": "台积电 CoWoS产能吃紧，英伟达出资数十亿美元支持日月光扩产先进封装",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/814.htm",
+      "section": "tech",
+      "pub_time": 1794030641.0,
+      "pub_display": "11-07 13:50"
+    },
+    {
+      "index": 2,
+      "title": "千公里信号单程传输仅 3.43 毫秒！我国新一代通信网技术取得新突破",
+      "summary": "我国新一代通信网技术突破：千公里信号单程传输仅3.43毫秒",
+      "text": "我国新一代通信网技术突破：千公里信号单程传输仅3.43毫秒",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/816.htm",
+      "section": "tech",
+      "pub_time": 1794031466.0,
+      "pub_display": "11-07 14:04"
+    },
+    {
+      "index": 3,
+      "title": "GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送",
+      "summary": "GitHub新 Git存储架构内测：单仓库支持5000个智能体协作，每秒处理7200次推送",
+      "text": "GitHub新 Git存储架构内测：单仓库支持5000个智能体协作，每秒处理7200次推送",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/823.htm",
+      "section": "tech",
+      "pub_time": 1794034643.0,
+      "pub_display": "11-07 14:57"
+    },
+    {
+      "index": 4,
+      "title": "谷歌 AI 新研究：无需袖带利用消费级智能手表检测高血压，成果登 Nature",
+      "summary": "谷歌AI研究登 Nature：用消费级智能手表无袖带检测高血压",
+      "text": "谷歌AI研究登 Nature：用消费级智能手表无袖带检测高血压",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/788.htm",
+      "section": "tech",
+      "pub_time": 1794018407.0,
+      "pub_display": "11-07 10:26"
+    },
+    {
+      "index": 5,
+      "title": "中国首个非侵入式脑机接口项目完成818号令备案",
+      "summary": "中国首个非侵入式脑机接口项目完成818号令备案",
+      "text": "中国首个非侵入式脑机接口项目完成818号令备案",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xrLJlnFBL2",
+      "section": "tech",
+      "pub_time": 1794035676.0,
+      "pub_display": "11-07 15:14"
+    },
+    {
+      "index": 6,
+      "title": "调节精度超 99.5％：我国单体最大功率飞轮储能项目正式投运",
+      "summary": "调节精度超 99.5％：我国单体最大功率飞轮储能项目正式投运",
+      "text": "调节精度超 99.5％：我国单体最大功率飞轮储能项目正式投运",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/800.htm",
+      "section": "tech",
+      "pub_time": 1794025325.0,
+      "pub_display": "11-07 12:22"
+    },
+    {
+      "index": 7,
+      "title": "我国核技术应用年直接经济产值预计将达 4000 亿元，未来有望形成万亿级市场规模",
+      "summary": "我国核技术应用年直接经济产值预计达4000亿元，有望形成万亿级市场",
+      "text": "我国核技术应用年直接经济产值预计达4000亿元，有望形成万亿级市场",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/023/810.htm",
+      "section": "tech",
+      "pub_time": 1794029522.0,
+      "pub_display": "11-07 13:32"
+    },
+    {
+      "index": 8,
+      "title": "工信部就机器人“身份证”暂行办法征求意见",
+      "summary": "工信部就机器人“身份证”暂行办法公开征求意见",
+      "text": "工信部就机器人“身份证”暂行办法公开征求意见",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xqsfvSTidK",
+      "section": "tech",
+      "pub_time": 1794011424.0,
+      "pub_display": "11-07 08:30"
+    },
+    {
+      "index": 9,
+      "title": "广电总局整治 AI 低俗微短剧",
+      "summary": "广电总局开展AI低俗微短剧专项整治",
+      "text": "广电总局开展AI低俗微短剧专项整治",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85821",
+      "section": "tech",
+      "pub_time": 1794021582.0,
+      "pub_display": "11-07 11:19"
+    },
+    {
+      "index": 10,
+      "title": "星眼太空感知星座开启组网验证，重点观测“太空碎片”",
+      "summary": "星眼太空感知星座开启组网验证，重点观测“太空碎片”",
+      "text": "星眼太空感知星座开启组网验证，重点观测“太空碎片”",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xrHCoFxmpf",
+      "section": "tech",
+      "pub_time": 1794031287.0,
+      "pub_display": "11-07 14:01"
+    },
+    {
+      "index": 11,
+      "title": "首飞失利9个半月后，谷神星二号遥三运载火箭发射成功",
+      "summary": "首飞失利9个半月后，谷神星二号遥三运载火箭发射成功",
+      "text": "首飞失利9个半月后，谷神星二号遥三运载火箭发射成功",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xqsfvSTidN",
+      "section": "tech",
+      "pub_time": 1794010829.0,
+      "pub_display": "11-07 08:20"
+    },
+    {
+      "index": 12,
+      "title": "神舟二十四号载人飞行任务标识发布，首次中外航天员联合飞行",
+      "summary": "神舟二十四号载人飞行任务标识发布，将首次中外航天员联合飞行",
+      "text": "神舟二十四号载人飞行任务标识发布，将首次中外航天员联合飞行",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xr0pyYKRgG",
+      "section": "tech",
+      "pub_time": 1794017793.0,
+      "pub_display": "11-07 10:16"
+    },
+    {
+      "index": 13,
+      "title": "立冬迎雨雪降温 北京开启试供暖",
+      "summary": "立冬迎雨雪降温，北京开启试供暖",
+      "text": "立冬迎雨雪降温，北京开启试供暖",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-07/10728082.shtml",
+      "section": "general",
+      "pub_time": 1794023882.0,
+      "pub_display": "11-07 11:58"
+    },
+    {
+      "index": 14,
+      "title": "大风寒潮暴雪暴雨四预警齐发！8省份有大到暴雪，局地特大暴雪",
+      "summary": "大风寒潮暴雪暴雨四预警齐发，8省份有大到暴雪、局地特大暴雪",
+      "text": "大风寒潮暴雪暴雨四预警齐发，8省份有大到暴雪、局地特大暴雪",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794049031.798,
+      "pub_display": "11-07 18:57"
+    },
+    {
+      "index": 15,
+      "title": "沪武高速追尾事故已致1人死亡、4人受伤",
+      "summary": "沪武高速发生追尾事故，已致1人死亡、4人受伤",
+      "text": "沪武高速发生追尾事故，已致1人死亡、4人受伤",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794073004.361,
+      "pub_display": "11-08 01:36"
+    },
+    {
+      "index": 16,
+      "title": "河北保定通报“桥体脱落事故”：4人受伤，其中2名施工人员伤势较重",
+      "summary": "河北保定通报“桥体脱落事故”：4人受伤，其中2名施工人员伤势较重",
+      "text": "河北保定通报“桥体脱落事故”：4人受伤，其中2名施工人员伤势较重",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794037352.579,
+      "pub_display": "11-07 15:42"
+    },
+    {
+      "index": 17,
+      "title": "男子利用AI眼镜、智能戒指驾考作弊被成都交管查获",
+      "summary": "男子用AI眼镜、智能戒指在成都驾考作弊，被交管部门查获",
+      "text": "男子用AI眼镜、智能戒指在成都驾考作弊，被交管部门查获",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xr98khttmR",
+      "section": "general",
+      "pub_time": 1794025104.0,
+      "pub_display": "11-07 12:18"
+    },
+    {
+      "index": 18,
+      "title": "“父亲遛狗幼童从家中坠亡”案进展：刑事立案监督申请已受理，男童母亲称正起诉离婚",
+      "summary": "“父亲遛狗幼童坠亡”案刑事立案监督申请已受理，男童母亲称正起诉离婚",
+      "text": "“父亲遛狗幼童坠亡”案刑事立案监督申请已受理，男童母亲称正起诉离婚",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794022859.048,
+      "pub_display": "11-07 11:40"
+    }
+  ]
+}
