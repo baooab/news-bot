@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-08 17:58:53",
-  "total": 120,
+  "updated_at": "2026-11-09 02:09:37",
+  "total": 121,
   "briefs": [
+    {
+      "date": "2026-11-09",
+      "display": "2026年11月09日 星期一",
+      "series": "科技资讯",
+      "headline": "AI扩张撞上电力与估值墙，Anthropic 34亿美元自购发电机",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-11-08",
       "display": "2026年11月08日 星期日",
