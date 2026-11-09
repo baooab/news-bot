@@ -1,0 +1,221 @@
+{
+  "series": "科技资讯",
+  "headline": "大模型同日开打价格战，美团开源1.6万亿参数模型",
+  "date": "2026-11-10",
+  "date_display": "2026年11月10日 星期二 农历十月初二",
+  "weekday": "星期二",
+  "lunar": "农历十月初二",
+  "overview": "本期主线是模型厂商同一天把竞争压到价格与协作上：美团开源 1.6 万亿参数 LongCat-2.5，阿里云 Token 额度上调超 70% 而月费不变。另一面，Anthropic 坚持推进 IPO 却把估值下调至 1.2 万亿至 1.3 万亿美元，扩张与定价的矛盾同时摆上台面。",
+  "generated_at": "2026-11-10 06:47:02",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "中新网",
+    "凤凰科技",
+    "澎湃",
+    "雷峰网"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "Anthropic坚持推进IPO，估值下调",
+      "summary": "Anthropic坚持推进IPO，估值下调",
+      "text": "Anthropic坚持推进IPO，估值下调",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xscDIQFBSz",
+      "section": "tech",
+      "pub_time": 1794190860.0,
+      "pub_display": "11-09 10:21"
+    },
+    {
+      "index": 2,
+      "title": "美团龙猫开源 LongCat-2.5 模型：总参数 1.6 万亿，支持百万上下文",
+      "summary": "美团龙猫开源 LongCat-2.5，总参数 1.6 万亿、支持百万上下文，开源阵营再添超大模型",
+      "text": "美团龙猫开源 LongCat-2.5，总参数 1.6 万亿、支持百万上下文，开源阵营再添超大模型",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/024/556.htm",
+      "section": "tech",
+      "pub_time": 1794204998.0,
+      "pub_display": "11-09 14:16"
+    },
+    {
+      "index": 3,
+      "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
+      "summary": "百度文心首次披露 RSI 进展：ERNIE Evolve 已用于最新模型研发，文心 5.5 Flash 或将近期发布",
+      "text": "百度文心首次披露 RSI 进展：ERNIE Evolve 已用于最新模型研发，文心 5.5 Flash 或将近期发布",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/industrynews/FO9Dx6HKj5Bvno5y.html",
+      "section": "tech",
+      "pub_time": 1794187080.0,
+      "pub_display": "11-09 09:18"
+    },
+    {
+      "index": 4,
+      "title": "字节发布Seedream 5.5图像模型：价格下降",
+      "summary": "字节发布 Seedream 5.5图像模型：价格下降",
+      "text": "字节发布 Seedream 5.5图像模型：价格下降",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xus4KvnLN7",
+      "section": "tech",
+      "pub_time": 1794221442.0,
+      "pub_display": "11-09 18:50"
+    },
+    {
+      "index": 5,
+      "title": "阿里发布千问办公2.0：主打团队协作与主动任务",
+      "summary": "阿里发布千问办公2.0：主打团队协作与主动任务",
+      "text": "阿里发布千问办公2.0：主打团队协作与主动任务",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xukieCOzMS",
+      "section": "tech",
+      "pub_time": 1794216625.0,
+      "pub_display": "11-09 17:30"
+    },
+    {
+      "index": 6,
+      "title": "阿里云Token Plan额度上调超70%：三档月费不变",
+      "summary": "阿里云 Token Plan 额度上调超 70%，三档月费不变，等于变相下调单位推理价格",
+      "text": "阿里云 Token Plan 额度上调超 70%，三档月费不变，等于变相下调单位推理价格",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xua8y2I3QJ",
+      "section": "tech",
+      "pub_time": 1794206186.0,
+      "pub_display": "11-09 14:36"
+    },
+    {
+      "index": 7,
+      "title": "Qwen 4疑似偷跑！游戏开发超越Opus 5.5，成本暴降85%",
+      "summary": "Qwen 4 疑似偷跑，游戏开发任务超越 Opus 5.5，成本暴降 85%",
+      "text": "Qwen 4 疑似偷跑，游戏开发任务超越 Opus 5.5，成本暴降 85%",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xuNurhHW1w",
+      "section": "tech",
+      "pub_time": 1794193538.0,
+      "pub_display": "11-09 11:05"
+    },
+    {
+      "index": 8,
+      "title": "研究显示 OpenAI ChatGPT 占全球 AI 聊天机器人流量超 81%，断层领跑",
+      "summary": "研究显示 ChatGPT 占全球 AI 聊天机器人流量超 81%，断层领跑",
+      "text": "研究显示 ChatGPT 占全球 AI 聊天机器人流量超 81%，断层领跑",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/024/542.htm",
+      "section": "tech",
+      "pub_time": 1794202363.0,
+      "pub_display": "11-09 13:32"
+    },
+    {
+      "index": 9,
+      "title": "字节的算力供应商，要IPO了",
+      "summary": "字节的算力供应商启动 IPO，算力供应链资本化提速",
+      "text": "字节的算力供应商启动 IPO，算力供应链资本化提速",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4062388598461318",
+      "section": "tech",
+      "pub_time": 1794223961.653,
+      "pub_display": "11-09 19:32"
+    },
+    {
+      "index": 10,
+      "title": "三星芯片“秘方”被曝外泄，核心工艺数据流向供应商",
+      "summary": "三星芯片“秘方”被曝外泄，核心工艺数据流向供应商",
+      "text": "三星芯片“秘方”被曝外泄，核心工艺数据流向供应商",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xuh6V1EYlM",
+      "section": "tech",
+      "pub_time": 1794211767.0,
+      "pub_display": "11-09 16:09"
+    },
+    {
+      "index": 11,
+      "title": "波士顿动力Atlas电池方案曝光：三星SDI拿下初期主供",
+      "summary": "波士顿动力 Atlas 电池方案曝光，三星 SDI 拿下初期主供，人形机器人供应链成型",
+      "text": "波士顿动力 Atlas 电池方案曝光，三星 SDI 拿下初期主供，人形机器人供应链成型",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xuhiW0Jw2D",
+      "section": "tech",
+      "pub_time": 1794211963.0,
+      "pub_display": "11-09 16:12"
+    },
+    {
+      "index": 12,
+      "title": "全球折叠屏手机逆势爆发，Counterpoint 预估 2026 年全球面板出货量同比猛增超 23%",
+      "summary": "Counterpoint 预估 2026 年全球折叠屏面板出货量同比增超 23%，逆势爆发",
+      "text": "Counterpoint 预估 2026 年全球折叠屏面板出货量同比增超 23%，逆势爆发",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/024/568.htm",
+      "section": "tech",
+      "pub_time": 1794226128.0,
+      "pub_display": "11-09 20:08"
+    },
+    {
+      "index": 13,
+      "title": "10月新能源乘用车市场零售110.9万辆，同比下降13.7%",
+      "summary": "10 月新能源乘用车零售 110.9 万辆，同比下降 13.7%，补贴退坡后首现明显回落",
+      "text": "10 月新能源乘用车零售 110.9 万辆，同比下降 13.7%，补贴退坡后首现明显回落",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xucWxHNjMB",
+      "section": "general",
+      "pub_time": 1794207375.0,
+      "pub_display": "11-09 14:56"
+    },
+    {
+      "index": 14,
+      "title": "河北秦皇岛出现有气象记录以来最强降雪",
+      "summary": "河北秦皇岛出现有气象记录以来最强降雪，多地交通与供暖承压",
+      "text": "河北秦皇岛出现有气象记录以来最强降雪，多地交通与供暖承压",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-09/10729096.shtml",
+      "section": "general",
+      "pub_time": 1794200484.0,
+      "pub_display": "11-09 13:01"
+    },
+    {
+      "index": 15,
+      "title": "做好健康防护！北京11日将启动空气重污染橙色预警",
+      "summary": "做好健康防护！北京11日将启动空气重污染橙色预警",
+      "text": "做好健康防护！北京11日将启动空气重污染橙色预警",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-09/10729098.shtml",
+      "section": "general",
+      "pub_time": 1794199877.0,
+      "pub_display": "11-09 12:51"
+    },
+    {
+      "index": 16,
+      "title": "安徽砀山警方通报一起持刀伤人案：4人受伤，嫌犯被抓获",
+      "summary": "安徽砀山警方通报一起持刀伤人案：4 人受伤，嫌犯已被抓获",
+      "text": "安徽砀山警方通报一起持刀伤人案：4 人受伤，嫌犯已被抓获",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-09/10729144.shtml",
+      "section": "general",
+      "pub_time": 1794204219.0,
+      "pub_display": "11-09 14:03"
+    },
+    {
+      "index": 17,
+      "title": "杭州临平警方：一店铺发生刑案2人死亡，嫌犯畏罪自杀身亡",
+      "summary": "杭州临平警方通报一店铺刑案致 2 人死亡，嫌犯畏罪自杀身亡",
+      "text": "杭州临平警方通报一店铺刑案致 2 人死亡，嫌犯畏罪自杀身亡",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794225295.703,
+      "pub_display": "11-09 19:54"
+    },
+    {
+      "index": 18,
+      "title": "全国多所学校推迟到校时间，要解决什么问题",
+      "summary": "全国多所学校推迟到校时间，要解决什么问题",
+      "text": "全国多所学校推迟到校时间，要解决什么问题",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794203482.657,
+      "pub_display": "11-09 13:51"
+    }
+  ]
+}
