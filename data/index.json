@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-11-09 02:09:37",
+  "updated_at": "2026-11-09 22:03:03",
   "total": 121,
   "briefs": [
     {
       "date": "2026-11-09",
       "display": "2026年11月09日 星期一",
       "series": "科技资讯",
-      "headline": "AI扩张撞上电力与估值墙，Anthropic 34亿美元自购发电机",
+      "headline": "AI扩张撞上成本墙，软银考虑撤出美国数据中心",
       "count": 18,
       "tech_quota": 12,
       "general_quota": 6,
       "sources": [
+        "36氪",
         "IT之家",
         "Solidot",
         "中新网",
