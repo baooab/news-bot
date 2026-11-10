@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-11-10 20:11:28",
-  "total": 122,
+  "updated_at": "2026-11-11 04:05:53",
+  "total": 123,
   "briefs": [
+    {
+      "date": "2026-11-11",
+      "display": "2026年11月11日 星期三",
+      "series": "科技资讯",
+      "headline": "阿里巴巴拟分拆平头哥赴港独立上市，Anthropic IPO定价区间",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-11-10",
       "display": "2026年11月10日 星期二",

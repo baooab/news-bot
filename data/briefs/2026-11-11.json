@@ -1,0 +1,221 @@
+{
+  "series": "科技资讯",
+  "headline": "阿里巴巴拟分拆平头哥赴港独立上市，Anthropic IPO定价区间",
+  "date": "2026-11-11",
+  "date_display": "2026年11月11日 星期三 农历十月初三",
+  "weekday": "星期三",
+  "lunar": "农历十月初三",
+  "overview": "本期主线是 AI 资本化与算力扩张同步加速：阿里拟分拆平头哥赴港上市，Anthropic IPO 定价区间 70-78 美元、目标估值 1.4 万亿美元。另一面，我国算力总规模达 310 万 PFLOPS 居世界第二，MiniMax 开源 H3-Image 10 秒生成 4K 图像，能力与成本两条曲线同时被推高。",
+  "generated_at": "2026-11-11 04:05:53",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "阿里巴巴：拟分拆平头哥赴港独立上市",
+      "summary": "阿里巴巴拟分拆平头哥赴港独立上市，已正式递交申请",
+      "text": "阿里巴巴拟分拆平头哥赴港独立上市，已正式递交申请",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xwhSNryqYi",
+      "section": "tech",
+      "pub_time": 1794315264.0,
+      "pub_display": "11-10 20:54"
+    },
+    {
+      "index": 2,
+      "title": "Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值",
+      "summary": "Anthropic IPO 定价区间 70-78 美元，目标完全摊薄估值 1.4 万亿美元",
+      "text": "Anthropic IPO 定价区间 70-78 美元，目标完全摊薄估值 1.4 万亿美元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/139.htm",
+      "section": "tech",
+      "pub_time": 1794284722.0,
+      "pub_display": "11-10 12:25"
+    },
+    {
+      "index": 3,
+      "title": "我国算力总规模达 310 万 PFLOPS，位居世界第二",
+      "summary": "我国算力总规模达 310 万 PFLOPS，位居世界第二",
+      "text": "我国算力总规模达 310 万 PFLOPS，位居世界第二",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/154.htm",
+      "section": "tech",
+      "pub_time": 1794288082.0,
+      "pub_display": "11-10 13:21"
+    },
+    {
+      "index": 4,
+      "title": "MiniMax 开源 H3-Image 生图模型，10 秒就能生成一张 4K 图像",
+      "summary": "MiniMax 开源 H3-Image 生图模型，10 秒生成一张 4K 图像",
+      "text": "MiniMax 开源 H3-Image 生图模型，10 秒生成一张 4K 图像",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/191.htm",
+      "section": "tech",
+      "pub_time": 1794295552.0,
+      "pub_display": "11-10 15:25"
+    },
+    {
+      "index": 5,
+      "title": "华为详解麒麟9050系列：首款“逻辑折叠”芯片",
+      "summary": "华为详解麒麟 9050 系列，首款采用「逻辑折叠」架构的芯片",
+      "text": "华为详解麒麟 9050 系列，首款采用「逻辑折叠」架构的芯片",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xwOxGBoTqC",
+      "section": "tech",
+      "pub_time": 1794303808.0,
+      "pub_display": "11-10 17:43"
+    },
+    {
+      "index": 6,
+      "title": "刚刚，Anthropic杀入具身世界：Fable5.2真机对弈62步跑通纠偏，挖角特斯拉Optimus具身骨干",
+      "summary": "Anthropic 发布 Fable5.2 真机对弈 62 步跑通纠偏，并挖角特斯拉 Optimus 具身骨干",
+      "text": "Anthropic 发布 Fable5.2 真机对弈 62 步跑通纠偏，并挖角特斯拉 Optimus 具身骨干",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4063458925270144",
+      "section": "tech",
+      "pub_time": 1794295375.716,
+      "pub_display": "11-10 15:22"
+    },
+    {
+      "index": 7,
+      "title": "谷歌 DeepMind 用 AI 完成 Signal 协议形式化验证，数学证明其端到端加密可靠性",
+      "summary": "谷歌 DeepMind 用 AI 完成 Signal 协议形式化验证，数学证明端到端加密可靠性",
+      "text": "谷歌 DeepMind 用 AI 完成 Signal 协议形式化验证，数学证明端到端加密可靠性",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/161.htm",
+      "section": "tech",
+      "pub_time": 1794288941.0,
+      "pub_display": "11-10 13:35"
+    },
+    {
+      "index": 8,
+      "title": "宁德时代押注换电网络推广钠电池，年底前在全国建成3000座换电站",
+      "summary": "宁德时代押注换电网络推广钠电池，年底前全国建成 3000 座换电站",
+      "text": "宁德时代押注换电网络推广钠电池，年底前全国建成 3000 座换电站",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xwB8ugsWCy",
+      "section": "tech",
+      "pub_time": 1794294618.0,
+      "pub_display": "11-10 15:10"
+    },
+    {
+      "index": 9,
+      "title": "刚刚，江苏GPU龙头敲钟了，市值百亿，开盘破发",
+      "summary": "江苏 GPU 龙头敲钟上市，市值百亿，开盘破发",
+      "text": "江苏 GPU 龙头敲钟上市，市值百亿，开盘破发",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4063323989742729",
+      "section": "tech",
+      "pub_time": 1794277703.93,
+      "pub_display": "11-10 10:28"
+    },
+    {
+      "index": 10,
+      "title": "联想万全混合词元工厂发布：明年建成15000P异构算力集群",
+      "summary": "联想万全混合词元工厂发布，明年建成 15000P 异构算力集群",
+      "text": "联想万全混合词元工厂发布，明年建成 15000P 异构算力集群",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xudyEAd94B",
+      "section": "tech",
+      "pub_time": 1794276604.0,
+      "pub_display": "11-10 10:10"
+    },
+    {
+      "index": 11,
+      "title": "1-10月新能源厂商零售数据出炉：比亚迪、吉利、零跑前三",
+      "summary": "1-10 月新能源厂商零售数据出炉：比亚迪、吉利、零跑位列前三",
+      "text": "1-10 月新能源厂商零售数据出炉：比亚迪、吉利、零跑位列前三",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8xwazF5Uy7D",
+      "section": "tech",
+      "pub_time": 1794310000.0,
+      "pub_display": "11-10 19:26"
+    },
+    {
+      "index": 12,
+      "title": "离 1 亿里程碑就差临门一脚，曝华为鸿蒙 HarmonyOS 装机量已破 9900 万台",
+      "summary": "华为鸿蒙 HarmonyOS 装机量突破 9900 万台，距 1 亿里程碑仅一步之遥",
+      "text": "华为鸿蒙 HarmonyOS 装机量突破 9900 万台，距 1 亿里程碑仅一步之遥",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/153.htm",
+      "section": "tech",
+      "pub_time": 1794288041.0,
+      "pub_display": "11-10 13:20"
+    },
+    {
+      "index": 13,
+      "title": "国家发改委：多渠道增加普通高中和高等教育学位供给",
+      "summary": "国家发改委：多渠道增加普通高中和高等教育学位供给",
+      "text": "国家发改委：多渠道增加普通高中和高等教育学位供给",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794277115.031,
+      "pub_display": "11-10 10:18"
+    },
+    {
+      "index": 14,
+      "title": "四川泸州“花坛藏尸案”一审宣判：陈某芬被判死刑，其前夫被判死缓",
+      "summary": "四川泸州「花坛藏尸案」一审宣判：陈某芬被判死刑，其前夫被判死缓",
+      "text": "四川泸州「花坛藏尸案」一审宣判：陈某芬被判死刑，其前夫被判死缓",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794277368.175,
+      "pub_display": "11-10 10:22"
+    },
+    {
+      "index": 15,
+      "title": "长三角多地气温创今年下半年新低",
+      "summary": "长三角多地气温创今年下半年新低",
+      "text": "长三角多地气温创今年下半年新低",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729745.shtml",
+      "section": "general",
+      "pub_time": 1794285813.0,
+      "pub_display": "11-10 12:43"
+    },
+    {
+      "index": 16,
+      "title": "幼儿园小学初中学龄人口已达到峰值",
+      "summary": "幼儿园、小学、初中学龄人口已达到峰值",
+      "text": "幼儿园、小学、初中学龄人口已达到峰值",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85845",
+      "section": "general",
+      "pub_time": 1794269283.0,
+      "pub_display": "11-10 08:08"
+    },
+    {
+      "index": 17,
+      "title": "海南45个高速公路服务区实现充电基础设施全覆盖",
+      "summary": "海南 45 个高速公路服务区实现充电基础设施全覆盖",
+      "text": "海南 45 个高速公路服务区实现充电基础设施全覆盖",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729681.shtml",
+      "section": "general",
+      "pub_time": 1794282897.0,
+      "pub_display": "11-10 11:54"
+    },
+    {
+      "index": 18,
+      "title": "天津“十五五”布局“数智医保” 医保影像云、个人医保云将落地",
+      "summary": "天津「十五五」布局「数智医保」，医保影像云、个人医保云将落地",
+      "text": "天津「十五五」布局「数智医保」，医保影像云、个人医保云将落地",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729770.shtml",
+      "section": "general",
+      "pub_time": 1794287551.0,
+      "pub_display": "11-10 13:12"
+    }
+  ]
+}
