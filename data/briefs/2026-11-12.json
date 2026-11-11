@@ -1,0 +1,221 @@
+{
+  "series": "科技资讯",
+  "headline": "算力扩张代价显形，SpaceX机架层去英伟达化",
+  "date": "2026-11-12",
+  "date_display": "2026年11月12日 星期四 农历十月初四",
+  "weekday": "星期四",
+  "lunar": "农历十月初四",
+  "overview": "本期主线是AI算力扩张的代价集中显形：SpaceX在机架层去英伟达化、AI数据中心挤占成熟制程产能致汽车芯片告急，而OpenAI单季营收刚破百亿美元。一边是Anthropic 11月12日启动最严封号潮、Grok因生成违规图像面临诉讼，扩张与治理开始正面相撞。",
+  "generated_at": "2026-11-12 03:56:32",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "突发，Anthropic大清洗：Claude最严封号潮来了，11月12日全面生效",
+      "summary": "Anthropic启动 Claude史上最严封号潮，11月12日全面生效，大清洗指向API滥用",
+      "text": "Anthropic启动 Claude史上最严封号潮，11月12日全面生效，大清洗指向API滥用",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4065245506917251",
+      "section": "tech",
+      "pub_time": 1794396862.446,
+      "pub_display": "11-11 19:34"
+    },
+    {
+      "index": 2,
+      "title": "消息称OpenAI今年Q3营收首次达百亿美元，环比大增近50%",
+      "summary": "OpenAI今年Q3营收首次达百亿美元，环比增近50%，但算力支出压力同步放大",
+      "text": "OpenAI今年Q3营收首次达百亿美元，环比增近50%，但算力支出压力同步放大",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xy3akXFd4p",
+      "section": "tech",
+      "pub_time": 1794384579.0,
+      "pub_display": "11-11 16:09"
+    },
+    {
+      "index": 3,
+      "title": "曝SpaceX探索服务器机架层“去英伟达化”：只买芯片，自行采购配件",
+      "summary": "SpaceX探索服务器机架层去英伟达化：只买芯片、自行采购配件，压低算力成本",
+      "text": "SpaceX探索服务器机架层去英伟达化：只买芯片、自行采购配件，压低算力成本",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xxRNES6f6m",
+      "section": "tech",
+      "pub_time": 1794386814.0,
+      "pub_display": "11-11 16:46"
+    },
+    {
+      "index": 4,
+      "title": "AI数据中心挤占成熟制程产能，汽车芯片供应链面临瓶颈",
+      "summary": "AI数据中心挤占成熟制程产能，汽车芯片供应链面临瓶颈，算力扩张外溢至车规",
+      "text": "AI数据中心挤占成熟制程产能，汽车芯片供应链面临瓶颈，算力扩张外溢至车规",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xxhkMhculi",
+      "section": "tech",
+      "pub_time": 1794385876.0,
+      "pub_display": "11-11 16:31"
+    },
+    {
+      "index": 5,
+      "title": "新报告：全球通过可再生能源、电动汽车避免的碳排放，约一半在中国实现",
+      "summary": "新报告：全球通过可再生能源、电动汽车避免的碳排放，约一半在中国实现",
+      "text": "新报告：全球通过可再生能源、电动汽车避免的碳排放，约一半在中国实现",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/776.htm",
+      "section": "tech",
+      "pub_time": 1794371075.0,
+      "pub_display": "11-11 12:24"
+    },
+    {
+      "index": 6,
+      "title": "谷歌遭诉，欧盟法院首度切割：AI“输入”合法，“输出”可能侵权",
+      "summary": "欧盟法院首度切割AI版权：输入合法、输出可能侵权，谷歌遭诉",
+      "text": "欧盟法院首度切割AI版权：输入合法、输出可能侵权，谷歌遭诉",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4063863426635399",
+      "section": "tech",
+      "pub_time": 1794357520.984,
+      "pub_display": "11-11 08:38"
+    },
+    {
+      "index": 7,
+      "title": "日本再爆严重数据泄露事件：家居品牌宜得利称至多 3,762 万条个人信息面临风险",
+      "summary": "日本再爆严重数据泄露事件：家居品牌宜得利称至多 3,762 万条个人信息面临风险",
+      "text": "日本再爆严重数据泄露事件：家居品牌宜得利称至多 3,762 万条个人信息面临风险",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/780.htm",
+      "section": "tech",
+      "pub_time": 1794371902.0,
+      "pub_display": "11-11 12:38"
+    },
+    {
+      "index": 8,
+      "title": "欧盟网络安全局警告：超市冰箱遭黑客攻击后，家用电器可能是下一个目标",
+      "summary": "欧盟网络安全局警告：超市冰箱遭黑客攻击后，家用电器或是下一个目标",
+      "text": "欧盟网络安全局警告：超市冰箱遭黑客攻击后，家用电器或是下一个目标",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/784.htm",
+      "section": "tech",
+      "pub_time": 1794372707.0,
+      "pub_display": "11-11 12:51"
+    },
+    {
+      "index": 9,
+      "title": "马斯克旗下 Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼",
+      "summary": "马斯克旗下 Grok被指生成儿童色情图像，xAI面临多起集体诉讼",
+      "text": "马斯克旗下 Grok被指生成儿童色情图像，xAI面临多起集体诉讼",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/809.htm",
+      "section": "tech",
+      "pub_time": 1794376604.0,
+      "pub_display": "11-11 13:56"
+    },
+    {
+      "index": 10,
+      "title": "谷歌 DeepMind 发布 AlphaGenome 2 基因序列模型：识别致病变异能力提升近一倍",
+      "summary": "谷歌 DeepMind发布 AlphaGenome 2基因序列模型，识别致病变异能力提升近一倍",
+      "text": "谷歌 DeepMind发布 AlphaGenome 2基因序列模型，识别致病变异能力提升近一倍",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/822.htm",
+      "section": "tech",
+      "pub_time": 1794381591.0,
+      "pub_display": "11-11 15:19"
+    },
+    {
+      "index": 11,
+      "title": "科学家找到细胞“逆龄”新方法：不到两个月一衰老指标最多回退 60 年",
+      "summary": "科学家找到细胞逆龄新方法：不到两个月，一项衰老指标最多回退60年",
+      "text": "科学家找到细胞逆龄新方法：不到两个月，一项衰老指标最多回退60年",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/801.htm",
+      "section": "tech",
+      "pub_time": 1794374993.0,
+      "pub_display": "11-11 13:29"
+    },
+    {
+      "index": 12,
+      "title": "我国成功发射探源计划探路者卫星",
+      "summary": "我国成功发射探源计划探路者卫星，空间科学探测再添一星",
+      "text": "我国成功发射探源计划探路者卫星，空间科学探测再添一星",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/779.htm",
+      "section": "tech",
+      "pub_time": 1794371809.0,
+      "pub_display": "11-11 12:36"
+    },
+    {
+      "index": 13,
+      "title": "近5小时内打了356次110！男子恶意骚扰报警平台被合肥警方行拘",
+      "summary": "合肥一男子5小时内拨打110达356次恶意骚扰，被警方行政拘留",
+      "text": "合肥一男子5小时内拨打110达356次恶意骚扰，被警方行政拘留",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794367668.523,
+      "pub_display": "11-11 11:27"
+    },
+    {
+      "index": 14,
+      "title": "刚果埃博拉病例突破 1.1 万例",
+      "summary": "刚果（金）埃博拉疫情病例突破1.1万例，防控形势严峻",
+      "text": "刚果（金）埃博拉疫情病例突破1.1万例，防控形势严峻",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85858",
+      "section": "general",
+      "pub_time": 1794365755.0,
+      "pub_display": "11-11 10:55"
+    },
+    {
+      "index": 15,
+      "title": "15分钟内限次免费停！时隔21年上海全面调整道路停车收费政策",
+      "summary": "上海时隔21年全面调整道路停车收费，15分钟内限次免费停放",
+      "text": "上海时隔21年全面调整道路停车收费，15分钟内限次免费停放",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794363114.013,
+      "pub_display": "11-11 10:11"
+    },
+    {
+      "index": 16,
+      "title": "住建部：开展房屋市政工程预防高处坠落专项行动",
+      "summary": "住建部开展房屋市政工程预防高处坠落专项行动",
+      "text": "住建部开展房屋市政工程预防高处坠落专项行动",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730390.shtml",
+      "section": "general",
+      "pub_time": 1794366713.0,
+      "pub_display": "11-11 11:11"
+    },
+    {
+      "index": 17,
+      "title": "多地最低工资标准上调，谁将受益？",
+      "summary": "多地最低工资标准上调，低收入劳动者与灵活就业群体直接受益",
+      "text": "多地最低工资标准上调，低收入劳动者与灵活就业群体直接受益",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794387270.067,
+      "pub_display": "11-11 16:54"
+    },
+    {
+      "index": 18,
+      "title": "禁止明示 / 暗示支持调秤作弊功能！市场监管总局就电子计价秤网络销售计量合规要求公开征求意见",
+      "summary": "市场监管总局就电子计价秤网络销售计量合规要求公开征求意见，禁止暗示支持调秤作弊",
+      "text": "市场监管总局就电子计价秤网络销售计量合规要求公开征求意见，禁止暗示支持调秤作弊",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/025/797.htm",
+      "section": "general",
+      "pub_time": 1794374348.0,
+      "pub_display": "11-11 13:19"
+    }
+  ]
+}
