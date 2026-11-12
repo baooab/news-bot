@@ -1,0 +1,220 @@
+{
+  "series": "科技资讯",
+  "headline": "黄仁勋辞任英伟达CEO，市值失守4万亿美元",
+  "date": "2026-11-13",
+  "date_display": "2026年11月13日 星期五 农历十月初五",
+  "weekday": "星期五",
+  "lunar": "农历十月初五",
+  "overview": "本期主线是英伟达的权力交接与算力秩序的松动：黄仁勋辞去CEO，公司市值失守4万亿美元，SpaceX自研AI机架、AMD入股PsiQuantum。与此同时谷歌Gemini 4 Hydrogen把百万Token输入价压到1.5美元，Anthropic IPO目标估值约1万亿美元，算力与资本的定价权正在重新分配。",
+  "generated_at": "2026-11-13 04:33:05",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "即刻生效！黄仁勋辞去英伟达总裁、首席执行官和董事会成员职务",
+      "summary": "英伟达宣布黄仁勋辞去总裁、CEO及董事会成员职务，即刻生效，CFO克雷斯出任临时CEO",
+      "text": "英伟达宣布黄仁勋辞去总裁、CEO及董事会成员职务，即刻生效，CFO克雷斯出任临时CEO",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/394.htm",
+      "section": "tech",
+      "pub_time": 1794462673.0,
+      "pub_display": "11-12 13:51"
+    },
+    {
+      "index": 2,
+      "title": "黄仁勋辞去 CEO 后，英伟达市值失守 4 万亿美元",
+      "summary": "黄仁勋辞任后英伟达市值失守4万亿美元，美股盘前跌幅一度扩大至10%",
+      "text": "黄仁勋辞任后英伟达市值失守4万亿美元，美股盘前跌幅一度扩大至10%",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/424.htm",
+      "section": "tech",
+      "pub_time": 1794465282.0,
+      "pub_display": "11-12 14:34"
+    },
+    {
+      "index": 3,
+      "title": "黄仁勋辞任英伟达 CEO 重创全球 AI 概念股，AMD、博通逆势上涨",
+      "summary": "黄仁勋辞任重创全球AI概念股，AMD、博通逆势上涨，资金转向算力替代标的",
+      "text": "黄仁勋辞任重创全球AI概念股，AMD、博通逆势上涨，资金转向算力替代标的",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/437.htm",
+      "section": "tech",
+      "pub_time": 1794468885.0,
+      "pub_display": "11-12 15:34"
+    },
+    {
+      "index": 4,
+      "title": "绕过英伟达采购其他周边组件！SpaceX据悉正在自研AI机架",
+      "summary": "SpaceX据悉自研AI机架并绕过英伟达采购周边组件，算力自建趋势延伸至航天企业",
+      "text": "SpaceX据悉自研AI机架并绕过英伟达采购周边组件，算力自建趋势延伸至航天企业",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xzM4d8Y2oQ",
+      "section": "tech",
+      "pub_time": 1794452841.0,
+      "pub_display": "11-12 11:07"
+    },
+    {
+      "index": 5,
+      "title": "谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元",
+      "summary": "谷歌发布 Gemini 4 Hydrogen模型，主打日常编程与智能体工作流，百万 Token输入1.5美元",
+      "text": "谷歌发布 Gemini 4 Hydrogen模型，主打日常编程与智能体工作流，百万 Token输入1.5美元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/446.htm",
+      "section": "tech",
+      "pub_time": 1794478637.0,
+      "pub_display": "11-12 18:17"
+    },
+    {
+      "index": 6,
+      "title": "京东完成对德国消费电子零售商 Ceconomy 收购要约，13.35 亿欧元获 59.8% 股本及投票权",
+      "summary": "京东完成对德国消费电子零售商 Ceconomy收购要约，13.35亿欧元获59.8%股本及投票权",
+      "text": "京东完成对德国消费电子零售商 Ceconomy收购要约，13.35亿欧元获59.8%股本及投票权",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/393.htm",
+      "section": "tech",
+      "pub_time": 1794462611.0,
+      "pub_display": "11-12 13:50"
+    },
+    {
+      "index": 7,
+      "title": "Anthropic上市首日，或将创造一项新纪录",
+      "summary": "Anthropic上市首日，或将创造一项新纪录",
+      "text": "Anthropic上市首日，或将创造一项新纪录",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xzc8FAi9Rh",
+      "section": "tech",
+      "pub_time": 1794467673.0,
+      "pub_display": "11-12 15:14"
+    },
+    {
+      "index": 8,
+      "title": "消息称SK海力士HBM4良率已突破70%",
+      "summary": "SK海力士HBM4良率已突破70%，AI存储供给瓶颈出现松动迹象",
+      "text": "SK海力士HBM4良率已突破70%，AI存储供给瓶颈出现松动迹象",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xzW8zKGJqE",
+      "section": "tech",
+      "pub_time": 1794473911.0,
+      "pub_display": "11-12 16:58"
+    },
+    {
+      "index": 9,
+      "title": "台积电被曝4.6万员工信息外泄！公司称系统未被入侵",
+      "summary": "台积电被曝4.6万名员工信息外泄，公司称系统未被入侵",
+      "text": "台积电被曝4.6万名员工信息外泄，公司称系统未被入侵",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xzgVaTYWzJ",
+      "section": "tech",
+      "pub_time": 1794470049.0,
+      "pub_display": "11-12 15:54"
+    },
+    {
+      "index": 10,
+      "title": "AMD 拟入股量子计算公司 PsiQuantum，将扩大合作、共同开发基础设施",
+      "summary": "AMD拟入股量子计算公司 PsiQuantum，将扩大合作并共同开发基础设施",
+      "text": "AMD拟入股量子计算公司 PsiQuantum，将扩大合作并共同开发基础设施",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/390.htm",
+      "section": "tech",
+      "pub_time": 1794460922.0,
+      "pub_display": "11-12 13:22"
+    },
+    {
+      "index": 11,
+      "title": "科大讯飞星火语音基座大模型 SparkAudio 1.0 上线 API 服务，支持 99 种语言、202 种方言",
+      "summary": "科大讯飞星火语音基座 SparkAudio 1.0上线API，支持99种语言、202种方言",
+      "text": "科大讯飞星火语音基座 SparkAudio 1.0上线API，支持99种语言、202种方言",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/386.htm",
+      "section": "tech",
+      "pub_time": 1794460038.0,
+      "pub_display": "11-12 13:07"
+    },
+    {
+      "index": 12,
+      "title": "诺奖得主Hassabis再交神作，AlphaGenome 2破译人类98%基因“暗物质”",
+      "summary": "诺奖得主 Hassabis团队发布 AlphaGenome 2，破译人类98%基因“暗物质”",
+      "text": "诺奖得主 Hassabis团队发布 AlphaGenome 2，破译人类98%基因“暗物质”",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4066698258502792",
+      "section": "tech",
+      "pub_time": 1794484758.023,
+      "pub_display": "11-12 19:59"
+    },
+    {
+      "index": 13,
+      "title": "贵州毕节市威宁县发生4.5级地震，震源深度10千米",
+      "summary": "贵州毕节市威宁县发生4.5级地震，震源深度10千米",
+      "text": "贵州毕节市威宁县发生4.5级地震，震源深度10千米",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794515127.042,
+      "pub_display": "11-13 04:25"
+    },
+    {
+      "index": 14,
+      "title": "广西来宾忻城“11·10”道路运输事故被自治区安委会挂牌督办",
+      "summary": "广西来宾忻城“11·10”道路运输事故被自治区安委会挂牌督办",
+      "text": "广西来宾忻城“11·10”道路运输事故被自治区安委会挂牌督办",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-12/10731172.shtml",
+      "section": "general",
+      "pub_time": 1794461751.0,
+      "pub_display": "11-12 13:35"
+    },
+    {
+      "index": 15,
+      "title": "银川启动两大供水民生工程 将新增日供水30万立方米",
+      "summary": "银川启动两大供水民生工程，建成后将新增日供水30万立方米",
+      "text": "银川启动两大供水民生工程，建成后将新增日供水30万立方米",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-12/10731006.shtml",
+      "section": "general",
+      "pub_time": 1794452005.0,
+      "pub_display": "11-12 10:53"
+    },
+    {
+      "index": 16,
+      "title": "大雾黄色预警继续：京津冀等地局地有能见度低于200米的强浓雾",
+      "summary": "大雾黄色预警继续，京津冀等地局地能见度低于200米",
+      "text": "大雾黄色预警继续，京津冀等地局地能见度低于200米",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730997.shtml",
+      "section": "general",
+      "pub_time": 1794449678.0,
+      "pub_display": "11-12 10:14"
+    },
+    {
+      "index": 17,
+      "title": "美元指数12日上涨",
+      "summary": "",
+      "text": "美元指数12日上涨",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794515351.319,
+      "pub_display": "11-13 04:29"
+    },
+    {
+      "index": 18,
+      "title": "婚外情风波以来，黄仁勋持股市值缩水超2700亿元",
+      "summary": "",
+      "text": "婚外情风波以来，黄仁勋持股市值缩水超2700亿元",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8y0Dv7Zi72l",
+      "section": "general",
+      "pub_time": 1794499739.0,
+      "pub_display": "11-13 00:08"
+    }
+  ]
+}
