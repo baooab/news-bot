@@ -1,0 +1,221 @@
+{
+  "series": "科技资讯",
+  "headline": "苹果股价升至360美元创历史新高，Anthropic IPO认购倍数达",
+  "date": "2026-11-14",
+  "date_display": "2026年11月14日 星期六 农历十月初六",
+  "weekday": "星期六",
+  "lunar": "农历十月初六",
+  "overview": "本期主线是AI资产定价与算力扩张同步加速：苹果市值超英伟达1.3万亿美元，Anthropic IPO认购达6倍、目标估值1万亿美元。同时微软全球服务中断致歉、Claude大面积报错，基础设施可靠性正成为扩张的代价。",
+  "generated_at": "2026-11-14 04:09:49",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "中新网",
+    "凤凰科技",
+    "澎湃",
+    "雷峰网"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "苹果股价升至 360 美元 / 股、再创新高，总市值超英伟达 1.3 万亿美元",
+      "summary": "苹果股价升至360美元创历史新高，总市值超英伟达1.3万亿美元",
+      "text": "苹果股价升至360美元创历史新高，总市值超英伟达1.3万亿美元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/964.htm",
+      "section": "tech",
+      "pub_time": 1794552571.0,
+      "pub_display": "11-13 14:49"
+    },
+    {
+      "index": 2,
+      "title": "投资者蜂拥而至！Anthropic的IPO认购倍数达到约6倍",
+      "summary": "Anthropic IPO认购倍数达约6倍，拟发行8.25亿股、目标估值约1万亿美元",
+      "text": "Anthropic IPO认购倍数达约6倍，拟发行8.25亿股、目标估值约1万亿美元",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y0vtza37PH",
+      "section": "tech",
+      "pub_time": 1794536220.0,
+      "pub_display": "11-13 10:17"
+    },
+    {
+      "index": 3,
+      "title": "寻找“下一个英伟达”：台积电拟设立 5 亿美元创投基金",
+      "summary": "台积电拟设5亿美元创投基金，寻找下一个英伟达",
+      "text": "台积电拟设5亿美元创投基金，寻找下一个英伟达",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/953.htm",
+      "section": "tech",
+      "pub_time": 1794548350.0,
+      "pub_display": "11-13 13:39"
+    },
+    {
+      "index": 4,
+      "title": "消息称三星电子正谈判收购数据中心散热企业Modine",
+      "summary": "消息称三星电子正谈判收购数据中心散热企业 Modine",
+      "text": "消息称三星电子正谈判收购数据中心散热企业 Modine",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8xzW8zKGJqx",
+      "section": "tech",
+      "pub_time": 1794542720.0,
+      "pub_display": "11-13 12:05"
+    },
+    {
+      "index": 5,
+      "title": "日月光高雄路竹厂一期启用、二期动土，1000 亿新台币扩产先进封装",
+      "summary": "日月光高雄路竹厂一期启用、二期动土，投1000亿新台币扩产先进封装",
+      "text": "日月光高雄路竹厂一期启用、二期动土，投1000亿新台币扩产先进封装",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/867.htm",
+      "section": "tech",
+      "pub_time": 1794532591.0,
+      "pub_display": "11-13 09:16"
+    },
+    {
+      "index": 6,
+      "title": "“烧掉”核废料，全球首个加速器驱动嬗变研究装置预计明年在广东惠州建成",
+      "summary": "“烧掉”核废料，全球首个加速器驱动嬗变研究装置预计明年在广东惠州建成",
+      "text": "“烧掉”核废料，全球首个加速器驱动嬗变研究装置预计明年在广东惠州建成",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/872.htm",
+      "section": "tech",
+      "pub_time": 1794533544.0,
+      "pub_display": "11-13 09:32"
+    },
+    {
+      "index": 7,
+      "title": "宁德时代发布巧克力电池管家，2027 年预计建成 6000 座换电站、覆盖 297 座城市",
+      "summary": "宁德时代发布巧克力电池管家，2027年预计建成6000座换电站覆盖297城",
+      "text": "宁德时代发布巧克力电池管家，2027年预计建成6000座换电站覆盖297城",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/956.htm",
+      "section": "tech",
+      "pub_time": 1794549583.0,
+      "pub_display": "11-13 13:59"
+    },
+    {
+      "index": 8,
+      "title": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet",
+      "summary": "OpenAI推出 ChatGPT Wallet支付功能，让智能体替用户完成购物",
+      "text": "OpenAI推出 ChatGPT Wallet支付功能，让智能体替用户完成购物",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/994.htm",
+      "section": "tech",
+      "pub_time": 1794556148.0,
+      "pub_display": "11-13 15:49"
+    },
+    {
+      "index": 9,
+      "title": "DeepSeek 发布全家桶应用 API：开发者将能 1:1 复刻完整 DeepSeek App",
+      "summary": "DeepSeek开放全家桶应用API，开发者可1:1复刻完整 DeepSeek App",
+      "text": "DeepSeek开放全家桶应用API，开发者可1:1复刻完整 DeepSeek App",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/960.htm",
+      "section": "tech",
+      "pub_time": 1794551346.0,
+      "pub_display": "11-13 14:29"
+    },
+    {
+      "index": 10,
+      "title": "诺奖得主Hassabis再交神作，AlphaGenome 2破译人类98%基因「暗物质」",
+      "summary": "诺奖得主 Hassabis团队发布 AlphaGenome 2，破译人类98%基因暗物质",
+      "text": "诺奖得主 Hassabis团队发布 AlphaGenome 2，破译人类98%基因暗物质",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4067491786019969",
+      "section": "tech",
+      "pub_time": 1794532719.951,
+      "pub_display": "11-13 09:18"
+    },
+    {
+      "index": 11,
+      "title": "40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」",
+      "summary": "西湖大学团队40亿参数概念世界模型，拿下6个评测第一",
+      "text": "西湖大学团队40亿参数概念世界模型，拿下6个评测第一",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html",
+      "section": "tech",
+      "pub_time": 1794526980.0,
+      "pub_display": "11-13 07:43"
+    },
+    {
+      "index": 12,
+      "title": "大连理工大学成功研制国内首款 20 公斤级氢能动力无人直升机，完成海上 6 级大风巡航任务",
+      "summary": "大连理工研制国内首款20公斤级氢能动力无人直升机，完成海上6级大风巡航",
+      "text": "大连理工研制国内首款20公斤级氢能动力无人直升机，完成海上6级大风巡航",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/026/949.htm",
+      "section": "tech",
+      "pub_time": 1794546716.0,
+      "pub_display": "11-13 13:11"
+    },
+    {
+      "index": 13,
+      "title": "新疆阿克苏地区库车市发生5.0级地震",
+      "summary": "新疆阿克苏地区库车市发生5.0级地震",
+      "text": "新疆阿克苏地区库车市发生5.0级地震",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-14/10731870.shtml",
+      "section": "general",
+      "pub_time": 1794558878.0,
+      "pub_display": "11-13 16:34"
+    },
+    {
+      "index": 14,
+      "title": "大雾橙色预警：京津冀等15省份部分地区有大雾",
+      "summary": "大雾橙色预警：京津冀等15省份部分地区有大雾",
+      "text": "大雾橙色预警：京津冀等15省份部分地区有大雾",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731664.shtml",
+      "section": "general",
+      "pub_time": 1794541600.0,
+      "pub_display": "11-13 11:46"
+    },
+    {
+      "index": 15,
+      "title": "以军总参谋长主张暂缓对伊朗动武，多名以高官反对",
+      "summary": "",
+      "text": "以军总参谋长主张暂缓对伊朗动武，多名以高官反对",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794599951.049,
+      "pub_display": "11-14 03:59"
+    },
+    {
+      "index": 16,
+      "title": "微软就全球服务中断道歉，称故障非网络攻击所致",
+      "summary": "",
+      "text": "微软就全球服务中断道歉，称故障非网络攻击所致",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794594363.155,
+      "pub_display": "11-14 02:26"
+    },
+    {
+      "index": 17,
+      "title": "DeepSeek开放“全家桶”应用API：开发者可1:1复刻完整App",
+      "summary": "",
+      "text": "DeepSeek开放“全家桶”应用API：开发者可1:1复刻完整App",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8y1oEDGtTEh",
+      "section": "general",
+      "pub_time": 1794580875.0,
+      "pub_display": "11-13 22:41"
+    },
+    {
+      "index": 18,
+      "title": "王忠林被查，湖北省委：坚决拥护党中央决定",
+      "summary": "",
+      "text": "王忠林被查，湖北省委：坚决拥护党中央决定",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794576801.039,
+      "pub_display": "11-13 21:33"
+    }
+  ]
+}
