@@ -1,19 +1,17 @@
 {
-  "updated_at": "2026-11-14 04:09:49",
+  "updated_at": "2026-11-14 22:04:38",
   "total": 126,
   "briefs": [
     {
       "date": "2026-11-14",
       "display": "2026年11月14日 星期六",
       "series": "科技资讯",
-      "headline": "苹果股价升至360美元创历史新高，Anthropic IPO认购倍数达",
+      "headline": "AI战线收缩与安全事件并发，OpenAI撤销机器人团队",
       "count": 18,
       "tech_quota": 12,
       "general_quota": 6,
       "sources": [
-        "36氪",
         "IT之家",
-        "中新网",
         "凤凰科技",
         "澎湃",
         "雷峰网"
