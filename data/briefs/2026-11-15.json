@@ -1,0 +1,219 @@
+{
+  "series": "科技资讯",
+  "headline": "英伟达治理地震，97%员工请愿黄仁勋复职",
+  "date": "2026-11-15",
+  "date_display": "2026年11月15日 星期日 农历十月初七",
+  "weekday": "星期日",
+  "lunar": "农历十月初七",
+  "overview": "本期主线是英伟达的治理地震：黄仁勋辞任CEO后董事会启动婚外情独立调查，97%员工请愿要求其复职，股价两日跌10%。同期微软云宕机超24小时、FAA因20年旧路由器致全美航班停飞，基础设施与治理风险同时暴露。",
+  "generated_at": "2026-11-15 02:35:45",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "IT之家",
+    "Solidot",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "黄仁勋被指就婚外情误导英伟达高层，董事会已启动独立调查",
+      "summary": "英伟达董事会就黄仁勋被指婚外情误导高层启动独立调查，CEO已辞职，公司治理危机升级",
+      "text": "英伟达董事会就黄仁勋被指婚外情误导高层启动独立调查，CEO已辞职，公司治理危机升级",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y2ve3mgycv",
+      "section": "tech",
+      "pub_time": 1794638166.0,
+      "pub_display": "11-14 14:36"
+    },
+    {
+      "index": 2,
+      "title": "英伟达内部炸锅！员工集体逼宫董事会“把老黄请回来”",
+      "summary": "英伟达员工以97%支持率联名请愿董事会请回黄仁勋，内部与董事会公开对立",
+      "text": "英伟达员工以97%支持率联名请愿董事会请回黄仁勋，内部与董事会公开对立",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y2QsVMndET",
+      "section": "tech",
+      "pub_time": 1794616770.0,
+      "pub_display": "11-14 08:39"
+    },
+    {
+      "index": 3,
+      "title": "黄仁勋时代落幕，英伟达面临三重考验",
+      "summary": "黄仁勋时代落幕，英伟达面临三重考验",
+      "text": "黄仁勋时代落幕，英伟达面临三重考验",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y31e6MBkB6",
+      "section": "tech",
+      "pub_time": 1794644976.0,
+      "pub_display": "11-14 16:29"
+    },
+    {
+      "index": 4,
+      "title": "黄仁勋离任英伟达 CEO，华尔街对 AI 投资热潮“并不太担心”",
+      "summary": "黄仁勋离任CEO，华尔街对AI投资热潮表态不担忧，英伟达股价两日跌10%",
+      "text": "黄仁勋离任CEO，华尔街对AI投资热潮表态不担忧，英伟达股价两日跌10%",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/184.htm",
+      "section": "tech",
+      "pub_time": 1794619142.0,
+      "pub_display": "11-14 09:19"
+    },
+    {
+      "index": 5,
+      "title": "微软云服务宕机持续逾 24 小时",
+      "summary": "微软云服务宕机持续逾24小时，为近年最长一次中断",
+      "text": "微软云服务宕机持续逾24小时，为近年最长一次中断",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85886",
+      "section": "tech",
+      "pub_time": 1794635750.0,
+      "pub_display": "11-14 13:55"
+    },
+    {
+      "index": 6,
+      "title": "微软大规模宕机后，开源办公套件 LibreOffice 单日收到超 1000 笔捐款创历史新高",
+      "summary": "微软大规模宕机后，开源办公套件 LibreOffice单日获超1000笔捐款创历史新高",
+      "text": "微软大规模宕机后，开源办公套件 LibreOffice单日获超1000笔捐款创历史新高",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/225.htm",
+      "section": "tech",
+      "pub_time": 1794630257.0,
+      "pub_display": "11-14 12:24"
+    },
+    {
+      "index": 7,
+      "title": "导致全美航班停飞的“罪魁祸首”找到了？FAA 调查指向 20 年历史路由器",
+      "summary": "FAA调查指向服役20年的老旧路由器，全美航班停飞事故暴露空管基础设施老化",
+      "text": "FAA调查指向服役20年的老旧路由器，全美航班停飞事故暴露空管基础设施老化",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/246.htm",
+      "section": "tech",
+      "pub_time": 1794639992.0,
+      "pub_display": "11-14 15:06"
+    },
+    {
+      "index": 8,
+      "title": "受空管系统故障影响，11 月 14 日美国仍有超 3300 架次航班被取消",
+      "summary": "受空管系统故障影响，11月14日美国仍有超3300架次航班被取消",
+      "text": "受空管系统故障影响，11月14日美国仍有超3300架次航班被取消",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/241.htm",
+      "section": "tech",
+      "pub_time": 1794637529.0,
+      "pub_display": "11-14 14:25"
+    },
+    {
+      "index": 9,
+      "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+      "summary": "白宫超级智能工作组呼吁放宽AI问责政策，鼓励企业主动报告网络安全事件",
+      "text": "白宫超级智能工作组呼吁放宽AI问责政策，鼓励企业主动报告网络安全事件",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/229.htm",
+      "section": "tech",
+      "pub_time": 1794632602.0,
+      "pub_display": "11-14 13:03"
+    },
+    {
+      "index": 10,
+      "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户",
+      "summary": "Cursor披露安全事件调查结果，恶意 Claude Code扩展最多波及5000用户",
+      "text": "Cursor披露安全事件调查结果，恶意 Claude Code扩展最多波及5000用户",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/215.htm",
+      "section": "tech",
+      "pub_time": 1794624759.0,
+      "pub_display": "11-14 10:52"
+    },
+    {
+      "index": 11,
+      "title": "网约车平台 Uber 优步遭黑客攻击，致美国多州司机驾照信息外泄",
+      "summary": "Uber遭黑客攻击，美国多州司机驾照信息外泄",
+      "text": "Uber遭黑客攻击，美国多州司机驾照信息外泄",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/219.htm",
+      "section": "tech",
+      "pub_time": 1794626613.0,
+      "pub_display": "11-14 11:23"
+    },
+    {
+      "index": 12,
+      "title": "日本大阪市行政系统用户约 108 万条邮箱地址外泄，市长道歉",
+      "summary": "日本大阪市行政系统约108万条邮箱地址外泄，市长公开道歉",
+      "text": "日本大阪市行政系统约108万条邮箱地址外泄，市长公开道歉",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/162.htm",
+      "section": "tech",
+      "pub_time": 1794614082.0,
+      "pub_display": "11-14 07:54"
+    },
+    {
+      "index": 13,
+      "title": "住院病人去哪儿了？唐山一医院被举报涉嫌“虚假住院骗保”，当地已成立联合调查组",
+      "summary": "唐山一医院被举报涉嫌虚假住院骗保，当地已成立联合调查组",
+      "text": "唐山一医院被举报涉嫌虚假住院骗保，当地已成立联合调查组",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794654801.954,
+      "pub_display": "11-14 19:13"
+    },
+    {
+      "index": 14,
+      "title": "新版医保目录新增51个一类新药，CAR-T首进，还有哪些亮点？",
+      "summary": "新版医保目录新增51个一类新药，CAR-T首次进入医保",
+      "text": "新版医保目录新增51个一类新药，CAR-T首次进入医保",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794657259.429,
+      "pub_display": "11-14 19:54"
+    },
+    {
+      "index": 15,
+      "title": "原价129万/支的天价药，进医保了",
+      "summary": "原价129万元一支的天价药进入医保，患者自付有望大幅下降",
+      "text": "原价129万元一支的天价药进入医保，患者自付有望大幅下降",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y2iUziFGbH",
+      "section": "general",
+      "pub_time": 1794627908.0,
+      "pub_display": "11-14 11:45"
+    },
+    {
+      "index": 16,
+      "title": "“司美格鲁肽副作用”登上热搜，如何看待GLP-1减重药物风险？",
+      "summary": "司美格鲁肽副作用登上热搜，GLP-1减重药物风险引发公众关注",
+      "text": "司美格鲁肽副作用登上热搜，GLP-1减重药物风险引发公众关注",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794625859.419,
+      "pub_display": "11-14 11:10"
+    },
+    {
+      "index": 17,
+      "title": "我国保健食品追溯码正式启用，特殊食品迎来“数字身份证”时代",
+      "summary": "我国保健食品追溯码正式启用，特殊食品迎来“数字身份证”时代",
+      "text": "我国保健食品追溯码正式启用，特殊食品迎来“数字身份证”时代",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/173.htm",
+      "section": "general",
+      "pub_time": 1794616802.0,
+      "pub_display": "11-14 08:40"
+    },
+    {
+      "index": 18,
+      "title": "拼多多新规生效：商家若违背专属标识订单“送货上门”承诺，每单将赔付 10 元",
+      "summary": "拼多多新规生效：商家违背送货上门承诺每单赔付10元",
+      "text": "拼多多新规生效：商家违背送货上门承诺每单赔付10元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/179.htm",
+      "section": "general",
+      "pub_time": 1794618172.0,
+      "pub_display": "11-14 09:02"
+    }
+  ]
+}

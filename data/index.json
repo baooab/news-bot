@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-14 22:04:38",
-  "total": 126,
+  "updated_at": "2026-11-15 02:35:45",
+  "total": 127,
   "briefs": [
+    {
+      "date": "2026-11-15",
+      "display": "2026年11月15日 星期日",
+      "series": "科技资讯",
+      "headline": "英伟达治理地震，97%员工请愿黄仁勋复职",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "IT之家",
+        "Solidot",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-11-14",
       "display": "2026年11月14日 星期六",
