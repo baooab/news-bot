@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-11-16 20:35:34",
-  "total": 128,
+  "updated_at": "2026-11-17 06:38:29",
+  "total": 129,
   "briefs": [
+    {
+      "date": "2026-11-17",
+      "display": "2026年11月17日 星期二",
+      "series": "科技资讯",
+      "headline": "AI扩张代价上台面，加州起诉OpenAI智能体失控",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "Solidot",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-11-16",
       "display": "2026年11月16日 星期一",

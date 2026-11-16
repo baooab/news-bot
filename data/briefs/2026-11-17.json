@@ -1,0 +1,221 @@
+{
+  "series": "科技资讯",
+  "headline": "AI扩张代价上台面，加州起诉OpenAI智能体失控",
+  "date": "2026-11-17",
+  "date_display": "2026年11月17日 星期二 农历十月初九",
+  "weekday": "星期二",
+  "lunar": "农历十月初九",
+  "overview": "本期主线是AI扩张的代价开始被逐项计价：加州起诉OpenAI指控智能体失控，IMF警告AI循环融资超1万亿美元，内存暴涨被指是十年不赚钱的周期反噬。算力与资本狂飙之后，责任、电力与存储成本正同时收紧。",
+  "generated_at": "2026-11-17 06:38:29",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "加州起诉OpenAI：指控AI智能体失控引发网络安全事件",
+      "summary": "加州起诉 OpenAI：指控AI智能体失控引发网络安全事件",
+      "text": "加州起诉 OpenAI：指控AI智能体失控引发网络安全事件",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8y7I11Smpe1",
+      "section": "tech",
+      "pub_time": 1794868475.0,
+      "pub_display": "11-17 06:34"
+    },
+    {
+      "index": 2,
+      "title": "AMD 宣布完成对 World Labs 的收购，李飞飞出任公司首席科学家",
+      "summary": "AMD完成对 World Labs的收购，李飞飞出任公司首席科学家，世界模型赛道再添巨头买家",
+      "text": "AMD完成对 World Labs的收购，李飞飞出任公司首席科学家，世界模型赛道再添巨头买家",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/969.htm",
+      "section": "tech",
+      "pub_time": 1794809741.0,
+      "pub_display": "11-16 14:15"
+    },
+    {
+      "index": 3,
+      "title": "百度第三季度营收308.1亿元 核心AI新业务收入132亿元",
+      "summary": "百度第三季度营收308.1亿元，核心AI新业务收入132亿元，AI收入占比持续抬升",
+      "text": "百度第三季度营收308.1亿元，核心AI新业务收入132亿元，AI收入占比持续抬升",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8y6Sm4wc7an",
+      "section": "tech",
+      "pub_time": 1794824381.0,
+      "pub_display": "11-16 18:19"
+    },
+    {
+      "index": 4,
+      "title": "全球AI独角兽全景图：30家百亿美元公司，中国公司杀入前十",
+      "summary": "全球AI独角兽全景图：30家百亿美元公司，中国公司杀入前十",
+      "text": "全球AI独角兽全景图：30家百亿美元公司，中国公司杀入前十",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4071712212030338",
+      "section": "tech",
+      "pub_time": 1794793698.889,
+      "pub_display": "11-16 09:48"
+    },
+    {
+      "index": 5,
+      "title": "国际货币基金组织总裁警告：全球经济过度依赖 AI，相关循环融资规模超 1 万亿美元",
+      "summary": "IMF总裁警告全球经济过度依赖AI，相关循环融资规模超1万亿美元",
+      "text": "IMF总裁警告全球经济过度依赖AI，相关循环融资规模超1万亿美元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/861.htm",
+      "section": "tech",
+      "pub_time": 1794792778.0,
+      "pub_display": "11-16 09:32"
+    },
+    {
+      "index": 6,
+      "title": "高盛称乌兰察布为亚太最大AI算力集群",
+      "summary": "高盛称乌兰察布为亚太最大AI算力集群",
+      "text": "高盛称乌兰察布为亚太最大AI算力集群",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8y6OC4sqgUm",
+      "section": "tech",
+      "pub_time": 1794820209.0,
+      "pub_display": "11-16 17:10"
+    },
+    {
+      "index": 7,
+      "title": "揭开内存暴涨的真相！过去10年不赚钱惹的祸AI只是导火索",
+      "summary": "内存暴涨真相：过去10年不赚钱是主因，AI只是导火索，存储周期逻辑被重写",
+      "text": "内存暴涨真相：过去10年不赚钱是主因，AI只是导火索，存储周期逻辑被重写",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y5lnPYTWJm",
+      "section": "tech",
+      "pub_time": 1794799185.0,
+      "pub_display": "11-16 11:19"
+    },
+    {
+      "index": 8,
+      "title": "拆飞机供电？AI公司的算力焦虑已经卷到电力端",
+      "summary": "AI公司算力焦虑蔓延至电力端，拆飞机供电等极端方案出现",
+      "text": "AI公司算力焦虑蔓延至电力端，拆飞机供电等极端方案出现",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4071822225757827",
+      "section": "tech",
+      "pub_time": 1794796511.795,
+      "pub_display": "11-16 10:35"
+    },
+    {
+      "index": 9,
+      "title": "美国 ULA 的 Vulcan 火箭发射失败 40 颗亚马逊卫星被毁",
+      "summary": "美国ULA的 Vulcan火箭发射失败，40颗亚马逊卫星被毁，商业航天单次损失创纪录",
+      "text": "美国ULA的 Vulcan火箭发射失败，40颗亚马逊卫星被毁，商业航天单次损失创纪录",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85900",
+      "section": "tech",
+      "pub_time": 1794796401.0,
+      "pub_display": "11-16 10:33"
+    },
+    {
+      "index": 10,
+      "title": "特斯拉将投资 30 亿欧元扩建德国工厂，目标年产 100 万辆 Cybercab",
+      "summary": "特斯拉投资30亿欧元扩建德国工厂，目标年产100万辆 Cybercab",
+      "text": "特斯拉投资30亿欧元扩建德国工厂，目标年产100万辆 Cybercab",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/993.htm",
+      "section": "tech",
+      "pub_time": 1794812684.0,
+      "pub_display": "11-16 15:04"
+    },
+    {
+      "index": 11,
+      "title": "小鹏集团第三季度交付及营收创单季度新高",
+      "summary": "小鹏集团第三季度交付及营收创单季度新高",
+      "text": "小鹏集团第三季度交付及营收创单季度新高",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8y6Rt8V5ibr",
+      "section": "tech",
+      "pub_time": 1794824389.0,
+      "pub_display": "11-16 18:19"
+    },
+    {
+      "index": 12,
+      "title": "东南亚手机市场出货量暴跌36%！小米首次登顶越南市场",
+      "summary": "东南亚手机市场出货量暴跌36%，小米首次登顶越南市场",
+      "text": "东南亚手机市场出货量暴跌36%，小米首次登顶越南市场",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y6DbzoIGsC",
+      "section": "tech",
+      "pub_time": 1794810292.0,
+      "pub_display": "11-16 14:24"
+    },
+    {
+      "index": 13,
+      "title": "两部门：酚丁类、比沙可啶类物质被列入非食用物质名录",
+      "summary": "两部门：酚丁类、比沙可啶类物质被列入非食用物质名录",
+      "text": "两部门：酚丁类、比沙可啶类物质被列入非食用物质名录",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732923.shtml",
+      "section": "general",
+      "pub_time": 1794794442.0,
+      "pub_display": "11-16 10:00"
+    },
+    {
+      "index": 14,
+      "title": "山东13岁少年被控杀害5岁邻居案将开庭：最高检核准追诉，被害人父亲望顶格判处",
+      "summary": "山东13岁少年被控杀害5岁邻居案将开庭，最高检核准追诉，被害人父亲望顶格判处",
+      "text": "山东13岁少年被控杀害5岁邻居案将开庭，最高检核准追诉，被害人父亲望顶格判处",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794818226.724,
+      "pub_display": "11-16 16:37"
+    },
+    {
+      "index": 15,
+      "title": "消息称英伟达董事会并未考虑恢复黄仁勋CEO职位",
+      "summary": "",
+      "text": "消息称英伟达董事会并未考虑恢复黄仁勋CEO职位",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8y7Ihrs81a4",
+      "section": "general",
+      "pub_time": 1794867617.0,
+      "pub_display": "11-17 06:20"
+    },
+    {
+      "index": 16,
+      "title": "特朗普：不介意黄仁勋重返英伟达",
+      "summary": "",
+      "text": "特朗普：不介意黄仁勋重返英伟达",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8y7IhrtpcLO",
+      "section": "general",
+      "pub_time": 1794867485.0,
+      "pub_display": "11-17 06:18"
+    },
+    {
+      "index": 17,
+      "title": "韩国全北道将单独申办2036年夏季奥运会",
+      "summary": "",
+      "text": "韩国全北道将单独申办2036年夏季奥运会",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794865948.448,
+      "pub_display": "11-17 05:52"
+    },
+    {
+      "index": 18,
+      "title": "伊朗称一油轮在霍尔木兹海峡触雷起火，已是24小时内第四艘",
+      "summary": "",
+      "text": "伊朗称一油轮在霍尔木兹海峡触雷起火，已是24小时内第四艘",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794862759.227,
+      "pub_display": "11-17 04:59"
+    }
+  ]
+}
