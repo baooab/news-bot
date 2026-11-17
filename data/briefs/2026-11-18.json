@@ -1,0 +1,220 @@
+{
+  "series": "科技资讯",
+  "headline": "黄仁勋打破沉默称若董事会允许愿重返英，英伟达暴跌",
+  "date": "2026-11-18",
+  "date_display": "2026年11月18日 星期三 农历十月初十",
+  "weekday": "星期三",
+  "lunar": "农历十月初十",
+  "overview": "本期主线是英伟达的权力交接震荡：黄仁勋表态愿重返CEO，董事会却称未考虑其复任，空头40天从英伟达暴跌中获利240亿美元。同期百度AI收入占比首超53%股价反创新低，算力扩张的代价正被摆上台面。",
+  "generated_at": "2026-11-18 05:26:55",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO",
+      "summary": "黄仁勋打破沉默称若董事会允许愿重返英伟达任CEO，此前其X账号已删去CEO头衔",
+      "text": "黄仁勋打破沉默称若董事会允许愿重返英伟达任CEO，此前其X账号已删去CEO头衔",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/028/566.htm",
+      "section": "tech",
+      "pub_time": 1794904858.0,
+      "pub_display": "11-17 16:40"
+    },
+    {
+      "index": 2,
+      "title": "英伟达暴跌，空头40天斩获240亿美元收益",
+      "summary": "英伟达暴跌，空头40天斩获240亿美元收益",
+      "text": "英伟达暴跌，空头40天斩获240亿美元收益",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4073532432995200",
+      "section": "tech",
+      "pub_time": 1794900934.462,
+      "pub_display": "11-17 15:35"
+    },
+    {
+      "index": 3,
+      "title": "英伟达董事会设立国家安全与出口管制监督委员会",
+      "summary": "英伟达董事会设立国家安全与出口管制监督委员会",
+      "text": "英伟达董事会设立国家安全与出口管制监督委员会",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/028/545.htm",
+      "section": "tech",
+      "pub_time": 1794899109.0,
+      "pub_display": "11-17 15:05"
+    },
+    {
+      "index": 4,
+      "title": "英伟达进入交接过渡期，国产GPU替代迎来关键窗口",
+      "summary": "英伟达进入交接过渡期，国产GPU替代迎来关键窗口",
+      "text": "英伟达进入交接过渡期，国产GPU替代迎来关键窗口",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y7WiMENt88",
+      "section": "tech",
+      "pub_time": 1794898566.0,
+      "pub_display": "11-17 14:56"
+    },
+    {
+      "index": 5,
+      "title": "AI收入首超53%股价却创出新低，百度还在替算力打工",
+      "summary": "百度AI收入占比首超53%，股价却创出新低，仍在为算力成本打工",
+      "text": "百度AI收入占比首超53%，股价却创出新低，仍在为算力成本打工",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y8LJ79ueSi",
+      "section": "tech",
+      "pub_time": 1794922949.0,
+      "pub_display": "11-17 21:42"
+    },
+    {
+      "index": 6,
+      "title": "AI巨头抢购发电机，能源正在成为AI竞争的新变量",
+      "summary": "AI巨头抢购发电机，电力供给正成为AI算力竞争的新变量",
+      "text": "AI巨头抢购发电机，电力供给正成为AI算力竞争的新变量",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4073687278294145",
+      "section": "tech",
+      "pub_time": 1794922454.423,
+      "pub_display": "11-17 21:34"
+    },
+    {
+      "index": 7,
+      "title": "三大厂内存涨价7倍的锅，AI不背了",
+      "summary": "三大厂内存涨价7倍的锅，AI不背了",
+      "text": "三大厂内存涨价7倍的锅，AI不背了",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4073691017499523",
+      "section": "tech",
+      "pub_time": 1794911532.813,
+      "pub_display": "11-17 18:32"
+    },
+    {
+      "index": 8,
+      "title": "长鑫科技：前三季度全球DRAM产品供给紧缺格局延续",
+      "summary": "长鑫科技称前三季度全球DRAM供给紧缺格局延续，车规存储需求增长",
+      "text": "长鑫科技称前三季度全球DRAM供给紧缺格局延续，车规存储需求增长",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8y8As0ikL5d",
+      "section": "tech",
+      "pub_time": 1794915916.0,
+      "pub_display": "11-17 19:45"
+    },
+    {
+      "index": 9,
+      "title": "TOP500、HPCG双榜第一！国家超级计算深圳中心“灵晟”蝉联全球超算榜首",
+      "summary": "国家超算深圳中心“灵晟”蝉联TOP500与HPCG双榜全球第一",
+      "text": "国家超算深圳中心“灵晟”蝉联TOP500与HPCG双榜全球第一",
+      "source": "澎湃",
+      "link": "",
+      "section": "tech",
+      "pub_time": 1794881442.811,
+      "pub_display": "11-17 10:10"
+    },
+    {
+      "index": 10,
+      "title": "刷新纪录！中国6G通信核心技术，取得重要进展",
+      "summary": "中国6G通信核心技术取得重要进展，刷新纪录，8省份入选试点",
+      "text": "中国6G通信核心技术取得重要进展，刷新纪录，8省份入选试点",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y7sEUytI8p",
+      "section": "tech",
+      "pub_time": 1794897068.0,
+      "pub_display": "11-17 14:31"
+    },
+    {
+      "index": 11,
+      "title": "快手可灵全新一代图像创作模型 Kling Image 4.0 上线：首次支持原生 8K，单图内可生成 2000 字",
+      "summary": "快手可灵上线 Kling Image 4.0，首次支持原生8K、单图生成2000字",
+      "text": "快手可灵上线 Kling Image 4.0，首次支持原生8K、单图生成2000字",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/028/563.htm",
+      "section": "tech",
+      "pub_time": 1794900392.0,
+      "pub_display": "11-17 15:26"
+    },
+    {
+      "index": 12,
+      "title": "华为云发布昇腾原生具身世界模型CloudRobo-WM1.2",
+      "summary": "华为云发布昇腾原生具身世界模型 CloudRobo-WM1.2",
+      "text": "华为云发布昇腾原生具身世界模型 CloudRobo-WM1.2",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8y7u9lgEOAT",
+      "section": "tech",
+      "pub_time": 1794898573.0,
+      "pub_display": "11-17 14:56"
+    },
+    {
+      "index": 13,
+      "title": "自然科学基金委新规明确划定经费管理使用“红线”",
+      "summary": "自然科学基金委新规明确划定科研经费管理使用“红线”",
+      "text": "自然科学基金委新规明确划定科研经费管理使用“红线”",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794930133.266,
+      "pub_display": "11-17 23:42"
+    },
+    {
+      "index": 14,
+      "title": "女子在盒马申请400余次仅退款“薅”走1.7万元？涉嫌诈骗被刑拘",
+      "summary": "女子在盒马申请400余次仅退款“薅”走1.7万元，涉嫌诈骗被刑拘",
+      "text": "女子在盒马申请400余次仅退款“薅”走1.7万元，涉嫌诈骗被刑拘",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794913840.863,
+      "pub_display": "11-17 19:10"
+    },
+    {
+      "index": 15,
+      "title": "澎湃回声｜唐山涉嫌“虚假住院骗保”医院被取消工伤定点资格，省级监管部门已参与调查",
+      "summary": "唐山涉嫌“虚假住院骗保”医院被取消工伤定点资格，省级监管部门已介入调查",
+      "text": "唐山涉嫌“虚假住院骗保”医院被取消工伤定点资格，省级监管部门已介入调查",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794900177.285,
+      "pub_display": "11-17 15:22"
+    },
+    {
+      "index": 16,
+      "title": "市场监管总局提醒：汽车生产企业对车辆实施召回均为免费，不会收取任何费用",
+      "summary": "市场监管总局提醒：车企对车辆实施召回均为免费，不收取任何费用",
+      "text": "市场监管总局提醒：车企对车辆实施召回均为免费，不收取任何费用",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/028/499.htm",
+      "section": "general",
+      "pub_time": 1794884758.0,
+      "pub_display": "11-17 11:05"
+    },
+    {
+      "index": 17,
+      "title": "福州地铁施行新规：明确禁止单块额定容量超 100Wh 的移动电源 / 锂电池上车",
+      "summary": "福州地铁新规施行：禁止单块额定容量超100Wh的移动电源、锂电池上车",
+      "text": "福州地铁新规施行：禁止单块额定容量超100Wh的移动电源、锂电池上车",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/028/507.htm",
+      "section": "general",
+      "pub_time": 1794886771.0,
+      "pub_display": "11-17 11:39"
+    },
+    {
+      "index": 18,
+      "title": "北方冷空气南下 广东将明显降温",
+      "summary": "北方冷空气南下，广东将出现明显降温",
+      "text": "北方冷空气南下，广东将出现明显降温",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733716.shtml",
+      "section": "general",
+      "pub_time": 1794890958.0,
+      "pub_display": "11-17 12:49"
+    }
+  ]
+}
