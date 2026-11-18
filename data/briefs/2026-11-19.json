@@ -1,0 +1,222 @@
+{
+  "series": "科技资讯",
+  "headline": "腾讯第三季度营收2073.4亿元，腾讯WorkBuddy近七天收入年化",
+  "date": "2026-11-19",
+  "date_display": "2026年11月19日 星期四 农历十月十一",
+  "weekday": "星期四",
+  "lunar": "农历十月十一",
+  "overview": "本期主线是AI从模型竞赛转入入口与收入竞赛：腾讯WorkBuddy近七天收入年化超5亿美元，豆包工作日活破800万、企业ARR达20亿元。但同一天Google AI Overviews令搜索流量下降四成，AI商业化开始付出旧业务代价。",
+  "generated_at": "2026-11-19 04:59:11",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃",
+    "雷峰网"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "腾讯控股：第三季度营收2,073.4亿元人民币，同比增长8%",
+      "summary": "腾讯第三季度营收2073.4亿元，同比增长8%，AI投入继续加码",
+      "text": "腾讯第三季度营收2073.4亿元，同比增长8%，AI投入继续加码",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y9h36UXkPT",
+      "section": "tech",
+      "pub_time": 1794991053.0,
+      "pub_display": "11-18 16:37"
+    },
+    {
+      "index": 2,
+      "title": "腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是第二季度的 5 倍以上",
+      "summary": "腾讯 WorkBuddy近七天收入年化超5亿美元，三季度收入为二季度的5倍以上",
+      "text": "腾讯 WorkBuddy近七天收入年化超5亿美元，三季度收入为二季度的5倍以上",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/110.htm",
+      "section": "tech",
+      "pub_time": 1794982502.0,
+      "pub_display": "11-18 14:15"
+    },
+    {
+      "index": 3,
+      "title": "豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元",
+      "summary": "豆包工作日活突破800万，企业客户ARR突破20亿元",
+      "text": "豆包工作日活突破800万，企业客户ARR突破20亿元",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html",
+      "section": "tech",
+      "pub_time": 1794979080.0,
+      "pub_display": "11-18 13:18"
+    },
+    {
+      "index": 4,
+      "title": "豆包工作、WorkBuddy、千问办公同题竞争：模型隐入后台，入口走向前台",
+      "summary": "豆包工作、WorkBuddy、千问办公同题竞争，模型隐入后台、入口走向前台",
+      "text": "豆包工作、WorkBuddy、千问办公同题竞争，模型隐入后台、入口走向前台",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4074578110699144",
+      "section": "tech",
+      "pub_time": 1794973117.0,
+      "pub_display": "11-18 11:38"
+    },
+    {
+      "index": 5,
+      "title": "商汤 2026 年前三季度营收 37.92 亿元，同比增长 30.4%",
+      "summary": "商汤2026年前三季度营收37.92亿元，同比增长30.4%",
+      "text": "商汤2026年前三季度营收37.92亿元，同比增长30.4%",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/088.htm",
+      "section": "tech",
+      "pub_time": 1794981127.0,
+      "pub_display": "11-18 13:52"
+    },
+    {
+      "index": 6,
+      "title": "消息称 Anthropic 考虑扩大 IPO 规模，散户认购意向接近千亿美元",
+      "summary": "Anthropic考虑扩大IPO规模，散户认购意向接近千亿美元",
+      "text": "Anthropic考虑扩大IPO规模，散户认购意向接近千亿美元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/121.htm",
+      "section": "tech",
+      "pub_time": 1794987359.0,
+      "pub_display": "11-18 15:35"
+    },
+    {
+      "index": 7,
+      "title": "上市前夕，OpenAI被索赔133亿元",
+      "summary": "上市前夕 OpenAI被索赔133亿元",
+      "text": "上市前夕 OpenAI被索赔133亿元",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8y9TQboGIex",
+      "section": "tech",
+      "pub_time": 1794980898.0,
+      "pub_display": "11-18 13:48"
+    },
+    {
+      "index": 8,
+      "title": "Google AI Overviews 导致搜索流量下降四成",
+      "summary": "Google AI Overviews导致搜索流量下降四成",
+      "text": "Google AI Overviews导致搜索流量下降四成",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85916",
+      "section": "tech",
+      "pub_time": 1794954966.0,
+      "pub_display": "11-18 06:36"
+    },
+    {
+      "index": 9,
+      "title": "新高危漏洞 Java4Shell 会导致远程代码执行",
+      "summary": "新高危漏洞 Java4Shell可致远程代码执行，多国呼吁紧急更新",
+      "text": "新高危漏洞 Java4Shell可致远程代码执行，多国呼吁紧急更新",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85923",
+      "section": "tech",
+      "pub_time": 1794979640.0,
+      "pub_display": "11-18 13:27"
+    },
+    {
+      "index": 10,
+      "title": "一款路由器故障导致全美航班停飞，FAA 停用 60 余台设备并叫停后续安装",
+      "summary": "一款路由器故障导致全美航班停飞，FAA停用60余台设备并叫停后续安装",
+      "text": "一款路由器故障导致全美航班停飞，FAA停用60余台设备并叫停后续安装",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/119.htm",
+      "section": "tech",
+      "pub_time": 1794986680.0,
+      "pub_display": "11-18 15:24"
+    },
+    {
+      "index": 11,
+      "title": "SpaceXAI 在美国密西西比州的 AI 数据中心泄漏约 20m³ 丙二醇",
+      "summary": "SpaceX AI密西西比州AI数据中心泄漏约20立方米丙二醇",
+      "text": "SpaceX AI密西西比州AI数据中心泄漏约20立方米丙二醇",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/115.htm",
+      "section": "tech",
+      "pub_time": 1794985310.0,
+      "pub_display": "11-18 15:01"
+    },
+    {
+      "index": 12,
+      "title": "我国首款电动商用飞机装上“中国心”，中国科学院电工所自研推进电机系统完成实飞验证",
+      "summary": "中科院电工所自研推进电机系统完成实飞验证，我国首款电动商用飞机装上“中国心”",
+      "text": "中科院电工所自研推进电机系统完成实飞验证，我国首款电动商用飞机装上“中国心”",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/083.htm",
+      "section": "tech",
+      "pub_time": 1794980296.0,
+      "pub_display": "11-18 13:38"
+    },
+    {
+      "index": 13,
+      "title": "官方通报烤全羊被指剥不出1两肉：已对涉事民宿立案调查",
+      "summary": "官方通报烤全羊被指剥不出1两肉：已对涉事民宿立案调查",
+      "text": "官方通报烤全羊被指剥不出1两肉：已对涉事民宿立案调查",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794997871.933,
+      "pub_display": "11-18 18:31"
+    },
+    {
+      "index": 14,
+      "title": "媒体：兰州狱警殴打服刑者致死案再审一审宣判，四狱警分别获刑",
+      "summary": "兰州狱警殴打服刑者致死案再审一审宣判，四狱警分别获刑",
+      "text": "兰州狱警殴打服刑者致死案再审一审宣判，四狱警分别获刑",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794984257.74,
+      "pub_display": "11-18 14:44"
+    },
+    {
+      "index": 15,
+      "title": "“云认养”两年不知东北虎已死亡，女子起诉虎林园求真相",
+      "summary": "女子“云认养”两年不知东北虎已死亡，起诉虎林园求真相",
+      "text": "女子“云认养”两年不知东北虎已死亡，起诉虎林园求真相",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1794987056.484,
+      "pub_display": "11-18 15:30"
+    },
+    {
+      "index": 16,
+      "title": "黑龙江省气象台发布道路结冰和大风预报",
+      "summary": "黑龙江省气象台发布道路结冰和大风预报",
+      "text": "黑龙江省气象台发布道路结冰和大风预报",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-18/10734273.shtml",
+      "section": "general",
+      "pub_time": 1794976414.0,
+      "pub_display": "11-18 12:33"
+    },
+    {
+      "index": 17,
+      "title": "交房即交证 黑龙江省首个自主更新原拆原建项目完成回搬交付",
+      "summary": "交房即交证 黑龙江省首个自主更新原拆原建项目完成回搬交付",
+      "text": "交房即交证 黑龙江省首个自主更新原拆原建项目完成回搬交付",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-18/10734364.shtml",
+      "section": "general",
+      "pub_time": 1794980159.0,
+      "pub_display": "11-18 13:35"
+    },
+    {
+      "index": 18,
+      "title": "重庆：争取到2030年城市“15分钟养老服务圈”建成率达80%",
+      "summary": "重庆争取到2030年城市“15分钟养老服务圈”建成率达80%",
+      "text": "重庆争取到2030年城市“15分钟养老服务圈”建成率达80%",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-18/10734284.shtml",
+      "section": "general",
+      "pub_time": 1794976404.0,
+      "pub_display": "11-18 12:33"
+    }
+  ]
+}
