@@ -1,0 +1,221 @@
+{
+  "series": "科技资讯",
+  "headline": "AI资本与算力同时紧绷，Anthropic以1.5万亿美元估值IPO",
+  "date": "2026-11-20",
+  "date_display": "2026年11月20日 星期五 农历十月十二",
+  "weekday": "星期五",
+  "lunar": "农历十月十二",
+  "overview": "本期主线是 AI 资本与算力同时进入紧绷期：Anthropic 以 1.5 万亿美元估值完成史上最大 IPO，谷歌同日连发 Gemini 4 两款模型。另一面，吴泳铭称 2027、2028 年是中国算力最紧缺的两年，英伟达则停止向中国出货 H200。",
+  "generated_at": "2026-11-20 05:04:27",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "澎湃",
+    "雷峰网"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元",
+      "summary": "Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元，机构认购超 6 倍",
+      "text": "Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元，机构认购超 6 倍",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/708.htm",
+      "section": "tech",
+      "pub_time": 1795074653.0,
+      "pub_display": "11-19 15:50"
+    },
+    {
+      "index": 2,
+      "title": "刚刚，谷歌Gemini 4再发新款，对标超越GPT-6.2 Sol，世界模型Genie 4也已开放",
+      "summary": "谷歌发布 Gemini 4 新款，对标 GPT-6.2 Sol，世界模型 Genie 4 同步开放",
+      "text": "谷歌发布 Gemini 4 新款，对标 GPT-6.2 Sol，世界模型 Genie 4 同步开放",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4075845199402119",
+      "section": "tech",
+      "pub_time": 1795046970.633,
+      "pub_display": "11-19 08:09"
+    },
+    {
+      "index": 3,
+      "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
+      "summary": "Gemini 4 Neon 突袭发布，性价比一夜反超 Opus 5.5",
+      "text": "Gemini 4 Neon 突袭发布，性价比一夜反超 Opus 5.5",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4075907868955785",
+      "section": "tech",
+      "pub_time": 1795046674.909,
+      "pub_display": "11-19 08:04"
+    },
+    {
+      "index": 4,
+      "title": "阿里巴巴 CEO 吴泳铭：2027、2028 年将是中国算力最紧缺的两年",
+      "summary": "吴泳铭：2027、2028 年将是中国算力最紧缺的两年，20GW 目标或下调",
+      "text": "吴泳铭：2027、2028 年将是中国算力最紧缺的两年，20GW 目标或下调",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/682.htm",
+      "section": "tech",
+      "pub_time": 1795065769.0,
+      "pub_display": "11-19 13:22"
+    },
+    {
+      "index": 5,
+      "title": "阿里巴巴 CEO 吴泳铭：千问已在平头哥芯片训练下一代模型，百炼基于国产芯片提供模型推理服务",
+      "summary": "阿里巴巴 CEO 吴泳铭：千问已在平头哥芯片训练下一代模型，百炼基于国产芯片提供模型推理服务",
+      "text": "阿里巴巴 CEO 吴泳铭：千问已在平头哥芯片训练下一代模型，百炼基于国产芯片提供模型推理服务",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/676.htm",
+      "section": "tech",
+      "pub_time": 1795064319.0,
+      "pub_display": "11-19 12:58"
+    },
+    {
+      "index": 6,
+      "title": "英伟达临时CEO称将不再向中国出货H200芯片；一天之内173名管理人员被免，宗馥莉大规模「动刀」；英特尔被曝再度裁员，波及全球IT员工",
+      "summary": "英伟达临时 CEO 称将不再向中国出货 H200 芯片，出口限制进一步收紧",
+      "text": "英伟达临时 CEO 称将不再向中国出货 H200 芯片，出口限制进一步收紧",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/zaobao/wMg9SCFKwT7JSsGq.html",
+      "section": "tech",
+      "pub_time": 1795021140.0,
+      "pub_display": "11-19 00:59"
+    },
+    {
+      "index": 7,
+      "title": "Counterpoint：存储成本飙涨，印度高端旗舰手机 2026 年底将较 2025 年涨价超 30%",
+      "summary": "Counterpoint：存储成本飙涨，印度高端旗舰手机 2026 年底较 2025 年涨价超 30%",
+      "text": "Counterpoint：存储成本飙涨，印度高端旗舰手机 2026 年底较 2025 年涨价超 30%",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/653.htm",
+      "section": "tech",
+      "pub_time": 1795059902.0,
+      "pub_display": "11-19 11:45"
+    },
+    {
+      "index": 8,
+      "title": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发",
+      "summary": "镁伽科技完成近 2 亿美元融资，建设面向真实世界的 AI 智能基础设施",
+      "text": "镁伽科技完成近 2 亿美元融资，建设面向真实世界的 AI 智能基础设施",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4075322592187524",
+      "section": "tech",
+      "pub_time": 1795048200.36,
+      "pub_display": "11-19 08:30"
+    },
+    {
+      "index": 9,
+      "title": "14%收益提升，OpenAI用AI造芯，5个月完成人工1年工作量，Astra领跑",
+      "summary": "OpenAI 用 AI 造芯，5 个月完成人工 1 年工作量，收益提升 14%",
+      "text": "OpenAI 用 AI 造芯，5 个月完成人工 1 年工作量，收益提升 14%",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4075847312970881",
+      "section": "tech",
+      "pub_time": 1795050104.0,
+      "pub_display": "11-19 09:01"
+    },
+    {
+      "index": 10,
+      "title": "马斯克：目前 SpaceX 每个月约新增 0.5GW 算力，明年底将提速至每月 1GW",
+      "summary": "马斯克：SpaceX 目前每月新增约 0.5GW 算力，明年底提速至每月 1GW",
+      "text": "马斯克：SpaceX 目前每月新增约 0.5GW 算力，明年底提速至每月 1GW",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/649.htm",
+      "section": "tech",
+      "pub_time": 1795058263.0,
+      "pub_display": "11-19 11:17"
+    },
+    {
+      "index": 11,
+      "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
+      "summary": "IEA 警告：到 2030 年数据中心碳排放量将增加七成",
+      "text": "IEA 警告：到 2030 年数据中心碳排放量将增加七成",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85937",
+      "section": "tech",
+      "pub_time": 1795077250.0,
+      "pub_display": "11-19 16:34"
+    },
+    {
+      "index": 12,
+      "title": "AI 模型大幅降低古籍数字化成本：识别 1000 页内容费用已不到 0.1 美元",
+      "summary": "AI 模型大幅降低古籍数字化成本，识别 1000 页内容费用已不到 0.1 美元",
+      "text": "AI 模型大幅降低古籍数字化成本，识别 1000 页内容费用已不到 0.1 美元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/029/688.htm",
+      "section": "tech",
+      "pub_time": 1795067344.0,
+      "pub_display": "11-19 13:49"
+    },
+    {
+      "index": 13,
+      "title": "中国发现新直立人化石",
+      "summary": "中国发现新直立人化石",
+      "text": "中国发现新直立人化石",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85929",
+      "section": "general",
+      "pub_time": 1795043686.0,
+      "pub_display": "11-19 07:14"
+    },
+    {
+      "index": 14,
+      "title": "中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​",
+      "summary": "中南大学通报湘雅二医院、湘雅医院 AI 论文争议：存在学术不端，多人被处理",
+      "text": "中南大学通报湘雅二医院、湘雅医院 AI 论文争议：存在学术不端，多人被处理",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795060791.447,
+      "pub_display": "11-19 11:59"
+    },
+    {
+      "index": 15,
+      "title": "冷空气补充影响广东 全省气温继续下降",
+      "summary": "冷空气补充影响广东，全省气温继续下降",
+      "text": "冷空气补充影响广东，全省气温继续下降",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734817.shtml",
+      "section": "general",
+      "pub_time": 1795057544.0,
+      "pub_display": "11-19 11:05"
+    },
+    {
+      "index": 16,
+      "title": "普京：克里米亚大桥遭袭后，不再讨论海上停火",
+      "summary": "",
+      "text": "普京：克里米亚大桥遭袭后，不再讨论海上停火",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795115965.894,
+      "pub_display": "11-20 03:19"
+    },
+    {
+      "index": 17,
+      "title": "王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果",
+      "summary": "",
+      "text": "王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795113423.012,
+      "pub_display": "11-20 02:37"
+    },
+    {
+      "index": 18,
+      "title": "日本东京万人集会抗议高市政权政策",
+      "summary": "",
+      "text": "日本东京万人集会抗议高市政权政策",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795106964.128,
+      "pub_display": "11-20 00:49"
+    }
+  ]
+}
