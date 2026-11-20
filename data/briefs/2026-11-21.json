@@ -1,0 +1,221 @@
+{
+  "series": "科技资讯",
+  "headline": "AI扩张撞上算力墙，阿里年化收入700亿仍预警紧缺",
+  "date": "2026-11-21",
+  "date_display": "2026年11月21日 星期六 农历十月十三",
+  "weekday": "星期六",
+  "lunar": "农历十月十三",
+  "overview": "本期主线是AI扩张开始被成本与安全反噬：阿里AI年化收入破700亿却警告未来两年算力紧缺，三星内存采购价暴涨263%推高硬件成本。同时伦敦交通局26.5万用户数据泄露、PHP二十年漏洞曝光，规模扩张的代价正被摆上台面。",
+  "generated_at": "2026-11-21 04:51:10",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "阿里净利润大涨213%，吴泳铭交底AI战略，相关年化收入突破700亿",
+      "summary": "阿里净利润大涨213%，吴泳铭交底AI战略，AI相关年化收入突破700亿",
+      "text": "阿里净利润大涨213%，吴泳铭交底AI战略，AI相关年化收入突破700亿",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4076834658849927",
+      "section": "tech",
+      "pub_time": 1795131872.0,
+      "pub_display": "11-20 07:44"
+    },
+    {
+      "index": 2,
+      "title": "阿里巴巴警告未来两年算力紧缺",
+      "summary": "阿里巴巴警告未来两年算力紧缺，AI需求增速超供给",
+      "text": "阿里巴巴警告未来两年算力紧缺，AI需求增速超供给",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85947",
+      "section": "tech",
+      "pub_time": 1795150097.0,
+      "pub_display": "11-20 12:48"
+    },
+    {
+      "index": 3,
+      "title": "林俊旸AI公司完成新融资：估值翻倍至50亿美元 吉利参投",
+      "summary": "林俊旸离职后创办语用科技完成新融资，估值翻倍至50亿美元，吉利参投",
+      "text": "林俊旸离职后创办语用科技完成新融资，估值翻倍至50亿美元，吉利参投",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8yD6do4S7Zw",
+      "section": "tech",
+      "pub_time": 1795169063.0,
+      "pub_display": "11-20 18:04"
+    },
+    {
+      "index": 4,
+      "title": "消息称英伟达计划5亿美元收购AI初创公司Inception",
+      "summary": "英伟达计划5亿美元收购AI初创公司 Inception，补强推理能力",
+      "text": "英伟达计划5亿美元收购AI初创公司 Inception，补强推理能力",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yCrHSYjCkN",
+      "section": "tech",
+      "pub_time": 1795156044.0,
+      "pub_display": "11-20 14:27"
+    },
+    {
+      "index": 5,
+      "title": "美光新加坡 HBM 先进封装厂首台设备进驻，预计 2027 年初首批产出",
+      "summary": "美光新加坡HBM先进封装厂首台设备进驻，预计2027年初首批产出",
+      "text": "美光新加坡HBM先进封装厂首台设备进驻，预计2027年初首批产出",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/130.htm",
+      "section": "tech",
+      "pub_time": 1795137205.0,
+      "pub_display": "11-20 09:13"
+    },
+    {
+      "index": 6,
+      "title": "三星电子非半导体板块内存平均采购价今年前九个月同比暴涨 263%",
+      "summary": "三星非半导体板块内存平均采购价前九月同比暴涨263%",
+      "text": "三星非半导体板块内存平均采购价前九月同比暴涨263%",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/243.htm",
+      "section": "tech",
+      "pub_time": 1795153676.0,
+      "pub_display": "11-20 13:47"
+    },
+    {
+      "index": 7,
+      "title": "内存成本涨幅前所未有，Valve 坦承 Steam Machine 未来售价“无法得知”",
+      "summary": "Valve坦承内存成本涨幅前所未有，Steam Machine售价无法确定",
+      "text": "Valve坦承内存成本涨幅前所未有，Steam Machine售价无法确定",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/273.htm",
+      "section": "tech",
+      "pub_time": 1795157200.0,
+      "pub_display": "11-20 14:46"
+    },
+    {
+      "index": 8,
+      "title": "伦敦交通局遭网络攻击，26.5 万名“牡蛎”交通卡用户数据泄露",
+      "summary": "伦敦交通局遭网络攻击，26.5万名牡蛎交通卡用户数据泄露",
+      "text": "伦敦交通局遭网络攻击，26.5万名牡蛎交通卡用户数据泄露",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/274.htm",
+      "section": "tech",
+      "pub_time": 1795158402.0,
+      "pub_display": "11-20 15:06"
+    },
+    {
+      "index": 9,
+      "title": "Visa、Mastercard 和 JPMorgan 证实客户数据泄露",
+      "summary": "Visa、Mastercard和JPMorgan证实客户数据泄露，支付链安全告急",
+      "text": "Visa、Mastercard和JPMorgan证实客户数据泄露，支付链安全告急",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85939",
+      "section": "tech",
+      "pub_time": 1795127632.0,
+      "pub_display": "11-20 06:33"
+    },
+    {
+      "index": 10,
+      "title": "PHP一漏洞存在近20年：httpS使用大写S可致TLS加密失效",
+      "summary": "PHP漏洞存在近20年：HTTPS使用大写S可致TLS加密失效",
+      "text": "PHP漏洞存在近20年：HTTPS使用大写S可致TLS加密失效",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yCrHSYjCgg",
+      "section": "tech",
+      "pub_time": 1795155379.0,
+      "pub_display": "11-20 14:16"
+    },
+    {
+      "index": 11,
+      "title": "ChatGPT越改越卡？OpenAI派AI自己查，揪出600多个病根",
+      "summary": "OpenAI用AI自查 ChatGPT性能退化，揪出600多个问题根因",
+      "text": "OpenAI用AI自查 ChatGPT性能退化，揪出600多个问题根因",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yDLqKc4Hx9",
+      "section": "tech",
+      "pub_time": 1795181686.0,
+      "pub_display": "11-20 21:34"
+    },
+    {
+      "index": 12,
+      "title": "Claude自写推理引擎，等AI回第一个字，12秒砍到半秒",
+      "summary": "Claude自写推理引擎，首字延迟从12秒降至0.5秒",
+      "text": "Claude自写推理引擎，首字延迟从12秒降至0.5秒",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4076884983043202",
+      "section": "tech",
+      "pub_time": 1795131729.0,
+      "pub_display": "11-20 07:42"
+    },
+    {
+      "index": 13,
+      "title": "美国6天连环宕机，关键系统为何在AI时代“一改就崩”？",
+      "summary": "美国6天连环宕机，关键系统在AI时代一改就崩",
+      "text": "美国6天连环宕机，关键系统在AI时代一改就崩",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795129769.472,
+      "pub_display": "11-20 07:09"
+    },
+    {
+      "index": 14,
+      "title": "韩国利用紧急短信等方法抓住了 111 起高考作弊",
+      "summary": "韩国利用紧急短信等方法抓住111起高考作弊",
+      "text": "韩国利用紧急短信等方法抓住111起高考作弊",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85943",
+      "section": "general",
+      "pub_time": 1795134303.0,
+      "pub_display": "11-20 08:25"
+    },
+    {
+      "index": 15,
+      "title": "“知网AI检出率暴涨”背后：存疑的算法、困惑的作者与AI辅助思考的边界",
+      "summary": "知网AI检出率暴涨背后：算法存疑，原创内容遭误判",
+      "text": "知网AI检出率暴涨背后：算法存疑，原创内容遭误判",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795131968.912,
+      "pub_display": "11-20 07:46"
+    },
+    {
+      "index": 16,
+      "title": "山东各地开展供热保障工作 守护民众冬日暖意",
+      "summary": "山东各地开展供热保障工作 守护民众冬日暖意",
+      "text": "山东各地开展供热保障工作 守护民众冬日暖意",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735328.shtml",
+      "section": "general",
+      "pub_time": 1795137040.0,
+      "pub_display": "11-20 09:10"
+    },
+    {
+      "index": 17,
+      "title": "浙江多地气温创下半年新低",
+      "summary": "浙江多地气温创下半年新低，冷空气持续影响",
+      "text": "浙江多地气温创下半年新低，冷空气持续影响",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735529.shtml",
+      "section": "general",
+      "pub_time": 1795150979.0,
+      "pub_display": "11-20 13:02"
+    },
+    {
+      "index": 18,
+      "title": "宁夏为国省干线逐公里赋数字坐标 公路养护实现精准溯源",
+      "summary": "宁夏为国省干线逐公里赋数字坐标，公路养护实现精准溯源",
+      "text": "宁夏为国省干线逐公里赋数字坐标，公路养护实现精准溯源",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735549.shtml",
+      "section": "general",
+      "pub_time": 1795153297.0,
+      "pub_display": "11-20 13:41"
+    }
+  ]
+}
