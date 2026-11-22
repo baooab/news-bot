@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-22 18:57:48",
-  "total": 134,
+  "updated_at": "2026-11-23 04:02:50",
+  "total": 135,
   "briefs": [
+    {
+      "date": "2026-11-23",
+      "display": "2026年11月23日 星期一",
+      "series": "科技资讯",
+      "headline": "AI证明获Lean认证，MiniMax刷新密码学纪录",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "IT之家",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-11-22",
       "display": "2026年11月22日 星期日",

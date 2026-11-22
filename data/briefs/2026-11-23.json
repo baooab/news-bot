@@ -1,0 +1,219 @@
+{
+  "series": "科技资讯",
+  "headline": "AI证明获Lean认证，MiniMax刷新密码学纪录",
+  "date": "2026-11-23",
+  "date_display": "2026年11月23日 星期一 农历十月十五",
+  "weekday": "星期一",
+  "lunar": "农历十月十五",
+  "overview": "本期主线是 AI 能力与成本同时被推到极限：Lean 官方认证 Claude 的黎曼猜想证明无误，MiniMax 内部模型刷新密码学挑战赛纪录；另一边 AI 服务器交付前提价最高 45%，谷歌削减 TPU 8i 出货约 100 万颗。能力突破与算力账单正在同一条曲线上拉扯。",
+  "generated_at": "2026-11-23 04:02:50",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "IT之家",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
+      "summary": "MiniMax 用内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
+      "text": "MiniMax 用内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/711.htm",
+      "section": "tech",
+      "pub_time": 1795325018.0,
+      "pub_display": "11-22 13:23"
+    },
+    {
+      "index": 2,
+      "title": "黎曼猜想迎来大结局！Lean官方认证：Claude证明无误",
+      "summary": "Lean 官方认证 Claude 的黎曼猜想证明无误，AI 数学成果首次通过形式化验证",
+      "text": "Lean 官方认证 Claude 的黎曼猜想证明无误，AI 数学成果首次通过形式化验证",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yFf0jkIHkB",
+      "section": "tech",
+      "pub_time": 1795304614.0,
+      "pub_display": "11-22 07:43"
+    },
+    {
+      "index": 3,
+      "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
+      "summary": "美国初创公司公布 AI 自研 CPU 架构 Frostbite，能效达传统处理器 4.59 倍",
+      "text": "美国初创公司公布 AI 自研 CPU 架构 Frostbite，能效达传统处理器 4.59 倍",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/717.htm",
+      "section": "tech",
+      "pub_time": 1795331755.0,
+      "pub_display": "11-22 15:15"
+    },
+    {
+      "index": 4,
+      "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
+      "summary": "Oracle 称已确保履行与 OpenAI 合同所需的全部资金",
+      "text": "Oracle 称已确保履行与 OpenAI 合同所需的全部资金",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/715.htm",
+      "section": "tech",
+      "pub_time": 1795328657.0,
+      "pub_display": "11-22 14:24"
+    },
+    {
+      "index": 5,
+      "title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
+      "summary": "AI 服务器厂商交付前临时提价，涨幅最高达 45%",
+      "text": "AI 服务器厂商交付前临时提价，涨幅最高达 45%",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/713.htm",
+      "section": "tech",
+      "pub_time": 1795327248.0,
+      "pub_display": "11-22 14:00"
+    },
+    {
+      "index": 6,
+      "title": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗",
+      "summary": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 出货量约 100 万颗",
+      "text": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 出货量约 100 万颗",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/698.htm",
+      "section": "tech",
+      "pub_time": 1795317607.0,
+      "pub_display": "11-22 11:20"
+    },
+    {
+      "index": 7,
+      "title": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄",
+      "summary": "韩国最大电力公司韩电再曝数据泄露，152 万人信息外泄",
+      "text": "韩国最大电力公司韩电再曝数据泄露，152 万人信息外泄",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/706.htm",
+      "section": "tech",
+      "pub_time": 1795321445.0,
+      "pub_display": "11-22 12:24"
+    },
+    {
+      "index": 8,
+      "title": "安全公司披露 BADBOX 僵尸网络卷土重来：操控感染设备每日伪造 400 亿次广告竞价请求",
+      "summary": "安全公司披露 BADBOX 僵尸网络卷土重来，日均伪造 400 亿次广告竞价",
+      "text": "安全公司披露 BADBOX 僵尸网络卷土重来，日均伪造 400 亿次广告竞价",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/624.htm",
+      "section": "tech",
+      "pub_time": 1795308250.0,
+      "pub_display": "11-22 08:44"
+    },
+    {
+      "index": 9,
+      "title": "日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃",
+      "summary": "日本零售业接连数据泄露，塔唱片约 1020 万账户信息遭窃",
+      "text": "日本零售业接连数据泄露，塔唱片约 1020 万账户信息遭窃",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/704.htm",
+      "section": "tech",
+      "pub_time": 1795320644.0,
+      "pub_display": "11-22 12:10"
+    },
+    {
+      "index": 10,
+      "title": "闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力",
+      "summary": "闲鱼：2026 年第二季度日活增 23%、订单增 29%，AI 成核心增长动力",
+      "text": "闲鱼：2026 年第二季度日活增 23%、订单增 29%，AI 成核心增长动力",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/692.htm",
+      "section": "tech",
+      "pub_time": 1795316093.0,
+      "pub_display": "11-22 10:54"
+    },
+    {
+      "index": 11,
+      "title": "中国第一家！小鹏“电动版鱼鹰”试飞成功 能飞500公里",
+      "summary": "小鹏“电动版鱼鹰”试飞成功，续航 500 公里，为中国首家",
+      "text": "小鹏“电动版鱼鹰”试飞成功，续航 500 公里，为中国首家",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yFwVkvm0DC",
+      "section": "tech",
+      "pub_time": 1795315837.0,
+      "pub_display": "11-22 10:50"
+    },
+    {
+      "index": 12,
+      "title": "投产后每年可在海底地层封存二氧化碳超 100 万吨，我国首个海上注碳增气技术示范应用项目陆地建设全面完工",
+      "summary": "我国首个海上注碳增气示范项目陆地建设完工，投产后年封存二氧化碳超 100 万吨",
+      "text": "我国首个海上注碳增气示范项目陆地建设完工，投产后年封存二氧化碳超 100 万吨",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/612.htm",
+      "section": "tech",
+      "pub_time": 1795306121.0,
+      "pub_display": "11-22 08:08"
+    },
+    {
+      "index": 13,
+      "title": "青海德令哈5.6级地震经三轮排查无人员伤亡",
+      "summary": "青海德令哈 5.6 级地震经三轮排查，无人员伤亡",
+      "text": "青海德令哈 5.6 级地震经三轮排查，无人员伤亡",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736213.shtml",
+      "section": "general",
+      "pub_time": 1795329457.0,
+      "pub_display": "11-22 14:37"
+    },
+    {
+      "index": 14,
+      "title": "上海警方侦破一起涉案1.2亿元虚假期货平台网络诈骗案",
+      "summary": "上海警方侦破涉案 1.2 亿元虚假期货平台网络诈骗案",
+      "text": "上海警方侦破涉案 1.2 亿元虚假期货平台网络诈骗案",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736120.shtml",
+      "section": "general",
+      "pub_time": 1795313490.0,
+      "pub_display": "11-22 10:11"
+    },
+    {
+      "index": 15,
+      "title": "内塔尼亚胡被曝正考虑单独对伊朗动武",
+      "summary": "",
+      "text": "内塔尼亚胡被曝正考虑单独对伊朗动武",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795377533.981,
+      "pub_display": "11-23 03:58"
+    },
+    {
+      "index": 16,
+      "title": "联合国气候变化安塔利亚大会闭幕，未就政治决定达成一致",
+      "summary": "",
+      "text": "联合国气候变化安塔利亚大会闭幕，未就政治决定达成一致",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795372265.964,
+      "pub_display": "11-23 02:31"
+    },
+    {
+      "index": 17,
+      "title": "用事实回击！唱空中国经济者终会落空",
+      "summary": "",
+      "text": "用事实回击！唱空中国经济者终会落空",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795356498.236,
+      "pub_display": "11-22 22:08"
+    },
+    {
+      "index": 18,
+      "title": "福建省人大常委会许可对林科闯采取刑事强制措施：涉职务侵占和挪用资金",
+      "summary": "",
+      "text": "福建省人大常委会许可对林科闯采取刑事强制措施：涉职务侵占和挪用资金",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795354002.944,
+      "pub_display": "11-22 21:26"
+    }
+  ]
+}
