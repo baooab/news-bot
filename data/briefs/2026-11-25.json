@@ -1,0 +1,220 @@
+{
+  "series": "科技资讯",
+  "headline": "Anthropic上市后股价反转，Anthropic大跌6.5%",
+  "date": "2026-11-25",
+  "date_display": "2026年11月25日 星期三 农历十月十七",
+  "weekday": "星期三",
+  "lunar": "农历十月十七",
+  "overview": "本期主线是AI估值从狂欢转向重估：Anthropic上市后首次跌破83美元发行价，谷歌AI搜索接入消费记录、Chrome因Gemini功能关闭后仍占内存。与此同时，三星与SK海力士扩产缺26万工人，算力扩张的代价正从资本转向人力。",
+  "generated_at": "2026-11-25 06:50:38",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "暴涨之后迅速反转，Anthropic 盘前跌破 83 美元 IPO 发行价",
+      "summary": "Anthropic上市后股价反转，盘前跌破83美元IPO发行价，此前市值曾冲上2万亿美元",
+      "text": "Anthropic上市后股价反转，盘前跌破83美元IPO发行价，此前市值曾冲上2万亿美元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/823.htm",
+      "section": "tech",
+      "pub_time": 1795492857.0,
+      "pub_display": "11-24 12:00"
+    },
+    {
+      "index": 2,
+      "title": "Anthropic大跌6.5% 上市后首次跌破IPO发行价",
+      "summary": "Anthropic大跌6.5%，上市后首次跌破IPO发行价，万亿估值遭市场重估",
+      "text": "Anthropic大跌6.5%，上市后首次跌破IPO发行价，万亿估值遭市场重估",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8yKVCTZk3GM",
+      "section": "tech",
+      "pub_time": 1795559751.0,
+      "pub_display": "11-25 06:35"
+    },
+    {
+      "index": 3,
+      "title": "Claude重磅升级MCP：AI可调用专业技能、后台执行任务",
+      "summary": "Claude升级MCP协议，AI可调用专业技能并在后台执行任务，Agent能力再扩展",
+      "text": "Claude升级MCP协议，AI可调用专业技能并在后台执行任务，Agent能力再扩展",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8yKWsIWmgtD",
+      "section": "tech",
+      "pub_time": 1795560410.0,
+      "pub_display": "11-25 06:46"
+    },
+    {
+      "index": 4,
+      "title": "OpenAI称GPT-6可独立设计蛋白质结构，实验成功率仍落后于专用模型",
+      "summary": "OpenAI称GPT-6可独立设计蛋白质结构，但实验成功率仍落后专用模型",
+      "text": "OpenAI称GPT-6可独立设计蛋白质结构，但实验成功率仍落后专用模型",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8yKUsH5Hmk1",
+      "section": "tech",
+      "pub_time": 1795558916.0,
+      "pub_display": "11-25 06:21"
+    },
+    {
+      "index": 5,
+      "title": "谷歌又出新招，AI搜索接入消费记录，连你花了多少钱都知道",
+      "summary": "谷歌又出新招，AI搜索接入消费记录，连你花了多少钱都知道",
+      "text": "谷歌又出新招，AI搜索接入消费记录，连你花了多少钱都知道",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4083538774333061",
+      "section": "tech",
+      "pub_time": 1795518210.632,
+      "pub_display": "11-24 19:03"
+    },
+    {
+      "index": 6,
+      "title": "谷歌 Chrome 浏览器关闭后仍占用内存，元凶竟是 Gemini 相关功能",
+      "summary": "Chrome关闭后仍占用内存，元凶为 Gemini相关功能，谷歌浏览器资源问题曝光",
+      "text": "Chrome关闭后仍占用内存，元凶为 Gemini相关功能，谷歌浏览器资源问题曝光",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/863.htm",
+      "section": "tech",
+      "pub_time": 1795495494.0,
+      "pub_display": "11-24 12:44"
+    },
+    {
+      "index": 7,
+      "title": "“试用期”已到，苹果开始给 AI 收费了",
+      "summary": "苹果AI试用期结束开始收费，AI服务从免费获客转向商业化变现",
+      "text": "苹果AI试用期结束开始收费，AI服务从免费获客转向商业化变现",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4083298663420806",
+      "section": "tech",
+      "pub_time": 1795504625.18,
+      "pub_display": "11-24 15:17"
+    },
+    {
+      "index": 8,
+      "title": "芯片厂缺26万人！三星SK海力士扩产 韩国让退伍军人顶上",
+      "summary": "三星、SK海力士扩产缺26万专业工人，韩国调配退伍军人补缺口",
+      "text": "三星、SK海力士扩产缺26万专业工人，韩国调配退伍军人补缺口",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yJp3WVdVQ3",
+      "section": "tech",
+      "pub_time": 1795518662.0,
+      "pub_display": "11-24 19:11"
+    },
+    {
+      "index": 9,
+      "title": "三星与 SK 海力士扩建晶圆厂缺 26 万专业工人，韩国政府调配退伍军人补缺口",
+      "summary": "三星与SK海力士晶圆厂扩建缺26万工人，韩国政府以退伍军人填补",
+      "text": "三星与SK海力士晶圆厂扩建缺26万工人，韩国政府以退伍军人填补",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/801.htm",
+      "section": "tech",
+      "pub_time": 1795488196.0,
+      "pub_display": "11-24 10:43"
+    },
+    {
+      "index": 10,
+      "title": "华为：截至目前，对外专利许可协议累计金额超 69 亿美元",
+      "summary": "华为对外专利许可协议累计金额超69亿美元，专利运营成收入来源",
+      "text": "华为对外专利许可协议累计金额超69亿美元，专利运营成收入来源",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/896.htm",
+      "section": "tech",
+      "pub_time": 1795511186.0,
+      "pub_display": "11-24 17:06"
+    },
+    {
+      "index": 11,
+      "title": "鸿蒙系统终端设备数破亿，华为同步官宣注册开发者超 1200 万、可获取应用服务超 46 万",
+      "summary": "鸿蒙终端设备数破亿，华为同步官宣注册开发者超1200万、可获取应用服务超46万",
+      "text": "鸿蒙终端设备数破亿，华为同步官宣注册开发者超1200万、可获取应用服务超46万",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/891.htm",
+      "section": "tech",
+      "pub_time": 1795503613.0,
+      "pub_display": "11-24 15:00"
+    },
+    {
+      "index": 12,
+      "title": "豆包有妹妹了，字节首款个人智能体开启公测，还能替我打电话",
+      "summary": "豆包有妹妹了，字节首款个人智能体开启公测，还能替我打电话",
+      "text": "豆包有妹妹了，字节首款个人智能体开启公测，还能替我打电话",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4083578123184773",
+      "section": "tech",
+      "pub_time": 1795527388.482,
+      "pub_display": "11-24 21:36"
+    },
+    {
+      "index": 13,
+      "title": "国家医保局：截至 2026 年 10 月底，全国医保码激活使用人数突破 13 亿",
+      "summary": "国家医保局：截至2026年10月底，全国医保码激活使用人数突破13亿",
+      "text": "国家医保局：截至2026年10月底，全国医保码激活使用人数突破13亿",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/817.htm",
+      "section": "general",
+      "pub_time": 1795491381.0,
+      "pub_display": "11-24 11:36"
+    },
+    {
+      "index": 14,
+      "title": "贵州从江对损害野生鸟类资源等问题开展调查，5名犯罪嫌疑人被抓",
+      "summary": "贵州从江对损害野生鸟类资源问题开展调查，5名犯罪嫌疑人被抓",
+      "text": "贵州从江对损害野生鸟类资源问题开展调查，5名犯罪嫌疑人被抓",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795532664.725,
+      "pub_display": "11-24 23:04"
+    },
+    {
+      "index": 15,
+      "title": "117起典型案例中的“虚假住院骗保”：违规与违法的边界在哪",
+      "summary": "117起典型案例聚焦“虚假住院骗保”，违规与违法边界",
+      "text": "117起典型案例聚焦“虚假住院骗保”，违规与违法边界",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795478204.887,
+      "pub_display": "11-24 07:56"
+    },
+    {
+      "index": 16,
+      "title": "宁波一女子在“游步道”散步时被公路自行车撞致脑出血，被认定“未靠路边”担次责",
+      "summary": "宁波一女子在“游步道”散步时被公路自行车撞致脑出血，被认定“未靠路边”担次责",
+      "text": "宁波一女子在“游步道”散步时被公路自行车撞致脑出血，被认定“未靠路边”担次责",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795478339.852,
+      "pub_display": "11-24 07:58"
+    },
+    {
+      "index": 17,
+      "title": "石家庄一男子卖课被控传销：“打传办”曾认定非诈骗型传销，法院已四次开庭",
+      "summary": "石家庄一男子卖课被控传销，“打传办”曾认定非诈骗型传销，法院已四次开庭",
+      "text": "石家庄一男子卖课被控传销，“打传办”曾认定非诈骗型传销，法院已四次开庭",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795486778.1,
+      "pub_display": "11-24 10:19"
+    },
+    {
+      "index": 18,
+      "title": "冷空气携狂风暴雨影响广东",
+      "summary": "冷空气携狂风暴雨影响广东，局地出现强对流天气",
+      "text": "冷空气携狂风暴雨影响广东，局地出现强对流天气",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-24/10737184.shtml",
+      "section": "general",
+      "pub_time": 1795494498.0,
+      "pub_display": "11-24 12:28"
+    }
+  ]
+}

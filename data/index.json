@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-24 22:59:23",
-  "total": 136,
+  "updated_at": "2026-11-25 06:50:38",
+  "total": 137,
   "briefs": [
+    {
+      "date": "2026-11-25",
+      "display": "2026年11月25日 星期三",
+      "series": "科技资讯",
+      "headline": "Anthropic上市后股价反转，Anthropic大跌6.5%",
+      "count": 18,
+      "tech_quota": 12,
+      "general_quota": 6,
+      "sources": [
+        "36氪",
+        "IT之家",
+        "中新网",
+        "凤凰科技",
+        "澎湃"
+      ]
+    },
     {
       "date": "2026-11-24",
       "display": "2026年11月24日 星期二",
