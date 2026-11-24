@@ -1,0 +1,220 @@
+{
+  "series": "科技资讯",
+  "headline": "算力扩张加速，英伟达恢复黄仁勋CEO市值单日增超1万亿美元",
+  "date": "2026-11-24",
+  "date_display": "2026年11月24日 星期二 农历十月十六",
+  "weekday": "星期二",
+  "lunar": "农历十月十六",
+  "overview": "本期主线是AI算力扩张与资本重组同步加速：英伟达恢复黄仁勋CEO职务后市值单日增超1万亿美元，亚马逊75亿美元收购Decart补强芯片优化。与此同时，三星锁定2027至2029年存储长约、谷歌Gemini 4将量子算法效率提升290倍，算力争夺从芯片延伸到存储与算法层。",
+  "generated_at": "2026-11-24 08:28:46",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "黄仁勋恢复 CEO 职务：英伟达美股开盘大涨 32%，市值增加超 1 万亿美元",
+      "summary": "英伟达董事会恢复黄仁勋CEO职务，美股开盘大涨32%，市值单日增加超1万亿美元",
+      "text": "英伟达董事会恢复黄仁勋CEO职务，美股开盘大涨32%，市值单日增加超1万亿美元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/217.htm",
+      "section": "tech",
+      "pub_time": 1795415997.0,
+      "pub_display": "11-23 14:39"
+    },
+    {
+      "index": 2,
+      "title": "亚马逊斥资75亿美元收购Decart芯片优化技术和人才",
+      "summary": "亚马逊斥资75亿美元收购 Decart，拿下芯片优化技术与团队，补强AI基础设施",
+      "text": "亚马逊斥资75亿美元收购 Decart，拿下芯片优化技术与团队，补强AI基础设施",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yJ0LSWJpn1",
+      "section": "tech",
+      "pub_time": 1795475531.0,
+      "pub_display": "11-24 07:12"
+    },
+    {
+      "index": 3,
+      "title": "谷歌Gemini 4智能体优化量子算法：计算效率最高提升290倍",
+      "summary": "谷歌 Gemini 4智能体优化量子算法，计算效率最高提升290倍，缓解算力瓶颈",
+      "text": "谷歌 Gemini 4智能体优化量子算法，计算效率最高提升290倍，缓解算力瓶颈",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8yIqECGOREg",
+      "section": "tech",
+      "pub_time": 1795474029.0,
+      "pub_display": "11-24 06:47"
+    },
+    {
+      "index": 4,
+      "title": "告别“重启才能修复”：OpenAI 携手思科开源 Shirudo，给 Linux 装上临时盾牌",
+      "summary": "OpenAI携手思科开源 Shirudo，为 Linux提供临时补丁，修复漏洞无需重启",
+      "text": "OpenAI携手思科开源 Shirudo，为 Linux提供临时补丁，修复漏洞无需重启",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/245.htm",
+      "section": "tech",
+      "pub_time": 1795446023.0,
+      "pub_display": "11-23 23:00"
+    },
+    {
+      "index": 5,
+      "title": "网络安全大合并：CrowdStrike 宣布将以 439 亿美元全股票交易收购 Zscaler",
+      "summary": "CrowdStrike宣布以439亿美元全股票交易收购 Zscaler，网络安全行业迎大合并",
+      "text": "CrowdStrike宣布以439亿美元全股票交易收购 Zscaler，网络安全行业迎大合并",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/188.htm",
+      "section": "tech",
+      "pub_time": 1795406063.0,
+      "pub_display": "11-23 11:54"
+    },
+    {
+      "index": 6,
+      "title": "三星拟扩大西安工厂先进 NAND 产能、升级 V9 闪存产线，扩大面向 AI 数据中心的 eSSD 供应",
+      "summary": "三星拟扩大西安工厂先进NAND产能、升级V9闪存产线，加码AI数据中心eSSD供应",
+      "text": "三星拟扩大西安工厂先进NAND产能、升级V9闪存产线，加码AI数据中心eSSD供应",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/258.htm",
+      "section": "tech",
+      "pub_time": 1795449156.0,
+      "pub_display": "11-23 23:52"
+    },
+    {
+      "index": 7,
+      "title": "三星2027至2029年存储产能大部分被长约锁定",
+      "summary": "三星2027至2029年存储产能大部分被长约锁定，AI存储供应趋紧",
+      "text": "三星2027至2029年存储产能大部分被长约锁定，AI存储供应趋紧",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yHbSyByo2R",
+      "section": "tech",
+      "pub_time": 1795460940.0,
+      "pub_display": "11-24 03:09"
+    },
+    {
+      "index": 8,
+      "title": "三星独家供应苹果折叠屏屏幕，LG短期难入局",
+      "summary": "三星独家供应苹果折叠屏屏幕，LG短期难入局，苹果折叠机屏幕订单落定",
+      "text": "三星独家供应苹果折叠屏屏幕，LG短期难入局，苹果折叠机屏幕订单落定",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yHbSyByo2T",
+      "section": "tech",
+      "pub_time": 1795475799.0,
+      "pub_display": "11-24 07:16"
+    },
+    {
+      "index": 9,
+      "title": "NASA 寻求商业航天合作伙伴，力争 2030 年前建成首个月球核反应堆",
+      "summary": "NASA寻求商业航天合作伙伴，力争2030年前建成首个月球核反应堆",
+      "text": "NASA寻求商业航天合作伙伴，力争2030年前建成首个月球核反应堆",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/243.htm",
+      "section": "tech",
+      "pub_time": 1795445453.0,
+      "pub_display": "11-23 22:50"
+    },
+    {
+      "index": 10,
+      "title": "能地上跑天上飞！我国“无翼飞车”原型机首飞成功，技术路线全球独家",
+      "summary": "能地上跑天上飞！我国“无翼飞车”原型机首飞成功，技术路线全球独家",
+      "text": "能地上跑天上飞！我国“无翼飞车”原型机首飞成功，技术路线全球独家",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/201.htm",
+      "section": "tech",
+      "pub_time": 1795409579.0,
+      "pub_display": "11-23 12:52"
+    },
+    {
+      "index": 11,
+      "title": "中国“无翼飞车”原型机首飞成功，技术路线全球独家",
+      "summary": "中国“无翼飞车”原型机首飞成功，技术路线全球独家",
+      "text": "中国“无翼飞车”原型机首飞成功，技术路线全球独家",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yIJL0raKYu",
+      "section": "tech",
+      "pub_time": 1795439302.0,
+      "pub_display": "11-23 21:08"
+    },
+    {
+      "index": 12,
+      "title": "天文学家首次观察到恒星吞噬伴星并爆炸的过程",
+      "summary": "天文学家首次观察到恒星吞噬伴星并爆炸的过程，为恒星演化提供直接证据",
+      "text": "天文学家首次观察到恒星吞噬伴星并爆炸的过程，为恒星演化提供直接证据",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85966",
+      "section": "tech",
+      "pub_time": 1795399843.0,
+      "pub_display": "11-23 10:10"
+    },
+    {
+      "index": 13,
+      "title": "住建部公布四起瓶装液化石油气领域典型执法案例",
+      "summary": "住建部公布四起瓶装液化石油气领域典型执法案例",
+      "text": "住建部公布四起瓶装液化石油气领域典型执法案例",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736576.shtml",
+      "section": "general",
+      "pub_time": 1795400361.0,
+      "pub_display": "11-23 10:19"
+    },
+    {
+      "index": 14,
+      "title": "大风蓝色预警：内蒙古山西等9省区局部地区阵风可达10级",
+      "summary": "中央气象台发布大风蓝色预警：内蒙古、山西等9省区局部阵风可达10级",
+      "text": "中央气象台发布大风蓝色预警：内蒙古、山西等9省区局部阵风可达10级",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736591.shtml",
+      "section": "general",
+      "pub_time": 1795402003.0,
+      "pub_display": "11-23 10:46"
+    },
+    {
+      "index": 15,
+      "title": "松花江干流哈尔滨段等6处江段封冻 黑龙江多条江河进入封冻期",
+      "summary": "松花江干流哈尔滨段等6处江段封冻，黑龙江多条江河进入封冻期",
+      "text": "松花江干流哈尔滨段等6处江段封冻，黑龙江多条江河进入封冻期",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736588.shtml",
+      "section": "general",
+      "pub_time": 1795401820.0,
+      "pub_display": "11-23 10:43"
+    },
+    {
+      "index": 16,
+      "title": "宁夏出台“十五五”教育发展规划 力争2030年普高录取率达86%",
+      "summary": "宁夏出台“十五五”教育发展规划，力争2030年普高录取率达86%",
+      "text": "宁夏出台“十五五”教育发展规划，力争2030年普高录取率达86%",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736619.shtml",
+      "section": "general",
+      "pub_time": 1795406759.0,
+      "pub_display": "11-23 12:05"
+    },
+    {
+      "index": 17,
+      "title": "浙江织密校园安全网 配备6668名公安法治副校长",
+      "summary": "浙江配备6668名公安法治副校长，织密校园安全网",
+      "text": "浙江配备6668名公安法治副校长，织密校园安全网",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736701.shtml",
+      "section": "general",
+      "pub_time": 1795413767.0,
+      "pub_display": "11-23 14:02"
+    },
+    {
+      "index": 18,
+      "title": "广西、贵州多地查处非法捕鸟、食鸟问题，广西八地林长被集中约谈",
+      "summary": "广西、贵州多地查处非法捕鸟、食鸟问题，广西八地林长被集中约谈",
+      "text": "广西、贵州多地查处非法捕鸟、食鸟问题，广西八地林长被集中约谈",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795408347.789,
+      "pub_display": "11-23 12:32"
+    }
+  ]
+}
