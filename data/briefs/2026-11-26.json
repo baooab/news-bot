@@ -1,0 +1,220 @@
+{
+  "series": "科技资讯",
+  "headline": "模型强到不敢发，Anthropic称未发布模型证明黎曼猜想",
+  "date": "2026-11-26",
+  "date_display": "2026年11月26日 星期四 农历十月十八",
+  "weekday": "星期四",
+  "lunar": "农历十月十八",
+  "overview": "本期主线是头部 AI 实验室的「能力越界」：OpenAI 与 Anthropic 内部讨论停训，Anthropic 称未发布模型已证明黎曼猜想。与之对照的是亚马逊 2200 亿美元资本开支和 AI 信贷警报同时出现，扩张与风险第一次被摆到同一张桌上。",
+  "generated_at": "2026-11-26 06:03:41",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "中新网",
+    "澎湃",
+    "雷峰网"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "突发，模型强到不敢发？OpenAI、Anthropic内部开始讨论「停训」",
+      "summary": "OpenAI、Anthropic 内部讨论「停训」：模型能力过强，发布节奏开始受内部风险评估制约",
+      "text": "OpenAI、Anthropic 内部讨论「停训」：模型能力过强，发布节奏开始受内部风险评估制约",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4084381582862726",
+      "section": "tech",
+      "pub_time": 1795566261.199,
+      "pub_display": "11-25 08:24"
+    },
+    {
+      "index": 2,
+      "title": "突发，证明黎曼猜想之后，Anthropic未发布AI模型强到令人恐惧",
+      "summary": "Anthropic 称未发布模型已证明黎曼猜想，内部因能力过强而不敢发布",
+      "text": "Anthropic 称未发布模型已证明黎曼猜想，内部因能力过强而不敢发布",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4084524180482436",
+      "section": "tech",
+      "pub_time": 1795573313.802,
+      "pub_display": "11-25 10:21"
+    },
+    {
+      "index": 3,
+      "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+      "summary": "Anthropic 上市破发，Claude Code 核心班底被 OpenAI 挖走，编程优势受冲击",
+      "text": "Anthropic 上市破发，Claude Code 核心班底被 OpenAI 挖走，编程优势受冲击",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4084704419408264",
+      "section": "tech",
+      "pub_time": 1795592395.22,
+      "pub_display": "11-25 15:39"
+    },
+    {
+      "index": 4,
+      "title": "黄仁勋刚回归，AI信贷警报狂响",
+      "summary": "黄仁勋刚回归，AI信贷警报狂响",
+      "text": "黄仁勋刚回归，AI信贷警报狂响",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4084520472963465",
+      "section": "tech",
+      "pub_time": 1795571563.674,
+      "pub_display": "11-25 09:52"
+    },
+    {
+      "index": 5,
+      "title": "亚马逊今年资本开支预计达 2200 亿美元创历史新高，AWS CFO 称 AI 赛道宁快勿慢",
+      "summary": "亚马逊今年资本开支预计达 2200 亿美元创历史新高，AWS 称 AI 赛道宁快勿慢",
+      "text": "亚马逊今年资本开支预计达 2200 亿美元创历史新高，AWS 称 AI 赛道宁快勿慢",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/032/435.htm",
+      "section": "tech",
+      "pub_time": 1795573446.0,
+      "pub_display": "11-25 10:24"
+    },
+    {
+      "index": 6,
+      "title": "OpenAI 联手 AMD，在旗舰 GPU 中抠出 14% 物理极限",
+      "summary": "OpenAI 联手 AMD 优化旗舰 GPU，挖掘出 14% 物理极限性能",
+      "text": "OpenAI 联手 AMD 优化旗舰 GPU，挖掘出 14% 物理极限性能",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html",
+      "section": "tech",
+      "pub_time": 1795561260.0,
+      "pub_display": "11-25 07:01"
+    },
+    {
+      "index": 7,
+      "title": "英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2",
+      "summary": "英伟达开放 Nemotron-Labs-Image-30B-A3B 生图模型权重，部分跑分超 GPT Image 2",
+      "text": "英伟达开放 Nemotron-Labs-Image-30B-A3B 生图模型权重，部分跑分超 GPT Image 2",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/032/444.htm",
+      "section": "tech",
+      "pub_time": 1795574248.0,
+      "pub_display": "11-25 10:37"
+    },
+    {
+      "index": 8,
+      "title": "视频模型黑马杀到全球第一，30秒长镜头一次生成，价格打到Seedance 1/10",
+      "summary": "视频模型黑马杀到全球第一，30秒长镜头一次生成，价格打到 Seedance 1/10",
+      "text": "视频模型黑马杀到全球第一，30秒长镜头一次生成，价格打到 Seedance 1/10",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4084870019197572",
+      "section": "tech",
+      "pub_time": 1795596979.854,
+      "pub_display": "11-25 16:56"
+    },
+    {
+      "index": 9,
+      "title": "GPT-6，能设计蛋白质了",
+      "summary": "GPT-6，能设计蛋白质了",
+      "text": "GPT-6，能设计蛋白质了",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4084646296562055",
+      "section": "tech",
+      "pub_time": 1795579788.351,
+      "pub_display": "11-25 12:09"
+    },
+    {
+      "index": 10,
+      "title": "元材新界发布 FrontierMat：330 道真实研发难题难住 GPT-6 Astra，自研跨尺度材料大模型登顶",
+      "summary": "元材新界发布 FrontierMat：330 道真实研发难题难住 GPT-6 Astra，自研材料大模型登顶",
+      "text": "元材新界发布 FrontierMat：330 道真实研发难题难住 GPT-6 Astra，自研材料大模型登顶",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/industrynews/GMIW0ZLuJPyQHSR4.html",
+      "section": "tech",
+      "pub_time": 1795575840.0,
+      "pub_display": "11-25 11:04"
+    },
+    {
+      "index": 11,
+      "title": "AI作弊引发韩国高考闹剧？查处111名学生，教育部长官引咎辞职",
+      "summary": "韩国高考用 AI 作弊查处 111 名学生，教育部长官引咎辞职",
+      "text": "韩国高考用 AI 作弊查处 111 名学生，教育部长官引咎辞职",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4084569211939465",
+      "section": "tech",
+      "pub_time": 1795576628.704,
+      "pub_display": "11-25 11:17"
+    },
+    {
+      "index": 12,
+      "title": "马来西亚因 YouTube 有害内容管控不力起诉谷歌，索赔约 9.75 亿元",
+      "summary": "马来西亚因 YouTube 有害内容管控不力起诉谷歌，索赔约 9.75 亿元",
+      "text": "马来西亚因 YouTube 有害内容管控不力起诉谷歌，索赔约 9.75 亿元",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/032/456.htm",
+      "section": "tech",
+      "pub_time": 1795575119.0,
+      "pub_display": "11-25 10:51"
+    },
+    {
+      "index": 13,
+      "title": "设计时速 350 公里：济滨高铁试运行，山东最大地下高铁站同步测试",
+      "summary": "设计时速 350 公里的济滨高铁试运行，山东最大地下高铁站同步测试",
+      "text": "设计时速 350 公里的济滨高铁试运行，山东最大地下高铁站同步测试",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/032/498.htm",
+      "section": "general",
+      "pub_time": 1795585455.0,
+      "pub_display": "11-25 13:44"
+    },
+    {
+      "index": 14,
+      "title": "江西集中整治基础教育领域教辅材料、校服订购、“校园餐”问题",
+      "summary": "江西集中整治基础教育领域教辅材料、校服订购与「校园餐」问题",
+      "text": "江西集中整治基础教育领域教辅材料、校服订购与「校园餐」问题",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737701.shtml",
+      "section": "general",
+      "pub_time": 1795574820.0,
+      "pub_display": "11-25 10:47"
+    },
+    {
+      "index": 15,
+      "title": "大风蓝色预警：新疆青海等8省区部分地区阵风可达7至9级",
+      "summary": "大风蓝色预警：新疆、青海等 8 省区部分地区阵风可达 7 至 9 级",
+      "text": "大风蓝色预警：新疆、青海等 8 省区部分地区阵风可达 7 至 9 级",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737700.shtml",
+      "section": "general",
+      "pub_time": 1795573893.0,
+      "pub_display": "11-25 10:31"
+    },
+    {
+      "index": 16,
+      "title": "冷空气持续影响 广东最低气温降至10.3℃",
+      "summary": "冷空气持续影响广东，最低气温降至 10.3℃",
+      "text": "冷空气持续影响广东，最低气温降至 10.3℃",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737690.shtml",
+      "section": "general",
+      "pub_time": 1795573136.0,
+      "pub_display": "11-25 10:18"
+    },
+    {
+      "index": 17,
+      "title": "视频丨涉案金额超150亿元，一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+      "summary": "涉案金额超 150 亿元的一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+      "text": "涉案金额超 150 亿元的一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795575695.945,
+      "pub_display": "11-25 11:01"
+    },
+    {
+      "index": 18,
+      "title": "视频丨神舟二十四号载人飞船发射取得圆满成功",
+      "summary": "神舟二十四号载人飞船发射取得圆满成功",
+      "text": "神舟二十四号载人飞船发射取得圆满成功",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795567236.439,
+      "pub_display": "11-25 08:40"
+    }
+  ]
+}
