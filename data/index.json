@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-25 06:50:38",
+  "updated_at": "2026-11-25 23:02:47",
   "total": 137,
   "briefs": [
     {
       "date": "2026-11-25",
       "display": "2026年11月25日 星期三",
       "series": "科技资讯",
-      "headline": "Anthropic上市后股价反转，Anthropic大跌6.5%",
+      "headline": "AI巨头讨论停训，英伟达开源生图模型权重",
       "count": 18,
       "tech_quota": 12,
       "general_quota": 6,
@@ -15,7 +15,8 @@
         "IT之家",
         "中新网",
         "凤凰科技",
-        "澎湃"
+        "澎湃",
+        "雷峰网"
       ]
     },
     {
