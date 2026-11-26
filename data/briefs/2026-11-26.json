@@ -1,12 +1,12 @@
 {
   "series": "科技资讯",
-  "headline": "AI攻入数学硬核，谷歌一次甩出6篇论文",
+  "headline": "AI开始产出数学证明，OpenAI宣称矩阵乘法指数9/4",
   "date": "2026-11-26",
   "date_display": "2026年11月26日 星期四 农历十月十八",
   "weekday": "星期四",
   "lunar": "农历十月十八",
-  "overview": "本期主线是AI开始啃硬科学：谷歌一次甩出6篇数学论文、OpenAI宣称矩阵乘法指数为9/4、国产模型几毫秒破译18年密码学悬案。同一周英伟达暂停向东南亚四国交付AI服务器，算力供给的收缩与科学突破的加速同时发生。",
-  "generated_at": "2026-11-26 22:14:50",
+  "overview": "本期主线是 AI 从语言生成跨入数学证明：OpenAI 宣称矩阵乘法指数为 9/4、谷歌一次抛出 6 篇数学论文、国产模型几毫秒破译 18 年密码学悬案。与此同时，算力与存储的供给端在收紧——英伟达暂停向东南亚四国交付 AI 服务器，美国点名三星、海力士垄断全球 70% 内存。",
+  "generated_at": "2026-11-26 22:37:27",
   "count": 18,
   "tech_quota": 12,
   "general_quota": 6,
@@ -22,20 +22,9 @@
   "items": [
     {
       "index": 1,
-      "title": "刚刚，谷歌甩出6篇数学大结果，整数分解算法迎来34年来新突破",
-      "summary": "谷歌一次性发布6篇数学论文，整数分解算法取得34年来新突破",
-      "text": "谷歌一次性发布6篇数学论文，整数分解算法取得34年来新突破",
-      "source": "36氪",
-      "link": "https://36kr.com/p/4085948825676164",
-      "section": "tech",
-      "pub_time": 1795661212.811,
-      "pub_display": "11-26 10:46"
-    },
-    {
-      "index": 2,
       "title": "震撼：OpenAI破解矩阵乘法指数，答案是9/4，连破8大世纪数学悬案",
-      "summary": "OpenAI宣称证明矩阵乘法指数为9/4，连破8项数学悬案",
-      "text": "OpenAI宣称证明矩阵乘法指数为9/4，连破8项数学悬案",
+      "summary": "OpenAI 宣称证明矩阵乘法指数为 9/4，连破 8 项数学悬案，AI 开始产出可验证的数学成果",
+      "text": "OpenAI 宣称证明矩阵乘法指数为 9/4，连破 8 项数学悬案，AI 开始产出可验证的数学成果",
       "source": "36氪",
       "link": "https://36kr.com/p/4086018157685379",
       "section": "tech",
@@ -43,10 +32,21 @@
       "pub_display": "11-26 11:52"
     },
     {
+      "index": 2,
+      "title": "刚刚，谷歌甩出6篇数学大结果，整数分解算法迎来34年来新突破",
+      "summary": "谷歌一次性发布 6 篇数学论文，整数分解算法取得 34 年来新突破",
+      "text": "谷歌一次性发布 6 篇数学论文，整数分解算法取得 34 年来新突破",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4085948825676164",
+      "section": "tech",
+      "pub_time": 1795661212.811,
+      "pub_display": "11-26 10:46"
+    },
+    {
       "index": 3,
       "title": "国产模型扎进 AI4S 深水区，几毫秒破译尘封18年密码学悬案",
-      "summary": "国产模型扎进AI4S，几毫秒破译尘封18年的密码学悬案",
-      "text": "国产模型扎进AI4S，几毫秒破译尘封18年的密码学悬案",
+      "summary": "国产模型深入 AI4S 领域，几毫秒破译尘封 18 年的密码学悬案",
+      "text": "国产模型深入 AI4S 领域，几毫秒破译尘封 18 年的密码学悬案",
       "source": "雷峰网",
       "link": "https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html",
       "section": "tech",
@@ -55,39 +55,17 @@
     },
     {
       "index": 4,
-      "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
-      "summary": "Claude与 ChatGPT在蛋白质结构预测和设计上挑战 AlphaFold",
-      "text": "Claude与 ChatGPT在蛋白质结构预测和设计上挑战 AlphaFold",
-      "source": "Solidot",
-      "link": "https://www.solidot.org/story?sid=85992",
+      "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+      "summary": "黎曼猜想证明代码精简 99.5%，仅剩 7.6 万行 Lean 代码",
+      "text": "黎曼猜想证明代码精简 99.5%，仅剩 7.6 万行 Lean 代码",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4085937380043398",
       "section": "tech",
-      "pub_time": 1795591591.0,
-      "pub_display": "11-25 15:26"
+      "pub_time": 1795657861.956,
+      "pub_display": "11-26 09:51"
     },
     {
       "index": 5,
-      "title": "GPT-6.2正式接班，OpenAI官宣淘汰GPT-5.6",
-      "summary": "GPT-6.2正式接班，OpenAI官宣淘汰GPT-5.6",
-      "text": "GPT-6.2正式接班，OpenAI官宣淘汰GPT-5.6",
-      "source": "36氪",
-      "link": "https://36kr.com/p/4086048701721220",
-      "section": "tech",
-      "pub_time": 1795665131.829,
-      "pub_display": "11-26 11:52"
-    },
-    {
-      "index": 6,
-      "title": "腾讯混元开源DFly2：Hy4 flash长文本生成提速4.2倍",
-      "summary": "腾讯混元开源DFly2，Hy4 flash长文本生成提速4.2倍",
-      "text": "腾讯混元开源DFly2，Hy4 flash长文本生成提速4.2倍",
-      "source": "凤凰科技",
-      "link": "https://original.ifeng.com/c/8yMqfz0nvz8",
-      "section": "tech",
-      "pub_time": 1795676832.0,
-      "pub_display": "11-26 15:07"
-    },
-    {
-      "index": 7,
       "title": "华为首次打通国产EDA工具链",
       "summary": "华为首次打通国产EDA工具链",
       "text": "华为首次打通国产EDA工具链",
@@ -98,10 +76,32 @@
       "pub_display": "11-26 15:14"
     },
     {
+      "index": 6,
+      "title": "华为成立半导体和AI专利团队：剑指英伟达全球市场",
+      "summary": "华为成立半导体与 AI 专利团队，目标直指英伟达全球市场",
+      "text": "华为成立半导体与 AI 专利团队，目标直指英伟达全球市场",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yMWqoeZu0l",
+      "section": "tech",
+      "pub_time": 1795678420.0,
+      "pub_display": "11-26 15:33"
+    },
+    {
+      "index": 7,
+      "title": "英伟达暂停向东南亚四国交付AI服务器",
+      "summary": "英伟达暂停向东南亚四国交付AI服务器",
+      "text": "英伟达暂停向东南亚四国交付AI服务器",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yMUn15Pyde",
+      "section": "tech",
+      "pub_time": 1795682340.0,
+      "pub_display": "11-26 16:39"
+    },
+    {
       "index": 8,
       "title": "美国再次点名三星海力士：两家垄断全球70%内存",
-      "summary": "美国再次点名三星、海力士，指两家垄断全球70%内存",
-      "text": "美国再次点名三星、海力士，指两家垄断全球70%内存",
+      "summary": "美国再次点名三星、海力士，指两家垄断全球 70% 内存供应",
+      "text": "美国再次点名三星、海力士，指两家垄断全球 70% 内存供应",
       "source": "凤凰科技",
       "link": "https://tech.ifeng.com/c/8yNKVUzEzR0",
       "section": "tech",
@@ -110,20 +110,42 @@
     },
     {
       "index": 9,
-      "title": "英伟达暂停向东南亚四国交付AI服务器",
-      "summary": "英伟达暂停向东南亚四国交付AI服务器，供货范围收缩",
-      "text": "英伟达暂停向东南亚四国交付AI服务器，供货范围收缩",
+      "title": "消息称三星电子取消“内存开发负责人”岗位，减少管理层级、加速开发",
+      "summary": "三星电子取消“内存开发负责人”岗位，压缩管理层级以加速开发",
+      "text": "三星电子取消“内存开发负责人”岗位，压缩管理层级以加速开发",
       "source": "凤凰科技",
-      "link": "https://tech.ifeng.com/c/8yMUn15Pyde",
+      "link": "https://tech.ifeng.com/c/8yMWqoeZu0r",
       "section": "tech",
-      "pub_time": 1795682340.0,
-      "pub_display": "11-26 16:39"
+      "pub_time": 1795685281.0,
+      "pub_display": "11-26 17:28"
     },
     {
       "index": 10,
+      "title": "腾讯混元开源DFly2：Hy4 flash长文本生成提速4.2倍",
+      "summary": "腾讯混元开源 DFly2，Hy4 flash 长文本生成提速 4.2 倍",
+      "text": "腾讯混元开源 DFly2，Hy4 flash 长文本生成提速 4.2 倍",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8yMqfz0nvz8",
+      "section": "tech",
+      "pub_time": 1795676832.0,
+      "pub_display": "11-26 15:07"
+    },
+    {
+      "index": 11,
+      "title": "GPT-6.2正式接班，OpenAI官宣淘汰GPT-5.6",
+      "summary": "OpenAI 官宣 GPT-6.2 正式接班，淘汰 GPT-5.6，旧版本停止服务",
+      "text": "OpenAI 官宣 GPT-6.2 正式接班，淘汰 GPT-5.6，旧版本停止服务",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4086048701721220",
+      "section": "tech",
+      "pub_time": 1795665131.829,
+      "pub_display": "11-26 11:52"
+    },
+    {
+      "index": 12,
       "title": "1Password 源代码以及部分客户数据泄漏",
-      "summary": "1Password源代码及部分客户数据泄漏，密码管理器安全受质疑",
-      "text": "1Password源代码及部分客户数据泄漏，密码管理器安全受质疑",
+      "summary": "1Password 源代码及部分客户数据泄漏，密码管理信任受冲击",
+      "text": "1Password 源代码及部分客户数据泄漏，密码管理信任受冲击",
       "source": "Solidot",
       "link": "https://www.solidot.org/story?sid=85995",
       "section": "tech",
@@ -131,43 +153,10 @@
       "pub_display": "11-26 07:15"
     },
     {
-      "index": 11,
-      "title": "让渐冻症患者“开口说话”，我国首例无线侵入式汉语脑机接口临床试验成功开展",
-      "summary": "我国首例无线侵入式汉语脑机接口临床试验成功，渐冻症患者恢复开口说话",
-      "text": "我国首例无线侵入式汉语脑机接口临床试验成功，渐冻症患者恢复开口说话",
-      "source": "IT之家",
-      "link": "https://www.ithome.com/1/033/101.htm",
-      "section": "tech",
-      "pub_time": 1795672688.0,
-      "pub_display": "11-26 13:58"
-    },
-    {
-      "index": 12,
-      "title": "全球首个乙肝功能性治愈新药在中国获批上市",
-      "summary": "全球首个乙肝功能性治愈新药在中国获批上市",
-      "text": "全球首个乙肝功能性治愈新药在中国获批上市",
-      "source": "IT之家",
-      "link": "https://www.ithome.com/1/033/089.htm",
-      "section": "tech",
-      "pub_time": 1795669430.0,
-      "pub_display": "11-26 13:03"
-    },
-    {
       "index": 13,
-      "title": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
-      "summary": "北京对重点群体给予社保补贴，个人缴费部分享25%补贴",
-      "text": "北京对重点群体给予社保补贴，个人缴费部分享25%补贴",
-      "source": "中新网",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738385.shtml",
-      "section": "general",
-      "pub_time": 1795666847.0,
-      "pub_display": "11-26 12:20"
-    },
-    {
-      "index": 14,
       "title": "四川宜宾通报“学生课间说方言被认定违纪”：责令校方立即废止不当规定",
-      "summary": "四川宜宾通报学生课间说方言被认定违纪，责令校方立即废止不当规定",
-      "text": "四川宜宾通报学生课间说方言被认定违纪，责令校方立即废止不当规定",
+      "summary": "四川宜宾通报“学生课间说方言被认定违纪”，责令校方立即废止不当规定",
+      "text": "四川宜宾通报“学生课间说方言被认定违纪”，责令校方立即废止不当规定",
       "source": "澎湃",
       "link": "",
       "section": "general",
@@ -175,48 +164,59 @@
       "pub_display": "11-26 00:46"
     },
     {
-      "index": 15,
-      "title": "国内成品油价迎“两连跌”，终端用油成本继续下降",
-      "summary": "国内成品油价迎两连跌，终端用油成本继续下降",
-      "text": "国内成品油价迎两连跌，终端用油成本继续下降",
+      "index": 14,
+      "title": "三只松鼠就员工宿舍环境致歉：立即对相关人员进行妥善转移安置",
+      "summary": "三只松鼠就员工宿舍环境问题致歉，称已妥善转移安置相关人员",
+      "text": "三只松鼠就员工宿舍环境问题致歉，称已妥善转移安置相关人员",
       "source": "澎湃",
       "link": "",
       "section": "general",
-      "pub_time": 1795695890.438,
-      "pub_display": "11-26 20:24"
+      "pub_time": 1795703517.695,
+      "pub_display": "11-26 22:31"
+    },
+    {
+      "index": 15,
+      "title": "北大教师右眼被注入工业气体获赔388万：法院顶格适用惩罚性赔偿",
+      "summary": "北大教师右眼被注入工业气体案宣判，获赔 388 万元并顶格适用惩罚性赔偿",
+      "text": "北大教师右眼被注入工业气体案宣判，获赔 388 万元并顶格适用惩罚性赔偿",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795678251.001,
+      "pub_display": "11-26 15:30"
     },
     {
       "index": 16,
-      "title": "现场观察·国防部记者会｜台欲装备上千艘自杀式无人艇，为何说是“蚍蜉撼树”",
-      "summary": "",
-      "text": "现场观察·国防部记者会｜台欲装备上千艘自杀式无人艇，为何说是“蚍蜉撼树”",
-      "source": "澎湃",
-      "link": "",
+      "title": "全球首个乙肝功能性治愈新药在中国获批上市",
+      "summary": "全球首个乙肝功能性治愈新药在中国获批上市",
+      "text": "全球首个乙肝功能性治愈新药在中国获批上市",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/089.htm",
       "section": "general",
-      "pub_time": 1795701948.237,
-      "pub_display": "11-26 22:05"
+      "pub_time": 1795669430.0,
+      "pub_display": "11-26 13:03"
     },
     {
       "index": 17,
-      "title": "德邦证券：明年A股或呈N形宽幅震荡，科技板块调整接近尾声",
-      "summary": "",
-      "text": "德邦证券：明年A股或呈N形宽幅震荡，科技板块调整接近尾声",
-      "source": "澎湃",
-      "link": "",
+      "title": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
+      "summary": "北京对重点群体给予社保补贴，个人缴费部分享 25% 补贴",
+      "text": "北京对重点群体给予社保补贴，个人缴费部分享 25% 补贴",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738385.shtml",
       "section": "general",
-      "pub_time": 1795701278.5,
-      "pub_display": "11-26 21:54"
+      "pub_time": 1795666847.0,
+      "pub_display": "11-26 12:20"
     },
     {
       "index": 18,
-      "title": "适时开展6G网络建设、推动制定电信法，新一代通信网建设实施方案有哪些亮点？",
-      "summary": "",
-      "text": "适时开展6G网络建设、推动制定电信法，新一代通信网建设实施方案有哪些亮点？",
-      "source": "澎湃",
-      "link": "",
+      "title": "设计时速 350 公里：安徽巢马、淮蚌、淮阜高铁明日集中开通运营",
+      "summary": "安徽巢马、淮蚌、淮阜三条高铁集中开通，设计时速 350 公里",
+      "text": "安徽巢马、淮蚌、淮阜三条高铁集中开通，设计时速 350 公里",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/087.htm",
       "section": "general",
-      "pub_time": 1795700817.386,
-      "pub_display": "11-26 21:46"
+      "pub_time": 1795668874.0,
+      "pub_display": "11-26 12:54"
     }
   ]
 }
