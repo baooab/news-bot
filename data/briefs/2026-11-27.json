@@ -1,0 +1,219 @@
+{
+  "series": "科技资讯",
+  "headline": "算力供应链全面收紧，英伟达市值一夜蒸发近9800亿元",
+  "date": "2026-11-27",
+  "date_display": "2026年11月27日 星期五 农历十月十九",
+  "weekday": "星期五",
+  "lunar": "农历十月十九",
+  "overview": "本期主线是算力与存储的供应链正在收紧：英伟达一边暂停向东南亚四国交付AI服务器，一边被标普警告评级恐下调、市值一夜蒸发近9800亿元；三星与SK海力士垄断全球70%内存，马斯克为抢存储芯片向三星求担保被拒。芯片短缺的代价正沿着内存、手机出货一路传导到终端。",
+  "generated_at": "2026-11-27 06:01:14",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "凤凰科技",
+    "澎湃"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "老黄回来成“毒药”？标普警告：英伟达评级恐下调",
+      "summary": "标普警告英伟达评级恐下调，黄仁勋复职后公司信用前景承压",
+      "text": "标普警告英伟达评级恐下调，黄仁勋复职后公司信用前景承压",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8yNGNmwaDl7",
+      "section": "tech",
+      "pub_time": 1795698718.0,
+      "pub_display": "11-26 21:11"
+    },
+    {
+      "index": 2,
+      "title": "为让黄仁勋复职，美政府高层被曝曾考虑动用冷战时期法律",
+      "summary": "为让黄仁勋复职，美政府高层被曝曾考虑动用冷战时期法律",
+      "text": "为让黄仁勋复职，美政府高层被曝曾考虑动用冷战时期法律",
+      "source": "澎湃",
+      "link": "",
+      "section": "tech",
+      "pub_time": 1795664831.736,
+      "pub_display": "11-26 11:47"
+    },
+    {
+      "index": 3,
+      "title": "8点1氪丨英伟达市值一夜蒸发近9800亿元；福布斯中国辟谣“8万元包上榜”；斗鱼及创始人陈少杰被执行1.9亿余元",
+      "summary": "英伟达市值一夜蒸发近9800亿元，斗鱼陈少杰被执行1.9亿余元",
+      "text": "英伟达市值一夜蒸发近9800亿元，斗鱼陈少杰被执行1.9亿余元",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4085847020153478",
+      "section": "tech",
+      "pub_time": 1795652319.473,
+      "pub_display": "11-26 08:18"
+    },
+    {
+      "index": 4,
+      "title": "突发断供！英伟达暂停向东南亚四国发货芯片",
+      "summary": "英伟达暂停向东南亚四国交付AI服务器芯片，供应链再度收紧",
+      "text": "英伟达暂停向东南亚四国交付AI服务器芯片，供应链再度收紧",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yMqTsnpwhh",
+      "section": "tech",
+      "pub_time": 1795674568.0,
+      "pub_display": "11-26 14:29"
+    },
+    {
+      "index": 5,
+      "title": "消息称马斯克为采购存储芯片曾主动提出为三星工厂提供融资担保，被李在镕拒绝",
+      "summary": "马斯克为采购存储芯片提出为三星工厂融资担保，被李在镕拒绝",
+      "text": "马斯克为采购存储芯片提出为三星工厂融资担保，被李在镕拒绝",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/116.htm",
+      "section": "tech",
+      "pub_time": 1795673967.0,
+      "pub_display": "11-26 14:19"
+    },
+    {
+      "index": 6,
+      "title": "美国再次点名三星海力士：两家垄断全球70%内存",
+      "summary": "美国再次点名三星、SK海力士，两家合计垄断全球70%内存",
+      "text": "美国再次点名三星、SK海力士，两家合计垄断全球70%内存",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yNKVUzEzR0",
+      "section": "tech",
+      "pub_time": 1795700979.0,
+      "pub_display": "11-26 21:49"
+    },
+    {
+      "index": 7,
+      "title": "消息称三星电子取消“内存开发负责人”岗位，减少管理层级、加速开发",
+      "summary": "三星电子取消内存开发负责人岗位，压缩管理层级加速开发",
+      "text": "三星电子取消内存开发负责人岗位，压缩管理层级加速开发",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yMWqoeZu0r",
+      "section": "tech",
+      "pub_time": 1795685281.0,
+      "pub_display": "11-26 17:28"
+    },
+    {
+      "index": 8,
+      "title": "Counterpoint：2026 年第三季度美国智能手机出货量同比下降 9%，苹果份额升至 57%",
+      "summary": "Counterpoint：2026年Q3美国智能手机出货同比降9%，苹果份额升至57%",
+      "text": "Counterpoint：2026年Q3美国智能手机出货同比降9%，苹果份额升至57%",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/093.htm",
+      "section": "tech",
+      "pub_time": 1795671136.0,
+      "pub_display": "11-26 13:32"
+    },
+    {
+      "index": 9,
+      "title": "Counterpoint：双11手机销量降17%，苹果iPhone霸榜前五",
+      "summary": "Counterpoint：双11手机销量同比降17%，苹果iPhone霸榜前五",
+      "text": "Counterpoint：双11手机销量同比降17%，苹果iPhone霸榜前五",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yMt9nkLNEl",
+      "section": "tech",
+      "pub_time": 1795677274.0,
+      "pub_display": "11-26 15:14"
+    },
+    {
+      "index": 10,
+      "title": "中国汽车海外杀疯了！前10月出口汽车974万辆",
+      "summary": "中国前10月汽车出口974万辆，海外市场继续放量",
+      "text": "中国前10月汽车出口974万辆，海外市场继续放量",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yN4M5LZt1R",
+      "section": "tech",
+      "pub_time": 1795686524.0,
+      "pub_display": "11-26 17:48"
+    },
+    {
+      "index": 11,
+      "title": "中国汽车工业协会：今年前 3 个季度，搭载华为乾崑智驾 ADS 新车销量超 50 万台",
+      "summary": "中汽协：前三季度搭载华为乾崑智驾ADS新车销量超50万台",
+      "text": "中汽协：前三季度搭载华为乾崑智驾ADS新车销量超50万台",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/115.htm",
+      "section": "tech",
+      "pub_time": 1795673937.0,
+      "pub_display": "11-26 14:18"
+    },
+    {
+      "index": 12,
+      "title": "靳玉志：华为乾崑总搭载 26 个品牌 62 款车型",
+      "summary": "靳玉志：华为乾崑已搭载26个品牌62款车型，部件发货破亿件",
+      "text": "靳玉志：华为乾崑已搭载26个品牌62款车型，部件发货破亿件",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/070.htm",
+      "section": "tech",
+      "pub_time": 1795665754.0,
+      "pub_display": "11-26 12:02"
+    },
+    {
+      "index": 13,
+      "title": "美元指数26日上涨",
+      "summary": "",
+      "text": "美元指数26日上涨",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795724938.575,
+      "pub_display": "11-27 04:28"
+    },
+    {
+      "index": 14,
+      "title": "伊朗武装部队否认袭击科威特重要设施",
+      "summary": "",
+      "text": "伊朗武装部队否认袭击科威特重要设施",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795714540.256,
+      "pub_display": "11-27 01:35"
+    },
+    {
+      "index": 15,
+      "title": "华为乾崑公布最新进展：覆盖26个品牌，智能化部件发货量破亿",
+      "summary": "",
+      "text": "华为乾崑公布最新进展：覆盖26个品牌，智能化部件发货量破亿",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yNRNxbQwaj",
+      "section": "general",
+      "pub_time": 1795708598.0,
+      "pub_display": "11-26 23:56"
+    },
+    {
+      "index": 16,
+      "title": "周琦挥肘被驱逐，中国男篮80比82不敌沙特",
+      "summary": "",
+      "text": "周琦挥肘被驱逐，中国男篮80比82不敌沙特",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795705196.976,
+      "pub_display": "11-26 22:59"
+    },
+    {
+      "index": 17,
+      "title": "言短意长｜让家长自我贬损的家庭教育，都要高度警惕",
+      "summary": "",
+      "text": "言短意长｜让家长自我贬损的家庭教育，都要高度警惕",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795703808.135,
+      "pub_display": "11-26 22:36"
+    },
+    {
+      "index": 18,
+      "title": "现场观察·国防部记者会｜台欲装备上千艘自杀式无人艇，为何说是“蚍蜉撼树”",
+      "summary": "",
+      "text": "现场观察·国防部记者会｜台欲装备上千艘自杀式无人艇，为何说是“蚍蜉撼树”",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795701948.237,
+      "pub_display": "11-26 22:05"
+    }
+  ]
+}
