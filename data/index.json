@@ -1,19 +1,21 @@
 {
-  "updated_at": "2026-11-26 06:03:41",
+  "updated_at": "2026-11-26 22:14:50",
   "total": 138,
   "briefs": [
     {
       "date": "2026-11-26",
       "display": "2026年11月26日 星期四",
       "series": "科技资讯",
-      "headline": "模型强到不敢发，Anthropic称未发布模型证明黎曼猜想",
+      "headline": "AI攻入数学硬核，谷歌一次甩出6篇论文",
       "count": 18,
       "tech_quota": 12,
       "general_quota": 6,
       "sources": [
         "36氪",
         "IT之家",
+        "Solidot",
         "中新网",
+        "凤凰科技",
         "澎湃",
         "雷峰网"
       ]
