@@ -1,0 +1,222 @@
+{
+  "series": "科技资讯",
+  "headline": "AI竞赛转向拼成本与抢人，字节腾讯阿里百起核心岗流动",
+  "date": "2026-11-28",
+  "date_display": "2026年11月28日 星期六 农历十月二十",
+  "weekday": "星期六",
+  "lunar": "农历十月二十",
+  "overview": "本期主线是AI竞赛的重心从堆参数转向拼成本与拼人：DeepSeek按轮计费约2分钱、Kimi送出2万美元API额度，字节腾讯阿里超百起AI核心岗流动、顶薪2000万。与此同时，OpenAI与Anthropic内部承认模型能力增长过快、监测开始失灵，能力与可控性的矛盾第一次被摆上台面。",
+  "generated_at": "2026-11-28 05:44:11",
+  "count": 18,
+  "tech_quota": 12,
+  "general_quota": 6,
+  "sources": [
+    "36氪",
+    "IT之家",
+    "Solidot",
+    "中新网",
+    "凤凰科技",
+    "澎湃",
+    "雷峰网"
+  ],
+  "items": [
+    {
+      "index": 1,
+      "title": "字节腾讯阿里AI人才大迁徙：超百起核心岗流动，顶薪2000万",
+      "summary": "字节、腾讯、阿里AI核心岗出现超百起人才流动，顶级岗位年薪开到2000万元",
+      "text": "字节、腾讯、阿里AI核心岗出现超百起人才流动，顶级岗位年薪开到2000万元",
+      "source": "36氪",
+      "link": "https://36kr.com/p/4087191926929793",
+      "section": "tech",
+      "pub_time": 1795738774.433,
+      "pub_display": "11-27 08:19"
+    },
+    {
+      "index": 2,
+      "title": "OpenAI、Anthropic 内部出现分歧：AI 能力增长太快，模型隐藏行为，监测开始系统失灵？",
+      "summary": "OpenAI与 Anthropic内部出现分歧：模型能力增长过快、隐藏行为增多，现有监测手段开始失灵",
+      "text": "OpenAI与 Anthropic内部出现分歧：模型能力增长过快、隐藏行为增多，现有监测手段开始失灵",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/ai/IMi92BFX4KU0R8uh.html",
+      "section": "tech",
+      "pub_time": 1795738680.0,
+      "pub_display": "11-27 08:18"
+    },
+    {
+      "index": 3,
+      "title": "Anthropic 放出 Claude Ship：内部 PR 合并量 3 个月翻倍，回滚比例下降超 40%",
+      "summary": "Anthropic推出 Claude Ship，内部PR合并量3个月翻倍，回滚比例下降超40%",
+      "text": "Anthropic推出 Claude Ship，内部PR合并量3个月翻倍，回滚比例下降超40%",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/ai/iWUKWuRp4AmJ6dZE.html",
+      "section": "tech",
+      "pub_time": 1795740060.0,
+      "pub_display": "11-27 08:41"
+    },
+    {
+      "index": 4,
+      "title": "一轮对话消耗2分钱，DeepSeek开始“打表计费”了",
+      "summary": "DeepSeek开始按对话计费，一轮对话约消耗2分钱，免费额度模式出现转向",
+      "text": "DeepSeek开始按对话计费，一轮对话约消耗2分钱，免费额度模式出现转向",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8yOj7tdntji",
+      "section": "tech",
+      "pub_time": 1795774175.0,
+      "pub_display": "11-27 18:09"
+    },
+    {
+      "index": 5,
+      "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
+      "summary": "Kimi向科研人员提供最高2万美元API免费额度，以补贴换取科研场景使用",
+      "text": "Kimi向科研人员提供最高2万美元API免费额度，以补贴换取科研场景使用",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=86015",
+      "section": "tech",
+      "pub_time": 1795767288.0,
+      "pub_display": "11-27 16:14"
+    },
+    {
+      "index": 6,
+      "title": "已深度服务微信电商数百个业务流程，微信开源 WeMM-Ecom 多模态基础模型家族",
+      "summary": "微信开源 WeMM-Ecom多模态基础模型家族，已深度接入微信电商数百个业务流程",
+      "text": "微信开源 WeMM-Ecom多模态基础模型家族，已深度接入微信电商数百个业务流程",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/649.htm",
+      "section": "tech",
+      "pub_time": 1795745140.0,
+      "pub_display": "11-27 10:05"
+    },
+    {
+      "index": 7,
+      "title": "消息称三星开发出全球首款 500 层以上 NAND 闪存：单芯片容量提升 50%，理论单位成本降三成",
+      "summary": "三星开发出全球首款500层以上NAND闪存，单芯片容量提升50%，理论单位成本降三成",
+      "text": "三星开发出全球首款500层以上NAND闪存，单芯片容量提升50%，理论单位成本降三成",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/737.htm",
+      "section": "tech",
+      "pub_time": 1795752423.0,
+      "pub_display": "11-27 12:07"
+    },
+    {
+      "index": 8,
+      "title": "台积电1.4nm制程重大进展！客户可以开始设计芯片了",
+      "summary": "台积电1.4nm制程取得重大进展，客户已可开始设计芯片",
+      "text": "台积电1.4nm制程取得重大进展，客户已可开始设计芯片",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yOGIjlQUi7",
+      "section": "tech",
+      "pub_time": 1795765477.0,
+      "pub_display": "11-27 15:44"
+    },
+    {
+      "index": 9,
+      "title": "曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存",
+      "summary": "消息称谷歌第10代TPU将配备512GB定制HBM5内存，单芯片内存容量再上台阶",
+      "text": "消息称谷歌第10代TPU将配备512GB定制HBM5内存，单芯片内存容量再上台阶",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/624.htm",
+      "section": "tech",
+      "pub_time": 1795744477.0,
+      "pub_display": "11-27 09:54"
+    },
+    {
+      "index": 10,
+      "title": "TrendForce：DRAM 需求面临更大不确定性，一般型内存合约价 2028 年转跌风险升温",
+      "summary": "TrendForce：DRAM需求不确定性加大，一般型内存合约价2028年转跌风险升温",
+      "text": "TrendForce：DRAM需求不确定性加大，一般型内存合约价2028年转跌风险升温",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/570.htm",
+      "section": "tech",
+      "pub_time": 1795740126.0,
+      "pub_display": "11-27 08:42"
+    },
+    {
+      "index": 11,
+      "title": "全球首款500层以上NAND诞生，容量提升50%",
+      "summary": "全球首款500层以上NAND闪存诞生，容量提升50%，存储堆叠竞赛继续加码",
+      "text": "全球首款500层以上NAND闪存诞生，容量提升50%，存储堆叠竞赛继续加码",
+      "source": "凤凰科技",
+      "link": "https://tech.ifeng.com/c/8yOtq8uG15J",
+      "section": "tech",
+      "pub_time": 1795783130.0,
+      "pub_display": "11-27 20:38"
+    },
+    {
+      "index": 12,
+      "title": "上汽MG官宣：2027年1月1日起面向中国大陆市场停产燃油车",
+      "summary": "上汽MG宣布2027年1月1日起在中国大陆市场停产燃油车，全面转向新能源",
+      "text": "上汽MG宣布2027年1月1日起在中国大陆市场停产燃油车，全面转向新能源",
+      "source": "凤凰科技",
+      "link": "https://original.ifeng.com/c/8yOYT0ayWUW",
+      "section": "tech",
+      "pub_time": 1795766142.0,
+      "pub_display": "11-27 15:55"
+    },
+    {
+      "index": 13,
+      "title": "山东通报基建项目底座缺陷调查结果：问题属实，追责17人",
+      "summary": "山东通报基建项目底座缺陷调查结果：问题属实，追责17人",
+      "text": "山东通报基建项目底座缺陷调查结果：问题属实，追责17人",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738957.shtml",
+      "section": "general",
+      "pub_time": 1795749186.0,
+      "pub_display": "11-27 11:13"
+    },
+    {
+      "index": 14,
+      "title": "初中生刺伤霸凌者羁押336天后被判正当防卫，检察院已张贴公告道歉",
+      "summary": "初中生刺伤霸凌者被羁押336天后被判正当防卫，检察院已张贴公告道歉",
+      "text": "初中生刺伤霸凌者被羁押336天后被判正当防卫，检察院已张贴公告道歉",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795758344.544,
+      "pub_display": "11-27 13:45"
+    },
+    {
+      "index": 15,
+      "title": "央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限",
+      "summary": "央行发布人民币存贷款利率管理新规，取消贷款罚息利率上下限",
+      "text": "央行发布人民币存贷款利率管理新规，取消贷款罚息利率上下限",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795786686.296,
+      "pub_display": "11-27 21:38"
+    },
+    {
+      "index": 16,
+      "title": "大额存单迎新规：参与门槛降低，转让渠道进一步拓宽",
+      "summary": "大额存单迎新规：参与门槛降低，转让渠道进一步拓宽",
+      "text": "大额存单迎新规：参与门槛降低，转让渠道进一步拓宽",
+      "source": "澎湃",
+      "link": "",
+      "section": "general",
+      "pub_time": 1795780178.721,
+      "pub_display": "11-27 19:49"
+    },
+    {
+      "index": 17,
+      "title": "多地启动2027年度城乡居民医保集中缴费，上支付宝可一站式办理",
+      "summary": "多地启动2027年度城乡居民医保集中缴费，可通过支付宝一站式办理",
+      "text": "多地启动2027年度城乡居民医保集中缴费，可通过支付宝一站式办理",
+      "source": "雷峰网",
+      "link": "https://www.leiphone.com/category/industrynews/10xzmIYoNuG6p12b.html",
+      "section": "general",
+      "pub_time": 1795736580.0,
+      "pub_display": "11-27 07:43"
+    },
+    {
+      "index": 18,
+      "title": "青海曝光一批医保个人账户违规兑付现金典型案例",
+      "summary": "青海曝光一批医保个人账户违规兑付现金典型案例",
+      "text": "青海曝光一批医保个人账户违规兑付现金典型案例",
+      "source": "中新网",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-27/10739005.shtml",
+      "section": "general",
+      "pub_time": 1795754741.0,
+      "pub_display": "11-27 12:45"
+    }
+  ]
+}
